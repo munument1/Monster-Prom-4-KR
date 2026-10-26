@@ -1,5 +1,7 @@
 # 몬스터 프롬 4: 몬스터 콘 한국어 번역
 
+추출 누락 재감사 결과: [원문·카탈로그 독립 검증](docs/EXTRACTION_COVERAGE_AUDIT.md)
+
 **[v0.1.0 릴리즈 다운로드](https://github.com/munument1/Monster-Prom-4-KR/releases/tag/v0.1.0)**
 
 `Monster-Con-KR-v0.1.0-Windows-DragDrop.zip`을 받아 게임 폴더에 덮어쓰세요.
