@@ -19,7 +19,7 @@ namespace MonsterConKoreanBridge
     {
         public const string PluginGuid = "munument1.monstercon.koreanfontbridge";
         public const string PluginName = "Monster Con Korean Font/UI Bridge";
-        public const string PluginVersion = "0.1.1";
+        public const string PluginVersion = "0.1.2";
 
         private static readonly string PluginDirectory = ResolvePluginDirectory();
         private static readonly string DefaultMonsterConBundlePath = Path.Combine(PluginDirectory, "monstercon_korean_fonts.bundle");
@@ -91,6 +91,9 @@ namespace MonsterConKoreanBridge
         private void Awake()
         {
             _instance = this;
+            gameObject.hideFlags |= HideFlags.DontSave;
+            UnityEngine.Object.DontDestroyOnLoad(gameObject);
+            Logger.LogInfo("Korean bridge persistence enabled on " + gameObject.name + ".");
             _enableFontBridge = Config.Bind("Fonts", "EnableFontBridge", true,
                 "Load the optional Korean fonts and apply them to NGUI/UI text components.");
             _enableMetatextOverride = Config.Bind("Metatexts", "EnablePreviewOverride", true,
@@ -130,6 +133,21 @@ namespace MonsterConKoreanBridge
             Logger.LogInfo("MonoMod method generator: " + (Environment.GetEnvironmentVariable("MONOMOD_DMD_TYPE") ?? "auto"));
         }
 
+        private float _nextFontRepair;
+        private bool _started;
+        private void Start()
+        {
+            _started = true;
+            Logger.LogInfo("Korean bridge Start reached; persistent UI repair enabled.");
+        }
+
+        private void Update()
+        {
+            if (!_started || _applicationQuitting || !_enableFontBridge.Value || Time.unscaledTime < _nextFontRepair) return;
+            _nextFontRepair = Time.unscaledTime + 1f;
+            ApplyFontsToExistingComponents();
+        }
+
         private void OnApplicationQuit()
         {
             // Unity may already be tearing down its native font and UI systems.
@@ -141,6 +159,7 @@ namespace MonsterConKoreanBridge
 
         private void OnDestroy()
         {
+            Logger.LogInfo("Korean bridge OnDestroy; quitting=" + _applicationQuitting + ".");
             SceneManager.sceneLoaded -= OnSceneLoaded;
             if (_applicationQuitting)
             {
@@ -170,6 +189,7 @@ namespace MonsterConKoreanBridge
             if (_enableMetatextOverride.Value)
             {
                 PatchMethod("BeautifulGlitch.CoreTextManager", "LoadMetatextsFile", new[] { typeof(string).MakeByRefType() }, "LoadMetatextsPostfix");
+                PatchMethod("BeautifulGlitch.CoreTextManager", "LoadLanguageData", new[] { AccessTools.TypeByName("BeautifulGlitch.LanguageType") }, "LanguageLoadedPostfix");
 
             }
 
@@ -183,6 +203,7 @@ namespace MonsterConKoreanBridge
                 return;
             }
 
+            PatchMethod("UILabel", "set_text", new[] { typeof(string) }, "LabelTextPostfix");
             PatchMethod("UnityEngine.UI.Text", "OnEnable", Type.EmptyTypes, "ComponentOnEnablePostfix");
             PatchMethod("BeautifulGlitch.LocalizedFontHelper", "Refresh", Type.EmptyTypes, "LocalizedFontRefreshPostfix");
             PatchMethod("BeautifulGlitch.LocalizedTextFontHelper", "Refresh", Type.EmptyTypes, "LocalizedFontRefreshPostfix");
@@ -656,6 +677,7 @@ namespace MonsterConKoreanBridge
                 return false;
             }
 
+            font.hideFlags |= HideFlags.DontUnloadUnusedAsset;
             char[] chars = requiredCharacters == null ? Array.Empty<char>() : requiredCharacters.ToArray();
             try
             {
@@ -706,10 +728,10 @@ namespace MonsterConKoreanBridge
             // directory, not under this repository's ignored build folder.
             string installedEventDirectory = Path.Combine(
                 AppDomain.CurrentDomain.BaseDirectory,
-                "MonsterMonsterCon_Data", "StreamingAssets", "game_assets", "texts");
+                "MonsterCon_Data", "StreamingAssets", "game_assets", "texts");
             if (Directory.Exists(installedEventDirectory))
             {
-                foreach (string file in Directory.GetFiles(installedEventDirectory, "english_events_*.txt"))
+                foreach (string file in Directory.GetFiles(installedEventDirectory, "english_*.txt"))
                 {
                     AddKoreanCharactersFromFile(file, result);
                 }
@@ -725,7 +747,7 @@ namespace MonsterConKoreanBridge
                     string eventOutputDirectory = Path.Combine(projectRoot.FullName, "build", "playtest", "game_assets", "texts");
                     if (Directory.Exists(eventOutputDirectory))
                     {
-                        foreach (string file in Directory.GetFiles(eventOutputDirectory, "english_events_*.txt"))
+                        foreach (string file in Directory.GetFiles(eventOutputDirectory, "english_*.txt"))
                         {
                             AddKoreanCharactersFromFile(file, result);
                         }
@@ -817,6 +839,7 @@ namespace MonsterConKoreanBridge
         private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         {
             if (_applicationQuitting) return;
+            Logger.LogInfo("Korean bridge scene ready: " + scene.name + ".");
             ApplyFontsToExistingComponents();
         }
 
@@ -850,6 +873,10 @@ namespace MonsterConKoreanBridge
             {
                 return;
             }
+
+            PropertyInfo textProperty = AccessTools.Property(target.GetType(), "text");
+            string visibleText = textProperty?.GetValue(target, null) as string;
+            if (!string.IsNullOrEmpty(visibleText) && visibleText.Any(IsKoreanCharacter)) force = true;
 
             Font selectedFont = IsHeader(component) ? _headerFont : _bodyFont;
             if (selectedFont == null)
@@ -890,19 +917,20 @@ namespace MonsterConKoreanBridge
                         return;
                     }
 
-                    if (trueTypeFont != null && trueTypeFont.CanWrite)
+                    PropertyInfo bitmapFont = AccessTools.Property(target.GetType(), "bitmapFont");
+                    bool hasBitmap = bitmapFont != null && bitmapFont.GetValue(target, null) != null;
+                    if (currentFont != selectedFont || hasBitmap)
                     {
-                        if (currentFont != selectedFont)
-                        {
-                            trueTypeFont.SetValue(target, selectedFont, null);
-                        }
-                        return;
-                    }
-
-                    MethodInfo setter = AccessTools.Method(target.GetType(), "SetTrueTypeFont", new[] { typeof(Font) });
-                    if (setter != null)
-                    {
-                        setter.Invoke(target, new object[] { selectedFont });
+                        // Monster Con's SetTrueTypeFont clears mFont as well as selecting
+                        // the dynamic font. A surviving bitmap font otherwise wins in NGUI.
+                        MethodInfo setter = AccessTools.Method(target.GetType(), "SetTrueTypeFont", new[] { typeof(Font) });
+                        if (setter != null) setter.Invoke(target, new object[] { selectedFont });
+                        else if (trueTypeFont != null && trueTypeFont.CanWrite) trueTypeFont.SetValue(target, selectedFont, null);
+                        PropertyInfo processed = AccessTools.Property(target.GetType(), "shouldBeProcessed");
+                        if (processed != null && processed.CanWrite) processed.SetValue(target, true, null);
+                        AccessTools.Method(target.GetType(), "MarkAsChanged", Type.EmptyTypes)?.Invoke(target, null);
+                        if (_loggedApplyErrors.Add("AppliedFont:" + component.gameObject.name))
+                            Logger.LogDebug("Applied dynamic Korean font to " + component.gameObject.name + "; clearedBitmap=" + hasBitmap);
                     }
                 }
             }
@@ -997,6 +1025,28 @@ namespace MonsterConKoreanBridge
 
         private static class PatchCallbacks
         {
+            private static void LabelTextPostfix(object __instance, string __0)
+            {
+                MonsterConKoreanBridgePlugin plugin = Instance;
+                if (plugin == null || plugin._applicationQuitting || !plugin._enableFontBridge.Value || string.IsNullOrEmpty(__0)) return;
+                if (__0.Any(IsKoreanCharacter)) plugin.ApplyFontToTarget(__instance, true);
+            }
+
+            private static void LanguageLoadedPostfix(object __instance)
+            {
+                MonsterConKoreanBridgePlugin plugin = Instance;
+                if (plugin == null || plugin._applicationQuitting) return;
+                // Set the game's own font profile too, so later helper.Refresh calls
+                // select a Korean font instead of restoring an English bitmap face.
+                object profile = AccessTools.Field(__instance.GetType(), "mLanguageProfile")?.GetValue(__instance);
+                if (profile != null && plugin._enableFontBridge.Value && plugin._bodyFont != null)
+                {
+                    AccessTools.Field(profile.GetType(), "font")?.SetValue(profile, plugin._bodyFont);
+                    AccessTools.Field(profile.GetType(), "localizeFont")?.SetValue(profile, true);
+                    plugin.Logger.LogInfo("Korean font connected to active language profile.");
+                }
+            }
+
             private static void LoadMetatextsPostfix(ref string __0, ref bool __result)
             {
                 MonsterConKoreanBridgePlugin plugin = Instance;
