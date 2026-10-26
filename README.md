@@ -12,6 +12,10 @@
 
 [검사 결과와 통합 테스트 패키지 사용법](docs/PLAYTEST_QA.md)
 
+3편과 같은 **게임 폴더에 복사·덮어쓰기 방식**도 제공합니다. 별도 설치 프로그램이나 Python 없이
+`build/releases/Monster-Con-KR-test-QA1-Windows-DragDrop.zip`의 내용물을 `MonsterCon.exe` 옆에
+복사하면 됩니다. [덮어쓰기 적용 안내](docs/DRAGDROP_INSTALL_KO.txt). ZIP은 로컬 산출물입니다.
+
 - Steam Windows build 26157563, Unity 2022.3.62f1 / Mono x86.
 - 초기 추출: 영어 TextAsset 17개, 번역 후보 23,986개.
 - UI 2,502 / 2,502개, 대사·선택지·시작 취향·퀴즈 21,484 / 21,484개 초안 작성.

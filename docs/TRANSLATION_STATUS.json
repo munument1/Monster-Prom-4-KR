@@ -43,5 +43,8 @@
   "image_textures_verified": 49,
   "unit_tests_passed": 12,
   "changed_translation_fields": 245,
-  "playtest_package": "build/releases/MonsterCon-KR-test-20261026-QA1"
+  "playtest_package": "build/releases/MonsterCon-KR-test-20261026-QA1",
+  "preferred_installation": "Copy ZIP contents beside MonsterCon.exe and overwrite; no Python required.",
+  "dragdrop_package": "build/releases/Monster-Con-KR-test-QA1-Windows-DragDrop.zip",
+  "dragdrop_zip_sha256": "62b36148d55e77225d7ab3ba9d0a1ffdb6f783133a76285ae568b16bcc639270"
 }
