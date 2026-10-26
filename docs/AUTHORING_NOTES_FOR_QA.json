@@ -1,0 +1,52 @@
+{
+  "status": "pending_comprehensive_qa",
+  "notes": {
+    "main_b": [
+      {
+        "catalog_indices": [
+          7305,
+          7325,
+          7332
+        ],
+        "note": "Teenagers in the traffic-challenge scene: sexual remarks were rendered without explicit sexual detail; review these exact source rows in final QA."
+      },
+      {
+        "catalog_indices": [
+          6515,
+          6520,
+          6872,
+          7278
+        ],
+        "note": "English conjugation/pronoun macros retained as assigned; review natural Korean handling during final QA."
+      }
+    ],
+    "main_tail": [
+      {
+        "line": 7870,
+        "note": "[UNTRANSCRIBABLE ELDRITCH NOISES]는 표시용 소리 지문으로 보이나 대괄호 원문 보존 지시에 따라 그대로 유지함."
+      }
+    ],
+    "endings": [
+      {
+        "lines": [
+          721,
+          722,
+          724,
+          725,
+          1405,
+          1407,
+          1512,
+          1514,
+          1788
+        ],
+        "note": "English pronoun/conjugation macros retained as assigned; exact Korean grammar cleanup deferred until full-text QA."
+      },
+      {
+        "lines": [
+          1820
+        ],
+        "note": "UwU! is intentional literal reaction in source, not an untranslated sentence."
+      }
+    ]
+  }
+}

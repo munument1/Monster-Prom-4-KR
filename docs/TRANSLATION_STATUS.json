@@ -1,11 +1,11 @@
 {
-  "status": "draft_translation_in_progress",
+  "status": "text_draft_complete",
   "workflow": "Finish text translation first; defer comprehensive QA, font checks, game installation and visual testing until translation is complete.",
   "catalog_candidates": 23986,
   "ui_written": 2502,
-  "event_fields_written": 18941,
-  "total_written": 21443,
-  "percent_written": 89.4,
+  "event_fields_written": 21484,
+  "total_written": 23986,
+  "percent_written": 100.0,
   "qa_complete": false,
   "installed_translation_count": 652,
   "installed_bridge": "0.1.3",
@@ -20,22 +20,21 @@
     "english_events_epilogue": 12,
     "english_events_gachashop": 1,
     "english_events_guestintro": 164,
-    "english_events_maingame": 15159,
+    "english_events_maingame": 17702,
     "english_events_prologue": 33,
     "english_events_standard": 260,
     "english_events_tutorial": 156,
     "english_prologue_conpopquiz": 36,
     "english_prologue_likes": 63
   },
-  "next_assets": [
-    "english_events_convos",
-    "english_events_endings",
-    "english_events_maingame"
-  ],
+  "next_assets": [],
   "notes": [
-    "User explicitly authorized parallel translation.",
-    "Monster Prom 4 title spelling: 몬스터 프롬 4: 몬스터 콘.",
-    "Translation-only authoring continues; no game launch or new installation.",
-    "Draft counts do not mean QA completion."
-  ]
+    "All 23,986 fields of the extracted initial English catalog now have authored draft entries.",
+    "Authoring inventory: 17 assets; zero missing or extra field identifiers.",
+    "Comprehensive tags/numbers/grammar/font/runtime QA is still pending, as requested after draft completion.",
+    "Installed preview remains 652 translated fields and bridge0.1.3; the completed draft was not installed.",
+    "In-game test control remains with the user.",
+    "Known authoring notes are in docs/AUTHORING_NOTES_FOR_QA.json."
+  ],
+  "authored_date": "2026-10-26"
 }
