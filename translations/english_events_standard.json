@@ -1,0 +1,1565 @@
+{
+  "source_sha256": "2ba6553f8eb16e52e3a7471d73d691739aef81e5a0f6c3132bf94600ac81faf0",
+  "entries": [
+    {
+      "line": 5,
+      "event": "standard_bigplateau_butts1",
+      "english_sha256": "26b0f7029a1d80576cc797d3d6d9e060fee3a82bc9592fe86740654851edf1f1",
+      "ko": "넌 좋아하는 예술인 애니에 대해 배우러 메인 무대에 앉아. 정확히는 최고의 애니 엉덩이 순위를 알아보러."
+    },
+    {
+      "line": 6,
+      "event": "standard_bigplateau_butts1",
+      "english_sha256": "9f8a2d870c637a4eb9e36199d3ab577c3d53cb40a24e5e46ee238cfce3475352",
+      "ko": "선정 결과가 좀... 흥미로워. 뭐, 메카 로봇들도 엄밀히 따지면 엉덩이가 크긴 하지."
+    },
+    {
+      "line": 7,
+      "event": "standard_bigplateau_butts1",
+      "english_sha256": "3726b476a873e4a30ed4ec73e8ffef590f4a45fd9e2a248b15b381a7b160c49f",
+      "ko": "끝날 무렵엔 애니보다 발표자의 성적 취향을 더 많이 알게 됐어. 그래도 그 엉덩이 중심 지식 덕에 +2 SMARTS!"
+    },
+    {
+      "line": 14,
+      "event": "standard_bigplateau_charisma1",
+      "english_sha256": "3a26a874bfa4358670031dc5d2e633a667b687fee1ff2ea3eb59af8dada1e4d7",
+      "ko": "넌 메인 무대에 앉아 흥미로운 플레이어 캐릭터 만드는 법을 들어."
+    },
+    {
+      "line": 15,
+      "event": "standard_bigplateau_charisma1",
+      "english_sha256": "790d1168fef35f8d82216b190093cce8b481e7c41ad83ef130cc4653753ff17f",
+      "ko": "색 조합을 잘 맞추고, 개성이 뚜렷하고, \"크레토스나 루이지, %CURRENTPLAYERNAME%처럼 멋진 이름도 있어야\" 한대."
+    },
+    {
+      "line": 16,
+      "event": "standard_bigplateau_charisma1",
+      "english_sha256": "0b60d30ebd84afc7e6993511a8df6e51f450e794f30276e35641f1a405ae7524",
+      "ko": "넌 자신이 멋진 플레이어 캐릭터가 될 거라는 걸 배웠어. 그런 자기 이해로 +2 SMARTS!"
+    },
+    {
+      "line": 23,
+      "event": "standard_bigplateau_comic1",
+      "english_sha256": "dec5dfce3a2bfb1904a0a1a98fb5924cd60831f198b1e395bbd0b0e7e6faa319",
+      "ko": "넌 성공하는 만화를 만드는 법을 배우러 메인 무대에 가."
+    },
+    {
+      "line": 24,
+      "event": "standard_bigplateau_comic1",
+      "english_sha256": "f455186e99ccf2a5150ce71544e57308861a7d9541bd4906009718b4cb8acf15",
+      "ko": "\"1단계: 좋은 예술가는 모방하고, 위대한 예술가는 훔친다.\" 꽤 쉬워 보이네. 훔칠 만한 훌륭한 만화는 많잖아. 스파이더맨 같은 거!"
+    },
+    {
+      "line": 25,
+      "event": "standard_bigplateau_comic1",
+      "english_sha256": "dd64260f50d7dbcf155ecc8435c3025e37bf7ebe901f59f01bd5d3b5b149b392",
+      "ko": "\"2단계: 아는 것을 써라.\" 넌 스파이더맨에 대해 잘 알지. 네 만화의 미래가 밝아 보여!"
+    },
+    {
+      "line": 26,
+      "event": "standard_bigplateau_comic1",
+      "english_sha256": "2604566997d7ef7adb2fccc75c43641cdb7c2acf513d268094fe55ddc8ca9175",
+      "ko": "\"3단계: 상어를 넣어라. 상어는 멋지니까.\" 아... 젠장. 상어는 별로 모르는데. 조사가 더 필요하겠네."
+    },
+    {
+      "line": 27,
+      "event": "standard_bigplateau_comic1",
+      "english_sha256": "3751affeab9cfa32888d4bc38f57bf9f19c5c4f67706dbbb9271f346db4ee649",
+      "ko": "그래도 언젠가 %CURRENTPLAYERNAME%의 \"스파이더샤크\" 만화가 나올지도! 배운 지식으로 +2 SMARTS."
+    },
+    {
+      "line": 34,
+      "event": "standard_bigplateau_datingsim1",
+      "english_sha256": "6dbb010fa59d7021be5f12834bfe1b985f461028f5a38299e4419874b9aebd67",
+      "ko": "넌 메인 무대에서 \"연애 시뮬레이션의 시대가 돌아왔나?\"라는 패널 토크를 기다려."
+    },
+    {
+      "line": 35,
+      "event": "standard_bigplateau_datingsim1",
+      "english_sha256": "fcece704c745f251f58d8a3f07364467c9fd2a974939fabdb6a79b575a67161f",
+      "ko": "무대는 비어 있어. 몇 분 뒤 수줍어 보이는 남자가 마이크로 다가와 말해. \"아뇨. 애초에 떠난 적이 없으니까요.\""
+    },
+    {
+      "line": 36,
+      "event": "standard_bigplateau_datingsim1",
+      "english_sha256": "c5e24330275e773fd3bf9d1825b6bfc81b95f024263d3a41868393e172b5c6ec",
+      "ko": "\"야호오오!\" 관객들이 열광해... 연애 시뮬레이션에 열광하지! 연애 시뮬레이션은 영원히 멋지다는 걸 배워서 +2 SMARTS."
+    },
+    {
+      "line": 43,
+      "event": "standard_bigplateau_domino2",
+      "english_sha256": "d73b273121d81c0e9bd0ed36a76ef19f1d34eb2de3fdf47fa0f9ff9d1ce0d36e",
+      "ko": "넌 \"도미노\" 게임의 개발 회고를 들으러 앉아."
+    },
+    {
+      "line": 44,
+      "event": "standard_bigplateau_domino2",
+      "english_sha256": "35cd55627cb909c15400ac497ebda78f9a1fa42925a3c9e05861bbb44a8bc0ff",
+      "ko": "첫 버전에는 패가 전혀 없어서 게임하기 상당히 힘들었다는 걸 배워. 일곱 번째 버전에서야 자기 패를 먹으면 안 된다는 핵심 규칙이 추가됐대."
+    },
+    {
+      "line": 45,
+      "event": "standard_bigplateau_domino2",
+      "english_sha256": "f1b3bffcf209c5136b30da7ee8ce27080bcfb04f1673d07901c0b18c64fcddfd",
+      "ko": "한 시간 뒤, 넌 동년배 누구보다 도미노에 해박해졌어. 사실 어려운 일은 아니지만, 그래도 +2 SMARTS!"
+    },
+    {
+      "line": 52,
+      "event": "standard_bigplateau_grappler1",
+      "english_sha256": "1af1132ef121b377cc83cee8184eabd9161837e140b07ef49fbb377f570a279c",
+      "ko": "넌 격투 게임의 캐릭터 유형을 다루는 패널 토크를 보기로 해."
+    },
+    {
+      "line": 53,
+      "event": "standard_bigplateau_grappler1",
+      "english_sha256": "c4250eeb9086f2d6e0fee9cb715811b6efaed73448ab069b911c99b3750ae567",
+      "ko": "주된 목적은 네가 어떤 유형일지 알아내는 거야. \"잡기형\"일까? \"견제형\"일까?"
+    },
+    {
+      "line": 54,
+      "event": "standard_bigplateau_grappler1",
+      "english_sha256": "13a59c98ff2ce7e9dece8cba9bf767735de613bf860a2961aaa582f94e3864a0",
+      "ko": "끝날 무렵 넌 자신이 아주 희귀한 \"연애형\"이라는 걸 깨달아. 격투 게임에선 지극히 비효율적인 유형이지. 말은 되네. 넌 연애 시뮬레이션에 더 어울리니까."
+    },
+    {
+      "line": 55,
+      "event": "standard_bigplateau_grappler1",
+      "english_sha256": "bb2006d5856b3bbef871ac23086238915f997e12b219f10b9d42d381e83519b7",
+      "ko": "그런 자기 성찰로 +2 SMARTS를 얻어."
+    },
+    {
+      "line": 62,
+      "event": "standard_bigplateau_icebreaker1",
+      "english_sha256": "3bc9fcbf8fe881c2362e5473ab57cfcc4549e089b7416735a29f51fd26003279",
+      "ko": "넌 행사장에서 어색함을 깨고 친구 사귀는 법에 관한 패널 토크를 들으러 앉아."
+    },
+    {
+      "line": 63,
+      "event": "standard_bigplateau_icebreaker1",
+      "english_sha256": "8ab292cb6ad24aa4c00a09090cee7fa3be348bbb0029db9cf233734a0965b820",
+      "ko": "발표자는 자기도 방법을 모른다고 고백해. 패널 토크를 진행하면 억지로라도 사교적이 될 줄 알았대. 참 솔직한 사람이네!"
+    },
+    {
+      "line": 64,
+      "event": "standard_bigplateau_icebreaker1",
+      "english_sha256": "1f645059384d7663451097d21b1e2c35e799d3033be64f31423e9fdc808f2922",
+      "ko": "질의응답 시간에 한 무리가 발표자에게 저녁 먹고 술 한잔하자고 해. 진짜 통했잖아!"
+    },
+    {
+      "line": 65,
+      "event": "standard_bigplateau_icebreaker1",
+      "english_sha256": "804f2cbfbdbd9a221412f1e7aebeec6fce5de2c530c72113c0783478c699a520",
+      "ko": "어색함을 깨는 멋진 요령을 배워서 +2 SMARTS. 내년엔 네가 직접 패널 토크를 열어 볼지도!"
+    },
+    {
+      "line": 72,
+      "event": "standard_bigplateau_lootbox1",
+      "english_sha256": "964f4e071fed26bf737a676aabf185a1525c9f38026217fd19743a06fe5c0752",
+      "ko": "넌 게임에 랜덤 박스를 자연스럽게 넣는 법을 다루는 패널 토크에 참석해. 짧게 말하면, 넣지 말래."
+    },
+    {
+      "line": 73,
+      "event": "standard_bigplateau_lootbox1",
+      "english_sha256": "891b4bc21e930a732b8e45a4b9cec730f56cd0cd097176b6b2b3c1e2922139d8",
+      "ko": "더없이 소중한 지식을 얻어서 +2 SMARTS!"
+    },
+    {
+      "line": 74,
+      "event": "standard_bigplateau_lootbox1",
+      "english_sha256": "018c9e106a95d1778eb0fe031aa75e88a90454b8d848edb5f9440e1caee88426",
+      "ko": "(몬스터 토큰 10개를 내고 랜덤 박스를 열어 무작위 추가 지능을 받으세요)"
+    },
+    {
+      "line": 75,
+      "event": "standard_bigplateau_lootbox1",
+      "english_sha256": "31b25869b39f1baa9e7fc279255901b696c36629e57294d4455f479534139852",
+      "ko": "농담이야"
+    },
+    {
+      "line": 82,
+      "event": "standard_bigplateau_magic1",
+      "english_sha256": "f1ec8c1ddc975ee43ffaf0d4a3197c22dee8244bb2a36f0f4ce50502c4189922",
+      "ko": "넌 마법소녀물에서 느슨한 마법 체계와 엄격한 마법 체계의 장점을 비교하는 패널 토크에 참석하기로 해."
+    },
+    {
+      "line": 83,
+      "event": "standard_bigplateau_magic1",
+      "english_sha256": "01f6dda5f804b311f06ada419e23e10850afa60198d7fc4013793108a655c658",
+      "ko": "의무적인 물렁함·딱딱함 고추 농담이 끝나자, 세계관을 설계하는 방식에 관해 정말 유용한 정보를 많이 배우게 돼."
+    },
+    {
+      "line": 84,
+      "event": "standard_bigplateau_magic1",
+      "english_sha256": "06cac80d6cc8d41ba055f72f3915fd5efc5825d86a67be126822b57ca82dc817",
+      "ko": "그 모든 지식과 새로운 고추 농담을 잔뜩 배운 덕에 +2 SMARTS."
+    },
+    {
+      "line": 91,
+      "event": "standard_bigplateau_newclass1",
+      "english_sha256": "24e19e4185be6815bf3456d2c2c8342188b9d9b535b3c991a2528c811438a7c3",
+      "ko": "넌 새로 제안된 테이블탑 RPG 직업에 관한 패널 토크를 보러 앉아."
+    },
+    {
+      "line": 92,
+      "event": "standard_bigplateau_newclass1",
+      "english_sha256": "6a7dc28167a984e7d0e2b0864671ec66e230c6230b14e44c0a672b02fb8c2d76",
+      "ko": "\"보험 판매원\", \"신발에 칼 달린 말\", \"스티브\"처럼 멋진 선택지가 잔뜩 있어."
+    },
+    {
+      "line": 93,
+      "event": "standard_bigplateau_newclass1",
+      "english_sha256": "bfd78eeb071480b0da80fd4a70fa51c97ef935908e45047820eaa68df042e4cb",
+      "ko": "원래부터 사기인 스티브의 능력에 맞설 새로운 테이블탑 RPG 세계관 아이디어가 샘솟아서 +2 SMARTS!"
+    },
+    {
+      "line": 99,
+      "event": "standard_communityzone1",
+      "english_sha256": "a8beed6dde9631042bc42a312596a278c7711c55a1c29d1c2c591f54d8938ca6",
+      "ko": "시간이 좀 남아서 스플래시 카붐 스피드런 대회에 참가하기로 해."
+    },
+    {
+      "line": 100,
+      "event": "standard_communityzone1",
+      "english_sha256": "f6890da46b6c4b8cabd903692e63b035c8c8a2c7ba756faf93f6acc23bcba20a",
+      "ko": "앉아서 경쟁자들을 박살 낼 준비를 하는데 방송이 들려. 대회가 끝났대. 앉는 데 시간을 그렇게 낭비하면 안 됐지!"
+    },
+    {
+      "line": 101,
+      "event": "standard_communityzone1",
+      "english_sha256": "7311d77de5cc29466090216bbaa1ef50731dba8a28cf4fe6a56fbc6fb096575a",
+      "ko": "다음엔 슬로런 대회에 나가 봐. 뭐, 앉아 있는 동안 적어도 +2 FUN은 얻었잖아!"
+    },
+    {
+      "line": 107,
+      "event": "standard_communityzone2",
+      "english_sha256": "ebbbecf4acba01d7301ac458e3d377cf102430ca6c50bc95580b9e3c3ce57212",
+      "ko": "운이 좋을 것 같아서 포커 2 대회에 참가해. 이 덕후들, 정말 살벌하게 노네!"
+    },
+    {
+      "line": 108,
+      "event": "standard_communityzone2",
+      "english_sha256": "bac92f7bc19632b9cf5d656aaf34e6d9b74af4ee57ec506e8410b0fce431a925",
+      "ko": "로열 플러시가 떴어. 다른 플레이어가 \"저승은하 사령관 자크란트\"를 내지만 않았다면 좋았을 텐데."
+    },
+    {
+      "line": 109,
+      "event": "standard_communityzone2",
+      "english_sha256": "8ffc63dabdae8a899d325e008a05afad86e59d957150182a0f33e07acfc15393",
+      "ko": "다행히 넌 소매에 \"혼돈의 투구\"를 숨겨 놨어. 로열 플러시에 장착하고 자크란트를 두들겨 패. 끝내주네!"
+    },
+    {
+      "line": 110,
+      "event": "standard_communityzone2",
+      "english_sha256": "9375878f60f28e30517d07f5a34d48722e3d0b9cdcce7bcdae2e578093897c9a",
+      "ko": "이 온갖 헛소리 덕에 도박이 적어도 +2 FUN만큼 더 재밌어져!"
+    },
+    {
+      "line": 116,
+      "event": "standard_communityzone3",
+      "english_sha256": "d941de286b12642de583bd63197c1c327929ec0c59192a14bc057c3bd3c4a863",
+      "ko": "커뮤니티 구역에서 여러 5차원 체스 경기가 동시에 진행되는 걸 발견해."
+    },
+    {
+      "line": 117,
+      "event": "standard_communityzone3",
+      "english_sha256": "0c5471e2f92855333b5c19884dd0c66c389773cc719057393b524546f27a892b",
+      "ko": "행사장 모두에게 네 지능을 증명할 시간이야. 넌 다섯 경기를 동시에 둬."
+    },
+    {
+      "line": 118,
+      "event": "standard_communityzone3",
+      "english_sha256": "f131d025172923b18523d5b0897d7da7e1593b30088a494f38cd2cd3de1f3d3d",
+      "ko": "체스판 사이를 오가며 재빠르게 판단을 내려. 다들 감탄하지..."
+    },
+    {
+      "line": 119,
+      "event": "standard_communityzone3",
+      "english_sha256": "2901e6754f6b8bcfca194f644309bca4d9aad27478d4233d79191a23caf0d5e1",
+      "ko": "...네가 고작 몇 수 만에 모든 경기에서 졌다는 걸 깨닫기 전까진. 지능은 전혀 안 늘었을지 몰라도, +2 FUN은 확실히 얻었네."
+    },
+    {
+      "line": 125,
+      "event": "standard_communityzone4",
+      "english_sha256": "6a00be2c45dd438d0960caab4b2f330f2318a876c1fc977adefbe040acae41e2",
+      "ko": "커뮤니티 구역에서 경매가 열리고 있어. 데스노트의 오리지널 공책을 몬스터 달러 100부터 경매한대!"
+    },
+    {
+      "line": 126,
+      "event": "standard_communityzone4",
+      "english_sha256": "945b13b461bfdd6262e5b65a507fd80c4cd61de0b379b90ae6cbb8ae9e343d0d",
+      "ko": "그 공책이면 사람을 엄청 많이 죽일 수 있겠네. 넌 \"몬스터 달러 200!\"이라고 외쳐."
+    },
+    {
+      "line": 127,
+      "event": "standard_communityzone4",
+      "english_sha256": "2e6212d41e4ce354df97427e75c852131095e73f3a5967d6d1dbe223a3e81dbd",
+      "ko": "이 행사장엔 죄다 거지뿐이라 네가 공책을 낙찰받아! 도둑맞지 않으려고 거기에 네 이름을 적어."
+    },
+    {
+      "line": 128,
+      "event": "standard_communityzone4",
+      "english_sha256": "7141322d87f2ef0c597c24bbc5a2bb794661c026a0c7ee5af385c78e6aa85573",
+      "ko": "아, 씨발. 너 죽겠는데!!!"
+    },
+    {
+      "line": 129,
+      "event": "standard_communityzone4",
+      "english_sha256": "6fd378c4e90b1e663c5107b640687fc5be4953cc24fb7ac3479a17a085826391",
+      "ko": "40초 뒤... 아무 일도 안 일어나. 데스노트는 진짜가 아니잖아, 멍청아! 그래도 데스노트 놀이를 하며 +2 FUN은 얻었어."
+    },
+    {
+      "line": 135,
+      "event": "standard_communityzone5",
+      "english_sha256": "37a8ceffceaa6fbe607892fe64d6c49ed3012d378a93dde2782a4e252aa27033",
+      "ko": "커뮤니티 구역을 걷다가 참가자들이 경기하는 걸 봐. 잠깐, 저거... 축구야? 몬스터 콘에 씨발 왜 축구가 있어?"
+    },
+    {
+      "line": 136,
+      "event": "standard_communityzone5",
+      "english_sha256": "2c337db7fd3ac0689a87eed0b23e33de230cd41265dcbfc79abe3ee9f159c3f6",
+      "ko": "씩씩대는 널 보고 한 참가자가 말해. \"아, 축구 아니에요. 사실 축구 라이브 액션 롤플레잉이죠.\""
+    },
+    {
+      "line": 137,
+      "event": "standard_communityzone5",
+      "english_sha256": "58455c54c2dc617d786e7fc17ca2ebf44ef9b7d9425b4077ea05d3a2ad789bbb",
+      "ko": "다행이다! 진짜 스포츠를 볼 필요는 없다는 안도감 속에 경기를 관람하며 +2 FUN을 얻어."
+    },
+    {
+      "line": 143,
+      "event": "standard_communityzone6",
+      "english_sha256": "f7efad1e24d912bab010449abe95a10ea4f9ba1b98f034b2c8491dd1cde4c7d8",
+      "ko": "커뮤니티 구역에서 스매시 유어 브로스 대회가 열리고 있어. 사랑은 언제나 폭력을 이기니까 참가해!"
+    },
+    {
+      "line": 144,
+      "event": "standard_communityzone6",
+      "english_sha256": "a5f089ebc3e02945bba0fdfa5a464b253a4bf9d2d4a75c2abf7d9633cbc1f355",
+      "ko": "매 경기 8명씩 참가하는데, 순식간에 음란하고 혼란스러워져."
+    },
+    {
+      "line": 145,
+      "event": "standard_communityzone6",
+      "english_sha256": "0e82276f7e3519d22436c792d436a04c1c99daea8a13b698468d31c257571953",
+      "ko": "결국 누가 이겼는지 가리긴 아주 어려워. 그래도 다들 그 과정에서 +2 FUN은 얻었지!"
+    },
+    {
+      "line": 151,
+      "event": "standard_communityzone7",
+      "english_sha256": "1eb79d463c91ef11f45eeabba0ad004e3819ce271fb90b93b21b743486787aac",
+      "ko": "커뮤니티 구역 한가운데에 실크해트를 쓴 신사들, 옛날 자동차, 개, 장화가 보여. 오, 모노폴리 실사 롤플레잉이구나!"
+    },
+    {
+      "line": 152,
+      "event": "standard_communityzone7",
+      "english_sha256": "032dcd722c9640000900453320e0649edc924bc5b5543f1a3eabb18a981b8b1c",
+      "ko": "네 가치관과는 완전히 반대인데... 막상 돈이 벌리기 시작하자 호텔을 잔뜩 지어서 거리 전체를 존나 젠트리피케이션시켜 버려."
+    },
+    {
+      "line": 153,
+      "event": "standard_communityzone7",
+      "english_sha256": "6427e308f0535fe838e4a3ff79dd99bef9b14265bd465a7582b4f6af38e6f94d",
+      "ko": "감히 네 땅에 발을 들이는 사람은 죄다 비참하게 만들어. 아이 셋 딸린 아버지가 임대료 좀 깎아 달라고 빌어. 넌 \"실력을 키워\"라고 외쳐."
+    },
+    {
+      "line": 154,
+      "event": "standard_communityzone7",
+      "english_sha256": "e96193b314d4128a34afc8795ba6980770726719841fc26b44a6d9bfd0d297d3",
+      "ko": "안 돼! 넌 대체 뭐가 된 거야? 모노폴리 지폐를 불태우고 떠나... 그래도 마음속 깊은 곳에선 +2 FUN만큼 즐겼다는 걸 인정해야겠지."
+    },
+    {
+      "line": 160,
+      "event": "standard_communityzone8",
+      "english_sha256": "22f30a7c141cd50d33d11546d026826a77ce96397d63b9e7f2da790b9e6a84a9",
+      "ko": "넌 커뮤니티 구역의 강습회에 참석해. 유명 헤어 디자이너가 \"탈모를 가려 주는 애니 헤어스타일 상위 5선\"을 가르쳐 줘."
+    },
+    {
+      "line": 161,
+      "event": "standard_communityzone8",
+      "english_sha256": "71a85b364c67a26e3a350ab442e3658e681a14acf7c6adb705b5c9fff7081df0",
+      "ko": "세일러문 앞머리가 어울릴 줄 알았는데, 최고는 유희왕 별 모양이네. 헤어젤이 한 트럭 필요하지만 네 이목구비가 정말 살아나."
+    },
+    {
+      "line": 162,
+      "event": "standard_communityzone8",
+      "english_sha256": "fc57d1ef585c7dc1b5860df8af81c7e8eb1a4cd95103f6b1fddbcd0331a47433",
+      "ko": "이야, 대머리가 될 날이 기다려지네! +2 FUN과 멋진 헤어스타일 +1을 얻어."
+    },
+    {
+      "line": 168,
+      "event": "standard_communityzone9",
+      "english_sha256": "173c91b73b06b7466512b6d5fc45ed69cc4ae407159d056896d1ce23d3e308b7",
+      "ko": "넌 자기 미래 전부를 도박에 걸 만큼 무모하니까 경쟁 타로 대회에 참가해."
+    },
+    {
+      "line": 169,
+      "event": "standard_communityzone9",
+      "english_sha256": "db2ba25b7f12a6455cd1f2cbb4cd28328c8ec2ff9ac71be9b8d7d767c7f74a47",
+      "ko": "매달린 남자와 불타는 탑을 몇 번 겪고 나서 천체의 힘을 끌어내기로 해. 최고의 유희왕 흉내를 내며 내려놓은 카드는... 명왕성."
+    },
+    {
+      "line": 170,
+      "event": "standard_communityzone9",
+      "english_sha256": "03c9b9f884ac6fdb3dc42c93f24c878a9ef640e78531914f374fd64353a109c5",
+      "ko": "명왕성은 더 이상 행성이 아니잖아. 구식 덱을 쓰고 있었네! 넌 실격당하고, 상대는 네가 클라미디아로 죽을 거라고 예언까지 해."
+    },
+    {
+      "line": 171,
+      "event": "standard_communityzone9",
+      "english_sha256": "8f4c494c56f23382a2813bf4e07338e98a39977b4a01822f347196f80ef830f4",
+      "ko": "끔찍한 운명 +1을 얻었지만, 클라미디아로 죽는다는 건 언젠가 섹스는 한다는 뜻이니까 +2 FUN도 얻었어!"
+    },
+    {
+      "line": 177,
+      "event": "standard_communityzone10",
+      "english_sha256": "d693e7afd7c775fc713e57ee8486b0b47565221e67fc81929040891e9dbb6f56",
+      "ko": "커뮤니티 구역에서 진행 중인 게임들을 둘러보다가 레트로 게임 구역을 발견해."
+    },
+    {
+      "line": 178,
+      "event": "standard_communityzone10",
+      "english_sha256": "01daf7f992654630d6895a1dd368fb728058fc844b127549c0315e45eb4447eb",
+      "ko": "처음엔 N64 게임을 하다가, 더 옛날로 거슬러 올라가 마리오가 싸가지 없던 시절의 슈퍼 마리오 원작을 해."
+    },
+    {
+      "line": 179,
+      "event": "standard_communityzone10",
+      "english_sha256": "15dfc85c300c57c824c9cf9c75174e359adba0039d0a6a7ec7d160fb8252ce65",
+      "ko": "체커와 우르의 왕실 게임으로 게임 시간을 마무리해. 메소포타미아급 게임 실력 덕에 +2 FUN!"
+    },
+    {
+      "line": 185,
+      "event": "standard_communityzone11",
+      "english_sha256": "b5e4e6769939cff8371d91376a552b540f347627a640249f36c167e84aa8e3c2",
+      "ko": "테이블탑 RPG 모임에 빈자리가 보여서 두 번 생각할 것도 없이 앉아."
+    },
+    {
+      "line": 186,
+      "event": "standard_communityzone11",
+      "english_sha256": "d61b83301b13500fe2850aa1bde31e755950d4363af5ab0b27ae6caee8e8ebfb",
+      "ko": "게임이 참 이상해. 보드에는 글자만 잔뜩 있고, 다 같이 작은 지시판을 움직이면서 동시에 플레이해."
+    },
+    {
+      "line": 187,
+      "event": "standard_communityzone11",
+      "english_sha256": "74ed5e3a31bef35d14f04f2fbaa65476333585b389af3f7d4a0844be29101aac",
+      "ko": "끝나도 누가 이겼는지는 모르겠지만, 돌아가신 고조할아버지와 대화를 나눴어. 그럼 +2 FUN 정도는 되겠지?"
+    },
+    {
+      "line": 193,
+      "event": "standard_communityzone12",
+      "english_sha256": "7fc032606608b61f6ebc1a1f40e05847ce966724205e5133b81738160bcc8dbf",
+      "ko": "넌 원탁에 관한 원탁 토론에 참석하기로 해. 얼마나 흥미로운 주제야!"
+    },
+    {
+      "line": 194,
+      "event": "standard_communityzone12",
+      "english_sha256": "b4ec16c50ed679e262359654c4766a29e0de576c7fb6552c48ef13dcd6787752",
+      "ko": "탁자의 다양한 둘레를 논하고, 제작 재료의 순위를 매기고, 옛 원탁에 앉았던 유명한 기사들 얘기도 해."
+    },
+    {
+      "line": 195,
+      "event": "standard_communityzone12",
+      "english_sha256": "7d0a82bdacac08ad602248aa24c4aee11c9b2957c5141d3501860af694818c71",
+      "ko": "정사각형·직사각형 탁자는 잔뜩 까기도 해. 직각 따위 엿 먹어! 원이 제일 웃긴 도형이니까 +2 FUN. 내 말 맞지?"
+    },
+    {
+      "line": 201,
+      "event": "standard_communityzone13",
+      "english_sha256": "91a106b766611af2e0592410997a2a737378e226245e04e2330e1ad0cd0a391d",
+      "ko": "넌 인디 보드게임 전시회에 갔다가 고전 파티 게임 \"나는 한 번도\"를 바탕으로 한 유로 보드게임에 끌려 들어가."
+    },
+    {
+      "line": 202,
+      "event": "standard_communityzone13",
+      "english_sha256": "d8a8b9697b49d6a5cb2b4343c1d1e4ebe6cd4dd80413a2f18c5f5ef5f07b0d55",
+      "ko": "원래 게임과 비슷하지만, 고백의 심각성에 따라 점수가 달라져."
+    },
+    {
+      "line": 203,
+      "event": "standard_communityzone13",
+      "english_sha256": "261214bc7477bac5ea013c8daf0268fb3d7ad28553720aeea7b61d2bc4a92165",
+      "ko": "서든 데스 규칙과 \"친구에게 전화하기\" 시스템도 있고, 어째서인지 도둑도 있어."
+    },
+    {
+      "line": 204,
+      "event": "standard_communityzone13",
+      "english_sha256": "edc98d2a674fe8742fc216b6c58afdb8cc74a01dd0f4569ab089aecbaacc974a",
+      "ko": "두 시간 뒤 넌 이 게임을 \"다시는 한 번도\" 하지 않기로 해. 그래도 다른 참가자들의 부끄러운 고백을 들으며 +2 FUN은 얻었어."
+    },
+    {
+      "line": 210,
+      "event": "standard_communityzone14",
+      "english_sha256": "d0e7c06500eea0e2fbeb722bdd07d19a6af2e2c17b5088e1d5c97791a115df1d",
+      "ko": "넌 \"드래곤과 춤을\"이라는 실험적인 새 테이블탑 RPG를 하러 앉아."
+    },
+    {
+      "line": 211,
+      "event": "standard_communityzone14",
+      "english_sha256": "18e2bc274129e09515db09bd1fed469e9f1e32d63bfc4bdbc500b268ea5e35eb",
+      "ko": "전형적인 톨킨식 판타지 세계관인데, 모든 전투를 상대와 DDR 대결로 해결해. 끝내주네!"
+    },
+    {
+      "line": 212,
+      "event": "standard_communityzone14",
+      "english_sha256": "12ed8fc11ec798f63e3b2d74f2621fc2c990ca073ce8cd992bfa0fbeea41fc57",
+      "ko": "넌 춤 실력이 대단해서 일행을 하드 캐리해. 게임 마스터가 발이 부러진 상태라 좀 불공평하긴 하지만, 네 잘못은 아니잖아!"
+    },
+    {
+      "line": 213,
+      "event": "standard_communityzone14",
+      "english_sha256": "9326243978c156300c1c156671e738caeb0842c56823d3cfcdf06ceb2217fc66",
+      "ko": "S급 DDR 실력으로 압도하며 +2 FUN을 얻어!"
+    },
+    {
+      "line": 219,
+      "event": "standard_communityzone15",
+      "english_sha256": "db851f8933e5abda7161d61c074a3e55ca86d7e00c5e86759c0f233045bf2ea9",
+      "ko": "넌 엄청 복잡한 유럽 보드게임을 하러 앉아. 바보처럼 보이기 싫어서 설명서를 집어 읽기 시작해."
+    },
+    {
+      "line": 220,
+      "event": "standard_communityzone15",
+      "english_sha256": "f4c3b3401687059240392e694e5fb80b2bff9f2d4074d617e1a122c1cf13ea2f",
+      "ko": "날이 지나고 계절이 바뀌어. 도시는 무너져 모래에 묻히지. 설명서를 다 읽고 보니, 멸망 후의 황무지에 너 혼자 남아 있어."
+    },
+    {
+      "line": 221,
+      "event": "standard_communityzone15",
+      "english_sha256": "41d0336fce67b49a79d9bd784b904ea0d5486a510be5c3b36f3e812909eeb2a9",
+      "ko": "농담이야. 잠들었거든! 그래도 설명서를 읽은 만큼은 +2 FUN이었어."
+    },
+    {
+      "line": 227,
+      "event": "standard_commercialstands1",
+      "english_sha256": "6607a19f08e96a608fd23392ff41fbdb6b6850905ea77b9270e5cc4e66c7ab72",
+      "ko": "부스들을 둘러보다가 만화책 몇 권을 사. 무료 에코백도 주네!"
+    },
+    {
+      "line": 228,
+      "event": "standard_commercialstands1",
+      "english_sha256": "67132dab465734260cc6d79d2391b64fc594397cab7e910f08a37fb9645e60a8",
+      "ko": "그다음엔 작가에게 그림 인쇄물 몇 장을 사. 에코백을 또 받네!"
+    },
+    {
+      "line": 229,
+      "event": "standard_commercialstands1",
+      "english_sha256": "069521191e22f8aa05df08a8a101693835ffef4d194d59916ca0c97e6580649d",
+      "ko": "그러고 나서 멋진 에코백 하나를 샀더니 무료 에코백에 담아 줘."
+    },
+    {
+      "line": 230,
+      "event": "standard_commercialstands1",
+      "english_sha256": "86e596ac0b298758456f2b581957066bc54e7ce947763104ab4a4e1f4737954c",
+      "ko": "이제 멋지고 공짜인 에코백이 잔뜩 생겨서 +2 CHARM. 이걸 전부 담아 갈 게 있으면 좋으련만..."
+    },
+    {
+      "line": 236,
+      "event": "standard_commercialstands2",
+      "english_sha256": "3fe756678eafa450ae3ec469da60a333b735ebdc402f79bb3dfd7f435728264c",
+      "ko": "넌 커피를 홀짝이며 굿즈 홀을 돌아다녀."
+    },
+    {
+      "line": 237,
+      "event": "standard_commercialstands2",
+      "english_sha256": "f2220a81b40ff980d748e999632254707061a25a2a86cd3e43135fc701ef2082",
+      "ko": "갑자기 \"원 킥 보이\" 디럭스 박스 세트를 보고 커피를 뿜어. 조준은 훌륭한데 운은 아주 나빠서, 커피가 박스 세트에 적중해."
+    },
+    {
+      "line": 238,
+      "event": "standard_commercialstands2",
+      "english_sha256": "91c642fe17a5e1216610f79583e910fc28a52ce99f6bdad0037b489841374f58",
+      "ko": "결국 미개봉 최상급 상태가 아니게 됐으니, 판매자는 박스 세트를 할인해서 넘겨줘."
+    },
+    {
+      "line": 239,
+      "event": "standard_commercialstands2",
+      "english_sha256": "c7d51efc843b06c21e8ba4b6e6ee9e413a1b6c626d40d335d37af74a2ce6c79c",
+      "ko": "새 박스 세트와 뛰어난 커피 뿜기 실력 덕에 +2 CHARM!"
+    },
+    {
+      "line": 245,
+      "event": "standard_commercialstands3",
+      "english_sha256": "a6675893fe1921ba755f838499bf349cb81f3ae21ac80cfc7709208f19e62316",
+      "ko": "상점 부스에서 마음에 드는 멋진 티셔츠를 발견해. 몬스터 달러 3.99야."
+    },
+    {
+      "line": 246,
+      "event": "standard_commercialstands3",
+      "english_sha256": "9a62a8dc5919bbdd20d754b0ed5185f9a9ff5ec63dc46bfd221266d0c91ae929",
+      "ko": "그다음엔 멋진 독립 잡지를 몬스터 달러 2.99에 사. 그러고는 애니 배지 세트를 몬스터 달러 1.99에 사."
+    },
+    {
+      "line": 247,
+      "event": "standard_commercialstands3",
+      "english_sha256": "9e95e2021d1ea8cae97fbc1a6e7efd62f8cf1dfdb059b6b615aaff962e58508f",
+      "ko": "그러고 나서 껌 한 통을 몬스터 달러 0.99에 사. 젠장, 주머니에서 동전 4개가 짤랑거려. 존나 거슬리네!"
+    },
+    {
+      "line": 248,
+      "event": "standard_commercialstands3",
+      "english_sha256": "be895db7fa78969d2543a78f802801e2969c8c146c7780ebdab89029ee5eb785",
+      "ko": "다행히 수상한 남자가 속삭여. \"그거 주면 +2 CHARM 줄게.\" 왠지 찜찜하지만 능력치도 얻었고 주머니도 조용해졌어!"
+    },
+    {
+      "line": 254,
+      "event": "standard_commercialstands4",
+      "english_sha256": "afedde9a858eba588426af76345827353a6f53dbbcdd4e6c1dcf6f786e267c58",
+      "ko": "굿즈 홀 근처에서 가챠 가게를 발견해. 동전을 넣었더니 진짜 근육질 오리가 나와. 뜬금없지만 멋지네!"
+    },
+    {
+      "line": 255,
+      "event": "standard_commercialstands4",
+      "english_sha256": "6effdc259b44bf1147721872611da77f30012e43202d3a6549834a6d6d0c0af8",
+      "ko": "동전을 하나 더 넣어. 캡슐을 열었더니... 편지가 있어?"
+    },
+    {
+      "line": 256,
+      "event": "standard_commercialstands4",
+      "english_sha256": "3dd3d015b519d5e0e405dd72a4a9ecc8705828b2bcf97098adbef29f0c9a4b08",
+      "ko": "\"제발 도와주십시오! 저희 근육질 오리들은 수백 년 전 가챠 마스터들에게 이 공 안에 갇혔습니다. 모든 일의 시작은...\""
+    },
+    {
+      "line": 257,
+      "event": "standard_commercialstands4",
+      "english_sha256": "e2547750622896cde9570317d6715b112adde2b0582f07cf71068a767bc88e39",
+      "ko": "그러어어고 넌 벌써 지겨워졌어. 캡슐 하나를 더 뽑자... 근육질 오리가 또 나와! 멋지네, +2 CHARM이나 받아!"
+    },
+    {
+      "line": 263,
+      "event": "standard_commercialstands5",
+      "english_sha256": "f59a665e0adb3c9651a217a48acb059980ad174c6757f0fffe7c00da12ed9013",
+      "ko": "굿즈 홀 근처에서 신비한 점술 기계를 발견해. \"소원을 빌면 졸타가 들어줍니다\"라고 적혀 있어."
+    },
+    {
+      "line": 264,
+      "event": "standard_commercialstands5",
+      "english_sha256": "d4201aebe4f7812cef3ff81e774147cf198bfb2485296c69a83091182bf14d55",
+      "ko": "독창성은 네 장점이 아니라서, 커지고 싶다고 빌어. 기계에서 \"소원이 이루어졌습니다\"라는 표가 나와."
+    },
+    {
+      "line": 265,
+      "event": "standard_commercialstands5",
+      "english_sha256": "2a587cbbccff61d0bb2c52940424cefd5aee5c28ea2f6dd8b01b60cde52b4388",
+      "ko": "넌 커지길 기다리며 계속 돌아다녀. 그런데 달라진 느낌이 없어..."
+    },
+    {
+      "line": 266,
+      "event": "standard_commercialstands5",
+      "english_sha256": "7380191c2b5828447bb50757eaeaae771572c0e3cc3d8b627f895bfa625b60ce",
+      "ko": "...엉덩이를 보기 전까진. 그래, 이제 크고 탐스러운 +2 CHARM짜리 엉덩이가 생겼네! 소원은 이루어지는구나."
+    },
+    {
+      "line": 272,
+      "event": "standard_commercialstands6",
+      "english_sha256": "16e5594b3dc560baccccb3aa484fe3ffe4be4095d9ebddc4a98fc3f3ff0c9b82",
+      "ko": "자기들이 만든 팬진을 파는 십 대들을 발견해. 아, 귀여워라!"
+    },
+    {
+      "line": 273,
+      "event": "standard_commercialstands6",
+      "english_sha256": "91f0e3f6f2663978ce90a02b6aacc5d8cb091a3f0c7e02ead0382d345d5c9a7b",
+      "ko": "들춰 보니... 끔찍하네. 기억하기로는 넌 저 나이 때 취향이 더 좋았는데."
+    },
+    {
+      "line": 274,
+      "event": "standard_commercialstands6",
+      "english_sha256": "97cc41d424a763277e4fcb3c8f895e88db67f05de5a51950f809f76040ceeaea",
+      "ko": "제대로 하는 법을 보여 주려고 그들 앞에서 바로 네 잡지를 만들어. 참 훌륭한 멘토네!"
+    },
+    {
+      "line": 275,
+      "event": "standard_commercialstands6",
+      "english_sha256": "a5bb309ff3ad362da16b3aaaacdc8de8f8d19fe0697b63de1f37dd26fb7462e8",
+      "ko": "팔 수 있도록 그들 부스에 두고 가. 널 별로 좋아하진 않는 것 같지만, 네 멋진 잡지 덕에 +2 CHARM을 얻어."
+    },
+    {
+      "line": 281,
+      "event": "standard_commercialstands7",
+      "english_sha256": "6110164676e8cb816e9ea16497b6f9e9f3b7cee85320360cbbae7492fb10a254",
+      "ko": "부스에서 팬진 판매자를 만나. 무슨 내용이냐고 묻자 그녀가 대답해. \"당신에 관한 거예요.\""
+    },
+    {
+      "line": 282,
+      "event": "standard_commercialstands7",
+      "english_sha256": "5ffc94fe59971d00664abc690fe1b4067895781630d2849e8bf1c9565df55302",
+      "ko": "팬진 하나를 펼쳐. 대충 오려 붙인 네 사진으로 가득해. 소름 끼쳐야 할 것 같은데... 으쓱한 기분도 들어."
+    },
+    {
+      "line": 283,
+      "event": "standard_commercialstands7",
+      "english_sha256": "ddf572b5a691fde8efb1d953342ee7b4ab5ed49e0639ed5809e98049ff5fcdd4",
+      "ko": "한 부 사기로 해. 세상에, 네가 처음 보는 사진도 있네! 네 자신의 +2 CHARM에 압도당해!"
+    },
+    {
+      "line": 289,
+      "event": "standard_commercialstands8",
+      "english_sha256": "e8ffaf368fc4bbd9d4b01d1bd77daf1e441207d3ed74b992b528f7dc96bb706a",
+      "ko": "죠죠 가문 전체의 가계도가 그려진 멋진 티셔츠를 사. 말할 것도 없이 네 몸보다 몇 치수는 커."
+    },
+    {
+      "line": 290,
+      "event": "standard_commercialstands8",
+      "english_sha256": "7f10c7a5fa961e99a3fb06d0f54d7d33a64a93aed648a4f979d877a526020d4b",
+      "ko": "반품하러 부스로 돌아가지만 판매자는 환불 불가래. 용납할 수 없어!"
+    },
+    {
+      "line": 291,
+      "event": "standard_commercialstands8",
+      "english_sha256": "fe37b8deaa9cbb63a06e821c90f81750218f5e22dabd36ef3328eb53fc09b838",
+      "ko": "대신 무료 죠죠 포즈는 줄 수 있대. 넌 받아. 유연성의 한계에 도전하는 자세지만, 그 포즈로 +2 CHARM을 얻어!"
+    },
+    {
+      "line": 297,
+      "event": "standard_commercialstands9",
+      "english_sha256": "32da521828ad67bd2e236039916b821f66832d05e012764e41ceb511d10ac2e9",
+      "ko": "아티스트 골목에서 초상화 작가를 만나. 네 영혼을 정확하게 그릴 수 있대!"
+    },
+    {
+      "line": 298,
+      "event": "standard_commercialstands9",
+      "english_sha256": "386207665278778fa7eeb9a775331123d9f4a2e9e7245ed8d2a5140b8be3931e",
+      "ko": "넌 늘 네 영혼이 어떻게 생겼는지 궁금했어. 근육질일까? 작고 귀여울까? 어쩌면 빨간 머리일지도!"
+    },
+    {
+      "line": 299,
+      "event": "standard_commercialstands9",
+      "english_sha256": "302d7a30a1313234da4fd2506f26f79a961aa5c5b17cd40eaa4528e6573f5df8",
+      "ko": "...아니네. 그냥 네 둘레에 이상한 푸른 빛을 그린 거야. 그래도 그 빛 덕에 외모에 +2 CHARM이 붙었네!"
+    },
+    {
+      "line": 305,
+      "event": "standard_commercialstands10",
+      "english_sha256": "fcabd8f19a7a920cdf9c696d18f25304a97e57d73cacbcdcdcdf189b5a52cb1f",
+      "ko": "굿즈 홀에서 \"초현실적인 VR 헤드셋\"을 파는 부스를 발견해. 당장 사지. VR은 미래니까!"
+    },
+    {
+      "line": 306,
+      "event": "standard_commercialstands10",
+      "english_sha256": "a52d5d58dc899bfc58eadd41f322894e56cff46bcfb3427f99a98409e6a1ca47",
+      "ko": "써 보니 보이는 건... 주변 풍경이야. 그래, 사기야. 사실상 미식축구 헬멧에 안경을 붙인 물건이지."
+    },
+    {
+      "line": 307,
+      "event": "standard_commercialstands10",
+      "english_sha256": "d5fb6ff49115a97aeb6c00ac66c3b9faee0a3230f57ee7af7ca4dad4eff0b703",
+      "ko": "환불은 안 되지만 헤드셋은 네게 잘 어울려. +2 CHARM만큼 말이야."
+    },
+    {
+      "line": 313,
+      "event": "standard_commercialstands11",
+      "english_sha256": "5bb43553d598a910a0a343c651e108713222f59dff1d5542cddbdf8f690edefa",
+      "ko": "굿즈 홀을 돌아다니다가 옛날 장난감이 가득한 부스를 발견해. 어, 어릴 때 갖고 놀던 것도 있네!"
+    },
+    {
+      "line": 314,
+      "event": "standard_commercialstands11",
+      "english_sha256": "a1d5ac72df97ae099e6394d4a67efc6385e34cb60c40fdaf0537d98768d9123d",
+      "ko": "사실 전부 기억나. 이 사람이 네 부모님 집을 털었나? 혹시 모르니 전부 사."
+    },
+    {
+      "line": 315,
+      "event": "standard_commercialstands11",
+      "english_sha256": "b338e24402e1f1694fc2f0c8e766ffb11b361e70a29f75c5fafab1cd2d776be8",
+      "ko": "아, 현실이 널 냉소적으로 만들기 전엔 삶이 참 매력으로 가득했지. 이제 그 장난감을 갖고 놀 나이는 지났을지 몰라도, 추억에서 +2 CHARM을 뽑아낼 순 있어."
+    },
+    {
+      "line": 321,
+      "event": "standard_commercialstands12",
+      "english_sha256": "4a8ecde4c1e6419e44e8ccbf1701798e8ed2719494968c2323a21d4331d75d0e",
+      "ko": "갑자기 휴대폰 배터리가 다 된 걸 깨달아. 굿즈 홀에 있어서 다행이야!"
+    },
+    {
+      "line": 322,
+      "event": "standard_commercialstands12",
+      "english_sha256": "627e9f6b408b39f3dad657a1cc670df6a93f581b73cedf8327b4725c62f1c1b4",
+      "ko": "충전기를 파는 부스를 찾아. 하나 사고 싶은데, 이렇게... 덕후스럽지 않은 걸 사려니 좀 그래."
+    },
+    {
+      "line": 323,
+      "event": "standard_commercialstands12",
+      "english_sha256": "92215eb0c1c4e78e287ab70be7ea60be0422b9a77f66c3201653f20be531fb90",
+      "ko": "판매자는 한숨 쉬며 충전기에 \"UwU\" 얼굴을 그려. 삽니다! 귀여운 휴대폰 충전기 덕에 +2 CHARM!"
+    },
+    {
+      "line": 329,
+      "event": "standard_thegrounds1",
+      "english_sha256": "994d5b6f308863a549c6a07f87031183689935feb1b5802fd2886fd801909a68",
+      "ko": "좋아하는 마법소녀 가발을 쓰고 돌아다니는데 존나 가려워."
+    },
+    {
+      "line": 330,
+      "event": "standard_thegrounds1",
+      "english_sha256": "6a66b701516f76646fdafc6d5570a45b0dedccb0d42a637922cd938f3d75ce90",
+      "ko": "가발 밑으로 머리를 긁어. 아, 젠장. 아무 스트리머나 그 어색한 손가락 꼼지락거림을 찍어 버렸어!"
+    },
+    {
+      "line": 331,
+      "event": "standard_thegrounds1",
+      "english_sha256": "e02f99d744ed24de105fcb0b212efd39e6ce06b50617b2596d00745b52e5221c",
+      "ko": "네 이상한 머리 긁기는 인터넷의 전 과정을 거쳐. 밈이 되고, 뻘글 소재가 되고, 합성 영상이 되고, 유행 댄스까지 되지."
+    },
+    {
+      "line": 332,
+      "event": "standard_thegrounds1",
+      "english_sha256": "c27975a0322cf19725c04f766e40e69b6042dbf73871188e6a3119e203e5a823",
+      "ko": "하지만 인기는 덧없는 법. 어떤 CEO가 광고에서 마지카 머리 긁기를 따라 하자 순식간에 안 멋져져. 그래도 인터넷 유명세를 무사히 견뎌서 +2 BOLDNESS."
+    },
+    {
+      "line": 338,
+      "event": "standard_thegrounds2",
+      "english_sha256": "a513e253a850a39668571414b5b4f0b728d4f8dd81e870fc6fb4855ddeda95ad",
+      "ko": "행사장 로비를 돌아다니다가 바로 앞의 스트리머를 발견해."
+    },
+    {
+      "line": 339,
+      "event": "standard_thegrounds2",
+      "english_sha256": "82095f8dd4c970405b8454befcc88ed2cb6089d541d80eec72dc99cd3268a403",
+      "ko": "카메라를 피하려고 돌아서는데 바로 뒤에도 스트리머가 있어. 스트리머 십자포화에 갇혔네!"
+    },
+    {
+      "line": 340,
+      "event": "standard_thegrounds2",
+      "english_sha256": "82fc562091e1172a3685f68134bdfa5c1f88362dff268354dbef496c0d84022c",
+      "ko": "엄밀히 말하면 넌 동시에 두 장소에 존재해. 어디에나 존재하는 힘이 깃든 기분이야. 적어도 \"두 곳에 존재하는 힘\"은 되겠지."
+    },
+    {
+      "line": 341,
+      "event": "standard_thegrounds2",
+      "english_sha256": "2ecbbd3e64b34904dbba68e35bfe9b965f954223876be0ebf18674cf6cb2c74e",
+      "ko": "그러다 스트리머 하나가 떠나서 넌 그냥 배경의 행인으로 돌아가. 그래도 평범한 필멸자 두 배의 힘을 경험했으니 +2 BOLDNESS!"
+    },
+    {
+      "line": 347,
+      "event": "standard_thegrounds3",
+      "english_sha256": "99b0558ec195a20fbcaa81d94cea4b721b3486e1360f296b8c62366abe10eee8",
+      "ko": "로비를 걷다가 아이가 넘어져 무릎이 까지는 걸 봐. 멍청한 꼬마들, 언제쯤 배우려나?"
+    },
+    {
+      "line": 348,
+      "event": "standard_thegrounds3",
+      "english_sha256": "a9af7f0d4042bbbf636e8df105ee1852faccdca45e27df5dc3e85b0785e2ed4c",
+      "ko": "그래도 불쌍해서 도와주기로 해. 아이를 달래는 법은 모르니 머리를 쓰다듬고 \"너에겐 적이 없어\"라고 말해."
+    },
+    {
+      "line": 349,
+      "event": "standard_thegrounds3",
+      "english_sha256": "5cbee5acf1e8ba23c4d1bae04f7c435a73ab3f7b79cc5c7db42c2b7044a2a575",
+      "ko": "지혜로운 말을 해 줬다는 뿌듯함을 안고 떠나. 아이는 계속 울지만, 머릿속에서 네 모습이 멋졌으니 +2 BOLDNESS."
+    },
+    {
+      "line": 355,
+      "event": "standard_thegrounds4",
+      "english_sha256": "99b0558ec195a20fbcaa81d94cea4b721b3486e1360f296b8c62366abe10eee8",
+      "ko": "로비를 걷다가 아이가 넘어져 무릎이 까지는 걸 봐. 멍청한 꼬마들, 언제쯤 배우려나?"
+    },
+    {
+      "line": 356,
+      "event": "standard_thegrounds4",
+      "english_sha256": "b981a66f01ce1cce0232acc0453b04865f9bccee97b31179b0e4945f0f8fcc83",
+      "ko": "그래도 불쌍해서 달래 주려 해. 무릎 까지는 것보다 더 나쁜 일도 있으니 울지 말라고 하지."
+    },
+    {
+      "line": 357,
+      "event": "standard_thegrounds4",
+      "english_sha256": "1f0667a9fdbddfe92ff0699edc8287174780cff4e35e115895deb2cb0f4c9b53",
+      "ko": "전쟁이나 기근, 집에 바지를 두고 나왔던 일 같은 거. 씨발, 그건 왜 떠올렸대? 이제 너도 울잖아!"
+    },
+    {
+      "line": 358,
+      "event": "standard_thegrounds4",
+      "english_sha256": "62520c4ad7d4240fbd0bd28803da50c71870c1f0f52cd4c5198b93c147c0ff5e",
+      "ko": "15분 동안 펑펑 운 뒤, 넌 저 멍청한 울보 꼬마와 달리 용기 내어 삶을 이어 가기로 해. 잘했어! +2 BOLDNESS."
+    },
+    {
+      "line": 364,
+      "event": "standard_thegrounds5",
+      "english_sha256": "b1a5aaaad0ba3623760e37cfa6f83873b6e0a5dcc7935b490660e04718c7971d",
+      "ko": "행사가 너무 즐거워서 \"행사 너무 즐겁다!\"라고 트윗해 세상에 알리기로 해. 잘 썼네!"
+    },
+    {
+      "line": 365,
+      "event": "standard_thegrounds5",
+      "english_sha256": "6fdc577c95d150dbef5174337cfc53fba4eec6b666f21666b442017da44155d3",
+      "ko": "안타깝게도 그거면 온라인 트롤을 낚기에 충분했나 봐. \"너 병신임\"이라는 답이 달려. 인터넷 예절은 어디 갔지?"
+    },
+    {
+      "line": 366,
+      "event": "standard_thegrounds5",
+      "english_sha256": "1dd4438d9e159c42a6530b40d51a20af38945f254522c420cd535b7ee114452d",
+      "ko": "그놈 때문에 하루를 망칠 순 없어서, 열정적이지만 정중하게 토론을 벌여. 얼마 뒤 트롤이 적어. \"미안 잘못말함. 너 존나 개병신임.\""
+    },
+    {
+      "line": 367,
+      "event": "standard_thegrounds5",
+      "english_sha256": "e98a770467f7a3920563f7e665d9dab16bacccd81e08e2dc6f74806b4f951391",
+      "ko": "이 행사가 끝나면 반드시 복수의 여정을 떠날 거야. 온라인 싸움에서 물러서지 않아서 +2 BOLDNESS!"
+    },
+    {
+      "line": 373,
+      "event": "standard_thegrounds6",
+      "english_sha256": "ef5b5e1652374588277d26a4c70fa830d8393cfc15be5ab14ed3e05f6ede5586",
+      "ko": "행사에서 온갖 일을 겪어 지쳤지만, 뭔가 놓칠까 봐 두려워 호텔로 돌아가지 못해."
+    },
+    {
+      "line": 374,
+      "event": "standard_thegrounds6",
+      "english_sha256": "c89dd0bc62ca1f7dd67eb997939c96125596d79666ed2acf91671f6204195f99",
+      "ko": "여기 로비에서 짧게 자면 푹 쉬면서 엄밀히 말해 아무것도 놓치지 않을 수 있겠네!"
+    },
+    {
+      "line": 375,
+      "event": "standard_thegrounds6",
+      "english_sha256": "49ce619c4611169386bc15c63177197ef153fe8eb33f7705955cf3860ac9f053",
+      "ko": "사람들이 잔뜩 네게 걸려 넘어져. 그래도 자는 모습이 어떤 영화나 애니를 따라 한 코스프레 공연인 줄 알고 아무 말 안 해."
+    },
+    {
+      "line": 376,
+      "event": "standard_thegrounds6",
+      "english_sha256": "254fb02877e933dad49b19cd2ae314fd8765e644abb65ef5bb60d1fb21ad2d03",
+      "ko": "넌 휴식도 얻고, 좆도 신경 안 쓴 덕에 +2 BOLDNESS도 얻어."
+    },
+    {
+      "line": 382,
+      "event": "standard_thegrounds7",
+      "english_sha256": "73bd0cec930e7a8fc6ffaa7cf16812647ca257e3fafe7b78d88b7455e4b24ad9",
+      "ko": "로비를 걷는데 다른 구역에서 사람들이 밀려들어 와. 인파가 몰려온다!"
+    },
+    {
+      "line": 383,
+      "event": "standard_thegrounds7",
+      "english_sha256": "16e66c1411d44950c91c6711e8fd60240bee4721b5b93d9d72382a347b9471b5",
+      "ko": "당황하지 않으려고 요가 선생님이 해 줬던 말을 떠올려."
+    },
+    {
+      "line": 384,
+      "event": "standard_thegrounds7",
+      "english_sha256": "cca9e441f1711e41083c48f8deb88fde5c173b6f856851c22965e6cf3c9ed3ad",
+      "ko": "\"몰려드는 인파 한가운데에 갇혔다면, 흐름에 몸을 맡기세요.\""
+    },
+    {
+      "line": 385,
+      "event": "standard_thegrounds7",
+      "english_sha256": "9de994bbc754acad4537d784c4515cfc2897248a7ef418197ca4113654a2d487",
+      "ko": "그렇게 했더니 그 \"흐름\"이 널 짓밟아. 그래도 인파를 용감하게 맞서서 +2 BOLDNESS."
+    },
+    {
+      "line": 391,
+      "event": "standard_thegrounds8",
+      "english_sha256": "95ffe907ff2dd4fa8f3ab81568641019db0c0c673db49f0d8c5b1521f3cb74b1",
+      "ko": "로비를 돌아다니기로 해. 사교의 달인이 아닌 사람에게는 행사장에서 가장 겁나는 활동이지."
+    },
+    {
+      "line": 392,
+      "event": "standard_thegrounds8",
+      "english_sha256": "b775d27960d7d9f8176b2e6bba49af5013b8ca3844fbd01b46a517b07402a8af",
+      "ko": "모르는 사람들이 사진을 찍어 달라고 하고, 움직이려고 사람들을 밀쳐야 하고, 심지어 재채기한 사람에게 \"몸조심하세요!\"라고 말하기까지 해."
+    },
+    {
+      "line": 393,
+      "event": "standard_thegrounds8",
+      "english_sha256": "de7dc7b50e4e7c3719acb29c0418afd2b798b95b72ef58910a960c496443a5a2",
+      "ko": "사교 활동 좀 하는데! 자, +2 BOLDNESS 받아."
+    },
+    {
+      "line": 399,
+      "event": "standard_thegrounds9",
+      "english_sha256": "01f50233b325c5233a5cabbab9739bb185d4a4bd3644b2da6971c53fd392883b",
+      "ko": "로비에서 어떤 사람이 널 평생 두 번 봤다는 친구의 친구로 착각해."
+    },
+    {
+      "line": 400,
+      "event": "standard_thegrounds9",
+      "english_sha256": "8185e8a37e2e3c48ec65e2b52e1d7cb6c78752fbe6a2518c795d0dea239ef1fe",
+      "ko": "넌 정정하기엔 너무 수줍어서 몇 시간 동안 같이 어울려."
+    },
+    {
+      "line": 401,
+      "event": "standard_thegrounds9",
+      "english_sha256": "97ef8ea93027a3f1939d21411953702c67adb7e36dd2a01623d6f091ff3c5f48",
+      "ko": "그가 \"새해 전야 파티\" 단체 채팅방에 널 꼭 넣겠다고 할 때가 돼서야, 넌 용기를 내어 자기가 생각하는 그 사람이 아니라고 설명해."
+    },
+    {
+      "line": 402,
+      "event": "standard_thegrounds9",
+      "english_sha256": "99d42eb780560cd7f21709a428f6c6f4a86a4c5b3821d481f272bb6c72e25f72",
+      "ko": "늦더라도 안 하는 것보단 낫겠지? 자, +2 BOLDNESS 받아. 그래도 그는 널 단체 채팅방에 넣어."
+    },
+    {
+      "line": 408,
+      "event": "standard_thegrounds10",
+      "english_sha256": "1079a69864d72ac9acaaaa1c98b19ed837b95abc762cb2249a435c9fea7c394c",
+      "ko": "로비를 돌아다니는데 조그만 남자가 네 옷자락을 잡아당기며 속삭여. \"야, 물 좀 마셔. 수분 보충은 중요해.\""
+    },
+    {
+      "line": 409,
+      "event": "standard_thegrounds10",
+      "english_sha256": "1bd548b5b1f381e40c4d475b9d2b1ef1a2d91b675735ad2b8bc86727aa378172",
+      "ko": "그가 물병을 건네. 넌 이 사회적 상호작용에 너무 긴장해서 잠시 물병 쓰는 법을 잊어버려."
+    },
+    {
+      "line": 410,
+      "event": "standard_thegrounds10",
+      "english_sha256": "0fa1b90d4aaee6b619ed573652bfd08a14ab7391f6edf433e26ae5afdf2b8ddc",
+      "ko": "너라는 어색한 작은 꽃에 물을 주듯이 자기 몸에 물을 부어. 어리둥절해진 낯선 이에게 고맙다고 말해."
+    },
+    {
+      "line": 411,
+      "event": "standard_thegrounds10",
+      "english_sha256": "1d78615fbcd6846be151573f196b4265095bbc2942cd2327d4c2c5656b00f458",
+      "ko": "뭐, 그리 나쁘진 않을지도. 물에 약이라도 탔으면 어쩌려고? 평범하게 마시지 못해서 다행이네."
+    },
+    {
+      "line": 412,
+      "event": "standard_thegrounds10",
+      "english_sha256": "e6739da74b9a4cf5a69e8c7dc342f1a1f9cc4b3ce05d0d56543bd7ef039191c4",
+      "ko": "위험할 수도 있는 상황을 헤쳐 나가서 +2 BOLDNESS."
+    },
+    {
+      "line": 418,
+      "event": "standard_thegrounds11",
+      "english_sha256": "5dd5bf5a771f584da2c30d8a9d8b9ad41605b79576e59782ee36cffdf27ed829",
+      "ko": "로비를 걷다가 갑자기 오줌이 마려워져. 빨리 화장실을 찾아!"
+    },
+    {
+      "line": 419,
+      "event": "standard_thegrounds11",
+      "english_sha256": "5140aa3c9aed18183dc9e362335a7a8ae15e6c99739a5348d5a0bc6abdfb2bf6",
+      "ko": "화장실은 더러워. 그래도 화장실에 관해 확실한 게 있다면, 쓸 때마다 +2 BOLDNESS를 얻는다는 거지. 사람들이 화장실을 쓰는 주된 이유잖아!"
+    },
+    {
+      "line": 420,
+      "event": "standard_thegrounds11",
+      "english_sha256": "933df5ea26ceadf0695d874183fd5d6976082aab92310571a232caaba5a68d89",
+      "ko": "아, 어떤 건 절대 안 바뀌는구나."
+    },
+    {
+      "line": 426,
+      "event": "standard_thegrounds12",
+      "english_sha256": "7c24a08a08113fea978296e72ba62b112995078b05aacdd9e2e0a6fbfba662fe",
+      "ko": "로비를 걷는데 갑자기 \"저기 %CURRENTPLAYERNAME%다!\"라는 말이 들려."
+    },
+    {
+      "line": 427,
+      "event": "standard_thegrounds12",
+      "english_sha256": "1096f048a41a79137e30f719a82cf10e5f494ef9b58e7a2f0c1730a5516bd7fe",
+      "ko": "돌아보니 아무도 널 안 봐. 다른 사람을 보는 거야... 널 코스프레한 사람을!"
+    },
+    {
+      "line": 428,
+      "event": "standard_thegrounds12",
+      "english_sha256": "1cab4f40c9a04efe58b101d194f5a9c6001ff6a45c0360280394165082064ca9",
+      "ko": "넌 언제 유명해졌지? 인기 비디오 게임 시리즈의 등장인물이야? 더 중요한 건, 저 자식이 네 옷을 훔친 거야?"
+    },
+    {
+      "line": 429,
+      "event": "standard_thegrounds12",
+      "english_sha256": "7b9ce6e80457626449b378627cb594c4ab56ac29d0cc788795dceaf2e1f54840",
+      "ko": "지금 머릿속에 질문이 너무 많네. 하나도 묻지 않고 계속 살아가려면 +2 BOLDNESS가 필요하겠어."
+    },
+    {
+      "line": 435,
+      "event": "standard_thegrounds13",
+      "english_sha256": "58af12dbeb1b5744bc0a1be07585cfdbc3523f2919815b2ab6ff7a817b38ffa7",
+      "ko": "로비를 돌아다니다가 너와 완전히 같은 코스프레를 한 사람을 발견해. 용납할 수 없어!"
+    },
+    {
+      "line": 436,
+      "event": "standard_thegrounds13",
+      "english_sha256": "aeb09c44bc97813df9bf39d54e24ef6da4ff9802758cfeb9f3c0597f4b4cb69d",
+      "ko": "이 갈등은 전통 방식으로 해결하기로 해. 죽을 때까지 칼싸움!"
+    },
+    {
+      "line": 437,
+      "event": "standard_thegrounds13",
+      "english_sha256": "4f43d61586030c533638795b3abb382df340334f462e1ee0ebd327d8c9cb1209",
+      "ko": "상대 코스어는 칼이 없어서 자동으로 실격돼. 코스프레할 권리는 네가 이겼어!"
+    },
+    {
+      "line": 438,
+      "event": "standard_thegrounds13",
+      "english_sha256": "17976d5695abea312bf6d2d81ca012452bc95eab2c29e60272dcf63140a80ef8",
+      "ko": "아무 이유도 없이 늘 칼을 갖고 다녀서 +2 BOLDNESS. 그리고 내가 네가 좀 무섭기도 하거든."
+    },
+    {
+      "line": 444,
+      "event": "standard_thegrounds14",
+      "english_sha256": "79f984ff2c9e87010b6082d545b79d9a389e296b730a0d0e095d3d4ecdef540d",
+      "ko": "넌 로비 곳곳에서 코스프레를 뽐내. 갑자기 다른 사람과 눈이 마주쳐. 네 캐릭터의 숙적을 코스프레한 사람이야!"
+    },
+    {
+      "line": 445,
+      "event": "standard_thegrounds14",
+      "english_sha256": "6b5d00955db3598022a44bf4224a0fe5ebbdb56c2795f38bf11d695cad4338ad",
+      "ko": "둘은 마주 선 채 얼어붙어. 사이에 불꽃이 튀어. 분노의 불꽃 말이지. 넌 최대한 위협적인 표정을 짓고..."
+    },
+    {
+      "line": 446,
+      "event": "standard_thegrounds14",
+      "english_sha256": "2f6d79fcefa7488a70c05c807cff8a9e275967b4c1eea84881cc526b41247933",
+      "ko": "...그녀는 떠나. 혹시 전부 네 상상이었고, 그냥 네가 이상해서 간 건가?"
+    },
+    {
+      "line": 447,
+      "event": "standard_thegrounds14",
+      "english_sha256": "c9bb8a9c29245befe3920e1288433cdc7e9ba8e3e57c4a00ce0ab087550fbc6a",
+      "ko": "뭐 어때. 최악의 적을 마주한 용기로 +2 BOLDNESS!"
+    },
+    {
+      "line": 453,
+      "event": "standard_thegrounds15",
+      "english_sha256": "62345634031f57672853ff77bbd5dba94ef6a406aacca64993723328ab71e43d",
+      "ko": "멋진 코스프레가 자랑스러워 로비를 활보해. 꼬마가 다가와. \"사인해 주실래요?\""
+    },
+    {
+      "line": 454,
+      "event": "standard_thegrounds15",
+      "english_sha256": "9c8f82e67f8080cf533aa975c0271f057ad0f0c0803a0d3c54c6e211e41ba663",
+      "ko": "어머, 꼬마 팬이 생겼네! 사인해서 건네자 아이가 외쳐. \"%CURRENTPLAYERNAME%이 누군데요?!\""
+    },
+    {
+      "line": 455,
+      "event": "standard_thegrounds15",
+      "english_sha256": "9a128ef54137b97492f5d6ffdbb6635423aa56377146e05d17cb0066eabcc5ba",
+      "ko": "아이는 좋아하는 캐릭터가 실존하지 않는다는 걸 깨닫고 울면서 떠나."
+    },
+    {
+      "line": 456,
+      "event": "standard_thegrounds15",
+      "english_sha256": "2475f9ded4016641d0c6ad0f495b780ab9afe3e3f1dfe811b445cb320850484a",
+      "ko": "이런, 캐릭터를 유지하는 걸 잊었네! 누군가의 꿈을 산산조각 낸 냉혹한 인간이라서 +2 BOLDNESS."
+    },
+    {
+      "line": 462,
+      "event": "standard_hotel1",
+      "english_sha256": "83549323298bd5d6f0f6a7908f44745503db142bdabeb43faded0d94b9de142d",
+      "ko": "호텔 프런트에 가서 수건을 더 달라고 해."
+    },
+    {
+      "line": 463,
+      "event": "standard_hotel1",
+      "english_sha256": "931fafcbc5fbd85b5c061aafae454b02f68faecd3edd282ba1281e93c369f6ac",
+      "ko": "하나 받아. 권력에 취한 넌 거절당할 때까지 수건을 얼마나 더 달라고 할 수 있는지 시험해 보기로 해."
+    },
+    {
+      "line": 464,
+      "event": "standard_hotel1",
+      "english_sha256": "0a6438ee80c6e6122bb5479fff37085050805af312e825ee0fc6ff6348d537e0",
+      "ko": "추가 수건을 14장이나 얻었어. 음... 이 많은 수건으로 뭘 하지? 한 장만 필요했는데."
+    },
+    {
+      "line": 465,
+      "event": "standard_hotel1",
+      "english_sha256": "b06ad8952108ed231472bf0bf8bcdd4dc1ade53ed058f4348e2c97fcc286ce58",
+      "ko": "호텔 방에 수건 요새를 만들기로 해. 장대한 건축 사업 덕에 +2 CREATIVITY."
+    },
+    {
+      "line": 471,
+      "event": "standard_hotel2",
+      "english_sha256": "9e3d71a78196fd0df17c24e1d907357a2792b7de4ff54356f68db15c2f433b52",
+      "ko": "넌 품격 있는 사람이니까 호텔 바에서 칵테일 한 잔 마시기로 해."
+    },
+    {
+      "line": 472,
+      "event": "standard_hotel2",
+      "english_sha256": "5dcb589fadb20e994e8bc07b2edad51ccf8f54bc55f526607a3ec50dec9ec491",
+      "ko": "아쉽게도 칵테일은 좆도 몰라. 웨이터가 오자 당황해서 \"비틀린 몸통\", \"언덕 위의 포옹\", \"진공청소기\" 같은 가짜 칵테일을 주문해."
+    },
+    {
+      "line": 473,
+      "event": "standard_hotel2",
+      "english_sha256": "4b63ba80363d947708555a1ebb92ec2064c8c998ac22c201af1167e871f8ede4",
+      "ko": "이게 웬일이야. 진짜로 그런 칵테일이 있네!"
+    },
+    {
+      "line": 474,
+      "event": "standard_hotel2",
+      "english_sha256": "61402feffec9a6e9564bdacd39303b1457b8622693a67d48bb5d94006fad5962",
+      "ko": "칵테일 감식가의 자격을 증명했어. 술 이름을 지어낸 +2 CREATIVITY 덕에 완전히 꽐라가 돼!"
+    },
+    {
+      "line": 480,
+      "event": "standard_hotel3",
+      "english_sha256": "5973e3790973979d134db592a4f8fdb5fead5744e00954760d6fcdd95ba8a0e2",
+      "ko": "호텔 방에서 천장을 보며 쉬고 있어. 천장을 다 외운 뒤, 룸서비스에 전화하기로 해."
+    },
+    {
+      "line": 481,
+      "event": "standard_hotel3",
+      "english_sha256": "a206b0ff11cf572eb76c81eeca5d3c54b4ff987298ee23972898ebbf607afe95",
+      "ko": "룸서비스가 \"무엇을 도와드릴까요?\"라고 물어. 넌 심심해서 천장을 다 외웠다고 말해."
+    },
+    {
+      "line": 482,
+      "event": "standard_hotel3",
+      "english_sha256": "cbb59f228cc749f3bd412922beb2a07ff9f76fefc52f540bcc0c24c26ea7eb22",
+      "ko": "알고 보니 룸서비스도 네 방 천장을 좋아하네. 그쪽도 심심해서 외웠대! 몇 시간이나 그 얘기를 해."
+    },
+    {
+      "line": 483,
+      "event": "standard_hotel3",
+      "english_sha256": "88676a768e926e9fba3d11feb269748d15dab9b35bd4243d429a327edc9e8db4",
+      "ko": "알찬 대화는 언젠가 할지도 모를 천장 테마 창작 프로젝트에 영감을 줘. +2 CREATIVITY를 얻어."
+    },
+    {
+      "line": 489,
+      "event": "standard_hotel4",
+      "english_sha256": "19aff2dbe4224f51a9a76969f3f5cc81abd967203503ae6aa889b58f33aeb4ab",
+      "ko": "시간이 좀 나서 팬아트를 그리며 그림 실력을 갈고닦기로 해."
+    },
+    {
+      "line": 490,
+      "event": "standard_hotel4",
+      "english_sha256": "fa6c9ecc673c2e9c1bf99881bde4b85121cec7051a3becfbf5f5f8b2a8f58106",
+      "ko": "손오공을 그린 다음 가슴을 달아 줘. 참 창의적인 재해석이네!"
+    },
+    {
+      "line": 491,
+      "event": "standard_hotel4",
+      "english_sha256": "96f26ddb0b49a74b0fa2258aae00c5a45b738493f8827d02a7a0364fa89a75de",
+      "ko": "다음엔 스플래시 카붐에 반전을 줘. 가슴을 붙여 \"스플래시 카붑스\"라고 이름 지어. 아주 물이 올랐네!"
+    },
+    {
+      "line": 492,
+      "event": "standard_hotel4",
+      "english_sha256": "402c59c3a146a5dcb4712bf149d3790af309db19780c7d2afaee30893773c236",
+      "ko": "마지막으로 에반게리온의 미사토를 그려. 초록 피부의 생체 기계 공생체로 바꾸고 금발로 만들어. 가슴도 한 쌍 더 달아 줘."
+    },
+    {
+      "line": 493,
+      "event": "standard_hotel4",
+      "english_sha256": "c5450e1df9272335f5d8e84453d32162480f5633f69225934383adf784409464",
+      "ko": "성공적인 가슴스토밍에 +2 CREATIVITY는 받아야겠어!"
+    },
+    {
+      "line": 499,
+      "event": "standard_hotel5",
+      "english_sha256": "ad718290e13326049c0dca061a939e16b5865328f6a6eece5c5d4997e2457cea",
+      "ko": "넌 행사장 밖에 있어. 으, 들어가는 줄이 이렇게 길다니!"
+    },
+    {
+      "line": 500,
+      "event": "standard_hotel5",
+      "english_sha256": "340ce21ad3acef5a6bb55a8c4d46f8d66cce1fd66bbcbb5b2f947f372d580a09",
+      "ko": "줄 끝을 찾으려고 계속 걷고, 걷고, 또 걸어..."
+    },
+    {
+      "line": 501,
+      "event": "standard_hotel5",
+      "english_sha256": "247f49ae5a74b06c99ad2224cefe2973c414827d7917619906fc8da9cfb35ca1",
+      "ko": "...그러다 줄에 끝이 없다는 걸 알게 돼. 사실 줄 끝이 또 다른 줄의 시작이었어!"
+    },
+    {
+      "line": 502,
+      "event": "standard_hotel5",
+      "english_sha256": "3b493e8aab6b6c3bed8dfb4ce9381c49384829cf54d8f21bb14c7822ef1d0061",
+      "ko": "이 줄은 +2 CREATIVITY를 공짜로 나눠 주는 남자에게 이어져. 행사장에 들어가길 기다리는 동안 심심하진 않겠네."
+    },
+    {
+      "line": 508,
+      "event": "standard_hotel6",
+      "english_sha256": "849ec6542c00c2b03f8885b2c07500abca248b3c7f998884af132a015fecd094",
+      "ko": "호텔 앞에서 시간을 때우는데 택시가 바로 앞에 서. 할 일 없이 거기 서 있을 다른 이유가 없잖아?"
+    },
+    {
+      "line": 509,
+      "event": "standard_hotel6",
+      "english_sha256": "abe8ee8ac82ae0bf89956e4b56cc64ed9351a97a46afd5749df82ec6b0ce184e",
+      "ko": "기사에게 사실대로 말하기 부끄러워서 타 버려. 그렇게 드라이브를 하게 돼. 와, 이 도시 멋지다!"
+    },
+    {
+      "line": 510,
+      "event": "standard_hotel6",
+      "english_sha256": "171545fdc01ff698762b46c26a09b67be46f1a43f71adca14ecb5a9fab27766a",
+      "ko": "고층 빌딩, 여러 신조형주의 미술관, 땅바닥의 수상한 구멍들... 여기서 행사를 여는 게 당연해. 정말 세계 최고의 도시 중 하나네."
+    },
+    {
+      "line": 511,
+      "event": "standard_hotel6",
+      "english_sha256": "3249f41329cc242223583aa3f9ed4e079bc11de270c75f114aa266d8924966b1",
+      "ko": "이곳들은 게임 속 장소가 아니라 그림이 없어서 아쉽네. 그래도 머릿속으로 상상하면 +2 CREATIVITY를 얻을 수 있어."
+    },
+    {
+      "line": 517,
+      "event": "standard_hotel7",
+      "english_sha256": "3525f9b5bd4cd1e0babf0510f4ead51b4969a9d70aab1b044505b604413278a8",
+      "ko": "행사장 밖에서 졸려 보이는 사람들이 앉아 있는 걸 봐."
+    },
+    {
+      "line": 518,
+      "event": "standard_hotel7",
+      "english_sha256": "8624315f3a12f2da9154187b6f26cd5363cb45d1f583918065502c4c9e518f1b",
+      "ko": "그중 하나가 말해. \"어이, 흡연 라운지에 잘 왔어. 흡연 라운지가 없길래 여기다 하나 만들었지.\""
+    },
+    {
+      "line": 519,
+      "event": "standard_hotel7",
+      "english_sha256": "03fb26a804a1f7d7104fdd6633cad1f28fb9050a54ceb9599612dfa1a408ca72",
+      "ko": "\"한 모금 할래?\" 그가 물어. 공익 광고를 너무 많이 본 넌 약물에 손대지 않지만, 그들이 잔뜩 취하는 동안 대화를 나눠."
+    },
+    {
+      "line": 520,
+      "event": "standard_hotel7",
+      "english_sha256": "83b25f8edc28a88ace7cab380e142414505ccef10bb099e41a662e924232c56c",
+      "ko": "그들에겐 과자와 ASMR 영상, \"2001: 스페이스 오디세이\"에 관한 흥미로운 의견이 있어. 이야기를 듣고 대마초 연기를 들이마셔서 +2 CREATIVITY!"
+    },
+    {
+      "line": 526,
+      "event": "standard_hotel8",
+      "english_sha256": "3a30c37b25c53dc25a3b97656bbe1185281e61d8d864ef011e052519233300fe",
+      "ko": "호텔 방에서 쉬다가 룸서비스 목록을 훑어보기로 해."
+    },
+    {
+      "line": 527,
+      "event": "standard_hotel8",
+      "english_sha256": "cf17eaef88851a29381b974317e31d8a973e9eadff98fcb38e066a781892da17",
+      "ko": "와... 종류가 정말 다양하네. 맥주 여섯 캔 묶음, 잔뜩 쌓인 신발 끈, 심지어 창의력이라는 개념 자체까지."
+    },
+    {
+      "line": 528,
+      "event": "standard_hotel8",
+      "english_sha256": "f20d3296268887b6d8fbdb948c967421c96c15db87deb96498ed3b91b0ce1acd",
+      "ko": "음, 마지막 건 비싸네. 그래도 돈은 더 이상 능력치가 아니니까, 능력치로만 따지면 이득이지."
+    },
+    {
+      "line": 529,
+      "event": "standard_hotel8",
+      "english_sha256": "0b98518e62099e36f1818cf5a9edb6a47134f858a015fdc3834a7f1ee01a8fc4",
+      "ko": "잠시 후 누군가 네 +2 CREATIVITY와 여러 신발 끈을 가져다줘. 이걸로 할 수 있는 것들을 상상해 봐!"
+    },
+    {
+      "line": 535,
+      "event": "standard_hotel9",
+      "english_sha256": "6345b4665c456316c87124c300acd45567eb225c3b3f2d032c865eca55612c1b",
+      "ko": "호텔 방에서 쉬는데 갑자기 쥐 옷을 입은 남자가 들이닥쳐."
+    },
+    {
+      "line": 536,
+      "event": "standard_hotel9",
+      "english_sha256": "0b03a56c0c48b248622385ed8fb478c0b6a96c7a1ed84a78f670324b7d1cd906",
+      "ko": "그는 \"내가 쥐다! 내가 쥐라고! 날 봐! 쥐야!\"라고 외치며 뛰어다니다가, 들어왔을 때만큼 영문 모르게 떠나."
+    },
+    {
+      "line": 537,
+      "event": "standard_hotel9",
+      "english_sha256": "ca14a7b512c3101ed7d3a3a422066c83ec0c9cd3ed75db8dc128b896caf86095",
+      "ko": "넌 프런트에 전화해 항의해. \"아, 네... 그거요. 가끔 그런답니다. 죄송합니다, %SIRMAAM%. +2 CREATIVITY로 보상해 드릴게요.\""
+    },
+    {
+      "line": 538,
+      "event": "standard_hotel9",
+      "english_sha256": "230fd3e71a2e31eb4e24cb599e412386091c6a46f68431d1c6066ba463c06c41",
+      "ko": "씨발, 그럼 받지 뭐."
+    },
+    {
+      "line": 544,
+      "event": "standard_hotel10",
+      "english_sha256": "12338332b21f47d8a0d9268e96d971bc841c3941b79f51d2a91300fc4fbd23b1",
+      "ko": "먹거리 부스에서 아이스크림콘을 사. 젠장, 너무 빨리 먹었어! 머리가 띵해!"
+    },
+    {
+      "line": 545,
+      "event": "standard_hotel10",
+      "english_sha256": "40290f266d93b90685ae6328508d7cdca26456bc558dbd7a91c64e3aaae94689",
+      "ko": "몸을 움직일 수 없는 것 같아. 영원처럼 느껴지는 시간 동안 꼼짝없이 서 있어."
+    },
+    {
+      "line": 546,
+      "event": "standard_hotel10",
+      "english_sha256": "76615c3f5cfe93f15273d4e763919276ef3546832bc586070bb2751501745848",
+      "ko": "행사 전체가 눈앞을 지나가. 영원히 얼어붙은 네가 이제 놓칠 모든 것을 상상해."
+    },
+    {
+      "line": 547,
+      "event": "standard_hotel10",
+      "english_sha256": "09565f1c11c3379773d76246d9e317e1815638256ed73beabcc5216110516b58",
+      "ko": "갑자기 머리가 안 아파져. 그 충격적인 경험 때문에 신경 경로가 영원히 바뀌어서, 사실상 +2 CREATIVITY를 얻어."
+    },
+    {
+      "line": 553,
+      "event": "standard_hotel11",
+      "english_sha256": "faef01d95719278f1dadaa9527c3cbfc14a9cd8aed3f34a098d0a1c8be0309b7",
+      "ko": "호텔을 어슬렁거리다가 회의실 앞의 \"콘 아티스트 모임\" 표지를 봐. 행사 예술가 모임이라니, 멋진데!"
+    },
+    {
+      "line": 554,
+      "event": "standard_hotel11",
+      "english_sha256": "bdbf45c9c07d2dabebd74ab760eb8e7cd2d15440b9345101bd6ad4c0ad37289c",
+      "ko": "근사한 기법을 많이 배워. 사기 수법 같은 느낌이 훨씬 강하지만... 네가 뭔데 예술인지 아닌지 판단하겠어!"
+    },
+    {
+      "line": 555,
+      "event": "standard_hotel11",
+      "english_sha256": "a29a8bd5bb9ce54d72ee753abb15b878abc73bbf088ad740f76d93aa6d4d8f75",
+      "ko": "진실을 비틀어 한몫 챙기는 법을 배우며 +2 CREATIVITY를 얻어."
+    },
+    {
+      "line": 561,
+      "event": "standard_hotel12",
+      "english_sha256": "368f9d0047a42344f94e76b021e87207912d1878168a71e86d9a8a6259efe7c7",
+      "ko": "호텔 방에서 코스프레 의상을 바느질하다가 실수로 침대 담요까지 꿰매 버려."
+    },
+    {
+      "line": 562,
+      "event": "standard_hotel12",
+      "english_sha256": "69e8c73793f5583b64073f5d554f28a890f7c33f0ba8ee20ca4c80eebb864cd6",
+      "ko": "뜯어낼 수도 있지만, 그러면 실수했다는 걸 인정해야 하잖아."
+    },
+    {
+      "line": 563,
+      "event": "standard_hotel12",
+      "english_sha256": "68daad6dbc4043275f765e16769dd9074129fb351b08dc20fc81ca30fb8badef",
+      "ko": "그래서 담요를 의상 디자인에 제대로 반영해, 그 멍청한 자존심을 지키기로 해."
+    },
+    {
+      "line": 564,
+      "event": "standard_hotel12",
+      "english_sha256": "6f37d5f014f8a87bc103c90a87a45eeba2a7bf86025aa4682b60e5b1abd0c688",
+      "ko": "고집 센 바보 좀 봐. 자, 틀에 얽매이지 않는 사고에 +2 CREATIVITY 받아."
+    },
+    {
+      "line": 570,
+      "event": "standard_hotel13",
+      "english_sha256": "f95bab835a365876d240d680372ed8b600020ab6c6735c219076dd7d212af8df",
+      "ko": "호텔 방에서 할 일 없이 쉬고 있어. 돈 안 드는 재미를 찾아 두리번거리다가 의자에 걸린 에이프릴의 가방을 발견해."
+    },
+    {
+      "line": 571,
+      "event": "standard_hotel13",
+      "english_sha256": "7623bb9ba314beb4a9ab3cfc9b3b794837624b467466c3ecd973618aceecf005",
+      "ko": "감히 아이돌 가방의 신성함을 침해할 수 있겠어? 당연히 할 수 있지! 가방을 집어 열자..."
+    },
+    {
+      "line": 572,
+      "event": "standard_hotel13",
+      "english_sha256": "6c97deba0ca74347f7a2ca3e1f6cc0bb3c62f3c9430dfe8740aa8aa709b0175d",
+      "ko": "...안 돼. 말도 안 돼. 너무 끔찍해서 묘사할 수가 없어. 내가 그런 말을 해 줄 거라고 기대하지 마."
+    },
+    {
+      "line": 573,
+      "event": "standard_hotel13",
+      "english_sha256": "05d017bace6c5f2cb9a774a55f8b444f593708f589c2ac0c457af9b0a444aa21",
+      "ko": "자, +2 CREATIVITY 받아서 직접 상상해. 난 빠질게."
+    },
+    {
+      "line": 579,
+      "event": "standard_hotel14",
+      "english_sha256": "a29cf4d37c76667be52cc9a2e4be97b3338c1bd0d836a5a781c52ff8a908533b",
+      "ko": "호텔 방에서 짐을 풀어. 젠장, 코스프레용 속옷을 두고 왔어!"
+    },
+    {
+      "line": 580,
+      "event": "standard_hotel14",
+      "english_sha256": "4f63fd1e709b8f775e374384ae28b2751db8584e9012349139a002da15522168",
+      "ko": "코스프레를 100% 충실하게 재현하고 싶었는데, 평범한 속옷을 입어야 하네. 겉으로는 전혀 티 안 나는 코스프레의 비극이야!"
+    },
+    {
+      "line": 581,
+      "event": "standard_hotel14",
+      "english_sha256": "79aa81e99903e08607b1bb36f20ca0d6302f03512fd7b073cabf7630560f2020",
+      "ko": "마음이 아프네... 자, +2 CREATIVITY 받아서 집에 두고 온 속옷을 입었다고 상상해."
+    },
+    {
+      "line": 587,
+      "event": "standard_hotel15",
+      "english_sha256": "b105117ed9842d24b2fbb9d5b96154758134cab69d407548dda8ee6bfd2f8f6c",
+      "ko": "호텔에서 정성껏 코스프레 의상을 입어. 나갈 준비가 다 됐는데... 어라. 배에서 꾸르륵 소리가 나."
+    },
+    {
+      "line": 588,
+      "event": "standard_hotel15",
+      "english_sha256": "0e5bfd3cc9bfa97c36bb9187ec3073de97bac2bfa2b3f2289e08c9ca5e147352",
+      "ko": "의상을 벗을 시간이 없어서 코스프레한 채 똥을 싸야겠어. 묘한 경험이네. 가상 캐릭터가 똥 싸는 걸 볼 일은 드물잖아."
+    },
+    {
+      "line": 589,
+      "event": "standard_hotel15",
+      "english_sha256": "1774a061b9684f2baa895daee978ae4db8ed9cba9b22e3a96cdbd7cfe2cf0d8d",
+      "ko": "화장실 코스프레로 그 캐릭터를 더 깊이 이해하게 돼. 뜻밖의 방식으로 지식을 넓혀서 +2 CREATIVITY."
+    },
+    {
+      "line": 594,
+      "event": "forced_allsame_standard_hotel_hotel",
+      "english_sha256": "82910f48f03d4348d8ebe9dddac325762817839cebc5ff47be4fdf5cc1126716",
+      "ko": "호텔에 가자... 뭘 하기도 전에 참을 수 없는 똥 마려움이 덮쳐."
+    },
+    {
+      "line": 595,
+      "event": "forced_allsame_standard_hotel_hotel",
+      "english_sha256": "9e2ce374dcc5e40d12570a2490ce442b964c5e6e41dcd534d2574a69b9030a31",
+      "ko": "넌 운이 좋다고 느껴. 다른 곳에서 똥 쌀 배짱은 없거든."
+    },
+    {
+      "line": 600,
+      "event": "forced_allsame_standard_hotel_bigplateau",
+      "english_sha256": "2a331c795903a013e5a66195c65c421f0a79b7d031bc9bc2a8a36b524d0c9808",
+      "ko": "메인 무대로 가는데 장이 부들부들 떨려. 빨리 호텔로 돌아가!"
+    },
+    {
+      "line": 602,
+      "event": "forced_allsame_standard_hotel_bigplateau",
+      "english_sha256": "92e1f332c6450a2a188e37607a280bc491de1aad371f852166e39073cbcb2dc4",
+      "ko": "그토록 기대한 패널 토크는 놓쳤어... 그래도 네 엉덩이도 아주 흥미로운 할 말이 있었네."
+    },
+    {
+      "line": 607,
+      "event": "forced_allsame_standard_hotel_grounds",
+      "english_sha256": "a88d5b0670eda85cdc61909833cc77b4644993941aeff97c9c64e8a4ec98f8d9",
+      "ko": "로비에서 놀고 있는데 장이 우렁차게 울기 시작해. 잠깐, 이 인파 속에 숨어 여기서 똥을 싸면 누가 눈치챌지 생각해 봐."
+    },
+    {
+      "line": 609,
+      "event": "forced_allsame_standard_hotel_grounds",
+      "english_sha256": "91fb9c91acf2b9b818d886eb45e15d11901e53a1f94db68dc843b9372ee5f73e",
+      "ko": "하지만 오늘은 이성이 이겨. 호텔 방으로 전력 질주해 혼자 똥을 싸기로 해."
+    },
+    {
+      "line": 614,
+      "event": "forced_allsame_standard_hotel_community",
+      "english_sha256": "a790b60437675400c9ee0af36dae1427651f29ef313abcb79c53e2212b800fd3",
+      "ko": "아, 커뮤니티 구역! 여기서 하고 싶었던 게... 아아아악, 씨발, 똥 싸겠어!"
+    },
+    {
+      "line": 616,
+      "event": "forced_allsame_standard_hotel_community",
+      "english_sha256": "9df6526601fa5aa94dc7808ffadd408caec4801a7c91234d9eef482e2bc74e70",
+      "ko": "지금까지 누구도 달리지 못한 속도로 달려, 온몸에 똥칠하기 직전에 호텔 방에 도착해."
+    },
+    {
+      "line": 621,
+      "event": "forced_allsame_standard_hotel_stands",
+      "english_sha256": "22b4d144564ae9a4ec40cbcf164464b2b92ed5ca7199bf6ef45702c689912098",
+      "ko": "굿즈 홀에서 돈을 엄청 썼을 거야... 곧 똥이 나오려는 것만 아니면. 빨리, 애니 테마 화장지 파는 부스 없어?!"
+    },
+    {
+      "line": 623,
+      "event": "forced_allsame_standard_hotel_stands",
+      "english_sha256": "11f64bb466609139a650a7a4095fb992101f901dce54a9886d837ff345e05b20",
+      "ko": "없어. 그래서 너답지 않은 호텔의 밋밋한 화장지를 잘 활용하려고 호텔 방으로 최대한 빨리 향해."
+    },
+    {
+      "line": 629,
+      "event": "forced_specificdestruction_standard_bigplateau",
+      "english_sha256": "9fed5666b5368ae99d0bfa7955c2c9832ea7fecb665186bfaae9f1aa92898f8e",
+      "ko": "메인 무대에 가. 꼭 보고 싶었던 패널 토크가 있었거든."
+    },
+    {
+      "line": 630,
+      "event": "forced_specificdestruction_standard_bigplateau",
+      "english_sha256": "70ff299bc33555aece94fa2f614126f402d2299c7675b5b21ed9d494b53f2069",
+      "ko": "그런데 멀리서도 보이다시피, 메인 무대는 산산조각이 났어."
+    },
+    {
+      "line": 631,
+      "event": "forced_specificdestruction_standard_bigplateau",
+      "english_sha256": "e56a947930718a1b9698f1ae0ef2080451f6fc3dec9a759edb844ef4a090cbf1",
+      "ko": "설마 폐허 사이에서도 계속 행사를 진행할 거라고 생각했어?"
+    },
+    {
+      "line": 632,
+      "event": "forced_specificdestruction_standard_bigplateau",
+      "english_sha256": "47e254f90e831917da4098afabe5d2f13ab8bf1972e0544c53b8bd74fa0acb15",
+      "ko": "어리석긴."
+    }
+  ]
+}

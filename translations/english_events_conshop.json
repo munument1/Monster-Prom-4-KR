@@ -1,0 +1,197 @@
+{
+  "source_sha256": "8e1c8882c8d9335b804e44f376fe79afaf7173a27d72a78da4a5cf3007bbcaab",
+  "entries": [
+    {
+      "line": 4,
+      "event": "conshop_intro_1",
+      "english_sha256": "649d4250e20d5dbd9e6e6aac3e6f8f8b5279f4dae8ec36c846080025096a91f3",
+      "ko": "이게 누구야, 내가 제일 좋아하는 손님이잖아!"
+    },
+    {
+      "line": 5,
+      "event": "conshop_intro_1",
+      "english_sha256": "d3d0bf8f0dee9b665aa7619f8b7c4e38bcf585c27560673b7f9a42725d87b9d4",
+      "ko": "뭐, 사실 아직 제일 좋아하진 않지만... 상자부터 골라 주면 그렇게 될 수도 있지."
+    },
+    {
+      "line": 11,
+      "event": "conshop_intro_2",
+      "english_sha256": "5b2aea4e4209a8e60c1fb094628547bbd23b58f4221322be8a90720df88b4aca",
+      "ko": "어서 와, 어서 와!"
+    },
+    {
+      "line": 12,
+      "event": "conshop_intro_2",
+      "english_sha256": "25c0617461b29399eaa3d48d13bdd7c1f365f6cc0ef37602097403be92702ca7",
+      "ko": "아무 상자나 골라 봐!"
+    },
+    {
+      "line": 18,
+      "event": "conshop_intro_3",
+      "english_sha256": "abcbe92c45fb74ea7b1c37d467d1a515a52cb5f24c7678baa95a96e970290208",
+      "ko": "운명이 고르고 손님이 돈 내는 곳, 내 미스터리 상점에 잘 왔어!"
+    },
+    {
+      "line": 24,
+      "event": "conshop_intro_4",
+      "english_sha256": "c3298213e635a8205a2b05ad874545612eb953fca362d904cce1a54fdfa29d66",
+      "ko": "또 왔네, 귀염둥이."
+    },
+    {
+      "line": 25,
+      "event": "conshop_intro_4",
+      "english_sha256": "92ac8c5c8a5f96f6b2b3d2474fe47f018c6cf79df2fe12fad2b9efa45dfefaab",
+      "ko": "어떻게 하는지 알지? 눈은 감고, 선택은 현명하게!"
+    },
+    {
+      "line": 31,
+      "event": "conshop_intro_5",
+      "english_sha256": "70cbc6a1b369e2e7c1533fffa4f3f179029211a5ec9c91a14301f82642c56f8d",
+      "ko": "오, 미스터리의 맛을 아는 %MANWOMAN% 납셨군!"
+    },
+    {
+      "line": 32,
+      "event": "conshop_intro_5",
+      "english_sha256": "df1614c024acd29809ae71d2faff1d360b8c1f05f05b546208a3750fcc725303",
+      "ko": "아무 상자나 집어 봐! 전부 똑같으면서도 끝없이 다르거든!"
+    },
+    {
+      "line": 38,
+      "event": "conshop_intro_6",
+      "english_sha256": "03f949ae3a19f6a991fdfac690ad670cd438ef6c09c83c1fc11bd495fdc3c236",
+      "ko": "이런, 이런, 누가 왔나? 미스터리 애호가잖아!"
+    },
+    {
+      "line": 39,
+      "event": "conshop_intro_6",
+      "english_sha256": "500a8a229de2b9d2dee11588c26dba295d2258270dd1c020c9fac830240b1451",
+      "ko": "네게 딱 맞는 물건이 있지. 바로 네가 고르는 그 물건!"
+    },
+    {
+      "line": 45,
+      "event": "conshop_intro_7",
+      "english_sha256": "33eb1d87c234398bd224c9cc215c5363a66c669504bb25ba82be308b0693bca7",
+      "ko": "내 조촐한 가게에 잘 왔어. 얼마나 조촐한지 영업 허가도 없다니까!"
+    },
+    {
+      "line": 46,
+      "event": "conshop_intro_7",
+      "english_sha256": "6606d9112fee1283cac45964b3f2a6f9c46db3adcff483bdca0324938a3fa5f1",
+      "ko": "부끄러워하지 말고, 영업 중지 명령 날아오기 전에 상자부터 골라!"
+    },
+    {
+      "line": 52,
+      "event": "conshop_intro_8",
+      "english_sha256": "63ec3ad96d0d09eb12b46808b43e18a00781ae0f89e0c43477aef1337c0f70f6",
+      "ko": "안녕! 랜덤 박스 하나 어때?"
+    },
+    {
+      "line": 53,
+      "event": "conshop_intro_8",
+      "english_sha256": "11219aac97df38bdb4c05e65685598fe1cb0ab449cc3d639b0de2ed9a8cd3c13",
+      "ko": "뭐가 들었는지는 아무도 몰라... 하나 골라 봐. 같이 알아보자고!"
+    },
+    {
+      "line": 59,
+      "event": "conshop_intro_9",
+      "english_sha256": "e4f554d449450b798cc5a8b98402bfc520f21151cb98be68ef6a2f4580160a76",
+      "ko": "쓸 돈만 있다면 줄 상자도 있지!"
+    },
+    {
+      "line": 60,
+      "event": "conshop_intro_9",
+      "english_sha256": "48798e1c70d4cbe4723d33d1fc49270867edc1f9d08a29867933c2397c05e578",
+      "ko": "어서 하나 골라 봐. 결과는 네가 감당하고!"
+    },
+    {
+      "line": 66,
+      "event": "conshop_outro_1",
+      "english_sha256": "bbfd31b522345b48716331bb831086c88a1afe7e416dfe084eac4ce01fceeaec",
+      "ko": "감사합니다, 또 오세요, 기타 등등."
+    },
+    {
+      "line": 67,
+      "event": "conshop_outro_1",
+      "english_sha256": "0abda2c2a3dae4d0e02d48145f3a5122b8d81c723162df94b8cb92ee28ff9124",
+      "ko": "다음 손니이임!"
+    },
+    {
+      "line": 73,
+      "event": "conshop_outro_2",
+      "english_sha256": "be8e0889d498bd0af0221d2aeae80afc25d35723e533dca8e58e7f21024bf00e",
+      "ko": "네 돈을 받는 건 언제나 즐겁지! 또 와!"
+    },
+    {
+      "line": 79,
+      "event": "conshop_outro_3",
+      "english_sha256": "bf2e470a386208d6d5d92b5e202c405b466d14d3057d728acd56108950aa10b8",
+      "ko": "즐거운 거래였어!"
+    },
+    {
+      "line": 85,
+      "event": "conshop_outro_4",
+      "english_sha256": "e806f594411d318afe7644c4b5e51fd8bf8797b17d377341a196e2961f4b23c5",
+      "ko": "들러 줘서 고마워!"
+    },
+    {
+      "line": 91,
+      "event": "conshop_outro_5",
+      "english_sha256": "fea22c52a03914df28341ba289ca7753cba8a62c7cb4c877471c4a214f09ad27",
+      "ko": "이건 정말 탁월한 구매였다고 할 수 있겠어!"
+    },
+    {
+      "line": 92,
+      "event": "conshop_outro_5",
+      "english_sha256": "4b01cc1d5fdeb91453b26df00d02487a8c9d6a350034f3c609b2c52c748a73a8",
+      "ko": "자, 착하게 줄 좀 비켜 줄래?"
+    },
+    {
+      "line": 98,
+      "event": "conshop_outro_6",
+      "english_sha256": "7b99b8262721b326fad74d102c8e036b45a43f221d73f1814b25219f734bc76a",
+      "ko": "아, 잘 골랐어!"
+    },
+    {
+      "line": 99,
+      "event": "conshop_outro_6",
+      "english_sha256": "5868daeb8fc76d9313790faa767cc1be53ec16cfb7e9c08716e1dbc3788be5e4",
+      "ko": "아무렇게나 골라서 내 최고의 상품을 집다니, 진정한 감식가로군!"
+    },
+    {
+      "line": 105,
+      "event": "conshop_outro_7",
+      "english_sha256": "d8ba29c8e770c040a07242915bdc6d1e3365cb584b45553a445311eab0103367",
+      "ko": "아주 훌륭해! 이제 착하게 좀 꺼져 줄래?"
+    },
+    {
+      "line": 111,
+      "event": "conshop_outro_8",
+      "english_sha256": "4bf9052053613402f01cc789b3ae492c9e56d5a96a80f3c8833c5e79eb731d68",
+      "ko": "받은 게 마음에 들면 좋겠네! 난 확실히 마음에 들었거든."
+    },
+    {
+      "line": 117,
+      "event": "conshop_outro_9",
+      "english_sha256": "87bbbad66fd025c328bfcf7577b0993bb5c824c3a363252d1c476b0a765cad2f",
+      "ko": "자, 미스터리 해결!"
+    },
+    {
+      "line": 118,
+      "event": "conshop_outro_9",
+      "english_sha256": "689a1ffbf454a808f9e66db241a60af395d302bf3ff0384e5156c23704814886",
+      "ko": "또 도박하고 싶어지면 찾아와!"
+    },
+    {
+      "line": 124,
+      "event": "conshop_outro_10",
+      "english_sha256": "bc23a062700f948d3ae65723181c31a430002dd7b5b7a9ead86f3d0555a01af8",
+      "ko": "사람들 말이 맞아. 인생은 랜덤 박스 가게 같지..."
+    },
+    {
+      "line": 125,
+      "event": "conshop_outro_10",
+      "english_sha256": "417b006130bbfa13a4cf88e9009cd0872730f8d45a020866993d6735ae763044",
+      "ko": "돈은 다 잃고, 손에 남는 건 아무짝에도 쓸모없는 잡동사니뿐!"
+    }
+  ]
+}

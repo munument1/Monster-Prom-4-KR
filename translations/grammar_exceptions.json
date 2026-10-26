@@ -1,0 +1,21 @@
+{
+  "english_events_tutorial:15": {
+    "english_sha256": "bae5d69a40035e1a51dfe076cc33b5f71bd0296f5bc8071609d36ec0ad216c57",
+    "korean_sha256": "fe90f7b4555a2ead5d1a5404a81c55bf16e539a6a26f8a826401e963723f3933",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "reason": "Remove redundant English pronoun/copula expansion for natural Korean; identity and gameplay controls remain unchanged."
+  },
+  "english_events_tutorial:53": {
+    "english_sha256": "9aa5c90c05679c8b4bd786499acd11084f796258ca8ccd2f9fa83a754ab4645e",
+    "korean_sha256": "a0b472f34e38b7110730b64d8630510a704db7a532327948bab58611a8898a55",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "reason": "Remove redundant English pronoun/copula expansion for natural Korean; identity and gameplay controls remain unchanged."
+  }
+}

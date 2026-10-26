@@ -1,0 +1,629 @@
+{
+  "source_sha256": "a84434a2f661c8363f9a72dc8311828176784d9578b22b16209ab1f92622e098",
+  "entries": [
+    {
+      "line": 1,
+      "event": "challenge 1",
+      "english_sha256": "67833d1a193edb45bcb48ee82c962fc8576bad9ed97b5bcc65c8a9ae2b15d787",
+      "ko": "모두 동물 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 2,
+      "event": "challenge 1",
+      "english_sha256": "8f4fdd684f1222d6e536aa02173a1afd0b4389b4cfd1d2cde616ac36563f9e97",
+      "ko": "새 마법소녀 애니의 주인공 동료가 그 동물이라면 얼마나 흥미로울지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 5,
+      "event": "challenge 2",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 6,
+      "event": "challenge 2",
+      "english_sha256": "79e94fa3a396ea01b42625633beb4aabb5fb177151322ea68e43420b33ab7c7d",
+      "ko": "%ANYPLAYERNAME%(이)가 그 캐릭터의 모습을 따라 하면 얼마나 잘 어울릴지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 9,
+      "event": "challenge 3",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 10,
+      "event": "challenge 3",
+      "english_sha256": "581331c6ff5e80f8e496059525a3f31a697970f52708e6e6ef4c717b761b8165",
+      "ko": "어떤 캐릭터에게 휴가가 가장 절실한지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 13,
+      "event": "challenge 4",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 14,
+      "event": "challenge 4",
+      "english_sha256": "a7dde3e741e63308d5acd4abaef8ca9cfc57417e864e3174a03988b572ced8bc",
+      "ko": "그 캐릭터가 사실 허리 아래쪽에 문신을 했을 가능성으로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 17,
+      "event": "challenge 5",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 18,
+      "event": "challenge 5",
+      "english_sha256": "82ab2e44c79a48939ab6697dd90cdd7f35e3da4f255e6c7419c0c6f87b1a89da",
+      "ko": "어떤 캐릭터가 오버 택시 기사로 나타났을 때 가장 안심될지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 21,
+      "event": "challenge 6",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 22,
+      "event": "challenge 6",
+      "english_sha256": "e0fcb1c70c8a651defdaba9d02d7bb11cfbbfd0375a1525af3da3ea878675a02",
+      "ko": "가슴을 열고 수술받아야 하는데 그 캐릭터가 집도의라면 살아남을 확률이 얼마나 될지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 25,
+      "event": "challenge 7",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 26,
+      "event": "challenge 7",
+      "english_sha256": "c686d75cf6024debcec3027b10d88a8e4f5283fa3d03bf5981ed358b86e47cb9",
+      "ko": "그 캐릭터가 \"몬스터 프롬 7\"의 깜짝 공략 상대로 나오면 얼마나 열광할지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 29,
+      "event": "challenge 8",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 30,
+      "event": "challenge 8",
+      "english_sha256": "96d8528870e0441f03a3a56723efeef76a3c9a4991771d801b46b54646af8624",
+      "ko": "그 캐릭터가 네 결혼식 주례라면 얼마나 끔찍할지로 플레이어 순서를 정합니다."
+    },
+    {
+      "line": 33,
+      "event": "challenge 10",
+      "english_sha256": "1aa7496723ba5146830d7ebc1c869cddb12f4c909b417b550fa6813de20ec0a6",
+      "ko": "모두 음식 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 34,
+      "event": "challenge 10",
+      "english_sha256": "17b2c86c6e01b6facf93e40d2f26882819a24013e65f78e2a575509407a0089e",
+      "ko": "은하 간 외교 회담에서 외계인에게 절대로 내놓고 싶지 않은 음식이 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 37,
+      "event": "challenge 11",
+      "english_sha256": "271882316cc70ef28c72823f91a81dd00d9a258aac9d74d9b5ec82e984e043a4",
+      "ko": "모두 브랜드 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 38,
+      "event": "challenge 11",
+      "english_sha256": "f6c0372194269406de2de3474e2bf809a5e09020a1aa0384dfa20d0021b385ef",
+      "ko": "진짜 배틀 로열이 합법화됐습니다. 참가자를 후원할 가능성이 가장 낮은 브랜드가 뭔지로 플레이어 순서를 정합니다."
+    },
+    {
+      "line": 41,
+      "event": "challenge 12",
+      "english_sha256": "271882316cc70ef28c72823f91a81dd00d9a258aac9d74d9b5ec82e984e043a4",
+      "ko": "모두 브랜드 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 42,
+      "event": "challenge 12",
+      "english_sha256": "c462071f6df0cab8dab1b6f330e756f6053e47782cfb2c16f0362f1fc492bd9c",
+      "ko": "%ANYPLAYERNAME%(이)가 사실 그 회사의 CEO였다는 걸 알면 얼마나 놀랄지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 45,
+      "event": "challenge 13",
+      "english_sha256": "3bece634950e5ce7e321bed41112b4d60287c9dff90e3c05c7e4b4533a525919",
+      "ko": "모두 물건 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 46,
+      "event": "challenge 13",
+      "english_sha256": "4f3d7fcd610c2feaf6671707aad0c56352e0e7885f9b944613950b5c95ca442d",
+      "ko": "새 액션 게임의 상징적인 무기로 쓰면 가장 재미있을 물건이 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 49,
+      "event": "challenge 14",
+      "english_sha256": "d432244aac139eb5c9246df008d009355d9d59d2c447c552cc42143889d554af",
+      "ko": "모두 노래 한 곡을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 50,
+      "event": "challenge 14",
+      "english_sha256": "e5724eb6bc8cf6fc52ede7f4f38284a8a794dbfc754a68e53047585ec620ab05",
+      "ko": "그 노래가 앞으로 10년 동안 머릿속에서 끊임없이 재생된다면 얼마나 고문일지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 53,
+      "event": "challenge 15",
+      "english_sha256": "3bece634950e5ce7e321bed41112b4d60287c9dff90e3c05c7e4b4533a525919",
+      "ko": "모두 물건 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 54,
+      "event": "challenge 15",
+      "english_sha256": "9fd288804313cb23226b878f573d7f4d8522db0bd1fad3c2ab2e9a46115f6320",
+      "ko": "주인공이 판타지 세계에서 그 물건으로 다시 태어나는 이세계물이 얼마나 재밌을지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 57,
+      "event": "challenge 16",
+      "english_sha256": "b8247f6687416f20120e800acf2de7e3334cf63de3d126e689c7d380c2407e08",
+      "ko": "모두 아무 소리나 하나씩 내 봐. 다음으로 넘어가기 전에 다른 플레이어들에게 들려줘!"
+    },
+    {
+      "line": 58,
+      "event": "challenge 16",
+      "english_sha256": "cd1f09fafaab9a01be1bc7a8a8312fd78bc3841b9a65cd7ce13c5af788acd493",
+      "ko": "옛날 만화책의 주먹질 효과음으로 쓰면 가장 웃길 소리가 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 61,
+      "event": "challenge 17",
+      "english_sha256": "b8247f6687416f20120e800acf2de7e3334cf63de3d126e689c7d380c2407e08",
+      "ko": "모두 아무 소리나 하나씩 내 봐. 다음으로 넘어가기 전에 다른 플레이어들에게 들려줘!"
+    },
+    {
+      "line": 62,
+      "event": "challenge 17",
+      "english_sha256": "8f8832df5f7dea85eb7e2d084dc9460f557d3bbe18d4f4c248c1be81604f3ee9",
+      "ko": "섹스 도중 상대가 내면 가장 당황스러울 소리가 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 65,
+      "event": "challenge 18",
+      "english_sha256": "b8247f6687416f20120e800acf2de7e3334cf63de3d126e689c7d380c2407e08",
+      "ko": "모두 아무 소리나 하나씩 내 봐. 다음으로 넘어가기 전에 다른 플레이어들에게 들려줘!"
+    },
+    {
+      "line": 66,
+      "event": "challenge 18",
+      "english_sha256": "a6aa007b4efcecbf37291f3be2a089a8d0c1653856293b849f22d39a78130305",
+      "ko": "자동차 엔진에서 절대로 듣고 싶지 않은 소리가 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 69,
+      "event": "challenge 19",
+      "english_sha256": "073d546de310be52653f3db30442e250c8ebff949e2f3f97bb33d2e95f36c856",
+      "ko": "모두 영화 한 편을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 70,
+      "event": "challenge 19",
+      "english_sha256": "eebb0d43e48b811b3ef32c2c5f317a2cd532b0ce0d293f13dd720434e6e1df41",
+      "ko": "요즘 기준으로 리메이크가 가장 필요 없는 영화가 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 73,
+      "event": "challenge 20",
+      "english_sha256": "67833d1a193edb45bcb48ee82c962fc8576bad9ed97b5bcc65c8a9ae2b15d787",
+      "ko": "모두 동물 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 74,
+      "event": "challenge 20",
+      "english_sha256": "ee9a99ca8ef0eac6aa4d8b821f1333c4d77fa7a6b5564d338d2a729026e543cd",
+      "ko": "%ANYPLAYERNAME%(이)가 그 동물 여덟 마리에게 공격받아 죽는다면 얼마나 웃길지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 77,
+      "event": "challenge 21",
+      "english_sha256": "67833d1a193edb45bcb48ee82c962fc8576bad9ed97b5bcc65c8a9ae2b15d787",
+      "ko": "모두 동물 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 78,
+      "event": "challenge 21",
+      "english_sha256": "941a100c0d40f24f982769f9542aefbee8ce65a8069438fdb3ac37124547b0d3",
+      "ko": "그 동물에게 영혼 따윈 전혀 없을 가능성으로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 81,
+      "event": "challenge 22",
+      "english_sha256": "073d546de310be52653f3db30442e250c8ebff949e2f3f97bb33d2e95f36c856",
+      "ko": "모두 영화 한 편을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 82,
+      "event": "challenge 22",
+      "english_sha256": "de83dac3d19f4fa628281da578ce591523a3930843ce6adb4554c4e75c788d75",
+      "ko": "%ANYPLAYERNAME%(이)가 깜짝 카메오로 나오면 가장 웃길 영화가 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 85,
+      "event": "challenge 23",
+      "english_sha256": "073d546de310be52653f3db30442e250c8ebff949e2f3f97bb33d2e95f36c856",
+      "ko": "모두 영화 한 편을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 86,
+      "event": "challenge 23",
+      "english_sha256": "efcb0762b95dfae1dadec64e5ac320c1e803f568437f1acc1f8f428e4700a49a",
+      "ko": "그 영화가 애니로 제작되면 얼마나 이상할지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 89,
+      "event": "challenge 24",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 90,
+      "event": "challenge 24",
+      "english_sha256": "24d7d7a0a69e2e2c4d364035434cf13826bba3845975791a0bbe1a907e8be154",
+      "ko": "그 유명인이 사실 퍼리 커뮤니티의 일원이라는 걸 알아도 얼마나 안 놀랄지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 93,
+      "event": "challenge 25",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 94,
+      "event": "challenge 25",
+      "english_sha256": "668879e775cd39126ee122137b0b4f9a0caa9edd9d0a78b365eb7894d8eb61c0",
+      "ko": "10년 전에 살해당하고 복제 로봇으로 바뀌었을 가능성이 가장 높은 유명인이 누군지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 97,
+      "event": "challenge 26",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 98,
+      "event": "challenge 26",
+      "english_sha256": "a7c2fe2060308b708202a00713cfb75a0b95364442b081448ccf447270df7c1f",
+      "ko": "그 유명인이 %ANYPLAYERNAME%의 의절한 형제자매라는 걸 알게 될 가능성이 얼마나 희박한지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 101,
+      "event": "challenge 27",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 102,
+      "event": "challenge 27",
+      "english_sha256": "c3a2aa37dc07dd7770c2c4486e82328dd267ca28c71596538c2cef7a8b52ebdf",
+      "ko": "%ANYPLAYERNAME%(이)가 그 유명인과 2일 동안 술판을 벌였고 이제는 정기적으로 문자를 주고받는다고 털어놓으면 얼마나 충격적일지로 플레이어 순서를 정합니다."
+    },
+    {
+      "line": 105,
+      "event": "challenge 28",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 106,
+      "event": "challenge 28",
+      "english_sha256": "711e3fd937dae6159af330a8ac7d706c5f7edc2e68e02291df80a327df10fd9d",
+      "ko": "%ANYPLAYERNAME%(이)가 그 유명인의 스턴트 대역으로 고용될 가능성이 얼마나 희박한지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 109,
+      "event": "challenge 29",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 110,
+      "event": "challenge 29",
+      "english_sha256": "56a504a19f124c0d4657c69dda1d2119c26d4cd8f8c6a70ed7f4dae57e7d1034",
+      "ko": "그 캐릭터에게 탑의 기운이 얼마나 강한지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 113,
+      "event": "challenge 30",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 114,
+      "event": "challenge 30",
+      "english_sha256": "b49d8d710a4a1b5e81fa50cb7a7089a98f5922c34f32a99ae7b36a71c151e193",
+      "ko": "그 캐릭터에게 바텀의 기운이 얼마나 강한지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 117,
+      "event": "challenge 31",
+      "english_sha256": "491eac5dc9c4ce18e27e392ff925f0ac39a98c843a61606fbe5aae9b41ef78af",
+      "ko": "모두 직업 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 118,
+      "event": "challenge 31",
+      "english_sha256": "b8e2417cee3f0915f454ec8970a8711c68e23909c92f6da7572338942e457b68",
+      "ko": "그 직업을 소재로 만든 VR 시뮬레이터가 얼마나 지루할지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 121,
+      "event": "challenge 32",
+      "english_sha256": "3bece634950e5ce7e321bed41112b4d60287c9dff90e3c05c7e4b4533a525919",
+      "ko": "모두 물건 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 122,
+      "event": "challenge 32",
+      "english_sha256": "b2685ed79aa28c0cd592e4232a90dff7407db41087417cb4f340a60073e5a7f1",
+      "ko": "배틀 로열 상황에서 유일한 무기로 쓰기에 그 물건이 얼마나 좋을지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 125,
+      "event": "challenge 33",
+      "english_sha256": "f1da229f2cab70d05afdd56a1a8464733f17fb3143e915e755ba821312d56c0d",
+      "ko": "모두 물건 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 126,
+      "event": "challenge 33",
+      "english_sha256": "4a4a0096182a1cfdfe572f7d48dcd5df60250539b3988c36a6fb91d6f8129a5b",
+      "ko": "무인도에서 유일하게 가진 물건이라면 얼마나 유용할지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 129,
+      "event": "challenge 34",
+      "english_sha256": "f1da229f2cab70d05afdd56a1a8464733f17fb3143e915e755ba821312d56c0d",
+      "ko": "모두 물건 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 130,
+      "event": "challenge 34",
+      "english_sha256": "858f4596b3d66d79c7d4f2e9ce62d19255578ceab5f1f2e38e6de15fd6f3fe82",
+      "ko": "300년 뒤에도 인류가 그 물건을 쓰고 있을 가능성이 얼마나 낮을지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 133,
+      "event": "challenge 35",
+      "english_sha256": "92e3446a80acc040b5074e4d7aa91d2314c44d81a66281d74d7a606e23f7e52d",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 134,
+      "event": "challenge 35",
+      "english_sha256": "44f5248008c3288426c1389900c0a1ad514838c29974b0c9734009d898c9045d",
+      "ko": "세상이 멸망하고 있지만, 다행히 너와 친구들에겐 벙커가 있습니다. 그 유명인을 벙커에 받아 주면 얼마나 견디기 힘들지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 137,
+      "event": "challenge 36",
+      "english_sha256": "0a6d4a473dfebcb473d8d8864c2cba099a60500b2594d7226e5021b76e1cfc1a",
+      "ko": "모두 음식 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 138,
+      "event": "challenge 36",
+      "english_sha256": "e719b251ee0644234e4bfa479046c43a320164dbc485c2f46ca2cf7eeed2a0b3",
+      "ko": "외계인이 지구에 왔습니다. 그 음식이 먹을 수 있는 것이라는 걸 외계인이 직관적으로 이해하기 얼마나 어려울지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 141,
+      "event": "challenge 37",
+      "english_sha256": "67833d1a193edb45bcb48ee82c962fc8576bad9ed97b5bcc65c8a9ae2b15d787",
+      "ko": "모두 동물 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 142,
+      "event": "challenge 37",
+      "english_sha256": "94eb53cc0f2dd025a7d09fa0cb71427f31b396b59c41e6b29ad6dfb8304bcb1a",
+      "ko": "그 동물 무리에게 길러졌다면 지금 얼마나 개판으로 자랐을지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 145,
+      "event": "challenge 38",
+      "english_sha256": "1aa7496723ba5146830d7ebc1c869cddb12f4c909b417b550fa6813de20ec0a6",
+      "ko": "모두 음식 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 146,
+      "event": "challenge 38",
+      "english_sha256": "fa8ed48c08813b94b732fbdb1c4e64fe0023b314f1f8f04686a7b089c24ede4f",
+      "ko": "생존이 걸린 상황에서 어마어마한 양으로 갖고 싶은 음식이 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 149,
+      "event": "challenge 39",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 150,
+      "event": "challenge 39",
+      "english_sha256": "f15637bf92b67779e4255a91aa7fe07c6c3614deef46bbacb85f315c9d9a883b",
+      "ko": "그 캐릭터의 작가가 %ANYPLAYERNAME%에게서 주된 영감을 얻었다고 밝힐 가능성으로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 153,
+      "event": "challenge 40",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 154,
+      "event": "challenge 40",
+      "english_sha256": "38749ee1cc7fa6b7d4162e5b05f2eabfdfdb481d0b9fcfa461d0f0bf1dcacef0",
+      "ko": "그 캐릭터가 새로 친척이 됐다는 걸 알게 되면 다음 추수감사절 저녁이 얼마나 재밌어질지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 157,
+      "event": "challenge 41",
+      "english_sha256": "e26991904cae325e449c1b9dcd20fa34915c03ce56811ca25fdfd9985d286299",
+      "ko": "모두 가상의 캐릭터 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 158,
+      "event": "challenge 41",
+      "english_sha256": "6cb9bf00a89dbceacd3a17326633886571324acacd695221e305fc420c7c8c90",
+      "ko": "어떤 이유에서인지 모든 캐릭터가 %ANYPLAYERNAME% 암살에 고용됐습니다. 실제로 일을 완수할 가능성이 가장 높은 캐릭터가 누군지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 161,
+      "event": "challenge 42",
+      "english_sha256": "d432244aac139eb5c9246df008d009355d9d59d2c447c552cc42143889d554af",
+      "ko": "모두 노래 한 곡을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 162,
+      "event": "challenge 42",
+      "english_sha256": "66463cce869b0d681cb275e3fe273e4257e1ff17cfa59be93e19a90a73f48a7a",
+      "ko": "과거로 돌아가 중세 시대에 들려주면 히트할 가능성이 가장 높은 노래가 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 165,
+      "event": "challenge 43",
+      "english_sha256": "d432244aac139eb5c9246df008d009355d9d59d2c447c552cc42143889d554af",
+      "ko": "모두 노래 한 곡을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 166,
+      "event": "challenge 43",
+      "english_sha256": "0fa80b539634dc502e89b53f36ee2bb9c74a21e459efe91d1f1ad65564e08360",
+      "ko": "네 장례식에서 틀 노래로 고르면 가장 이상할 노래가 뭔지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 169,
+      "event": "challenge 44",
+      "english_sha256": "e8f08467803e563300e231e0c3499fabc2641c27fe8179457d9a590155d771da",
+      "ko": "모두 애니 한 편을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 170,
+      "event": "challenge 44",
+      "english_sha256": "21b422da0b61f136a7a9c8fbe096f07c6602027d7bf01fc95cda625ab8eaa2ba",
+      "ko": "%ANYPLAYERNAME%(이)가 그 애니 세계로 이세계 전이를 당했을 때 살아남을 가능성으로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 173,
+      "event": "challenge 45",
+      "english_sha256": "ee29e7ffd738b01b5a8884f6c39363b4ff93a53117c5df35d90801ee355a2688",
+      "ko": "모두 좋은 것 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 174,
+      "event": "challenge 45",
+      "english_sha256": "3a08a847a3d35bf46495582519e2b978c616c025eb5330be5cc0a05bd6dda18c",
+      "ko": "그 좋은 것이 세상에서 완전히 사라져도 사회가 살아남을 가능성으로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 177,
+      "event": "challenge 46",
+      "english_sha256": "a95888bbdc21bc104ca39553a2d834791bcceaf7a2fc5cf8d9a4476d1aba1e1f",
+      "ko": "모두 나쁜 것 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 178,
+      "event": "challenge 46",
+      "english_sha256": "f5998c2e7fa01b771b2b41fc794a771fd15df1beb88d0e9c480d4841792959b4",
+      "ko": "그 나쁜 것의 이름을 따서 \"불타는 ○○ 소스\"라는 핫소스를 만든다면 얼마나 매울지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 181,
+      "event": "challenge 47",
+      "english_sha256": "a95888bbdc21bc104ca39553a2d834791bcceaf7a2fc5cf8d9a4476d1aba1e1f",
+      "ko": "모두 나쁜 것 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 182,
+      "event": "challenge 47",
+      "english_sha256": "46ed35ef782dceb88314a5e4e572509a335db6e68b88d51228728cafb75e5222",
+      "ko": "무인도에서 사회를 재건한 너희는 그 나쁜 것을 새 사회에서 완전히 금지할 수 있습니다. 무엇을 가장 금지하고 싶은지로 플레이어 순서를 정합니다."
+    },
+    {
+      "line": 185,
+      "event": "challenge 48",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 186,
+      "event": "challenge 48",
+      "english_sha256": "922922c36b5f223a06ff356463ff1ecd5205b524fab31a2909431d845dfc8612",
+      "ko": "그 유명인이 나루토 실사 영화에 캐스팅되면 얼마나 화제가 될지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 189,
+      "event": "challenge 49",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 190,
+      "event": "challenge 49",
+      "english_sha256": "52ddee0e96e627c5a114fb21030c7e2a2730cf85bf1eb1ab8779fb4f19827696",
+      "ko": "그 유명인이 매일 집에 찾아와 수프를 끓여 달라고 합니다. 이유를 물으면 비명만 지릅니다. 이래도 가장 덜 황당할 유명인이 누군지로 플레이어 순서를 정합니다. 이것도 토론해 볼래?"
+    },
+    {
+      "line": 193,
+      "event": "challenge 52",
+      "english_sha256": "6d381180524e385870a4b7cb00fa94a7da23e1a2d896fa02f047a2198691aaa3",
+      "ko": "모두 유명인 한 명을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 194,
+      "event": "challenge 52",
+      "english_sha256": "f3c7300fc4f1daded3073889c4aef07de61509b2f9b5e9e64393246ee2a8ad25",
+      "ko": "그 유명인이 여가 시간에 온라인 게임에서 지독한 트롤짓을 할 가능성으로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 197,
+      "event": "challenge 53",
+      "english_sha256": "8224b76325b95dfd21df08a5b728ca36e0b4b8897ec9b3c2d2ebb098a24dddc6",
+      "ko": "모두 비디오 게임 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 198,
+      "event": "challenge 53",
+      "english_sha256": "16f1b3277d67a38c58f0dc1a868b5b054a2d9642c41aa9b04a2e08faccf51974",
+      "ko": "그 비디오 게임의 팬덤이 얼마나 덜 유해한지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 201,
+      "event": "challenge 54",
+      "english_sha256": "8224b76325b95dfd21df08a5b728ca36e0b4b8897ec9b3c2d2ebb098a24dddc6",
+      "ko": "모두 비디오 게임 하나를 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 202,
+      "event": "challenge 54",
+      "english_sha256": "cfc5f658619cfff6b09149351497bacd539f16fe04945d0636fe546c15febde6",
+      "ko": "그 게임을 소재로 카트 레이싱 게임이 나오면 얼마나 이상할지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    },
+    {
+      "line": 205,
+      "event": "challenge 55",
+      "english_sha256": "e8f08467803e563300e231e0c3499fabc2641c27fe8179457d9a590155d771da",
+      "ko": "모두 애니 한 편을 골라. 다음으로 넘어가기 전에 다른 플레이어들에게 큰 소리로 말해 줘!"
+    },
+    {
+      "line": 206,
+      "event": "challenge 55",
+      "english_sha256": "c3f699bbe4e49ee6087ba5781537b9680961d575285b18701d12e1911aa289db",
+      "ko": "상사가 생일 파티에 초대했는데, 그 애니를 테마로 아주 진심으로 꾸민 파티였습니다. 얼마나 이상할지로 플레이어 순서를 정합니다. 토론을 시작해!"
+    }
+  ]
+}

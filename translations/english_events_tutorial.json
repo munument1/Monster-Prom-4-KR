@@ -1,0 +1,941 @@
+{
+  "source_sha256": "6c0152a427fcd11bbff503e6c7fca936799d8754343b0acd3c08b2e58ac0d43e",
+  "entries": [
+    {
+      "line": 8,
+      "event": "tutorial_wincondition",
+      "english_sha256": "965214bcf54ce559997fba6b85fc3faa7c03239697e743e5d890e165cf868ba6",
+      "ko": "잠깐만, 선수!"
+    },
+    {
+      "line": 9,
+      "event": "tutorial_wincondition",
+      "english_sha256": "3d7e100c65633c4a7d829982d313494fc0b880cae2b0abcdb63eac3989391bdf",
+      "ko": "그래, 서두를 것 없어. 행사장을 제대로 즐기는 요령을 알려 주러 왔거든."
+    },
+    {
+      "line": 10,
+      "event": "tutorial_wincondition",
+      "english_sha256": "50591862f14755190771693d341fff7c937a03786b56dd9b8c117280d9de119f",
+      "ko": "말하자면... 일종의 튜토리얼이지!"
+    },
+    {
+      "line": 11,
+      "event": "tutorial_wincondition",
+      "english_sha256": "5ef4396998e12de7fac24d10fe1f925160eed3b174ab4a5eff6cb8abeb38922d",
+      "ko": "(네겐 절실히 필요할 테니까...)"
+    },
+    {
+      "line": 12,
+      "event": "tutorial_wincondition",
+      "english_sha256": "a648b26f54d241628b620608c49e1b5c8ba9d21c2805806a3e728049e9f1a822",
+      "ko": "다들 알다시피, 덕후 행사의 가장 중요한 활동은... 사랑 찾기야."
+    },
+    {
+      "line": 13,
+      "event": "tutorial_wincondition",
+      "english_sha256": "b41e2a96fffa1370254a295dabb2b053a575219f9237d37e4f11a9b7218404d0",
+      "ko": "어..."
+    },
+    {
+      "line": 14,
+      "event": "tutorial_wincondition",
+      "english_sha256": "8e7cca53cd77342912a1eeff5503752fa1d033843d40bd1949ef7c6a001900c1",
+      "ko": "알아, 실제로는 아니지. 하지만 지금은 %CURRENTPLAYERNAME% 얘기를 하는 거잖아."
+    },
+    {
+      "line": 15,
+      "event": "tutorial_wincondition",
+      "english_sha256": "bae5d69a40035e1a51dfe076cc33b5f71bd0296f5bc8071609d36ec0ad216c57",
+      "ko": "저 모습을 봐. 분명 행사의 대규모 뒤풀이에 같이 갈 데이트 상대를 찾으려는 거야."
+    },
+    {
+      "line": 16,
+      "event": "tutorial_wincondition",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 17,
+      "event": "tutorial_wincondition",
+      "english_sha256": "f7c3428c9e294d2c8e2524a6014ec41d93a5033d27400e72ee40cfd650333305",
+      "ko": "아, 역시... 침묵이 많은 걸 말해 주는군."
+    },
+    {
+      "line": 18,
+      "event": "tutorial_wincondition",
+      "english_sha256": "2a28e54367635cbbf442f60ab21542024cb1accb8f2af8e85b1a299f61b9ffef",
+      "ko": "데이트 상대를 구하고 싶다면, 그 사람이 어떤 사람인지, 연인에게 뭘 바라는지부터 알아야지."
+    },
+    {
+      "line": 19,
+      "event": "tutorial_wincondition",
+      "english_sha256": "8d7ed24e5f1e8f989d53670aa2fa250a855d1691a70baf1cfe30d56ccf60e8a0",
+      "ko": "바로 그거야. 꿈과 두려움을 나눌 수 있나? 세상을 바라보는 관점이 맞나? 영혼이 진정으로 통하나?"
+    },
+    {
+      "line": 20,
+      "event": "tutorial_wincondition",
+      "english_sha256": "69dc7d7d5ee11c36dea424953f13a2c91c180258bfa99623c69a7cdf19e9b6de",
+      "ko": "너무 복잡해! 사람의 성격은 지능, 대담함, 창의력, 매력, 재미라는 다섯 가지 특성으로 정해진다고 치자."
+    },
+    {
+      "line": 21,
+      "event": "tutorial_wincondition",
+      "english_sha256": "23942f580986675de9f6b72c4e4927f4a003543984cdf5de9f1fa48a2989f100",
+      "ko": "이걸 능력치라고 부르자! 더 멋지고 비디오 게임 같잖아."
+    },
+    {
+      "line": 22,
+      "event": "tutorial_wincondition",
+      "english_sha256": "d3da177a60e707d1d2199a9515a6d6e2be5d126e0c9dccad3af4f9d08aaf6091",
+      "ko": "좀 단순화한 감은 있지만, 일단 그렇게 하지."
+    },
+    {
+      "line": 23,
+      "event": "tutorial_wincondition",
+      "english_sha256": "475c2b6ca3fef8938981d0a8be6e6e14403461fff1b87519cb1a3b6cde7bb536",
+      "ko": "그럼 스스로 물어봐. 파티광의 마음을 사로잡을 만큼 재미가 높나? 평화와 고요를 좋아하는 사람에게 맞을 만큼 대담함이 낮나?"
+    },
+    {
+      "line": 24,
+      "event": "tutorial_wincondition",
+      "english_sha256": "89aff18d29f4172092c6723dd41c42e54efb34a8b90addf6bd892b8c9a835417",
+      "ko": "더 애매한 사람도 있지... 그냥... 균형 잡힌 사람을 좋아한다든가."
+    },
+    {
+      "line": 25,
+      "event": "tutorial_wincondition",
+      "english_sha256": "fa5c7bac007aa56e65e0ea9ff52e8d01d8217e52dfea2fd301023ee747575be9",
+      "ko": "요점은 누구나 기준이 있다는 거야... 능력치 기준 말이지!"
+    },
+    {
+      "line": 26,
+      "event": "tutorial_wincondition",
+      "english_sha256": "f3b2101fa6ad0d9eb32754bcb24694b744c0ba6fd494c81bae06a3dd843bc921",
+      "ko": "혹시라도 혼자 파티에 가고 싶더라도..."
+    },
+    {
+      "line": 27,
+      "event": "tutorial_wincondition",
+      "english_sha256": "5a01db04f1923825fd1d1eac6964b99313ec5d73cf209cf01dc6e5efdd60b800",
+      "ko": "(그게 네 취향이라면 당연히 괜찮은 선택이지!)"
+    },
+    {
+      "line": 28,
+      "event": "tutorial_wincondition",
+      "english_sha256": "ce144fa46ae89becf285c9165992648bf6668d4e390132e92afd6cee9a82c1b2",
+      "ko": "...능력치 관리에서 해방됐다고 생각하진 마. 거기서도 실패할 수 있거든!"
+    },
+    {
+      "line": 29,
+      "event": "tutorial_wincondition",
+      "english_sha256": "862bed571b03110aac8dcea462ab82ea7ec9ca6c88a3c97543529a54abedf398",
+      "ko": "더 알아 둘 것도 있지만... 나중에 설명해도 되겠지? 가 보고 싶은 패널 토크가 있거든."
+    },
+    {
+      "line": 30,
+      "event": "tutorial_wincondition",
+      "english_sha256": "ea5557e816e15e51b74d39cadabe359ee4c05dc99d59e28ba3d9815d44dd458e",
+      "ko": "좋아. 나도 다음 \"튜토리얼\"을 연습해야 하니까."
+    },
+    {
+      "line": 31,
+      "event": "tutorial_wincondition",
+      "english_sha256": "32687e3941e3913b9b5d8dd2265709238b5ee7c1d96468a7aee26f463286041d",
+      "ko": "재밌게 놀아, %CURRENTPLAYERNAME%!"
+    },
+    {
+      "line": 41,
+      "event": "tutorial_statexchange",
+      "english_sha256": "62906c164040176098d59d8291cec3c6244f1300d64dc3a8fb044fd7d308f90a",
+      "ko": "잠깐! \"리암과 조이의 튜토리얼\" 새 에피소드 시간이야!"
+    },
+    {
+      "line": 42,
+      "event": "tutorial_statexchange",
+      "english_sha256": "61c02790fb0bae72bde37c1911246ec2361eff4acfd64341b9e87d6753425dc4",
+      "ko": "그래. 능력치 관리가 중요하다고는 설명했는데, 어떻게 관리해야 하는지는 말하지 않았더군."
+    },
+    {
+      "line": 43,
+      "event": "tutorial_statexchange",
+      "english_sha256": "d6ded7e7f456ff1cfa830d4c0cf47e0b60f52fb793d2f57b663804f83dba368d",
+      "ko": "맞아! 능력치를 관리하는 방법은 여러 가지야. 그중 가장 중요한 걸 알아보자!"
+    },
+    {
+      "line": 44,
+      "event": "tutorial_statexchange",
+      "english_sha256": "f3e6a726157ecedd769622e4fc9c496e0fa17d4fde39efd7bbf7fd145199a23e",
+      "ko": "장소를 방문하면 으레 벌어지는 황당하고 흥미진진한 모험을 겪는 거지."
+    },
+    {
+      "line": 45,
+      "event": "tutorial_statexchange",
+      "english_sha256": "bbe1bc589bd8c4898d7535ae8af6b2f3dce6351cc468bee6fcaac9f06a35ed11",
+      "ko": "이런 경험들을 간단히 이벤트라고 부르자."
+    },
+    {
+      "line": 46,
+      "event": "tutorial_statexchange",
+      "english_sha256": "cd542c1fe9414bc799ed57928ee16f61ffec0a007fd343e7eb64373aeebd40cd",
+      "ko": "보통 이벤트에서는 여러 해결책 가운데 하나를 골라 문제를 해결해야 해... 선택지라고 하면 되겠군."
+    },
+    {
+      "line": 47,
+      "event": "tutorial_statexchange",
+      "english_sha256": "33ff02b55f9d71161daceb4e848c7dea9a0ef47bf2ab1737d55a34d80cddb858",
+      "ko": "무엇을 선택하느냐가 네가 어떤 사람인지를 결정하지. 똑똑한 선택지를 고르면 지능이 올라가."
+    },
+    {
+      "line": 48,
+      "event": "tutorial_statexchange",
+      "english_sha256": "3f6dfa045a6b0bd5758317418b26a27c030c15c29faee26835f2073d2653c2f7",
+      "ko": "맞아! 곰을 주먹으로 때리기로 한다면 꽤 대담한 행동이니까 대담함이 올라가는 거지."
+    },
+    {
+      "line": 49,
+      "event": "tutorial_statexchange",
+      "english_sha256": "c8fc0b7160624bfdf42cccecea0c5e1a318110125c3ef7bd41d3e88b5f3ca34e",
+      "ko": "하지만 선택지를 고르면 내려가는 능력치도 있어."
+    },
+    {
+      "line": 50,
+      "event": "tutorial_statexchange",
+      "english_sha256": "362ff12ea56ad5b86082f4051b4fc6c646c52f716731c4b16053e67c68bea82c",
+      "ko": "선택하지 않은 길 하나하나가 잃어버린 능력치인 셈이지."
+    },
+    {
+      "line": 51,
+      "event": "tutorial_statexchange",
+      "english_sha256": "9848511dc5e78f6d9b575273482693fa07f00d6d0b542487f66f04c847ca0df3",
+      "ko": "즉, 곰을 때리는 대신 똑똑한 선택지를 골랐다면 지능은 오르지만 대담함은 내려가."
+    },
+    {
+      "line": 52,
+      "event": "tutorial_statexchange",
+      "english_sha256": "7e0cc9f46b6993e2c6d33dbf8aedc2b49c73d9afccb12c92cc67132080785ac4",
+      "ko": "그냥... 곰은 때리지 말자. 알겠지?"
+    },
+    {
+      "line": 53,
+      "event": "tutorial_statexchange",
+      "english_sha256": "9aa5c90c05679c8b4bd786499acd11084f796258ca8ccd2f9fa83a754ab4645e",
+      "ko": "리암, %CURRENTPLAYERNAME%도 곰을 때리고 싶으면 때리게 둬. 그게 본모습이라면 말이야."
+    },
+    {
+      "line": 54,
+      "event": "tutorial_statexchange",
+      "english_sha256": "2bdb87200e87df2a9e2a593519eff2d30d6b1252e4b8b2d0ef381ab0ca986063",
+      "ko": "어쨌든 능력치를 관리하는 다른 방법도 몇 가지 있는데, 이를테면..."
+    },
+    {
+      "line": 55,
+      "event": "tutorial_statexchange",
+      "english_sha256": "434421eeea2528738fa405382e0e6cfd4c118042a146e8fd0bdba3968ae96283",
+      "ko": "리암, 그런 건 안내서 같은 데 적어 두자. 아까 말한 한정판 피규어를 진짜 보러 가고 싶거든."
+    },
+    {
+      "line": 56,
+      "event": "tutorial_statexchange",
+      "english_sha256": "29fb88756d6fb3ed3cb6b8650c786b970c397da2a9f2243520293665f22ba39f",
+      "ko": "그렇군. 나중에 계속 조언해 주면 되겠지? 그동안 죽지만 마."
+    },
+    {
+      "line": 66,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "7e3dc10549b8b3d78dc64e8b6751ac247939ce92093a210965da5a9918265f9d",
+      "ko": "거기 멈춰! 능력치 경찰이다! 능력치 지식을 검사하러 왔다!"
+    },
+    {
+      "line": 67,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "2efcd8d6de78118dc5d120c77b20e1cb3bde8087f66aff600fab253330d1e71e",
+      "ko": "농담이야! 우리잖아. 유명 창작자이자 공인된 핫한 인물들, 튜토리얼의 달인 조이와 리암!"
+    },
+    {
+      "line": 68,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "5cd8323226b56ea0cb731a8523c84857038dfddd232e6dfc3750e8ae460f8ced",
+      "ko": "문득 이런 생각이 들었어. \"%CURRENTPLAYERNAME%에게 능력치 관리 비법을 이렇게나 알려 줬는데, 어떤 선택지가 어떤 능력치에 연결되는지는 쉽게 알 수 있을까?\""
+    },
+    {
+      "line": 69,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "d5f173810c1b611dbd8000e5caadcf5dae8003e2ac542d5b956bcd85dfb4f57c",
+      "ko": "맞아! 곰을 때리는 게 아주 대담한 행동이라는 것처럼, 뜻이 분명한 선택지도 있어."
+    },
+    {
+      "line": 70,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "2b450df1e15d2b58889c014b9671c779809a0821bbebd2246f07436c33325a10",
+      "ko": "하지만 훨씬 미묘해서 어떤 능력치에 연결되는지 알아보기 어려운 것도 있지..."
+    },
+    {
+      "line": 71,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "852bd972c6f92101de87c7155dcb4b363dd178b7e647a45f51d04aab4d07fe57",
+      "ko": "...그래서 능력치별 세부 설명을 전부 안내서에 적어 뒀어. 찾아볼 수 있게!"
+    },
+    {
+      "line": 72,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "cc535abbe74d5d39f114c28971132b0bcd96c9691e2cc56a36050620c24ff4b6",
+      "ko": "(게임 꾸미기 메뉴에서 볼 수 있어.)"
+    },
+    {
+      "line": 73,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "1602d3b6ff442e632b97e51decf5ef7f3b04f19a9b68239069fbded536f09316",
+      "ko": "그러니 어떤 선택지가 특정 능력치와 관련 없어 보이거나, 여러 능력치에 해당하는 것 같더라도..."
+    },
+    {
+      "line": 74,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "8881d936e70d3bd11b54881b3b028f8c73d3b38672fa2575a21316476ccf5082",
+      "ko": "...천천히 생각해 봐. 선택지에서 가장 중요한 단서가 뭔지, 그 단서가 어떤 능력치와 관련 있는지 분석해 봐."
+    },
+    {
+      "line": 75,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "d74a0780cd52778b9a13b02893d8770fbdd46d71536e1d172a145e670887a829",
+      "ko": "아니면 이건 어때? 능력치는 무시하고 가장 재밌어 보이는 선택지를 골라! 살아 보고, 실패도 하고, 즐겨!"
+    },
+    {
+      "line": 76,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "d4237965df14baca9836e8ae98483460fcfce8b350b80053c3bed17e98238d7f",
+      "ko": "이번엔 조이 말에 동의해. 다만 너무 많이 실패하진 말고."
+    },
+    {
+      "line": 77,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "812a996317c12e8075e26d3fa7e5c5df03e36e05567dff98023242f9ef12341e",
+      "ko": "뭐... DDR이나 하러 가자. 네가 너무 많이 실패하는 걸 보게."
+    },
+    {
+      "line": 78,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "042d83f0c5b2bf93a7dbfb13f666bdbdb17e4410155c061160af5889efb2fa06",
+      "ko": "쳇... 가자. 기대와 다르다고 실망하지나 마."
+    },
+    {
+      "line": 79,
+      "event": "tutorial_statsglossarya",
+      "english_sha256": "8b905e200cdd6e3a1f590014f871d92bcc3e042c69f6d3e16d43a448fcb129b6",
+      "ko": "또 보자, %CURRENTPLAYERNAME%!"
+    },
+    {
+      "line": 89,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "2e092fb94c0faff7d8d76657a93ff5f6f33b4580406db2754efefe365faf2351",
+      "ko": "푸드 코트에 잘 왔어! 한 판에 두 번 방문하게 될 곳이지."
+    },
+    {
+      "line": 90,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "d12a0a24afe1445d61c05ca7b2c69fa295f457109aef7706ea808cfb4b4716ae",
+      "ko": "아, 이번 튜토리얼은 나, 해설자가 맡을 거야!"
+    },
+    {
+      "line": 91,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "060f58e3f1f5b83b6bab8d73939edac90054897ff1c49426d1b7e1776789978f",
+      "ko": "캐릭터가 설명하는 튜토리얼은 재미있고 몰입감도 있지. 하지만 해설자인 나는 곧장 핵심으로 들어갈 수 있어!"
+    },
+    {
+      "line": 93,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "d4793753c1d97b7925a0f69ed04ef586c6be32d0f9e8b96507be2163bb41f958",
+      "ko": "예를 들면 \"TAB\"을 누르면 유용한 정보를 볼 수 있다고 바로 말해 줄 수 있지!"
+    },
+    {
+      "line": 95,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "32a8a3987e838ef7fc0bdfbdf51deda00fd6da7a2a6cb58d044db24139696c7d",
+      "ko": "예를 들면 \"ZL/SL\"을 누르면 유용한 정보를 볼 수 있다고 바로 말해 줄 수 있지!"
+    },
+    {
+      "line": 97,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "2e9b7f3edd4b7118a04808ea74a08a84f0393c148208fc35364546bc01e5ff03",
+      "ko": "예를 들면 \"L2\"를 누르면 유용한 정보를 볼 수 있다고 바로 말해 줄 수 있지!"
+    },
+    {
+      "line": 99,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "e1dd19bf9cf20a2ca11dae01abea337930ded4bbddb400b0f029b0df87e13436",
+      "ko": "예를 들면 \"LT\"를 누르면 유용한 정보를 볼 수 있다고 바로 말해 줄 수 있지!"
+    },
+    {
+      "line": 101,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "56999fdb528231d5b94d95cd44531ab32ec1b543eb83dd94acbb3a9464635348",
+      "ko": "또는 \"H\"를 누르거나 \"마우스 휠을 위로\" 굴리면 대화 기록을 볼 수 있다든가."
+    },
+    {
+      "line": 103,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "babb1871ccf44baf931afcda1fc3f7629b4dfe2b9195876a92a95e8c86534900",
+      "ko": "또는 \"X\"를 누르면 대화 기록을 볼 수 있다든가."
+    },
+    {
+      "line": 105,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "84931a19f8d03efbc4ea92579a32316f1f2987d8e3b772d89705254027c38405",
+      "ko": "또는 세모 버튼을 누르면 대화 기록을 볼 수 있다든가."
+    },
+    {
+      "line": 107,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "df3f14df8675e9a44faa7089754ba68f08f98662dc000aad1d38c3ff742040d8",
+      "ko": "또는 \"Y\"를 누르면 대화 기록을 볼 수 있다든가."
+    },
+    {
+      "line": 108,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "f43cba06f7039159fa017f3433ffc91c4f86835b233302f42176af39bd15f0da",
+      "ko": "멋지지?"
+    },
+    {
+      "line": 109,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "a8f7f7c1097fc8a20da89149842c425cb87cc2b0ea4f7f9ce01ec11d8ee44f76",
+      "ko": "어쨌든, 푸드 코트 얘기로 돌아가자!"
+    },
+    {
+      "line": 110,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "4a33d656c39e417440c0bce373e06352269f666d05d4dd3f52a671e4d50ff732",
+      "ko": "푸드 코트 턴에서는 행사 뒤풀이에 데려가고 싶은 상대를 알아 가는 거야. 그 상대가 너 자신일 수도 있고."
+    },
+    {
+      "line": 111,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "0c0787598a2f1f38853cb49e56c6a660415a972c34c772a9c390835c51bc35d7",
+      "ko": "고를 수 있는 테이블은 5개야."
+    },
+    {
+      "line": 112,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "c69bc83ab51a5b32e7976327ef88470727a2954a148bb6fbfa0c038943d1b10b",
+      "ko": "그중 3개에는 공략 상대 6명이 둘씩 앉아 있어."
+    },
+    {
+      "line": 113,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "fcd8873048f6be1e547694005276687b65526dafa9dbcff906cad6dcb9254d36",
+      "ko": "다른 테이블에서는 여러 \"게스트\" 중 한 명을 부를 수 있어. 말하자면 또 다른 데이트 상대들이지!"
+    },
+    {
+      "line": 114,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "c747e9ab8577f51edefcab8e75074b3cc1bbf079231904aa4deddaf6320ae689",
+      "ko": "마지막으로 혼자 앉을 수 있는 테이블도 있어."
+    },
+    {
+      "line": 115,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "f0790f0e68e108182628e00e184e338ef9b7ca245ac05e47ada31aff9bd28935",
+      "ko": "테이블마다 고유한 규칙이 있어. 늘 그렇듯, 우린 네가 이야기에 집중할 수 있도록 규칙을 조금 숨겨 두는 편이야."
+    },
+    {
+      "line": 116,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "7fa6fafd385509269a5d3faf74c7dfa85b3010deb8ca3a83fa056779d76aee34",
+      "ko": "플레이하다 보면 어떻게 돌아가는지 차근차근 알아 갈 수 있지."
+    },
+    {
+      "line": 117,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "05d8c729d966588ac17ed45a60aeb9da6abe03a19453aea4a03ad0d8cd0c91e4",
+      "ko": "그런 방식이 네 취향이 아니라면, 안내서에 친절한 설명을 전부 넣어 뒀으니 마음껏 확인해 봐!"
+    },
+    {
+      "line": 118,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "60e6e38a8833ba636a12d33d0d82cff29776ba593dafe093a5e5512b98cd5143",
+      "ko": "단, 테이블 하나에는 플레이어 한 명만 앉을 수 있다는 걸 기억해."
+    },
+    {
+      "line": 119,
+      "event": "tutorial_foodcourt",
+      "english_sha256": "905446840f8cac99dfdededd4e76db6aa31e5ad1421ec1dbee4177b94b015739",
+      "ko": "자, 이제 자리를 골라 봐!"
+    },
+    {
+      "line": 129,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "373095c324fdad229231ca474c9bdcaf41b9bc9893049b772f8a9d53128182ed",
+      "ko": "그래, 데이트를 하고 싶다는 거지?"
+    },
+    {
+      "line": 130,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "faf58142ca42fe7ceb4cdf89473f6e6cb8b5cbeeefb387244443c4b580cf999d",
+      "ko": "아까 말했듯이 자세한 규칙은 안내서에 있지만, 여기서 짚고 싶은 게 하나 있어."
+    },
+    {
+      "line": 131,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "3b511727c70061b968fd68bb7b7dd091f49b39568ae0686baa2d4ab483d1d0ae",
+      "ko": "데이트마다 고추 표시가 보일 거야. 일종의 \"매운맛 지수\"지."
+    },
+    {
+      "line": 132,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "6ab5d8f299a38b27a352f273547ce5c0dae3ea8a07dc37158ef8558083bfebc2",
+      "ko": "데이트를 신청하면서 원하는 매운맛을 표시하는 거야. 데이트 자체에는 영향이 없지만, 성공했을 때 받는 엔딩은 달라져."
+    },
+    {
+      "line": 133,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "5a51a49f0d4a0e368ea8abfbcf9137f72a0dcf847d15e0cba39257d4bbe7ad46",
+      "ko": "그림은 같을 수 있어도, 이야기는 달라질 거야!"
+    },
+    {
+      "line": 134,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "be6b49f6d8c541a5a5e62dcd8286f41476077a983c4f4cc3153233dc2a08f8f1",
+      "ko": "고추가 없으면 좀 더 우정에 가까운 엔딩이 나와."
+    },
+    {
+      "line": 135,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "3d79dbc0dfcbf1e96a63cf798e8768611039fddc2ffdaf0ca37bfac4909e17f6",
+      "ko": "고추가 하나나 둘이면 로맨틱한 분위기와 야릇한 분위기 사이의 엔딩이 나와."
+    },
+    {
+      "line": 136,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "6b275a758d2a1e4eb3a7a2022eb7ecbdb4060f5e197d4e7768f8bc855048fdfc",
+      "ko": "고추가 셋이면 엔딩이 확실히... 발칙해지지."
+    },
+    {
+      "line": 137,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "99163b28c993273318758d39df31f548e300243f4e6779e9aeaf680aad18909d",
+      "ko": "고추를 적게 골라도 비밀 엔딩의 내용에는 영향이 없어. 비밀 엔딩은 야할 수도 있으니 알아 둬!"
+    },
+    {
+      "line": 138,
+      "event": "tutorial_foodcourtpeppers",
+      "english_sha256": "6626fa6892ec4dd6c8725dbf90927118c501c2e7fd1b41a4f921f1335bfa10ee",
+      "ko": "좋아, 이제 첫 데이트를 할 준비가 제대로 됐네!"
+    },
+    {
+      "line": 148,
+      "event": "tutorial_gueststable",
+      "english_sha256": "e4562e5f6e623caf8e1eee93cff3e21054a6cf49066d7d83ca4747a82f17da5d",
+      "ko": "푸드 코트에 다시 온 걸 환영해!"
+    },
+    {
+      "line": 149,
+      "event": "tutorial_gueststable",
+      "english_sha256": "ee2c908259f7d7bbb93d2981ee7c2f29c0c45b788a78be946c4fe7cf6b4abc8f",
+      "ko": "이곳에 관한 마지막 중요 정보 두 가지, 대화와 게스트를 설명하려고 해."
+    },
+    {
+      "line": 150,
+      "event": "tutorial_gueststable",
+      "english_sha256": "0b8c53f57b22eaad088fa57ec84a9c6944140817bbb7e1019cac3f19c6e33067",
+      "ko": "첫 번째는 간단해. 한 판에서 같은 공략 상대와 두 번 앉으면 대화를 나누며 가까워져."
+    },
+    {
+      "line": 151,
+      "event": "tutorial_gueststable",
+      "english_sha256": "3609d95ebfd4393981fc691d2437a3159f594bffbe72fc73aa95beae0292b8d7",
+      "ko": "혼자 두 번 앉으면 삶 같은 것들을 돌아보는 나만의 시간을 갖게 돼. 일종의 대화지... 자신과의 대화!"
+    },
+    {
+      "line": 152,
+      "event": "tutorial_gueststable",
+      "english_sha256": "92ca8e1a39281867d9d1b4c7100e3db56fd8b6dd302f7cbdd5bb6a2a11487368",
+      "ko": "플레이 가능한 캐릭터마다 하나씩 있어!"
+    },
+    {
+      "line": 153,
+      "event": "tutorial_gueststable",
+      "english_sha256": "e358e21e07697a370036e074456ff1b2c6995b653b44f156238b3a6c2e8daeaf",
+      "ko": "그럼 게스트는 어떨까? 게스트와 데이트하고 싶다면 해야 할 일이 세 가지 있어."
+    },
+    {
+      "line": 154,
+      "event": "tutorial_gueststable",
+      "english_sha256": "81d04643e1ae56aa88e723fb4a8b4816220c7c7a82ddf5ffd2966bf19bef847b",
+      "ko": "첫째, 게임이 끝날 때까지 그 게스트의 데이트 조건을 충족해야 해."
+    },
+    {
+      "line": 155,
+      "event": "tutorial_gueststable",
+      "english_sha256": "2de3b1cfc8d75dfb18d979f6392adc0ca773e4d1396a952ec28c891127228244",
+      "ko": "처음 게스트에게 인사할 때 상대가 자기 \"취향\"을 말해 줄 거야. 그게 조건에 관한 단서지."
+    },
+    {
+      "line": 156,
+      "event": "tutorial_gueststable",
+      "english_sha256": "ce712bd9f7b2224c4ed6cfa031ca6a52187d6a3f002df64f99b542df389a5ed9",
+      "ko": "둘째, 서로를 더 잘 알 수 있도록 작고 즐거운 데이트를 해야 해."
+    },
+    {
+      "line": 157,
+      "event": "tutorial_gueststable",
+      "english_sha256": "f294ad83f995a6c1405c5b1dd06d9817e21a48beb29edce8b05be29eb7678f2f",
+      "ko": "푸드 코트에 다시 왔을 때 그 게스트에게 두 번째로 전화를 걸면 돼."
+    },
+    {
+      "line": 158,
+      "event": "tutorial_gueststable",
+      "english_sha256": "eeabe3153b0cc0e3a8d186bb8dc8584c29c340a55d71ad722fe35d54f5ca88ea",
+      "ko": "셋째, 게임 마지막에 어떤 공략 상대와 데이트하고 싶은지 물어보면 \"아무도 아냐!\"를 골라야 한다는 걸 잊지 마!"
+    },
+    {
+      "line": 159,
+      "event": "tutorial_gueststable",
+      "english_sha256": "3c697d162f582b7300d5d035ce29ce63a83cbdb88861e7337ff3a544149a4962",
+      "ko": "이게 전부야."
+    },
+    {
+      "line": 160,
+      "event": "tutorial_gueststable",
+      "english_sha256": "45da4351a545f7bbb73b6fd6303fd892006b46e869c3bef5f69c811fe00929ef",
+      "ko": "이제 어디든 앉으러 가자!"
+    },
+    {
+      "line": 170,
+      "event": "tutorial_comics",
+      "english_sha256": "2ae598bfbe087e37c3614d8edf5d99cbd05be65a32642fd241268534709c79c6",
+      "ko": "만화를 만들 시간이야!"
+    },
+    {
+      "line": 171,
+      "event": "tutorial_comics",
+      "english_sha256": "ade25999ccd66a0c41e3f9ed131abffe367043553a64b53622d432e636ed1c42",
+      "ko": "너의 창작 멘토로서, 기상천외한 아이디어를 불러일으킬 아주 독창적인 질문을 준비했어!"
+    },
+    {
+      "line": 172,
+      "event": "tutorial_comics",
+      "english_sha256": "88aa3e41e292926e8d61d718ed261ab0616c5c92aa9cf4e74749dc3ba0219280",
+      "ko": "하루에 두 개씩 썼지."
+    },
+    {
+      "line": 173,
+      "event": "tutorial_comics",
+      "english_sha256": "124eb273f9a0a470e3d6930f97e1402f311a753dc9d656b1ef17ef12367caffa",
+      "ko": "천만에."
+    },
+    {
+      "line": 174,
+      "event": "tutorial_comics",
+      "english_sha256": "bf082719661d3e61884e388e764b97191f5552112897ae8c50f337f8fc6ebab5",
+      "ko": "과제를 끝내도 만화가 안 보일 수 있어... 아직은 말이지."
+    },
+    {
+      "line": 175,
+      "event": "tutorial_comics",
+      "english_sha256": "585970c94a8779e4feaed8aff997046ef251b42a0176e194989dcfd1049d11cc",
+      "ko": "하지만 과정을 믿어야 해, %CURRENTPLAYERNAME%. 네 노력은 행사가 끝날 때 결실을 맺을 거야."
+    },
+    {
+      "line": 176,
+      "event": "tutorial_comics",
+      "english_sha256": "f07b380b964154b72ecd979d16f15e1c67ba0d31ae3f9e858c55b0232fb2682d",
+      "ko": "맞아! 과제에 어떻게 답하느냐가 완성될 만화의 대본에 영향을 줄 거야!"
+    },
+    {
+      "line": 177,
+      "event": "tutorial_comics",
+      "english_sha256": "b5af98bdae1239d4c2f5185eac928ba349091c6bf67e48235889d02831f45524",
+      "ko": "이 과제에서 고른 선택지를 전부 기억해 두는 걸 추천해. 적어 둬도 좋고. 완성된 만화를 볼 때 네 선택이 끼친 영향을 더 제대로 즐길 수 있을 테니까."
+    },
+    {
+      "line": 178,
+      "event": "tutorial_comics",
+      "english_sha256": "c6fd7749adbc4b17fa335d7f001f8cc03f2132bc66f907e92a39c614e334633a",
+      "ko": "그리고 과제에는 또 다른 의미도 있어. 이 모든 선택이 네가 어떤 사람인지 결정하거든..."
+    },
+    {
+      "line": 179,
+      "event": "tutorial_comics",
+      "english_sha256": "3f0b2790626e832a241f45207841f26cb064ce5e0f1637fcba2ca289cbae14b3",
+      "ko": "...즉, 네 능력치에 영향을 준다는 말이지!"
+    },
+    {
+      "line": 180,
+      "event": "tutorial_comics",
+      "english_sha256": "c1bcf0f0297099bb3a2dc35ac2b1fe183eecd40b0280919b19edeaf272627a5f",
+      "ko": "과제를 하나 끝낼 때마다 그 변화를 느끼게 될 거야."
+    },
+    {
+      "line": 181,
+      "event": "tutorial_comics",
+      "english_sha256": "63a48e3bfb54f3cdb76feea53238d80b3ad0e9825cb0fd7fb75b71434af46aac",
+      "ko": "창작 활동에서 내가 좋아하는 게 하나 더 있어. 여럿이 함께 작업하면 모두가 하나의 집단으로서 변한다는 점이지."
+    },
+    {
+      "line": 182,
+      "event": "tutorial_comics",
+      "english_sha256": "f5dbd2e62d191b4bc26d72a58ef1ea9affdd396e45a4caa4a798a431e9d1fa44",
+      "ko": "맞아! 내 조언은 이거야. 한 사람이 과제에 답하더라도 모두 함께 상의해 봐."
+    },
+    {
+      "line": 183,
+      "event": "tutorial_comics",
+      "english_sha256": "5d6c5b75e2767689ffd40de9d6f268baed866ebf0111bb281b2aefac3fb60c62",
+      "ko": "정확히 말하면, 고른 선택지에 해당하는 능력치는 크게 오르고... 고르지 않은 선택지에 해당하는 능력치는 내려가."
+    },
+    {
+      "line": 184,
+      "event": "tutorial_comics",
+      "english_sha256": "ee74903d9d9a668ac03435fedd0f1fb024a22905c51bdeaf2efc29afeeebf349",
+      "ko": "그리고 이 능력치 변화는 모든 플레이어에게 똑같이 적용돼."
+    },
+    {
+      "line": 185,
+      "event": "tutorial_comics",
+      "english_sha256": "9cdbe3e7e60b9311b36ada832a361cfefa19c533ee3a89e8de7b23d261040277",
+      "ko": "그 목소리 조용히 해! 몰입 깨지잖아. 으으."
+    },
+    {
+      "line": 186,
+      "event": "tutorial_comics",
+      "english_sha256": "af92ee122d8d1ff4dd80f24c31e6cd66775889fd2617d1bc79a0349bc0041c3a",
+      "ko": "어쨌든... 이제 꾸물대는 건 그만!"
+    },
+    {
+      "line": 187,
+      "event": "tutorial_comics",
+      "english_sha256": "98a1d639d5927eb59e22c850ae2371cc46727c0b6c8013b10818ff9083ee13c5",
+      "ko": "조이 말이 맞아. 네 솜씨를 펼칠 시간이야. 연필을 들고 상상의 나래를 펼쳐 봐!"
+    },
+    {
+      "line": 197,
+      "event": "tutorial_comicending",
+      "english_sha256": "3d26b6a133189dece11626e350c8525d342b3d6aee8a3ae4e6438cf8a953ae94",
+      "ko": "으아아아아아! 만화가 어떻게 완성됐는지 볼 시간이야!"
+    },
+    {
+      "line": 198,
+      "event": "tutorial_comicending",
+      "english_sha256": "876ce1331441eca8d681c00f6534745def31025c249b3a64bcfee3210f2e3d30",
+      "ko": "좋아, 이번 며칠 동안의 작업 목표가 뭐였지?"
+    },
+    {
+      "line": 199,
+      "event": "tutorial_comicending",
+      "english_sha256": "ab1ea16d38230eab9bc2191bdb7410ce57122214fbff744ec3d4617caff45834",
+      "ko": "표지, 전체 줄거리... 그리고 완성된 한 페이지."
+    },
+    {
+      "line": 200,
+      "event": "tutorial_comicending",
+      "english_sha256": "5917d106e7e075c00880edf6a69a0e6e839a511505f31a221aa3e218a8dfdd30",
+      "ko": "과제마다 어떤 답을 골랐는지 기억하니? 뮤즈가 네 노력의 결실에 어떤 형태를 부여할지 결정하는 열쇠니까."
+    },
+    {
+      "line": 201,
+      "event": "tutorial_comicending",
+      "english_sha256": "e0d157df5d0b6ee28e2a0501d9a0ab388c467b25b7b90edef2bc5de6efd51b9d",
+      "ko": "리암이 잘난 척하며 말한 걸 풀자면, 이제부터 네가 고른 선택지가 곧 보게 될 만화에 어떤 영향을 줬는지 확인한다는 뜻이야."
+    },
+    {
+      "line": 202,
+      "event": "tutorial_comicending",
+      "english_sha256": "df7263495aebacad8d53e2949ad5a879188bf444bec59ad4b0ee356606f8a2b7",
+      "ko": "일상에 시적인 감성을 불어넣고 싶어서 그래. 불만이면 고소하든가..."
+    },
+    {
+      "line": 203,
+      "event": "tutorial_comicending",
+      "english_sha256": "a738735ffce9b2302887ec66b1fb3a6b47445efc9d02dd9098a0a85123899c4b",
+      "ko": "나중에 고소할지도 몰라, 리암. 지금은 이 만화를 먼저 보고 싶은걸!"
+    },
+    {
+      "line": 213,
+      "event": "tutorial_plotlines",
+      "english_sha256": "913bbb360df862cc5ea68b1f09f5e9eac94d8be5ee548743d67c964683ad46b3",
+      "ko": "줄거리가 한창 진행 중이구나?"
+    },
+    {
+      "line": 214,
+      "event": "tutorial_plotlines",
+      "english_sha256": "d8c7a739064541e0d7c6b8f38c782b754f7ce3bc27783cdd6add15f0021a1970",
+      "ko": "작은 반전 하나를 설명하러 왔어."
+    },
+    {
+      "line": 215,
+      "event": "tutorial_plotlines",
+      "english_sha256": "7686160d6a72dcf8c5e0fd300dde70798e7efea536089c245e511a6924f6837f",
+      "ko": "보통 이벤트에서 선택지를 고르면, 그 선택지와 관련된 능력치는 오르고 다른 선택지와 관련된 능력치는 내려가지?"
+    },
+    {
+      "line": 216,
+      "event": "tutorial_plotlines",
+      "english_sha256": "8c1cdea8bd2633de176cd04438ae63e7a4ebedb4a850d25a40597dbe231ad3a8",
+      "ko": "(다른 튜토리얼을 잘 들었길 바라!)"
+    },
+    {
+      "line": 217,
+      "event": "tutorial_plotlines",
+      "english_sha256": "c37a337aa52a2b6e17a794f06f800c6a65b70a25645b1db7feefc8e1a3a69d25",
+      "ko": "그런데 각 줄거리의 마지막 이벤트에서는 전작의 전통적인 \"능력치 기준\" 방식으로 돌아가."
+    },
+    {
+      "line": 218,
+      "event": "tutorial_plotlines",
+      "english_sha256": "97873dee88f2660d38931aec1ca7f6bfb94969c6caf7cd1ecadeee99838aa7fb",
+      "ko": "무슨 뜻이냐고?"
+    },
+    {
+      "line": 219,
+      "event": "tutorial_plotlines",
+      "english_sha256": "91d8c22ceda0a8caa729560f087ef4eaed7e06f7a5b4c944a090f48661e3c3fa",
+      "ko": "이런 이벤트에서도 선택지마다 연결된 능력치가 있어. 어떤 선택지가 어떤 능력치와 연결되는지 추측한 다음, 네 능력치를 확인해야 해. 알겠지?"
+    },
+    {
+      "line": 220,
+      "event": "tutorial_plotlines",
+      "english_sha256": "a411967e1a6947078abdeafd117000734d127930b1e6712c57d4996ee64fb6ed",
+      "ko": "성공하려면 두 능력치 중 더 높은 쪽에 연결된 선택지를 골라야 해."
+    },
+    {
+      "line": 221,
+      "event": "tutorial_plotlines",
+      "english_sha256": "6fc93ae847ac4c1ecaa6d54e28619f1853e0fb131e84d42584a0c51df2e61e2e",
+      "ko": "제대로 골랐다면 축하해! 비밀 엔딩에 한 걸음 더 가까워진 거야."
+    },
+    {
+      "line": 222,
+      "event": "tutorial_plotlines",
+      "english_sha256": "1ab0b1349b27b108439cef2833eb5018c00c62ea0348b6395833dacd8e4844ef",
+      "ko": "잘못 골랐다면? 이벤트에 실패하고 줄거리가 끝나서, 그 비밀 엔딩을 볼 수 없게 돼."
+    },
+    {
+      "line": 223,
+      "event": "tutorial_plotlines",
+      "english_sha256": "d5e713da0f8b213cc04f83c4daf53fbafdc452cf23b082c2d2f5c3ed16c7485d",
+      "ko": "부담 없지?"
+    },
+    {
+      "line": 224,
+      "event": "tutorial_plotlines",
+      "english_sha256": "ab09bb949ca0e1e4330c85b3a2b4b1ecf0377624a41dc410e98c992c71fd879f",
+      "ko": "더 할 말은 없어. 가 봐, 플레이어!"
+    },
+    {
+      "line": 234,
+      "event": "tutorial_shop",
+      "english_sha256": "5bfe66e1964347e93162846b8996ac070d234d8eb822d437a7ec84244d61db0a",
+      "ko": "누추한 가게에 잘 오셨습니다, 손님."
+    },
+    {
+      "line": 235,
+      "event": "tutorial_shop",
+      "english_sha256": "d956a3e53090ac4a699764a86a4e230cf253945f0b60fa6d17f3450d1bb3b23e",
+      "ko": "이곳에선 놀라운 능력을 지닌 아름다운 피규어를 구할 수 있지요."
+    },
+    {
+      "line": 236,
+      "event": "tutorial_shop",
+      "english_sha256": "f16d9a62d8c68d24f613a8e0d4ddffc085ab20f15ef9460ca5d6f07d53be3d1b",
+      "ko": "다양한 효과가 있습니다. 상자를 열면서 알아 가시면 됩니다."
+    },
+    {
+      "line": 237,
+      "event": "tutorial_shop",
+      "english_sha256": "f6bbb604c4a48650663b653a7eede828b17ce86d55cad0598dba2928774e0ace",
+      "ko": "랜덤 박스는 여러 종류가 있고, 종류마다 서로 다른 계열의 효과가 있지요."
+    },
+    {
+      "line": 238,
+      "event": "tutorial_shop",
+      "english_sha256": "eb9a52e12bf794dea28c156ea8a51c8e5901a24b457a1cd96d07a34c59ebb961",
+      "ko": "(상자들을 둘러보기 시작하시면, 효과의 종류에 관한 단서를 드리겠습니다.)"
+    },
+    {
+      "line": 239,
+      "event": "tutorial_shop",
+      "english_sha256": "42b24e3d503b19401843207289005925e838737b8f6f5e8a8507724dd541443a",
+      "ko": "원하는 종류의 상자를 고르신 다음, 열기 전에 직접 가질지 친구에게 줄지 정하시면 됩니다."
+    },
+    {
+      "line": 240,
+      "event": "tutorial_shop",
+      "english_sha256": "80161d5577cb85610afc8e2b3482820a45250aaa74fcb582432a864a7b16f374",
+      "ko": "질서와 혼돈의 균형이지요. 원하는 효과의 종류는 고를 수 있지만, 그중 정확히 어떤 피규어가 나올지는 알 수 없습니다."
+    },
+    {
+      "line": 241,
+      "event": "tutorial_shop",
+      "english_sha256": "2b33783981e0cf83cb8b84d829d5d183b36752d75bc62719b27e49c15d1f1a91",
+      "ko": "걱정 마세요. 뜻밖의 일을 전혀 좋아하지 않으신다면, 효과가 전혀 없다고 보장되는 종류도 있습니다."
+    },
+    {
+      "line": 242,
+      "event": "tutorial_shop",
+      "english_sha256": "fff26b1f9cc42464979524e43a3b0f138ff15624551e2dcccc0556738d31fbad",
+      "ko": "자, 상자를 열어 볼 준비가 되셨나요?"
+    },
+    {
+      "line": 252,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "274f969472bebc616416d99b67406af493356cafd3034c6779cffd0f6b2fa51e",
+      "ko": "안녕, 손님!"
+    },
+    {
+      "line": 253,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "eac7d7d47fc85daefe344e787e2756f85267ae71ec88e927ddc6a7d168278375",
+      "ko": "푸드 코트 튜토리얼은 이번이 마지막이야. 약속할게!"
+    },
+    {
+      "line": 254,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "e8a45e8e41e5e25dbb4740caa0ca5402742edf26b40cc91e8be49e2278aa044d",
+      "ko": "잠긴 데이트가 있는 걸 봤니? 줄거리와 연결된 데이트야!"
+    },
+    {
+      "line": 255,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "030d4d60b36ed86aad5e7651ffa72d7dd1196c9a2054d7f1d628b6675e249946",
+      "ko": "어떤 줄거리는 처음에는 자연스럽게 나타나서 널 놀라게 할 거야..."
+    },
+    {
+      "line": 256,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "e892a96ddd0a7ed9ca1a1c0c5b99bf30ffbd75ed2233463d6d50863e13a0364a",
+      "ko": "...하지만 한 번 끝내고 나면 해당 데이트를 골라 다시 시작할 수 있어."
+    },
+    {
+      "line": 257,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "e71020dd2ee4bc8e46c9c7dd701a9cb0434ac98b4a7272c86ee69dd060a5f4b2",
+      "ko": "혼자 앉는 테이블에도 잠긴 줄거리 데이트가 있어."
+    },
+    {
+      "line": 258,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "4ed025065066ff602636ffa52f9c0504540576d84c451030df00df7c844f6544",
+      "ko": "이건 자연스럽게 나타나지 않아. 먼저 해금해야 하고, 그다음에 해당 데이트로 시작할 수 있어."
+    },
+    {
+      "line": 259,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "eb0eb3237954e50704206a43118fdcaef31922e579e77934a7638ea4bdd59342",
+      "ko": "줄거리 데이트는 첫 번째 푸드 코트 턴에만 나타나. 줄거리가 끝까지 전개될 시간이 필요하니까."
+    },
+    {
+      "line": 260,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "5baeb51470fba789230b13193bf4a02c8df020b9f00933437111fd6511963588",
+      "ko": "그리고 줄거리와 비밀 엔딩이 얼마나 야릇한지 알려 주는 \"매운맛 지수\"도 있어."
+    },
+    {
+      "line": 261,
+      "event": "tutorial_plotlinedates",
+      "english_sha256": "7c94bd2582c9155e00f954ab74341f9e179a903f7753a2c1d3e29c8845673476",
+      "ko": "아무튼 배고프겠다. 어디든 앉으러 가!"
+    }
+  ]
+}

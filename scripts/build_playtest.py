@@ -32,6 +32,10 @@ NUMBER = re.compile(r"(?<!\d)[+-]?\d+(?:\.\d+)?")
 STAT_EFFECT = re.compile(r"(?<![A-Za-z])([+-])(N?[0-9]+)\s*(SMARTS|BOLDNESS|CHARM|CREATIVITY|FUN|MONEY)(?![A-Za-z])")
 STAT_EFFECT_GLUED_TO_HANGUL = re.compile(r"(?P<code>[+-]N?[0-9]+[ ]*(?:SMARTS|BOLDNESS|CHARM|CREATIVITY|FUN|MONEY))(?P<postposition>[\uac00-\ud7a3])")
 GAME_STAT_BOUNDARY = "\u200b"
+# Exact reviewed source/translation pairs may omit redundant English pronoun
+# and copula macros. Other placeholders still have to match exactly.
+GRAMMAR_EXCEPTIONS = json.loads((ROOT / "translations/grammar_exceptions.json").read_text(encoding="utf-8"))
+
 
 
 def game_safe_stat_effects(korean: str) -> str:
@@ -49,9 +53,18 @@ def game_safe_stat_effects(korean: str) -> str:
 def verify_line(english: str, korean: str, ident: str) -> None:
     if not korean or any(c in korean for c in "\t\r\n\ufffd"):
         raise ValueError(f"invalid translated field: {ident}")
-    if not re.search("[가-힣]", korean) and (ident, english, korean) != ("RES_NEX", "[0] of [1]", "[0] / [1]"):
+    punctuation_only = bool(re.fullmatch(r"[.?!…]+", english.strip())) and bool(re.fullmatch(r"[.?!…]+", korean.strip()))
+    if not re.search("[가-힣]", korean) and not punctuation_only and (ident, english, korean) != ("RES_NEX", "[0] of [1]", "[0] / [1]"):
         raise ValueError(f"translation missing Hangul: {ident}")
-    if Counter(TOKEN.findall(korean)) != Counter(TOKEN.findall(english)):
+    expected_tokens = Counter(TOKEN.findall(english))
+    exception = GRAMMAR_EXCEPTIONS.get(ident)
+    if exception:
+        if (hashlib.sha256(english.encode("utf-8")).hexdigest() != exception["english_sha256"] or
+                hashlib.sha256(korean.encode("utf-8")).hexdigest() != exception["korean_sha256"]):
+            raise ValueError(f"grammar exception source/translation changed: {ident}")
+        expected_tokens.subtract(exception["omitted_tokens"])
+        expected_tokens = +expected_tokens
+    if Counter(TOKEN.findall(korean)) != expected_tokens:
         raise ValueError(f"control token mismatch: {ident}")
     if Counter(NUMBER.findall(korean)) != Counter(NUMBER.findall(english)):
         raise ValueError(f"number mismatch: {ident}")

@@ -1,0 +1,77 @@
+{
+  "source_sha256": "c594be80a4f03209c97d395534e12ba71458ce9e24ea77221e1f38bd72f59a54",
+  "entries": [
+    {
+      "line": 5,
+      "event": "epilogue",
+      "english_sha256": "09a55b3a9b92697db47301182dacb032be1f28ff3f378ef052c920e22b5cc3ce",
+      "ko": "어느새 행사가 끝났어."
+    },
+    {
+      "line": 6,
+      "event": "epilogue",
+      "english_sha256": "876fd6d46ef8b4f280e74b6b5af78a0374a90d3a0c0c57f0461c36f16cfac17d",
+      "ko": "고작 나흘이었지만, 정말 평생을 보낸 것만 같았지."
+    },
+    {
+      "line": 7,
+      "event": "epilogue",
+      "english_sha256": "ddab57ca8b2219870e0ee8b0915e48f2699e2ef4554e0d280d359b2210d3a2ae",
+      "ko": "온갖 소동이 벌어졌고, 새로운 우정이 피어났고, 우리도 조금씩 다른 사람이 됐어."
+    },
+    {
+      "line": 8,
+      "event": "epilogue",
+      "english_sha256": "773b041e88344e23e42b3d61c63103cbe44539a07ee7712e6ce1257b0ad7391e",
+      "ko": "일상으로 돌아간다는 생각에 우리는 조금 막막해졌지."
+    },
+    {
+      "line": 9,
+      "event": "epilogue",
+      "english_sha256": "6faf9a1f75bdf1892e2e2477145a511156116623daaf589a6bcd9aec23b53a6e",
+      "ko": "서로 멀어지지 말자고... 곧 다시 만나자고 약속했어."
+    },
+    {
+      "line": 10,
+      "event": "epilogue",
+      "english_sha256": "7ea8d93b5cd718431bd6333f22ce05f8439fa98ad4488eb9e7d2c91b4dedd36b",
+      "ko": "그래도 이 모든 걸 뒤로하고 떠나는 게 조금도 슬프지 않았다면 거짓말이겠지."
+    },
+    {
+      "line": 11,
+      "event": "epilogue",
+      "english_sha256": "ca9fbabb0eb6c1bbb084cc570cb120cc681209de493e4f7d19a87839922e0edd",
+      "ko": "하지만 각자의 길로 향하던 우리는 깨달았어. 어디로 가든 이 사람들이 우리와 함께하리라는 걸."
+    },
+    {
+      "line": 12,
+      "event": "epilogue",
+      "english_sha256": "f0d4c09b4b634f6f66610e7baa23daeacf65464870087d85c56244cc0c87b5a3",
+      "ko": "그리고 지금까지도 가슴속에 소중히 간직한 진실을 알게 됐지."
+    },
+    {
+      "line": 13,
+      "event": "epilogue",
+      "english_sha256": "c21f85e5654531e957d08b1f073acef5a8672bcc4b9ba84bf32154d36d38d66d",
+      "ko": "어디에 있든, 우리에겐 함께할 곳이 있다는 것."
+    },
+    {
+      "line": 14,
+      "event": "epilogue",
+      "english_sha256": "385e7c8e5777708172d56232e3828cfdbe89571ad73be7720986f1160f39d711",
+      "ko": "그 생각은 지금도 우릴 따뜻하게 해. 다시 한번... 젊고 두려움 없던 기분을 느끼게 하지."
+    },
+    {
+      "line": 15,
+      "event": "epilogue",
+      "english_sha256": "e3ffae7e6a1dc2f4497db59a3b57985c139e41286097963bd467db92981c4ce9",
+      "ko": "그리고 세월이 흘러도 우린..."
+    },
+    {
+      "line": 16,
+      "event": "epilogue",
+      "english_sha256": "7e55d96c6673bf7b7622c4c6950ccd7411348191fd55437551e2135d341da169",
+      "ko": "...언제나 시작할 준비가 되어 있다는 걸 떠올리게 해."
+    }
+  ]
+}
