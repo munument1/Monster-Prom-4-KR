@@ -17,8 +17,9 @@ def digest(path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--package', type=Path, default=ROOT / 'build/releases/MonsterCon-KR-test-20261026-QA1')
-    parser.add_argument('--output', type=Path, default=ROOT / 'build/releases/Monster-Con-KR-test-QA1-Windows-DragDrop')
+    parser.add_argument('--package', type=Path, default=ROOT / 'build/releases/MonsterCon-KR-test-20261026-QA2')
+    parser.add_argument('--output', type=Path, default=ROOT / 'build/releases/Monster-Con-KR-test-QA2-Windows-DragDrop')
+    parser.add_argument('--bridge-only', action='store_true', help='Package only the updated bridge for an existing Korean installation')
     args = parser.parse_args()
     package, out = args.package.resolve(), args.output.resolve()
     source_manifest = json.loads((package / 'manifest.json').read_text(encoding='utf-8'))
@@ -26,6 +27,8 @@ def main():
     files = {}
     for record in source_manifest['files']:
         name = record['relative']
+        if args.bridge_only and name != 'BepInEx/plugins/MonsterConKoreanBridge/MonsterConKoreanBridge.dll':
+            continue
         relative = PurePosixPath(name)
         if relative.is_absolute() or '..' in relative.parts or ':' in name or '\\' in name:
             raise ValueError('Invalid archive destination: ' + name)
@@ -41,21 +44,22 @@ def main():
         destination.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source, destination)
     readme = out / 'MONSTERCON-KR-사용법.txt'
-    shutil.copy2(ROOT / 'docs/DRAGDROP_INSTALL_KO.txt', readme)
-    for source in sorted((ROOT / 'docs/licenses').glob('*.txt')):
+    shutil.copy2(ROOT / ('docs/STAT_LABEL_HOTFIX_KO.txt' if args.bridge_only else 'docs/DRAGDROP_INSTALL_KO.txt'), readme)
+    for source in ([] if args.bridge_only else sorted((ROOT / 'docs/licenses').glob('*.txt'))):
         destination = out / 'licenses' / source.name
         destination.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source, destination)
     packaged = {p.relative_to(out).as_posix(): digest(p) for p in sorted(out.rglob('*')) if p.is_file()}
-    manifest = {'kind': 'local-Windows-dragdrop-playtest', 'title': source_manifest['title'],
-                'text_fields': source_manifest['text_fields'], 'unique_image_textures': source_manifest['unique_image_textures'],
+    manifest = {'kind': 'bridge-hotfix-for-existing-installation' if args.bridge_only else 'local-Windows-dragdrop-playtest', 'title': source_manifest['title'],
+                'text_fields': 0 if args.bridge_only else source_manifest['text_fields'],
+                'unique_image_textures': 0 if args.bridge_only else source_manifest['unique_image_textures'],
                 'game_build_identities': source_manifest['identities'], 'files': packaged,
                 'game_launched': False, 'game_modified_during_packaging': False,
-                'automatic_backup': False, 'contains_patched_game_assets': True}
+                'automatic_backup': False, 'contains_patched_game_assets': not args.bridge_only}
     manifest_path = out / 'MONSTERCON_KR_MANIFEST.json'
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     expected = {**packaged, manifest_path.name: digest(manifest_path)}
-    archive_path = out.with_suffix('.zip')
+    archive_path = out.parent / (out.name + '.zip')
     with zipfile.ZipFile(archive_path, 'x', zipfile.ZIP_DEFLATED, compresslevel=6) as archive:
         for name in sorted(expected):
             archive.write(out / name, name)

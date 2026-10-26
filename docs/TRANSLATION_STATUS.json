@@ -43,8 +43,11 @@
   "image_textures_verified": 49,
   "unit_tests_passed": 12,
   "changed_translation_fields": 245,
-  "playtest_package": "build/releases/MonsterCon-KR-test-20261026-QA1",
+  "playtest_package": "build/releases/MonsterCon-KR-test-20261026-QA2",
   "preferred_installation": "Copy ZIP contents beside MonsterCon.exe and overwrite; no Python required.",
-  "dragdrop_package": "build/releases/Monster-Con-KR-test-QA1-Windows-DragDrop.zip",
-  "dragdrop_zip_sha256": "62b36148d55e77225d7ab3ba9d0a1ffdb6f783133a76285ae568b16bcc639270"
+  "dragdrop_package": "build/releases/Monster-Con-KR-test-QA2-Windows-DragDrop.zip",
+  "dragdrop_zip_sha256": "59a3e61ec6e7cab0bc6e4f174368604f7fd3085451a35faddb35525afc5d1967",
+  "latest_bridge": "0.1.4",
+  "bridge_hotfix": "build/releases/Monster-Con-KR-0.1.4-StatNames-Hotfix.zip",
+  "stat_name_fix_game_test": "pending user"
 }

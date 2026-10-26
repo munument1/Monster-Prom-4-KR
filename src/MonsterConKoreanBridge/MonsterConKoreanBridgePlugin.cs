@@ -20,7 +20,7 @@ namespace MonsterConKoreanBridge
     {
         public const string PluginGuid = "munument1.monstercon.koreanfontbridge";
         public const string PluginName = "Monster Con Korean Font/UI Bridge";
-        public const string PluginVersion = "0.1.3";
+        public const string PluginVersion = "0.1.4";
 
         private static readonly string PluginDirectory = ResolvePluginDirectory();
         private static readonly string DefaultMonsterConBundlePath = Path.Combine(PluginDirectory, "monstercon_korean_fonts.bundle");
@@ -182,7 +182,7 @@ namespace MonsterConKoreanBridge
             {
                 PatchMethod("BeautifulGlitch.CoreTextManager", "LoadMetatextsFile", new[] { typeof(string).MakeByRefType() }, "LoadMetatextsPostfix");
                 PatchMethod("BeautifulGlitch.CoreTextManager", "LoadLanguageData", new[] { AccessTools.TypeByName("BeautifulGlitch.LanguageType") }, "LanguageLoadedPostfix");
-
+                PatchStatNames();
             }
 
             if (_enableMetatextOverride.Value || _enableFontBridge.Value)
@@ -216,6 +216,31 @@ namespace MonsterConKoreanBridge
             {
                 text.SetValue(target, "불러오는 중...", null);
                 Logger.LogInfo("Localized loading label: " + scene + "/" + objectName);
+            }
+        }
+
+        private void PatchStatNames()
+        {
+            Type widget = AccessTools.TypeByName("Game.StatWidget");
+            MethodInfo[] methods = widget == null ? Array.Empty<MethodInfo>() :
+                AccessTools.GetDeclaredMethods(widget).Where(method => method.Name == "AwakeMe").ToArray();
+            if (methods.Length != 2)
+            {
+                Logger.LogError("Expected two StatWidget.AwakeMe overloads; stat-name localization skipped.");
+                return;
+            }
+            MethodInfo transpiler = AccessTools.Method(typeof(StatNameLocalization), "Transpile");
+            foreach (MethodInfo method in methods)
+            {
+                try
+                {
+                    _harmony.Patch(method, transpiler: new HarmonyMethod(transpiler));
+                    Logger.LogInfo("Patched Korean stat-name display: " + method + ".");
+                }
+                catch (Exception ex)
+                {
+                    Logger.LogError("Could not patch Korean stat names: " + ex);
+                }
             }
         }
 

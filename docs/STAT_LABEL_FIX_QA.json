@@ -1,0 +1,23 @@
+{
+  "bridge": "0.1.4",
+  "issue": "StatWidget.AwakeMe uses StatType.ToString directly instead of metatexts.",
+  "fix": "Translate display string before UILabel.set_text and auxiliary-label cloning in both AwakeMe overloads.",
+  "labels": {
+    "SMARTS": "지능",
+    "BOLDNESS": "대담함",
+    "CREATIVITY": "창의력",
+    "CHARM": "매력",
+    "FUN": "재미",
+    "MONEY": "돈"
+  },
+  "checks": {
+    "build_warnings": 0,
+    "build_errors": 0,
+    "game_IL_layout_overloads": 2,
+    "standalone_probe": "pass six stat names, preserve non-stat values, insertion/branch/stack, fail closed on missing setter",
+    "python_tests_passed": 12
+  },
+  "dll_sha256": "0525a101c53eedc949f7a1b1bfbd0de2a2a120b6d3f46ada1f624c96afcf9030",
+  "game_execution_test": "pending user",
+  "game_modified": false
+}
