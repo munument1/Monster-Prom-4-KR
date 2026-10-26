@@ -1,0 +1,1529 @@
+{
+  "source_sha256": "3cae28300e1cdc19af2f45196f8ea4006bb8c9c541c03c3985a0a58b527fc9aa",
+  "entries": [
+    {
+      "line": 7,
+      "event": "comic_intro_1_1",
+      "english_sha256": "21d9abe13086cfefa8b5e77834d11339e9d2fa9f2c2c3c1e77591485a8ebb0e0",
+      "ko": "행사장은 온갖 활동과 과한 자극으로 정신없지만, 넌 어떻게든 만화를 만들 시간을 찾아내."
+    },
+    {
+      "line": 8,
+      "event": "comic_intro_1_1",
+      "english_sha256": "172fc346f36ae0053b4b72871ee7f65d608cfddcf223eb033ee175251734f2e7",
+      "ko": "아이디어를 짜낼 시간이야!"
+    },
+    {
+      "line": 17,
+      "event": "comic_intro_1_2",
+      "english_sha256": "0a6413a41548a628471d23e7665294596e198c4183ebaa41cc40e108549a75d9",
+      "ko": "이제 현실의 소동은 잠시 쉬고, 만화 속에서 벌어질 가상의 소동을 구상할 시간이야."
+    },
+    {
+      "line": 18,
+      "event": "comic_intro_1_2",
+      "english_sha256": "860ede2808e2507ca59a0f29cdac0dc9d5b55ccc9cbd37ed58f9c270304d6306",
+      "ko": "시작해 봐!"
+    },
+    {
+      "line": 27,
+      "event": "comic_intro_1_3",
+      "english_sha256": "4c909b1eab95c62a1dd3c7f47f9ea4ed8331346e40a82de8bdfa63be4c7f4159",
+      "ko": "이 행사에서 네가 쫓는 건 사랑뿐만이 아니야. 완성해야 할 만화도 있지!"
+    },
+    {
+      "line": 28,
+      "event": "comic_intro_1_3",
+      "english_sha256": "172fc346f36ae0053b4b72871ee7f65d608cfddcf223eb033ee175251734f2e7",
+      "ko": "아이디어를 짜낼 시간이야!"
+    },
+    {
+      "line": 37,
+      "event": "comic_intro_1_4",
+      "english_sha256": "fb7f52d8c4d4d53ddda43c102887445777b630d8a79ecaa4e420076d787a8f22",
+      "ko": "다시 만화 작업에 뛰어들어. 얼마 전 끝내주는 새 캐릭터가 떠올랐거든. 신이 나!"
+    },
+    {
+      "line": 38,
+      "event": "comic_intro_1_4",
+      "english_sha256": "7766040624ab5ce36c66a5e2e2e236fba5682f94e614450402a497316d866f97",
+      "ko": "사실 그 캐릭터는 네 친구를 몰래 모델로 삼았어. 일단 전화해서 모습을 써도 괜찮은지 물어보기로 해."
+    },
+    {
+      "line": 47,
+      "event": "comic_intro_1_5",
+      "english_sha256": "3b2511691d5875b52e1c9a96f7f702f74bfcf6278e740433c39bf9993ff83d67",
+      "ko": "만화 프로젝트의 그림 작업에 들어가기 전에 친구 몇 명에게 전화해."
+    },
+    {
+      "line": 48,
+      "event": "comic_intro_1_5",
+      "english_sha256": "caf8154118108199c0eed5b828612a9575ff16f19da866bff067b1cca4b5ce1f",
+      "ko": "네 캐릭터 몇 명이 친구들과 똑같이 생겼다는 걸 이제야 깨달았거든. 친구들이 워낙 멋지면 그럴 수 있지. 먼저 모습을 써도 되는지 허락받으면 좋겠어!"
+    },
+    {
+      "line": 57,
+      "event": "comic_intro_2_1",
+      "english_sha256": "7025c42deeecb1de31bcbd62ae515b1c2cbd14c81adfffbdf206ed7766a45028",
+      "ko": "지금이 무슨 시간인지 알겠어? 맞아, 만화 시간이야!"
+    },
+    {
+      "line": 58,
+      "event": "comic_intro_2_1",
+      "english_sha256": "172fc346f36ae0053b4b72871ee7f65d608cfddcf223eb033ee175251734f2e7",
+      "ko": "아이디어를 짜낼 시간이야!"
+    },
+    {
+      "line": 67,
+      "event": "comic_intro_2_2",
+      "english_sha256": "188d11c6327c6d58bb08a313d5f9dad00910034b1e91409f8a634a543e923c96",
+      "ko": "창작의 영감이 솟구쳐서 서둘러 만화 작업에 달려들어."
+    },
+    {
+      "line": 68,
+      "event": "comic_intro_2_2",
+      "english_sha256": "691e1534f440395a6e0b39961529436be9ae78686d57eb24f8e4416ef4def294",
+      "ko": "오늘 네 펜은 어떤 천재적인 걸 만들어 낼까? 아이디어를 짜 보며 알아보자!"
+    },
+    {
+      "line": 77,
+      "event": "comic_intro_2_3",
+      "english_sha256": "391d7252fdb60c93f18713b63d48fb92d0f633921c221bd262a2863e4b5b3086",
+      "ko": "사랑은 변덕스럽지만, 적어도 네 만화는 믿을 수 있지."
+    },
+    {
+      "line": 78,
+      "event": "comic_intro_2_3",
+      "english_sha256": "172fc346f36ae0053b4b72871ee7f65d608cfddcf223eb033ee175251734f2e7",
+      "ko": "아이디어를 짜낼 시간이야!"
+    },
+    {
+      "line": 87,
+      "event": "comic_intro_2_4",
+      "english_sha256": "5f05e764eab32257a9c14665b69fc6fb21ca5ac4b69cab349ae0c1d9e4a8654a",
+      "ko": "새로운 하루, 그리고 작업 중인 만화에 바칠 또 다른 아침이야!"
+    },
+    {
+      "line": 88,
+      "event": "comic_intro_2_4",
+      "english_sha256": "172fc346f36ae0053b4b72871ee7f65d608cfddcf223eb033ee175251734f2e7",
+      "ko": "아이디어를 짜낼 시간이야!"
+    },
+    {
+      "line": 97,
+      "event": "comic_intro_3_1",
+      "english_sha256": "6084b4a65f5a9caddf289e7b4d8eb89253365aac6a450d3d35589dae2cc6ff57",
+      "ko": "어느새 행사가 거의 끝나 가. 만화도 마무리할 시간이야."
+    },
+    {
+      "line": 98,
+      "event": "comic_intro_3_1",
+      "english_sha256": "bb506e245dd675aa5b569a03123b6962eb26283f99b621ee7fb9a225709cbd4a",
+      "ko": "마지막 아이디어 회의로 멋지게 끝내자!"
+    },
+    {
+      "line": 107,
+      "event": "comic_intro_3_2",
+      "english_sha256": "7d07ff435625ff11e2bbf540e7c68a260d307885ff19365a665b5af8e9afc9ec",
+      "ko": "눈 깜짝할 사이에 만화를 위한 마지막 아이디어 회의 시간이 됐어."
+    },
+    {
+      "line": 108,
+      "event": "comic_intro_3_2",
+      "english_sha256": "258a4832297b6d7c03871694e9881395bf5a162785c363ae104d8125c0c5414d",
+      "ko": "시간이 다 어디로 갔지?"
+    },
+    {
+      "line": 117,
+      "event": "comic_intro_3_3",
+      "english_sha256": "3ab7d845a149131f9e0589043ad1542ed170a3ab6dbdc04360b252acae299c47",
+      "ko": "데이트 상대를 찾을 시간이 다 됐지만, 그보다 먼저 만화를 출간할 시간이 다가왔어!"
+    },
+    {
+      "line": 118,
+      "event": "comic_intro_3_3",
+      "english_sha256": "9abcfe78dccbbeb9e7813a05628507ac19d94d840f2302e056bbfe460405f485",
+      "ko": "마지막 아이디어 회의로 만화를 다듬을 기회야!"
+    },
+    {
+      "line": 124,
+      "event": "comic_endingintro_1",
+      "english_sha256": "aa8d27d55ce721c755cb23184a67b61cd3a641ab70dc54101fa7c66f9ae588f2",
+      "ko": "마침내 창작 동료들이 모여 네 위대한 걸작의 조각들을 하나로 맞춰."
+    },
+    {
+      "line": 125,
+      "event": "comic_endingintro_1",
+      "english_sha256": "849b96610ddad2e3f206aacc8172b2cf0a8aa3690bfe84f201158b352284d775",
+      "ko": "노력의 결실을 볼 시간이야!"
+    },
+    {
+      "line": 131,
+      "event": "comic_endingintro_2",
+      "english_sha256": "aa8d27d55ce721c755cb23184a67b61cd3a641ab70dc54101fa7c66f9ae588f2",
+      "ko": "마침내 창작 동료들이 모여 네 위대한 걸작의 조각들을 하나로 맞춰."
+    },
+    {
+      "line": 132,
+      "event": "comic_endingintro_2",
+      "english_sha256": "849b96610ddad2e3f206aacc8172b2cf0a8aa3690bfe84f201158b352284d775",
+      "ko": "노력의 결실을 볼 시간이야!"
+    },
+    {
+      "line": 140,
+      "event": "shonen_comic_ending_1",
+      "english_sha256": "39984bf97e459c6fb51422aaba4243bedfedb3073dd4efe854856b49b0d7aacb",
+      "ko": "\"더 세게 때려라!\"는 %COMICREPLACEMENTLOWERCASE_SHONEN1_1%에 들끓는 위험한 세계를 그린 만화야.[n][n]그것들을 막아 낼 수 있는 건 \"%COMICREPLACEMENTRAW_SHONEN1_2%의 토벌자들\"뿐... 하지만 그 대열에 합류하려면 냉혹한 시험으로 자격을 증명해야 하지. 바로 격투 대회 우승![n][n]시험의 첫 관문에서 젊은 전사들이 해야 할 일은 %COMICREPLACEMENTRAW_SHONEN2% 두 번째 관문은? 격투 대회야. 언제나 격투 대회지, 당연하잖아."
+    },
+    {
+      "line": 142,
+      "event": "shonen_comic_ending_1",
+      "english_sha256": "28b7c3a09a0e7f33e69c1d63adfdac69bcd898a02e1ac1f53ad60ea74e1d364d",
+      "ko": "용감한 주인공 데미안은 그들과 함께하는 꿈을 꿔. 모든 상황이 불리하지만 최선을 다할 거야. 합류해야 할 절실한 이유가 있거든. %COMICREPLACEMENT_SHONEN3%[n][n]데미안의 라이벌 아라비도 있어. 멋지고 도도한 그녀는 신비로운 태도 뒤에 아무 말 없이 짊어진 어두운 과거를 숨기고 있지. %COMICREPLACEMENT_SHONEN4%"
+    },
+    {
+      "line": 143,
+      "event": "shonen_comic_ending_1",
+      "english_sha256": "dc3d54b678eb01b0d0245ede1ece907fa456c0eeb13bb5436b1312fd489ba3da",
+      "ko": "입단을 위해 둘은 오래전 조직에서 은퇴한 강력한 노인, 코치의 지도 아래 수련해.[n][n]그는 온갖 역경 속에서도 가장 이례적인 훈련으로 두 전사의 잠재력을 깨울 거야. %COMICREPLACEMENT_SHONEN5_1%[n][n]둘은 시험에 합격할까? \"%COMICREPLACEMENTRAW_SHONEN1_2%의 토벌자들\"에 들어갈까? 궁금하면 씨발 만화를 사!"
+    },
+    {
+      "line": 151,
+      "event": "shonen_comic_ending_3",
+      "english_sha256": "f5e9cd9ca5bffb86edb07da6b94bfc873ce329a1456e3893e2ac294b7752d2c1",
+      "ko": "둘 다 %COMICREPLACEMENTRAW_SHONEN2_2%에 성공하고 나서, 데미안과 아라비가 대회 결승에서 맞붙을 줄 누가 알았겠어?!"
+    },
+    {
+      "line": 152,
+      "event": "shonen_comic_ending_3",
+      "english_sha256": "9ddb5ab33a6826334d5056d6e1cc3943124a1560500c38b29e895b5b84b78081",
+      "ko": "오늘은 내 비장의 기술을 맛보게 되겠군. %COMICREPLACEMENT_SHONEN6%"
+    },
+    {
+      "line": 153,
+      "event": "shonen_comic_ending_3",
+      "english_sha256": "4c7ab1097fcc46bd857dc651e7efb1b0ae85e3ede3acd1cf304371396d3c45c1",
+      "ko": "%COMICREPLACEMENT_SHONEN5_2% 때 목숨을 구해 준 빚은 있지만, 그렇다고 봐주진 않아, 이 개자식아!"
+    },
+    {
+      "line": 154,
+      "event": "shonen_comic_ending_3",
+      "english_sha256": "b6db2367e059dee46fbe5e4411235d54fe3141fa243d45c92efcf96b5b70aba1",
+      "ko": "라이벌에서 친구로, 친구에서 적수로... 데미안과 아라비 중 누가... %COMICREPLACEMENTRAW_SHONEN1_3%의 토벌자가 될까?"
+    },
+    {
+      "line": 161,
+      "event": "shonen1",
+      "english_sha256": "000d366c5889e29ef1eb6bd9e76a865d519b9001a6e580cb31f0b715ed719cc4",
+      "ko": "네 영혼을 공포에 떨게 하는 건 뭐야?"
+    },
+    {
+      "line": 172,
+      "event": "shonen2",
+      "english_sha256": "fc7f530b990eb4373e1e76325aa378aa229bc7d286351a60c60c55ddb0316daa",
+      "ko": "결혼식 하객 모두를 감탄시키려고 뭘 할 수 있을까?"
+    },
+    {
+      "line": 183,
+      "event": "shonen3",
+      "english_sha256": "892626a82c7aa3c45b9d05470074b7bd2dc2bf4a4043d66b9c3c9b2043881194",
+      "ko": "지금의 진로를 고른 이유는 뭐야?"
+    },
+    {
+      "line": 194,
+      "event": "shonen4",
+      "english_sha256": "ef19cc358d46bdbfdaecd64f289c68f8cda854ded416464f7fb76050b2e3ea2b",
+      "ko": "이 일로만은 절대 감옥에 가고 싶지 않아."
+    },
+    {
+      "line": 205,
+      "event": "shonen5",
+      "english_sha256": "26c2abcca883d4c0e9f970e6ebe5bf5321fb93a653cc3aa34ffa52b872732888",
+      "ko": "숙취를 이겨 내는 가장 좋은 방법은?"
+    },
+    {
+      "line": 216,
+      "event": "shonen6",
+      "english_sha256": "76a86c4a9d27d3513f716cfb04ab89d2ad5c90ed0c127064ec7a5e216c591028",
+      "ko": "밴드를 한다면 이름을 뭐라고 지을래?"
+    },
+    {
+      "line": 228,
+      "event": "magicalgirls_comic_ending_1",
+      "english_sha256": "1459b350903946ea429702197f1332090fcdd1ee369001251f23cc3e44221612",
+      "ko": "평범한 일상과... 악과의 싸움 사이에서 균형을 잡아야 하는 다섯 친구의 이야기야![n][n]이들은 %COMICREPLACEMENT_MAGICALGIRLS1%에서 힘을 끌어내는 마법소녀들이야.[n][n]리더는 미란다. 정의감 넘치는 강력한 전사지만, 일상에서는 그저 최선을 다하는 덜렁이 소녀지... 공감되네!"
+    },
+    {
+      "line": 230,
+      "event": "magicalgirls_comic_ending_1",
+      "english_sha256": "6c846d57884946eaf3153cb514e0b5d0f46093720c7fc72d64240d32dd4581a9",
+      "ko": "사람들은 그녀의 가장 공감 가는 버릇을 보고 \"이거 완전 나잖아, ㄹㅇ\"이라고 할 거야. %COMICREPLACEMENT_MAGICALGIRLS2%[n][n]가면 쓴 달리아가 우리의 연애 상대야![n][n]미란다와 아슬아슬한 긴장감을 나누는 가면의 자경단원이지. 둘은 아직 모르지만... 사실 이미 아는 사이야. 가면 뒤의 정체는 미란다의 이웃 달리아거든."
+    },
+    {
+      "line": 231,
+      "event": "magicalgirls_comic_ending_1",
+      "english_sha256": "77ea75e4d2cc6b2680badccd638170dd63a61baec240a755c9263014d3740c05",
+      "ko": "가면 쓴 달리아는 상징적인 마법 무기로 마법소녀들을 도와. %COMICREPLACEMENT_MAGICALGIRLS3%[n][n]주요 악당은 단장이야. 세상을 파괴하려 드는, 서커스 테마의 강력한 마법사지![n][n]그리고 엄청나게 어두운 반전이 없으면 마법소녀물이 아니지. %COMICREPLACEMENT_MAGICALGIRLS4%"
+    },
+    {
+      "line": 239,
+      "event": "magicalgirls_comic_ending_3",
+      "english_sha256": "de3ca4c0ffb1a214c3e2d678e30616c97977ddeda02aa8f51c2d916500c7127f",
+      "ko": "단장, %COMICREPLACEMENT_MAGICALGIRLS5%의 배후가 너였다는 걸 진작 알아봤어야 했어."
+    },
+    {
+      "line": 240,
+      "event": "magicalgirls_comic_ending_3",
+      "english_sha256": "152700d7729a2815ee2e0c4d602b80a86e5ed3886a23c458429026a62e6072fc",
+      "ko": "어쩌라고. 엿 먹어."
+    },
+    {
+      "line": 241,
+      "event": "magicalgirls_comic_ending_3",
+      "english_sha256": "a6e4bb818ed7b4064e819d63eeaddedae859f4eeda9ce2a9bf5501782bf1fc8d",
+      "ko": "%COMICREPLACEMENT_MAGICALGIRLS1_2%의 이름으로..."
+    },
+    {
+      "line": 242,
+      "event": "magicalgirls_comic_ending_3",
+      "english_sha256": "0509ebb30c3f6dbd02484c6ed3328f72b91b9966d16eb03cc14e3c65eb9e5c3b",
+      "ko": "...널 벌하겠어!"
+    },
+    {
+      "line": 243,
+      "event": "magicalgirls_comic_ending_3",
+      "english_sha256": "af55c77bda02a48772b3eecdc1c4bf8bf8d288ea6b42678aa1ccb9491c011898",
+      "ko": "아니, 방금 네일 했거든. 너랑 싸울 생각 없어."
+    },
+    {
+      "line": 244,
+      "event": "magicalgirls_comic_ending_3",
+      "english_sha256": "6bc9393cdf9819fbb77e287090ac91f6fbfacc78bbd56353370e58b6f5bc5034",
+      "ko": "오늘 네 상대는 내 가장 강력한 부하야... %COMICREPLACEMENT_MAGICALGIRLS6%"
+    },
+    {
+      "line": 245,
+      "event": "magicalgirls_comic_ending_3",
+      "english_sha256": "0de452d235ae021c1d728db7128cd0ea85d7d421711207c42e210307ebd17376",
+      "ko": "다음 화에 계속..."
+    },
+    {
+      "line": 252,
+      "event": "magicalgirls1",
+      "english_sha256": "ad9f90b6088f824d8c9b9541eae0f46e8f567cb907ecb9d49220e93be0ff0bf8",
+      "ko": "작년에 백만 달러를 벌었다는 걸 설명할, 이상하지만 멋진 이유는 뭐가 있을까?"
+    },
+    {
+      "line": 263,
+      "event": "magicalgirls2",
+      "english_sha256": "30f09448066152513478f66fc78e13564cbc282d7994129d2e8ce8c4aa3c2a4a",
+      "ko": "일상에서 뭔가 하나를 없앨 수 있다면 뭘 없앨래?"
+    },
+    {
+      "line": 274,
+      "event": "magicalgirls3",
+      "english_sha256": "bc6f2757600f957afa8b1b796a6c6c004660a9acc7f2e3e84e3617a01745930b",
+      "ko": "이러면 안 되는 건 알지만, 조카의 5번째 생일 선물로 이걸 살 거야..."
+    },
+    {
+      "line": 285,
+      "event": "magicalgirls4",
+      "english_sha256": "08e13794dcd22e3d691770a9f3bb3944039e4600b4e7c9b23e09bf2ba0461420",
+      "ko": "어떤 끔찍한 생각 때문에 밤잠을 설쳐?"
+    },
+    {
+      "line": 296,
+      "event": "magicalgirls5",
+      "english_sha256": "1af3d1ad71f3e1fe4a4c932f8bff174da1d8f6d51fe49652ed68e348e7e3b6fa",
+      "ko": "오늘 네가 꼭 들어야 할 뼈아픈 진실은?"
+    },
+    {
+      "line": 307,
+      "event": "magicalgirls6",
+      "english_sha256": "55cda5a675302be6539b45ef38fdadb17e35bc978e52b6637f8976551afe80fe",
+      "ko": "영화에서 너무 많이 우려먹기 시작한 유행은 뭐야?"
+    },
+    {
+      "line": 319,
+      "event": "harem_comic_ending_1",
+      "english_sha256": "fb5995f6ffc00762e3df25fbc9ba5c07be728644969f8339f92d96094253a93e",
+      "ko": "\"모두가 내 입술에 키스하고 싶어 해\"가 차세대 하렘물 돌풍을 예고해![n][n]순박한 시골 소녀 재클린은 %COMICREPLACEMENTLOWERCASE_HAREM1%을 찾아 대도시로 왔어. 사랑을 찾게 될 줄은 꿈에도 모른 채![n][n]운명과 불안정한 경제 사정 때문에, 그녀는 눈 돌아가게 섹시한 룸메이트들과 아파트를 나눠 쓰게 되지!"
+    },
+    {
+      "line": 321,
+      "event": "harem_comic_ending_1",
+      "english_sha256": "1a18db9128c3b8f01f45ef135ac51010bbeb2efd0dca76994fca415024769c99",
+      "ko": "룸메이트들에겐 한 가지 공통점이 있어. 아무도 재클린의 %COMICREPLACEMENTLOWERCASE_HAREM2%에 저항할 수 없다는 거야.[n][n]근육질에 언제나 발정 난 모티, 조용하고 잘생긴 마미미, 매혹적이고 숨 막히는 마일로... 그 밖에도 많아![n][n]그것만으로도 벅찬데 재클린은 도시 생활에서 가장 이해하기 어려운 것에도 적응해야 해. %COMICREPLACEMENTLOWERCASE_HAREM3%"
+    },
+    {
+      "line": 322,
+      "event": "harem_comic_ending_1",
+      "english_sha256": "2a9359d73b2896cfbbfc8a7583b7a197010063bccb42f8739555d1a03ce93eae",
+      "ko": "아, 가여운 재클린... 변화도 많고 구애하는 사람도 많지만, 그녀가 누구의 마음에 답할지 정하지 못하는 큰 이유가 있어. %COMICREPLACEMENTLOWERCASE_HAREM4%[n][n]확실한 건 하나야. 키스는 잔뜩 나올 거야... 입술에 하는 키스."
+    },
+    {
+      "line": 330,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "b27c6454d7b566cfd41742682221e7330c36539ea7d57ca2cfc402a65e63c3cd",
+      "ko": "마일로, 돌아왔구나! 내가 %COMICREPLACEMENTLOWERCASE_HAREM5% 뒤로 아직 화난 줄 알았어."
+    },
+    {
+      "line": 331,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "62e0bb144fbc3b8d73900114fbfc5e718463b9478bfe1e61428ee00ea2a2100a",
+      "ko": "잭... 너한테 화낼 리 없잖아."
+    },
+    {
+      "line": 332,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "ba6a3d0a46b5dd8d2403ec26fbc92b3783f66bc65aace390cfa68a16794745e9",
+      "ko": "사실, 늘 네게 하고 싶었던 말이 있어..."
+    },
+    {
+      "line": 333,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "b088d377efd5f60ee0a609299db6a4c8cfd1152957c8aee51c5ed73f375fcb2e",
+      "ko": "마일로, 이 개자식아! 샤워하다가 다 들었다!"
+    },
+    {
+      "line": 334,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "d9ef6e91d1ed58a6ae49d1796f14f4a5e81fd48e40f4f92b3ab743bb90b7e8dd",
+      "ko": "%COMICREPLACEMENTLOWERCASE_HAREM6% 전에는 아무도 재클린 입술에 키스하지 않기로 맹세했잖아!"
+    },
+    {
+      "line": 335,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "84620b250becba344f0bddac57b4e49bac08a08a9bd6ba1ced780c981aa7cc4f",
+      "ko": "음, 그건 재클린도 의견을 낼 수 있어야 한다고 깨달았거든... 그리고 너 엿 먹어."
+    },
+    {
+      "line": 336,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "822b45c452b2ef0011626eed3dfcf2989abaff119621b1bb6b437a211e106eef",
+      "ko": "얘들아... 여기서 무슨 일이야?"
+    },
+    {
+      "line": 337,
+      "event": "harem_comic_ending_3",
+      "english_sha256": "0de452d235ae021c1d728db7128cd0ea85d7d421711207c42e210307ebd17376",
+      "ko": "다음 화에 계속..."
+    },
+    {
+      "line": 344,
+      "event": "harem1",
+      "english_sha256": "9dc8b1793dd439d1d3bf5c43ba0ea4d51c4dc352cc4a69f401c03cda16b870e2",
+      "ko": "2000년대 초반 유행 중 이제 돌아와야 할 건 뭐야?"
+    },
+    {
+      "line": 355,
+      "event": "harem2",
+      "english_sha256": "5c97477ec252155255b6cc09388ecc4ee6dad495d2c278c1e106190ebcee005f",
+      "ko": "첫 데이트에서 네 가장 큰 무기는 뭐야?"
+    },
+    {
+      "line": 366,
+      "event": "harem3",
+      "english_sha256": "336f9309e655e9147f5176d8f721918e32b550a0d712b8d0fe34454340c6375c",
+      "ko": "첫 데이트에서 절대 못 넘기는 위험 신호는 뭐야?"
+    },
+    {
+      "line": 377,
+      "event": "harem4",
+      "english_sha256": "033c6dd8114cda7083b5620c3639b0f4440f254850a4ff2e51b381aceac8a305",
+      "ko": "모두에게 말했던 그 큰 프로젝트를 아직 못 끝낸 이유는 뭐야?"
+    },
+    {
+      "line": 388,
+      "event": "harem5",
+      "english_sha256": "e4f812abbf8500722a5bd7a71b1d583b756076b938e02cb1a9af3082ebff18d5",
+      "ko": "합법이지만 불법이어야 할 건 뭐야?"
+    },
+    {
+      "line": 399,
+      "event": "harem6",
+      "english_sha256": "f5c75c490d97434407bfc0888f438f70663067b18fb4e967e1a116cb9b93a866",
+      "ko": "세 번째 데이트에 하면 좋지만 저평가된 활동은?"
+    },
+    {
+      "line": 411,
+      "event": "sports_comic_ending_1",
+      "english_sha256": "1814a9231c9061738d7fc4f4530e0dbf6b35eefb7f8b97b376a05b3d521d5253",
+      "ko": "\"스트라이크!!\"는 볼링을 향한 열정을 되찾는 회사원 핀의 이야기야. 어린 시절 볼링 유망주였지만 %COMICREPLACEMENT_SPORTS1% 뒤로 그만뒀었지.[n][n]이제 돌아왔어... 하지만 혼자서는 이길 수 없어!"
+    },
+    {
+      "line": 412,
+      "event": "sports_comic_ending_1",
+      "english_sha256": "a098a62aec2cd8330735303e51ec9272c254c77130b1b3abbba39d8508669048",
+      "ko": "핀은 작은 팀이지만 꿈은 큰 \"빅 볼러즈\"에 들어가.[n][n]곧 그는 팀원들의 경험은 부족해도 볼링 챔피언에게 가장 중요한 능력은 갖췄다는 걸 알게 돼. %COMICREPLACEMENT_SPORTS2%"
+    },
+    {
+      "line": 413,
+      "event": "sports_comic_ending_1",
+      "english_sha256": "dbc073482e4f3b65096bf4468fe5830673642f7b158d21e776d0a07d76290e76",
+      "ko": "함께 대규모 볼링 선수권을 준비해. 우승컵을 못 따면 %COMICREPLACEMENT_SPORTS3%이니, 위험 부담이 크지.[n][n]이 약체들이 영원한 볼링 챔피언 \"울프팩\"을 이길 수 있을까?[n][n]쉽진 않을 거야. 그 전설적인 팀에겐 무시무시한 강점이 있거든. %COMICREPLACEMENT_SPORTS4%[n][n]우린 너희를 응원해, \"빅 볼러즈\"!"
+    },
+    {
+      "line": 421,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "7dd2b60c3e495a407517cd5eac2109263b6bfcb3e0adae1b85d16e42e7f38b55",
+      "ko": "앞으로 15분 안에 주장이 안 나타나면 너희 팀은 실격이다."
+    },
+    {
+      "line": 422,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "b368acb18ef395b81257f95ff993a5412b8c8ddd4196dd62c56f12b5cd85bd16",
+      "ko": "하! 그 비린내 나는 생선, 역시 겁쟁이였나 봐!"
+    },
+    {
+      "line": 423,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "8180f1a9f7f2d485054ecabe5786048d3581572a43253a2d1e6e44ca6e9863a5",
+      "ko": "아니야! 핀은 겁쟁이가 아니야. 그냥 %COMICREPLACEMENT_SPORTS5%일 뿐이라고!"
+    },
+    {
+      "line": 424,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "27f66b81fd7336678001305160dbf3232b5d16d0ded122ef1ec1c3867b08915a",
+      "ko": "올 거야. 두고 봐!"
+    },
+    {
+      "line": 425,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "b7c2319249e74fe50c8d3a42f537b2ac90c46389349aca081cd0a301a2edb6fd",
+      "ko": "풉, 끝났다는 걸 인정도 못 하네..."
+    },
+    {
+      "line": 426,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "686649514ee4b545428fadf4ee92e24b50387bd343bad58c8422cb55babcac24",
+      "ko": "포기해."
+    },
+    {
+      "line": 427,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "177861105f8c7706ae415a0c62a05673cc3acf6b5ffafebcb359127ef10f69ce",
+      "ko": "우린 절대 포기 안 해!"
+    },
+    {
+      "line": 428,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "d99a7f9af6b6e1521ce87995a2b7ee1469dae55684cac6e265727d49722257e5",
+      "ko": "늦어서 미안, 얘들아. 그래서 경기할 거야, 말 거야?"
+    },
+    {
+      "line": 429,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "b453072ad40537a66c79b4919f2fcf71bd364ad0f862ce05bf89bcbd5f8e2d7a",
+      "ko": "핀이 도착했어! 하지만 이제 팀은 %COMICREPLACEMENT_SPORTS6%의 불이익을 받게 돼. 이런 상황에서 이길 수 있을까?!"
+    },
+    {
+      "line": 430,
+      "event": "sports_comic_ending_3",
+      "english_sha256": "0de452d235ae021c1d728db7128cd0ea85d7d421711207c42e210307ebd17376",
+      "ko": "다음 화에 계속..."
+    },
+    {
+      "line": 437,
+      "event": "sports1",
+      "english_sha256": "b2a28d815654f35cd56bd05979cedf5701877e374df25205fa210a0a78b5b2b1",
+      "ko": "가장 원대한 꿈을 이루지 못하게 막는 건 뭐야?"
+    },
+    {
+      "line": 448,
+      "event": "sports2",
+      "english_sha256": "dbc1c1e6d32489c293ee3e1c52c9b0c911fe35a1774ab0352c8bb93f25eda70e",
+      "ko": "볼링장에서 쫓겨난 이유는 뭐야?"
+    },
+    {
+      "line": 459,
+      "event": "sports3",
+      "english_sha256": "0874ae32a7dc9350049e20e2dabbf84e2d887aa4bd222abb8b434bbce5c6f6f5",
+      "ko": "반복해서 꾸는 악몽은 뭐야?"
+    },
+    {
+      "line": 470,
+      "event": "sports4",
+      "english_sha256": "3760a12285e5d02f515585efef334c9f7bbdba447c9111c197057aeed029025c",
+      "ko": "매일 억눌러야 하는 불쑥 치미는 생각은 뭐야?"
+    },
+    {
+      "line": 481,
+      "event": "sports5",
+      "english_sha256": "11294dba0236d10e0bf69b49433fb51b637ecffef9c73740e586c4be8da8813b",
+      "ko": "할아버지가 절대 묻지 않았으면 하는 한 가지는 뭐야?"
+    },
+    {
+      "line": 492,
+      "event": "sports6",
+      "english_sha256": "528d7fc7637b612f5b101dfdf312fe2354803816f8cf21b58e5d11a4e785a80a",
+      "ko": "NBA를 훨씬 더 재밌게 만들 수 있는 건 뭐야?"
+    },
+    {
+      "line": 504,
+      "event": "noir_comic_ending_1",
+      "english_sha256": "6b73263738722cb248e847f609897e47d9ad4d4ec647d04b9dd5cabba558b18d",
+      "ko": "\"진실의 불꽃\"은 사립 탐정 모스 맨을 따라가는 통속 누아르 모험물이야.[n][n]세상에 지친 이 탐정은 한때 경찰이었지만, %COMICREPLACEMENT_NOIR1% 뒤에 배지를 잃었어."
+    },
+    {
+      "line": 505,
+      "event": "noir_comic_ending_1",
+      "english_sha256": "5398d4b22c768681fa4bf7db368759b6202043ac90f38cb704f1b0b9b462412f",
+      "ko": "신비로운 팜 파탈이 새로운 사건을 들고 찾아오면서 그의 평온은 깨져. %COMICREPLACEMENT_NOIR2%[n][n]하지만 내면의 악마와도 싸워야 하니 탐정 노릇은 쉽지 않아. 모스의 경우 그 악마는 이런 모습을 하고 있지. %COMICREPLACEMENT_NOIR3%"
+    },
+    {
+      "line": 506,
+      "event": "noir_comic_ending_1",
+      "english_sha256": "2f895f05311180e89fd85fecbb03afdcb61168ae536b53e49f9734dfeef0ea26",
+      "ko": "그것만으로도 벅찬데, 수수께끼를 풀수록 모스는 이 사건이 훨씬 거대한 무언가와 연결됐을지 모른다는 걸 깨달아. %COMICREPLACEMENT_NOIR4%[n][n]이 나방은 진실의 불꽃을 찾을까? 아니면 불길에 집어삼켜질까?"
+    },
+    {
+      "line": 514,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "c94d72d1c2aefd9004ca521c150d875d252e29b66cb216e2673b86402f23aec8",
+      "ko": "모든 단서가 막다른 길이었다."
+    },
+    {
+      "line": 515,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "06bd52ee779117fc2959a6a9fc702f77e4162460e689317604cb6e0683d4ade7",
+      "ko": "그래서 난 마지막으로 남은 곳을 뒤지고 있었다. 술병 밑바닥을."
+    },
+    {
+      "line": 516,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "2ea0d8b088d25b910b8ab8aa83d6e1b57f1b6a3af63cbaeb9be2ba21a29b3417",
+      "ko": "넌 늘 결국 여기로 돌아오는구나. 뭘 줄까, 모스?"
+    },
+    {
+      "line": 517,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "cf59b2e0dd78193b82bd7b66be7bc8718fa350fe7faa559e3f60aae91c23fdde",
+      "ko": "아무래도... 소문이 고픈 것 같군. 요즘 솔깃한 얘기 들은 거 있어?"
+    },
+    {
+      "line": 518,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "a094be5d1c778d6390f4aa62c022add7d78c7f1ade6a523a292e002bfba34c22",
+      "ko": "훗... 물론. 저쪽 녀석 보여?"
+    },
+    {
+      "line": 519,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "b742df75d54820c84f9edae338af9a94122f52c9fe9b75ee52610faef94d3f72",
+      "ko": "저 유니콘은 마법과 무지개만 있는 녀석이 아니야. 더러운 곳에 뿔을 들이밀었다더군. %COMICREPLACEMENT_NOIR5%"
+    },
+    {
+      "line": 520,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "e7a421203bbe502a38b4e774b53cbfca2f50ed326e5c26caa468861d2bed63e9",
+      "ko": "정말? 그럼 %COMICREPLACEMENT_NOIR2%에 관해 뭔가 알지도 모르겠군."
+    },
+    {
+      "line": 521,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "e66ee3a9ed485020473a2967e6da3932f79e230f8f8de8dca5f7afa3d1c53286",
+      "ko": "저 뿔이 어딜 가리키는지 볼까..."
+    },
+    {
+      "line": 522,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "6598f90e714c90d4ce2b540439b19ac38f17c5d11e96e92f239f89169b2ce948",
+      "ko": "서두르지 마, 모스 꼬마..."
+    },
+    {
+      "line": 523,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "0ca319c62a3e2fc1071fd6b5ee704938790688e0f8126a6b6f41815f9798a53b",
+      "ko": "보스는 네가 여기저기 쑤시고 다니는 걸 달가워하지 않으셔."
+    },
+    {
+      "line": 524,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "9036226d4f4074aa69e9d9317cdc6b4806e80060829a4b280a3723e5507afc31",
+      "ko": "빛에 너무 가까이 간 나방이 어떻게 되는지 알아? 타 죽지."
+    },
+    {
+      "line": 525,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "104d9e3242019db523775b88ce11ec12385ddfebb33c25be351a6feac5783035",
+      "ko": "이런."
+    },
+    {
+      "line": 526,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "041951902b94ef894ac4264e1c51c06ff38b42503ce2668b37c6cfb58ef2750f",
+      "ko": "빗물이 상처를 어루만진다... 하지만 내 안에서 이토록 밝게 타오르는 불은 끄지 못한다... 이 진실의 불꽃을."
+    },
+    {
+      "line": 527,
+      "event": "noir_comic_ending_3",
+      "english_sha256": "b2081173cc517b935fcbcb3264e41f07a2a16e5aef30b8c8886ef9bad8f61149",
+      "ko": "이 구타 덕에 모든 것이 명확해졌다. 진실은 %COMICREPLACEMENT_NOIR6%, 그리고 나는 %COMICREPLACEMENT_NOIR6_2%"
+    },
+    {
+      "line": 534,
+      "event": "noir1",
+      "english_sha256": "c430914b2272d99fe03687507af33fcec4e3aecf54dff99d07cf3e261634407b",
+      "ko": "동물원 출입 금지당한 이유는 뭐야?"
+    },
+    {
+      "line": 545,
+      "event": "noir2",
+      "english_sha256": "6271d6a27401648f558ce2cfc54d7f4e6aab694d5457d3c9f44d4cfb48dd9e28",
+      "ko": "너라면 무조건 눈길이 갈 추리 소설을 골라 봐."
+    },
+    {
+      "line": 556,
+      "event": "noir3",
+      "english_sha256": "de1c53fe4258edeac3f1e40ea9fc670e0dd8742bf75883729fb3427b2eb8d824",
+      "ko": "지니가 백만 달러를 주겠대. 하지만 조건이 있어..."
+    },
+    {
+      "line": 567,
+      "event": "noir4",
+      "english_sha256": "d8828ef149604df8af5dd7a6e1f5d63edfe4ee05f21438214a5f91b55fd9d191",
+      "ko": "심하게 저평가된 대화 주제는 뭐야?"
+    },
+    {
+      "line": 578,
+      "event": "noir5",
+      "english_sha256": "b4e0881abdbb0e7ce37bb20d4d9dd60b425b8a36abbdceea66e57c5a08aac3a0",
+      "ko": "세상에서 가장 마이너한 음악 축제에 왔어... 어떤 밴드를 보러 갈래?"
+    },
+    {
+      "line": 589,
+      "event": "noir6",
+      "english_sha256": "407f0e83a130ccba3c8dfa005086ede9453292afc82de2c275635800b7932531",
+      "ko": "아직 그 마이너한 음악 축제야. 이제 밴드를 골랐으니... 제목만 보고 네 새로운 최애곡이 될 노래를 고른다면?"
+    },
+    {
+      "line": 601,
+      "event": "spaceopera_comic_ending_1",
+      "english_sha256": "91c169e2a32122d5396862e2d83d32f873d8674ac2e19e75f7cc5dd0981bbbad",
+      "ko": "\"우주 강도\"는 강도질에 관한 만화야... 우주에서 벌어지는.[n][n]각자 독특한 능력이 있는, 매력적이고 오합지졸인 무법자 팀을 따라가지."
+    },
+    {
+      "line": 602,
+      "event": "spaceopera_comic_ending_1",
+      "english_sha256": "59fb28f2f9465a79bb10831533fbf00ccec2be0948acedebfbf5f0789e7e368e",
+      "ko": "키보드로 마법을 부리는 해커 페이스. 그녀가 법의 손길을 피해 다니는 이유는 %COMICREPLACEMENT_SPACEOPERA1%[n][n]노련한 우주선 조종사 수잔. 그녀에게 돈이 절실한 이유는 %COMICREPLACEMENT_SPACEOPERA2%[n][n]삶의 짜릿함을 모두 배우고 싶은 안드로이드 칼큘레스터. 그의 기술은 이번 모험에 귀중한 자원을 제공해. %COMICREPLACEMENT_SPACEOPERA3%"
+    },
+    {
+      "line": 604,
+      "event": "spaceopera_comic_ending_1",
+      "english_sha256": "c4e70afa4a9ee87e078a288f30917a435ef7df6d4c4b3b6baea366cb52c8c0cc",
+      "ko": "그리고 팀의 리더... 발레리. 돈에 목마르고 갚아야 할 빚이 있는 우주 해적이지.[n][n]이들은 은하계 누구도 감히 훔칠 생각조차 못 했던 한 가지를 함께 노릴 거야. %COMICREPLACEMENT_SPACEOPERA4%"
+    },
+    {
+      "line": 612,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "9e5b28ccb35025bd75182909e4acb9330224f7ce9d229ebf940e075476f1b3fc",
+      "ko": "젠장, 칼큘레스터... 내가 %COMICREPLACEMENT_SPACEOPERA5%라고 했잖아."
+    },
+    {
+      "line": 613,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "fe258f380fda2947c5c9eaed2aa895587d832138bbdc6b404dee72f0131df65d",
+      "ko": "위험을 감수해야 했습니다. 삶의 짜릿함을 경험하고 싶었으니까요."
+    },
+    {
+      "line": 614,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "99a1d5ae7a46c90c8fd3174ee97bd9dec73acde9e0c68ede5df0be903a7dac00",
+      "ko": "싸우지 마. 놈들의 %COMICREPLACEMENT_SPACEOPERA6% 해킹에 성공했어. 한동안 정신없겠지."
+    },
+    {
+      "line": 615,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "c6adb900044b6b30020dbb3fc4d8af401ce4818d424997d30243215d40e63e06",
+      "ko": "둘 다 얼른 타! 정거장이 곧 폭발해."
+    },
+    {
+      "line": 616,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "146bc833b6a7f89ee53f7b122ab6c395ea814a3909d054c078bd2a08a2e08cde",
+      "ko": "안전벨트 매!"
+    },
+    {
+      "line": 617,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "910d480fa89c17ab01063e9ea1f3d34b07281773138904ef4fc44c226975b7ca",
+      "ko": "다시는 이러지 마, 칼큘레스터!"
+    },
+    {
+      "line": 618,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "024f56094e8fe59574f7e61c254a213984c42be19791451333822db83ff97582",
+      "ko": "약속은 못 합니다. 저는 살아가도록 프로그램되어 있으니까요!"
+    },
+    {
+      "line": 619,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "0c1967a02d0004511e88825542cced3482fe3faefc00f6f57925dd9b80b9ad81",
+      "ko": "주인공들은 간신히 탈출해... 하지만 우주 정거장을 날려 버리는 바람에 정체까지 드러낸 건 아닐까?"
+    },
+    {
+      "line": 620,
+      "event": "spaceopera_comic_ending_3",
+      "english_sha256": "0de452d235ae021c1d728db7128cd0ea85d7d421711207c42e210307ebd17376",
+      "ko": "다음 화에 계속..."
+    },
+    {
+      "line": 627,
+      "event": "spaceopera1",
+      "english_sha256": "9755d69af19ed73a1caae9da39eab007cfe5de5f061f4ad61bab6149995fe76f",
+      "ko": "먼 미래의 직업 중 네가 갖고 싶은 직업은 뭐야?"
+    },
+    {
+      "line": 638,
+      "event": "spaceopera2",
+      "english_sha256": "d763eb083051c255c92ae251e2889df0fb8cdf49bb4e4bd66ca1e215ad1ef8da",
+      "ko": "천만 달러에 당첨됐는데 오 분 안에 다 써야 해. 빨리! 써 버려!"
+    },
+    {
+      "line": 649,
+      "event": "spaceopera3",
+      "english_sha256": "ec6f850fbb697bb054dd5300a0adf80f3cc044835689c1c700d3cebbec18b7dd",
+      "ko": "로봇 가게에서 로봇을 살 때 반드시 찾는 기능은 뭐야?"
+    },
+    {
+      "line": 660,
+      "event": "spaceopera4",
+      "english_sha256": "f95c720a995eb528ccecedabb21d60f37222d88620bd212bd3383b599f71e38a",
+      "ko": "고양이에게 지어 줄 끝내주는 이름은 뭐야?"
+    },
+    {
+      "line": 671,
+      "event": "spaceopera5",
+      "english_sha256": "4dc005439bbbf8f48ad547ca1aea15aa7a803d8fc5f62cdd775313016ce3d803",
+      "ko": "시의회 회의에 참석한 모두를 순식간에 짜증 나게 할 확실한 방법은?"
+    },
+    {
+      "line": 682,
+      "event": "spaceopera6",
+      "english_sha256": "47c95a58eb1181a6cb88cb5ab50a236a0167de35859fc72e342722874b2ad105",
+      "ko": "미래가 빨리 오길 바라게 만드는 새로운 기술은 뭐야?"
+    },
+    {
+      "line": 694,
+      "event": "superheroes_comic_ending_1",
+      "english_sha256": "8fea15335a9cc380805026ad2b8a3ccfb43f16c6294f7bce0c6acd068931903b",
+      "ko": "몬스터들은 언제나 평화롭고 두려움 없이 살아왔어. 역사상 가장 강력한 영웅이 지켜 줬으니까. %COMICREPLACEMENTRAW_SUPERHEROES1_1%[n][n]\"컬러 스쿼드, 집결하라!\"는 시작부터 강렬해. 첫 화 마지막에 현실을 뒤트는 존재인 해설자가 %COMICREPLACEMENTRAW_SUPERHEROES1_2%의 목숨을 빼앗거든!"
+    },
+    {
+      "line": 695,
+      "event": "superheroes_comic_ending_1",
+      "english_sha256": "d8ffec95832be3de4233aa5aea129cc0dc73c0693ccef37cbeb9fea8a069a5a5",
+      "ko": "이로써 우리가 아는 문명을 위협하는 공포와 혼돈의 시대가 열려. 원대한 구상과 계획을 지닌 한 남자가 없었다면 세상은 끝났겠지...[n][n]그 계획은? 제각각인 이류 슈퍼히어로 넷을 모아, 다시 세상을 구할 팀을 만드는 거야!"
+    },
+    {
+      "line": 696,
+      "event": "superheroes_comic_ending_1",
+      "english_sha256": "375edb6e84249f58142f96a07132a3527500976708e7a72da55cb8c7b2cbdeeb",
+      "ko": "영웅들은 복잡한 과거를 공유하고, 서로 의견이 맞은 적도 없어. 하지만 이들을 하나로 묶을지도 모를 것이 있지. %COMICREPLACEMENT_SUPERHEROES2_1%[n][n]아무도 이 부적응자와 한물간 영웅들의 팀을 믿지 않아. 너무 거대한 영웅의 빈자리를 메워야 하니까... 하지만 지구의 마지막 희망일지도 몰라."
+    },
+    {
+      "line": 704,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "d97522c23cef769bb043de0ff86abbb5a33857a8be0b8eb14ba5a51191c6cc4c",
+      "ko": "스푸컴 시티 어딘가..."
+    },
+    {
+      "line": 705,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "febb51cac08f836cce10ef52e8f6ee45f68b8fe5b9aa4d67538a086a71fb15fc",
+      "ko": "우릴 여기 왜 불렀는지 말해 봐, 거대 거미 대령."
+    },
+    {
+      "line": 706,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "23ec273426231a2cb0b2ac034e1371d7a5ee53a3b97046f53f1f09555bbc3e25",
+      "ko": "맞아, 역사상 최악의 잠옷 파티 같은데. 누가 영화라도 가져왔어?"
+    },
+    {
+      "line": 707,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "20d3fae5e4d92a8aa9b655735a4c7f19c3cab52d30190b469cf70e2bf374b7f2",
+      "ko": "너희에게 사연이 있다는 건 알아. 하지만 차이는 잠시 접어 두고 임시 휴전을 고려해 줘."
+    },
+    {
+      "line": 708,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "a56c2564d2b4c5927858677be6380db4d36bab1c60d262a0e0e98f6bc4709e61",
+      "ko": "%COMICREPLACEMENTRAW_SUPERHEROES1_2%의 목숨은 끊어졌어... 그리고 너희 넷이 다음으로 나은 선택일지 몰라."
+    },
+    {
+      "line": 709,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "72a755678e07193e469ec863f3d3078c14dabdf6e61022dc18f9771ab895f698",
+      "ko": "이 광대들이?! 하!"
+    },
+    {
+      "line": 710,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "d9d09e6f008bf53bef6521fd35c29f10f034b42a050a44166c3aced276505b0c",
+      "ko": "그래, 와일드 파이어. 사이가 안 좋아도 빅토리어스가 곁에 두면 든든한 아군이라는 건 인정해야지."
+    },
+    {
+      "line": 711,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "6dc578b0168d56fbfaebac1d5dc69f5ebf41b19e64b4e97e9ab3ea853ebdfd3e",
+      "ko": "너도 그녀의 %COMICREPLACEMENTRAW_SUPERHEROES3_1%을 활용할 수 있을 거야."
+    },
+    {
+      "line": 712,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "ddb22d35ae4dc32a13fbef9f83c2ea0d2e2888d2fda16c0fac345f7951009dad",
+      "ko": "펀칭 데드는? 자신의 약점인 %COMICREPLACEMENT_SUPERHEROES4_1%만 아니었다면, %COMICREPLACEMENTRAW_SUPERHEROES1_2%의 능력도 그에 비하면 아무것도 아니었다고들 하지."
+    },
+    {
+      "line": 713,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "434ca388e926e477c1f6ce53bf399d849640c8e31e8a62922d82315e74920526",
+      "ko": "이봐, 거대 거미. 난 세 번째 데이트 전엔 약점을 공개 안 해. 애초에 와일드 파이어를 왜 믿어야 하는데?"
+    },
+    {
+      "line": 714,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "1ca5de1b3443f304f2854511af403fad15495882fa9918b7368fc647c2e579ac",
+      "ko": "얼마 전까지만 해도 세계 정복을 시도하지 않았어?"
+    },
+    {
+      "line": 715,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "caa66680782ba3de49dd82c62f66948d4445b941b6a5558cbabb1691d6c41ae8",
+      "ko": "그래, 와일드 파이어가 반대편에서 뛰었을지도 모르지."
+    },
+    {
+      "line": 716,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "3a238876870008377100aa80ae6fea77b7949ca6e191dbe77693338988ae568c",
+      "ko": "하지만 이번에는 우리 편에 남을 거라 믿을 만한 이유가 있어. %COMICREPLACEMENT_SUPERHEROES5%"
+    },
+    {
+      "line": 717,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "0bbf8de0d39fde6b07419f408f1b065f87bf364ab3000725f908f61ebfe6c92f",
+      "ko": "대령한텐 충분한 이유일지 몰라도, 나한텐 아니야."
+    },
+    {
+      "line": 718,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "4beb02641c96e3fb13cd2a6f983469c427466245e7dab881befdaea1de3ecc33",
+      "ko": "풉, 나도 %COMICREPLACEMENT_SUPERHEROES6_1%로 능력을 얻은 얼간이와 한 팀 하고 싶진 않거든."
+    },
+    {
+      "line": 719,
+      "event": "superheroes_comic_ending_3",
+      "english_sha256": "42894f1701c4e72e24e36f4f53ec533c7908561d5db6cd1e4c570d7ec7e2644f",
+      "ko": "이 네 \"영웅\"은 세상을 구할 계획은커녕 잠옷 파티에서 볼 영화도 합의 못 할 것 같아. 과연 갈등을 묻어 둘 수 있을까... 아니면 곧 목이 날아다닐까?"
+    },
+    {
+      "line": 726,
+      "event": "superheroes1",
+      "english_sha256": "44d4e03dfb0855bde529ce3f96dec3bae3f9518c10d0a1334e951628491d40ab",
+      "ko": "네가 제일 좋아하는 TV 프로그램이 폐지될 참이야. 방송국 간부들이 전화했어. 다음 시즌에 나올 새 캐릭터를 구상해서 프로그램을 살릴 기회가 생겼어. 잘 생각해. 어떤 캐릭터여야 할까?"
+    },
+    {
+      "line": 737,
+      "event": "superheroes2",
+      "english_sha256": "2d9a6c35b9035c62cb414a2cddb2b11311023c9a8a15c9aac14d471faba3e259",
+      "ko": "옛 친구들과 멀어졌어... 마지막으로 어울린 지 10년. 이제 모두를 다시 모을 계획을 생각해야 해!"
+    },
+    {
+      "line": 748,
+      "event": "superheroes3",
+      "english_sha256": "42f8d3472676bc1c9828143a721ca6f34ed5671d33c2955d3a2fdb137c6f13e3",
+      "ko": "쥐 공동체에 봉사한 공로로 쥐 왕이 초능력 하나를 주겠대. 현명하게 골라."
+    },
+    {
+      "line": 759,
+      "event": "superheroes4",
+      "english_sha256": "725207dd95fa5631ac7eb109421039e7531b34a1b378c4b445bbd6cb75632c01",
+      "ko": "아주 중요한 취업 면접에서 고전적인 질문을 받았어. 너의 대표적인 약점 하나는 뭐야?"
+    },
+    {
+      "line": 770,
+      "event": "superheroes5",
+      "english_sha256": "4f683f83dddffefb6edd3c5c9eb025ddf892503dce6537bc2eb5d6bb7c0bb57d",
+      "ko": "취업에 성공했어! 그런데 5년이 흘렀고 이곳에서 일하는 삶은 비참해. 그만두고 건물 전체를 불태우지 않는 이유는 하나뿐이야."
+    },
+    {
+      "line": 781,
+      "event": "superheroes6",
+      "english_sha256": "484602c208afb9e6a7cba73bfaf5630bfb1e8edb58cc64d993668a76ac72218b",
+      "ko": "넌 종마 네 마리가 있어. 네 자랑이자 기쁨이지. 그런데... 어떻게 갖게 됐는지는 좀 부끄러워..."
+    },
+    {
+      "line": 793,
+      "event": "comicstrip_comic_ending_1",
+      "english_sha256": "b0e9d33e19f167179fb39408d0ae916afa034280885a22a043ae84fbe86abe45",
+      "ko": "\"후안\"은 흑마법사 제라드와 마법 고양이 후안의 일상 속 소동을 그린 짧은 만화야.[n][n]이 둘의 관계는 정말 웃겨."
+    },
+    {
+      "line": 795,
+      "event": "comicstrip_comic_ending_1",
+      "english_sha256": "872761047285b415fb7e04db62ff19cc98978ed48a9db4c08a07c5b8cf898b8e",
+      "ko": "제라드는 언제나 심술궂은 강력한 흑마법사야. 사람도 싫어하고, 월요일도 싫어하지만, 무엇보다 싫어하는 건 %COMICREPLACEMENTRAW_COMICSTRIP1_1%[n][n]후안은? 대표 주문으로 늘 사고를 치는 사랑스러운 꼬마 악동이지. %COMICREPLACEMENTRAW_COMICSTRIP2_1%[n][n]그리고 누가 그 유행어를 잊겠어? \"%COMICREPLACEMENTRAW_COMICSTRIP3_1%\" 나오자마자 명대사야!"
+    },
+    {
+      "line": 797,
+      "event": "comicstrip_comic_ending_1",
+      "english_sha256": "30b9f9417d78413af08e4ae9d84846bfe371a2edfdb4aa98c1eb4cd7b40a22ac",
+      "ko": "대부분은 이 둘의 이야기지만, 사랑받는 조연도 있어. %COMICREPLACEMENTRAW_COMICSTRIP4_1%[n][n]화룡점정은 인터넷에 어둡고 기묘한 이론을 퍼뜨려 \"후안\"을 유행시키는 거야. 그 이론은 %COMICREPLACEMENTRAW_COMICSTRIP5_1%"
+    },
+    {
+      "line": 805,
+      "event": "comicstrip_comic_ending_3",
+      "english_sha256": "617fecf6e1213e12b50ec882e973d20edb5ec815a24165d7f16426caa9e40922",
+      "ko": "또 월요일이군... 인생은 의미 없는 고통의 끝없는 행렬이야."
+    },
+    {
+      "line": 806,
+      "event": "comicstrip_comic_ending_3",
+      "english_sha256": "5a75e5d2b11cd8261dd5f28e0c6a3768a85c630134de9634ff7da48235ee8252",
+      "ko": "이 지옥 같은 고문 속에서 유일한 위안은..."
+    },
+    {
+      "line": 807,
+      "event": "comicstrip_comic_ending_3",
+      "english_sha256": "9b1faf08925484213d72607e397f98e2dcc73c42faea2faeb015f7a66d51537a",
+      "ko": "...잠깐, %COMICREPLACEMENTRAW_COMICSTRIP6_1% 어디 갔어?"
+    },
+    {
+      "line": 808,
+      "event": "comicstrip_comic_ending_3",
+      "english_sha256": "6a3933e3cdf214323b786df23037379bea54b603a8c454f17c6906eded83bfb7",
+      "ko": "그날 조금 전..."
+    },
+    {
+      "line": 809,
+      "event": "comicstrip_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 816,
+      "event": "comicstrip1",
+      "english_sha256": "5533d2ccd205d42431674f12c453bfbc0c5e553fdc6ae9585021707973153628",
+      "ko": "지금 진로가 잘 안 풀리면 택할 다른 진로를 골라 봐."
+    },
+    {
+      "line": 827,
+      "event": "comicstrip2",
+      "english_sha256": "c06e2c5b5db7cff141559cd94a47b1d6ad029365d013365dceb7bd52dd09d387",
+      "ko": "넌 이상한 이세계물의 주인공이야. 여신이 한 가지를 내려 줄 수 있대. 현명하게 골라."
+    },
+    {
+      "line": 838,
+      "event": "comicstrip3",
+      "english_sha256": "5c163080b767aa30ff37dcbaf40ada137c9509fe4fcb77a162b11a9e4779c931",
+      "ko": "유행은 지났지만 꼭 돌아와야 할 건 뭐야?"
+    },
+    {
+      "line": 849,
+      "event": "comicstrip4",
+      "english_sha256": "295c99d14082f9da87c2a5630a9974bbff70cca9bed9ac0f15895d506c5e6c40",
+      "ko": "넌 세 청년이 함께 사는 TV 프로그램의 작가인데 시청률이 낮아... 그래서 시즌 3에는 판을 흔들 뜻밖의 룸메이트를 추가하기로 해."
+    },
+    {
+      "line": 860,
+      "event": "comicstrip5",
+      "english_sha256": "bfc90a19bbc94dc3f9d77a3649c2161839e497b88115c4f4ec5c6340f299144a",
+      "ko": "네 인생을 영원히 바꾼 결정적인 사건은 뭐야?"
+    },
+    {
+      "line": 871,
+      "event": "comicstrip6",
+      "english_sha256": "3708b7a40866f236bbf8e61194e47e98884d5d1339f230e3a4f9c81537c2d96a",
+      "ko": "저주받은 지니가 소원 3개를 들어주겠대. 하지만 그 대신 이 4가지 중 3가지를 영원히 빼앗아 가. 뭘 하나 남길래?"
+    },
+    {
+      "line": 883,
+      "event": "period_comic_ending_1",
+      "english_sha256": "de579fc94398525250d1a267dba6dde7791a21484c983b2267b8056504bc7994",
+      "ko": "\"네 비단에 얽혀\"는 상류 사회의 복잡한 관계에 갇힌 소박한 청년 브루스를 그린 이야기야.[n][n]모든 일은 한 부잣집이 그를 새로운 %COMICREPLACEMENTRAW_PERIOD1_1%로 고용하면서 시작돼.[n][n]그 가문은 재산을 모은 별난 사연으로 온 지방에 이름이 나 있어. %COMICREPLACEMENTRAW_PERIOD2_1%"
+    },
+    {
+      "line": 885,
+      "event": "period_comic_ending_1",
+      "english_sha256": "73cac7f907e677584a08bc2c545e1ae4c7dae37c71e2c0b029f880e3fe8a96d1",
+      "ko": "소박하게 자란 브루스가 부자들의 방식을 배우려 애쓰면서 온갖 문제가 생겨나.[n][n]첫 과제는 부자들에게 인기 있는 활동인 %COMICREPLACEMENTRAW_PERIOD3_1%의 복잡한 예절을 익히는 거야.[n][n]다행히 가문의 후계자 사샤가 가르쳐 주기로 해. 그런데 브루스를 교육하는 일이 금지된 사랑으로 피어날 씨앗이 되고 말지."
+    },
+    {
+      "line": 887,
+      "event": "period_comic_ending_1",
+      "english_sha256": "958a913208f8fa3d3c1346ecc2330053ede8168a705358a11287a99067fd7c7d",
+      "ko": "그것만으로도 벅찬데, 사샤는 이미 아름다운 마를라와 약혼한 사이야. 둘은 성격이 안 맞는 것 같지만 말이지.[n][n]그래도 사샤는 올해 최대의 사교 행사인 %COMICREPLACEMENTRAW_PERIOD4_1%에서 마를라와의 결혼을 발표해야 해.[n][n]브루스는 그 명망 높은 행사에 초대받으려고 열심히 노력해야겠지... 사랑은 결코 단순하지 않다는 걸 모른 채."
+    },
+    {
+      "line": 895,
+      "event": "period_comic_ending_3",
+      "english_sha256": "f954cc5308ccde1cd1b14e793c19fe6f49f99e20a2866720b204c147bbed6641",
+      "ko": "여러분, 이번 봄은 어떠셨나요? 나눌 만한 소식이나 스캔들은 없나요? 맛있는 소문에 귀가 굶주렸답니다!"
+    },
+    {
+      "line": 896,
+      "event": "period_comic_ending_3",
+      "english_sha256": "0a523a30d9893d2bba54b981cae470089f72af0ade8f89ef1170000121c4fdf5",
+      "ko": "글쎄요, 여기 우리 친구 사샤가 새로운 %COMICREPLACEMENTRAW_PERIOD1_1%을 보고 넋을 놓는 음탕한 모습을 소문으로 쳐 주신다면요."
+    },
+    {
+      "line": 897,
+      "event": "period_comic_ending_3",
+      "english_sha256": "3272c0afe4af93c4f83376f2f8fe88357e4586b7de8131f4f03627213101ff1b",
+      "ko": "저 남자의 힘찬 품에서 숨이 막히는 꿈을 꾼다는 데 뭐든 걸겠어요..."
+    },
+    {
+      "line": 898,
+      "event": "period_comic_ending_3",
+      "english_sha256": "c8f0bb12e6a6012c814e91455e2151b0e43998e76a0069ab489706f7de952b66",
+      "ko": "이펑, 내 삶을 최근 오락거리로 삼아야 할 정도라니 시간이 넘쳐 나나 보군."
+    },
+    {
+      "line": 899,
+      "event": "period_comic_ending_3",
+      "english_sha256": "70c5e15eeaf740861205c28e76ca645fc62645edb091f75be44493289c77fd0a",
+      "ko": "하지만 저 말이 사실인가요? 알려지면 가문은 어떻게 되죠? 아직도 %COMICREPLACEMENTRAW_PERIOD5_1%의 상처를 추스르는 중일 텐데요."
+    },
+    {
+      "line": 900,
+      "event": "period_comic_ending_3",
+      "english_sha256": "51c22e55fb1fcd428e7eb620ba5c3fac50f546ab3eaef703f36af53d73b31ad3",
+      "ko": "하하, 스캔들이 집안 혈통에 깊이 새겨져 있나 봐요. 그렇죠?"
+    },
+    {
+      "line": 901,
+      "event": "period_comic_ending_3",
+      "english_sha256": "db4c22d3c668b5461d7a10e40012e03ac622df2f2bc1c3c87fcd1ab05667d8a0",
+      "ko": "친구여, 제가 쓰는 소설에 이 이야기를 써도 될까요? 물론 이름은 바꿀게요."
+    },
+    {
+      "line": 902,
+      "event": "period_comic_ending_3",
+      "english_sha256": "fed467a6c52b8d9ef128c2af0904b3444b8ce8efdc5f44044f2db3d638f4ef65",
+      "ko": "감히 그러진 못하겠죠!"
+    },
+    {
+      "line": 903,
+      "event": "period_comic_ending_3",
+      "english_sha256": "b7e110d178f2d23a1a370a7b41a899d52af7c01ca7aa64adcc5a9338bad3f630",
+      "ko": "하지만 요즘 제 삶이 드라마로 넘쳤다는 건 인정해야겠군요..."
+    },
+    {
+      "line": 904,
+      "event": "period_comic_ending_3",
+      "english_sha256": "65ff1f95af695b2aff73185ff5e7515ff0c51fbdc6d4c740ceb6e3a545c59c88",
+      "ko": "그렇다면 사과부터 해야겠네요. 이 소식을 들으면 무릎에 술을 쏟을지도 모르니까요."
+    },
+    {
+      "line": 905,
+      "event": "period_comic_ending_3",
+      "english_sha256": "3f81bf323a918a1a9ac9182a9e695826d5d0ecd7d7221396e37d8ce7d9eb56a8",
+      "ko": "지난주에 이 편지를 받았어요. 당신 앞으로 왔더군요... 읽어 보는 게 좋겠어요."
+    },
+    {
+      "line": 906,
+      "event": "period_comic_ending_3",
+      "english_sha256": "10069c101bcc95c1e9d82d15bfa09c57f4d2d732534878c2195b5f3a83764abe",
+      "ko": "...!"
+    },
+    {
+      "line": 907,
+      "event": "period_comic_ending_3",
+      "english_sha256": "488e89ca3d59558196b26e4397bf73909bb5b4fd59923d313d2140586b40e566",
+      "ko": "이럴 순 없어... %COMICREPLACEMENTRAW_PERIOD6_1%"
+    },
+    {
+      "line": 908,
+      "event": "period_comic_ending_3",
+      "english_sha256": "d269e2417e438bf19b804af7cc5f4c2c5630f95ad58775cde3bc6f61c3f603b1",
+      "ko": "이 거미줄을 더욱 복잡하게 만드는 또 하나의 실. 사랑은 단순해질 수 있을까?"
+    },
+    {
+      "line": 915,
+      "event": "period1",
+      "english_sha256": "b9514cfa1449d17bd38478d62811fa5929f93e42ea0110644c2fa244453502dd",
+      "ko": "어떤 황당한 일을 계기로 지금 일자리를 얻었어?"
+    },
+    {
+      "line": 926,
+      "event": "period2",
+      "english_sha256": "6d6ed958fda8b6e42e194b3ea0c4ffe2e7c257a867981a37f0e3f326830b2def",
+      "ko": "이 주 안에 $50,000를 벌어야 해. 어떻게 빨리 한몫 챙길래?"
+    },
+    {
+      "line": 937,
+      "event": "period3",
+      "english_sha256": "db3d1057caed98fe62a42a2698cd1cb343de5fa25075f0f9b85787bb85224ffb",
+      "ko": "역사상 가장 시시한 회식에 왔어. 자유로운 영혼인 넌 어떻게든 즐기려고 색다른 활동을 고르지."
+    },
+    {
+      "line": 948,
+      "event": "period4",
+      "english_sha256": "562aceb4f5551cd08a6b66f5dba805ca643094c5b0927ed58349b2e5af78445d",
+      "ko": "이런! 다음 금요일에 멋진 행사가 하나도 아니고 무려 넷이나 있어... 어디에 갈래?"
+    },
+    {
+      "line": 959,
+      "event": "period5",
+      "english_sha256": "4db1057dbcff42897cc768702731e141e4f212f17461529f0b430d076ad58a2e",
+      "ko": "이 상황들 중 무엇이 가장 부끄러울까?"
+    },
+    {
+      "line": 970,
+      "event": "period6",
+      "english_sha256": "78708e0a35b9d748249cb3e2690126a765b9fae0e7a52126e984d86508ad04eb",
+      "ko": "모든 걸 바꿀 수도 있는 편지를 받았어. 무슨 내용일까?"
+    },
+    {
+      "line": 982,
+      "event": "artsy_comic_ending_1",
+      "english_sha256": "0824048cffe91e8766220cc9757a41f9e377772dd0751c41c469ceaee3d6ff1e",
+      "ko": "\"완다의 대모험\"은 정신의 우주적 한계를 넘어... 그 너머까지 떠나는 여정을 그린, 뇌가 녹을 듯한 만화야.[n][n]완다가 삶을 바꿀 이 대모험을 시작하는 계기는 %COMICREPLACEMENTRAW_ARTSY1_1%"
+    },
+    {
+      "line": 983,
+      "event": "artsy_comic_ending_1",
+      "english_sha256": "5c5c17b9424ddf75c17922f40a9926a123c33f82d496b56e1bb5ae7e1565c56c",
+      "ko": "하지만 혼자는 아니야. 실존하지 않을지도 모르는 존재 /ERROR/에게서 뜻밖의 길잡이와 스승을 찾게 되지.[n][n]둘은 잠재의식의 아스트랄 영역을 가로질러, 이런 기묘한 주민들을 만나. %COMICREPLACEMENTRAW_ARTSY2_1%[n][n]쉬운 여행은 아닐 거야. 온갖 비유적인 장애물을 마주할 테니까. 이를테면 %COMICREPLACEMENTRAW_ARTSY3_1%"
+    },
+    {
+      "line": 984,
+      "event": "artsy_comic_ending_1",
+      "english_sha256": "48b90d8d44873d43c6e00a1746269d597faadf87ae864d1898b4b37b5b3c7f51",
+      "ko": "그래도 완다는 포기하지 않아. 그녀를 움직이는 원대한 동기가 있으니까. %COMICREPLACEMENTRAW_ARTSY4_1%[n][n]결국 찾는 건 집으로 돌아갈 길일지 몰라도, 훨씬 초월적인 무언가를 발견할 거야. %COMICREPLACEMENTRAW_ARTSY5_1%"
+    },
+    {
+      "line": 992,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 993,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 994,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 995,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 996,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 997,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 998,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 999,
+      "event": "artsy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 1006,
+      "event": "artsy1",
+      "english_sha256": "87bda18f175dd2bd06e28ce6d4ef781af5ad4967c573d30f46c300627750aea8",
+      "ko": "인생의 실수 중 어쩐지 너답다고 느껴지는 한 가지는 뭐야?"
+    },
+    {
+      "line": 1017,
+      "event": "artsy2",
+      "english_sha256": "24d8c1b7720263feb909e4fc990a5dab637309207fb302edcd94a276cdeb73d7",
+      "ko": "콜로세움에서 죽을 때까지 싸워야 해. 상대는 고를 수 있어. 누굴 고를래?"
+    },
+    {
+      "line": 1028,
+      "event": "artsy3",
+      "english_sha256": "7437148db7004775ef9f0ef87ae8fcef87d886be2e1f6e81cc3719c6cca2e36b",
+      "ko": "이 네 가지 고통스러운 활동 중 하나를 견디면 백만 달러를 주겠대. 과연 할 수 있을까...?"
+    },
+    {
+      "line": 1039,
+      "event": "artsy4",
+      "english_sha256": "7fafd7b0afc270321a1df95670c7179bbd52853db5b0dc882d758b266187878e",
+      "ko": "역대 최고의 소개팅 중인데, 넌 일찍 자리를 뜨려 해. 대체 왜 그러는 걸까?"
+    },
+    {
+      "line": 1050,
+      "event": "artsy5",
+      "english_sha256": "d910ec638081232fab13447638736846d742cbfd9556fcce98e54cca68b3031e",
+      "ko": "뮤즈가 네 귀에 속삭여. 이제 네 손에 닿을 금단의 비밀을 알려 준대. 뭘 속삭여 주길 바라?"
+    },
+    {
+      "line": 1061,
+      "event": "artsy6",
+      "english_sha256": "a57073df47513f134f6c54007233b05556a0be2ee6e8bb67cd9c7d5611b125b0",
+      "ko": "몇 년이나 걸렸지만, 드디어 가슴에 새길 문신을 정했어."
+    },
+    {
+      "line": 1073,
+      "event": "domino_comic_ending_1",
+      "english_sha256": "93a0f353647fa0e837eb5e96cf9ee29681350f0fc9cd06661d54cbabe4f37aca",
+      "ko": "\"도-미-노!\"는 모든 분쟁을 장대한 도미노 대결로 해결하는 마법 세계에 떨어진 평범한 남자, 케일의 이야기야.[n][n]이 세계는 강력한 도미노 왕자가 지배해. 도미노 대결로 왕자를 이긴 자는 %COMICREPLACEMENT_DOMINO1%을 얻지.[n][n]하지만 왕자는 하늘 높이 솟은 탑 꼭대기에 숨어 있어."
+    },
+    {
+      "line": 1074,
+      "event": "domino_comic_ending_1",
+      "english_sha256": "0588b2214e5a014c5cbe7fc2c203f9cbd9b8b4b2114a89aaf0fe312593c68de8",
+      "ko": "케일은 탑을 오르며 층마다 온갖 뜻밖의 것들을 만나. 친구와 적... 심지어 %COMICREPLACEMENT_DOMINO2%까지.[n][n]주인공은 도미노의 고대 부적의 도움을 받게 돼. %COMICREPLACEMENT_DOMINO3%을 대가로 케일이 \"패의 마음\"을 볼 수 있게 해 주는 유물이지."
+    },
+    {
+      "line": 1075,
+      "event": "domino_comic_ending_1",
+      "english_sha256": "710e3dac310c1bd42132624fbb0dbac7d9ba189e0e4588d998471f090d92a908",
+      "ko": "하지만 진짜 도미노 대결은 케일이 치르는 경기들이 아니야. 그의 내면에서 벌어지는 대결이지. %COMICREPLACEMENT_DOMINO4%[n][n]정말 중요한 단 하나의 도미노 대결에서 그는 이길 수 있을까?"
+    },
+    {
+      "line": 1083,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "895100aeda82d107d131d986e038b590c4363bcf5986af663edb772ce7fcf2d8",
+      "ko": "난 네가 무섭지 않아. 도미노 대결은 처음이 아니라고!"
+    },
+    {
+      "line": 1084,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "831f8c67c1460fc39234b3dba1204dc1f46da965442496c91ba09002ea43b5ff",
+      "ko": "하하... 하지만 말이지. 이건 평범한 도미노 대결이 아니야..."
+    },
+    {
+      "line": 1085,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "e81c3bf82912a8d018241549db370a42be75f187550e43fe111b0c79865aff72",
+      "ko": "이건... %COMICREPLACEMENT_DOMINO5%"
+    },
+    {
+      "line": 1086,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "21a1fd7b8ef306eab31082109b4b8ffa009de93b00822647cfa6fe060bb412ef",
+      "ko": "%COMICREPLACEMENT_DOMINO5_2%"
+    },
+    {
+      "line": 1087,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "05cde60c7c403257d0f0c61cc4deba27487d5576984e071876178cec53b1ccc8",
+      "ko": "아무래도 %COMICREPLACEMENT_DOMINO5_3%인 것 같은데."
+    },
+    {
+      "line": 1088,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "4f90990995c720d1a6def61900543ae733d18af54ae3eca377318f48e76e806f",
+      "ko": "말도 안 돼!"
+    },
+    {
+      "line": 1089,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "1034d4a863170bdbadcac34485e5e5f608ac8d68a8f19627cbee1302ce32e363",
+      "ko": "모든 걸 잃은 듯한 순간... 케일은 할아버지의 지혜로운 말씀을 떠올려."
+    },
+    {
+      "line": 1090,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "c67ebc5bc596b66e824e3d9fe695de42728aa45e76343ef134210067f47de9a8",
+      "ko": "%COMICREPLACEMENT_DOMINO6%"
+    },
+    {
+      "line": 1091,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "ebc110388e3748fade2d60fe999fcede9ee6638e52c53eb711bed9b84487d95f",
+      "ko": "그렇지!"
+    },
+    {
+      "line": 1092,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "472e8d78a3be8e8651bb6ac65debc96b4bd26dfbdfe9828cd35a7e2756097ab6",
+      "ko": "훗..."
+    },
+    {
+      "line": 1093,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "6b0d130c59258dc9bd7e960a1de2f38e9cf0b0323e0c5db6c2967418aabcae55",
+      "ko": "할아버지의 말씀이 케일에게 계획을 떠올리게 한 것 같아... 하지만 호프의 변칙 도미노에도 통할까?"
+    },
+    {
+      "line": 1094,
+      "event": "domino_comic_ending_3",
+      "english_sha256": "0de452d235ae021c1d728db7128cd0ea85d7d421711207c42e210307ebd17376",
+      "ko": "다음 화에 계속..."
+    },
+    {
+      "line": 1101,
+      "event": "domino1",
+      "english_sha256": "8ed821b9b662fbc3b864f2776c3a369b6cd0ac127f642828c0c06bd420803ab8",
+      "ko": "무인도에 가져가고 싶은, 솔직히 좀 쓸모없는 물건은 뭐야?"
+    },
+    {
+      "line": 1112,
+      "event": "domino2",
+      "english_sha256": "38edfea29feb7a2a6f8edc98bd6242c6f214afa3a218c0fa62e0f8282c0b8f60",
+      "ko": "무시무시한 적과 싸워야 해. 빨리! 전투에 도움이 될 뭔가를 집어!"
+    },
+    {
+      "line": 1123,
+      "event": "domino3",
+      "english_sha256": "91c7c78e08140dae0fe71d390be0b9658e8f48277445adaf80f82b48ef5e3aaa",
+      "ko": "일상에서 겪는 고난 중 누가 저주를 건 결과가 아닐까 강하게 의심하는 건 뭐야?"
+    },
+    {
+      "line": 1134,
+      "event": "domino4",
+      "english_sha256": "f614f6195129ecc5f2e598e9cbcf0c05eff0aed69242754a9b8ad56b18a3b8fb",
+      "ko": "큰 상금을 주겠대... 하지만 이것들 중 하나를 먹어야 해."
+    },
+    {
+      "line": 1145,
+      "event": "domino5",
+      "english_sha256": "e4f812abbf8500722a5bd7a71b1d583b756076b938e02cb1a9af3082ebff18d5",
+      "ko": "합법이지만 불법이어야 할 건 뭐야?"
+    },
+    {
+      "line": 1156,
+      "event": "domino6",
+      "english_sha256": "62ea002308d8504932c5514fc75c849560aab6ead3521f6020af4cc72ec65507",
+      "ko": "학교에서 반드시 가르쳐야 하는 한 가지는 뭐야?"
+    },
+    {
+      "line": 1168,
+      "event": "fantasy_comic_ending_1",
+      "english_sha256": "e7a30355c52636294d0a0816d339624e63856f14a4ad241d1468a682a78a26f7",
+      "ko": "\"인어 왕국에 영광을!\"은 인어 왕국의 지배권을 놓고 여러 인물이 싸우는 장대한 판타지야.[n][n]왕국의 권력이 위태로워지는 계기는 %COMICREPLACEMENT_FANTASY1%[n][n]그 결과 위의 세 공주가 왕관을 놓고 다투게 돼. 백성 앞에서는 단결한 모습을 보여야 하지만 말이야."
+    },
+    {
+      "line": 1169,
+      "event": "fantasy_comic_ending_1",
+      "english_sha256": "23196791ad0b8530772ce2e2cc31820d7f33aae781c1df50a8ae91f1347d1adf",
+      "ko": "벨란다는 군사적 우위가 있고 아만다는 교회의 지지를 받아. 라우단다는 외교력을 발휘해 강력한 동맹을 찾지. %COMICREPLACEMENT_FANTASY2%[n][n]하지만 궁정의 가장 어두운 구석에서 네 번째 세력이 자라나. 밴더빌트 가문의 철권에서 벗어난, 더 나은 인어 왕국을 꿈꾸는 사람들이야."
+    },
+    {
+      "line": 1170,
+      "event": "fantasy_comic_ending_1",
+      "english_sha256": "52ec26c2b1998f94dc0cef94bddd03dc110cb81f7a35a815105b4540e74d5db7",
+      "ko": "그들은 오래전부터 음모를 꾸몄고, 지배자들을 무너뜨릴 수 있는 단 하나의 약점을 알아. %COMICREPLACEMENT_FANTASY3%[n][n]이 긴장감 넘치는 모험에선 잔혹한 전투와 미묘한 암투가 일상이야... 그런데 마지막 비밀 하나가 밝혀지면 모든 게 바뀔 수 있어. %COMICREPLACEMENT_FANTASY4%"
+    },
+    {
+      "line": 1178,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "19203f30e6f6f9a3f5af81b5856b64a52a26efe64060209e1eb0e1fb8e5f9728",
+      "ko": "%COMICREPLACEMENTRAW_FANTASY5_1%에서 승리한 건 그대 덕이라 들었네. 감사를 표하지."
+    },
+    {
+      "line": 1179,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "fa33ab93467fbb720ae74d6fb25c6bc20742c3fa0606f9f6304623edee34135a",
+      "ko": "왕관을 섬기는 일은 언제나 영광입니다, 전하."
+    },
+    {
+      "line": 1180,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 1181,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "e11593ebf5676d39a5a31d48aa81f10c070b3d3839a69962ad4b78ec9edf80cd",
+      "ko": "정말 그런가?"
+    },
+    {
+      "line": 1182,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "d48fbefc3b3fd9f5aadad9d277105c11f7a8306e621ed416256e432f7f99396b",
+      "ko": "최근 신하들이 비밀 회합을 연다는 소문이 돌더군..."
+    },
+    {
+      "line": 1183,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "206df4d8faaf1eac05931a8765a77fe8643e4e166fde6c976d69887c471c71ae",
+      "ko": "...자네도 그중 하나라고 의심했지. 그리고 %COMICREPLACEMENTRAW_FANTASY6_1% 덕에 확신하게 됐네."
+    },
+    {
+      "line": 1184,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 1185,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "502f4fd9230c540f5441e54778a355bfee0e64a6ea1b306516389f7e461402ec",
+      "ko": "그래서 그대는 내게 정확히 누구인가? 충성스러운 기사인가, 기만적인 반역자인가?"
+    },
+    {
+      "line": 1186,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 1187,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "574eec5b13c5c940c3a6a4c094ab695aeb501d43af59a21164f8e1b372ab6f96",
+      "ko": "...그게, 전하... 전 자매분들에 맞설 가장 좋은 무기일지도 모릅니다."
+    },
+    {
+      "line": 1188,
+      "event": "fantasy_comic_ending_3",
+      "english_sha256": "88b44e118d2d6d843c840da89cb9a0ccf9b85f68038ba9569d9f4e09ac0efa30",
+      "ko": "아드리앙의 승부수는 통할까? 이제 칼날을 만나게 될까, 아니면 가장 뜻밖의 동맹을 만나게 될까?"
+    },
+    {
+      "line": 1195,
+      "event": "fantasy1",
+      "english_sha256": "bf1feedcb9f3e9897ddda8249e6c8e22935fc1033487df9fb36b82326d92bc84",
+      "ko": "매주 가는 수족관을 더 좋게까진 아니어도, 확실히 더 흥미롭게 만들 핵심 변화 하나는 뭐야?"
+    },
+    {
+      "line": 1206,
+      "event": "fantasy2",
+      "english_sha256": "4a5d474d08c2394643d9c093f8906b4fe82cdc7da072522a0aa2cf6f38c789b9",
+      "ko": "예언대로 넌 망망대해에서 해적들에게 쫓기고 있어... 상황을 뒤집으려면 누가 곁에 있었으면 해?"
+    },
+    {
+      "line": 1217,
+      "event": "fantasy3",
+      "english_sha256": "369d42fe501a71930b6c36488f62a1a26b948477ab9c40ed8ab7abe3a686bffd",
+      "ko": "무슨 일이 있어도 모든 시민이 가져야 한다고 믿는 가장 중요한 권리는 뭐야?"
+    },
+    {
+      "line": 1228,
+      "event": "fantasy4",
+      "english_sha256": "0134292f9175ec3e19f2c85d8da2a9f7d39d56b9d98eb372fdd8e6df057c9640",
+      "ko": "70세 미만의 평범한 인간인 넌 종이 신문을 안 읽은 지 오래야. 그래도 이런 헤드라인이라면 집어 들어 보겠지."
+    },
+    {
+      "line": 1239,
+      "event": "fantasy5",
+      "english_sha256": "5b7da0828505974c9675df36b1246096df80993ea23a58dd093a5783019e476d",
+      "ko": "30년 뒤 네 자녀들이 전쟁을 안 치렀으면 좋겠어. 하지만 꼭 싸워야 한다면, 적어도 이런 전쟁이길 바라..."
+    },
+    {
+      "line": 1250,
+      "event": "fantasy6",
+      "english_sha256": "5538cc5666cc3149c0520e4223f6b88fc73eb2b18357ca2cc05b17937957ba0f",
+      "ko": "네가 상사를 싫어한다는 걸 상사가 알아서 해고당하고 있어. 어떤 식으로 알게 됐어야 가장 전설적일까?"
+    }
+  ]
+}

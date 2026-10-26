@@ -1,0 +1,1385 @@
+{
+  "source_sha256": "c7d1460ec57a1cd793ea35c79fcd63d4c9a8fbcdf035d1aaddf2fbdddc6b4298",
+  "entries": [
+    {
+      "line": 4,
+      "event": "cdate_liam_1",
+      "english_sha256": "ebcb0430932b22b226acb1c3f2edc867e5771bc4fab69d9a5eb7240018a51bcf",
+      "ko": "갱생 서사 프로그램"
+    },
+    {
+      "line": 6,
+      "event": "cdate_liam_1",
+      "english_sha256": "5ae69256bc2d0af2d8a747c1dce22745084d17c9724264622d5adab7da999137",
+      "ko": "음, 사실은... 내가 어둠의 군주였을 때 끔찍한 짓을 했잖아?"
+    },
+    {
+      "line": 7,
+      "event": "cdate_liam_1",
+      "english_sha256": "e7f5e7582a55cd4b0ba41fd389ed313aade49bdd3ca81ee1da9ebb14a69247fe",
+      "ko": "난... 그때와는 달라졌다는 걸 확실히 하려고 정말 노력했어."
+    },
+    {
+      "line": 8,
+      "event": "cdate_liam_1",
+      "english_sha256": "6c6c54e9a201fe6f64691208518ea8bdabc52abf040882c3594e22e05c178009",
+      "ko": "하지만 후회만으로 내가 저지른 만행이 사라지진 않아, %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 9,
+      "event": "cdate_liam_1",
+      "english_sha256": "b17a8484290bf1005d6b22c67de5b791ef7d6fb10a8ac11e52e2c3e6511fae7e",
+      "ko": "아, 리암... 자신에게 너무 가혹해."
+    },
+    {
+      "line": 10,
+      "event": "cdate_liam_1",
+      "english_sha256": "8af0c1bbbca923d680d83d3f168ac47d30bc6cf9dd8ef63f8776f276bc9efc9f",
+      "ko": "수천 명에게 죽음과 파괴를 안겼는데..."
+    },
+    {
+      "line": 11,
+      "event": "cdate_liam_1",
+      "english_sha256": "62876478170eb1dd8ea8b5ee7bcb50b08150587d1e11a57529bc2c0e6423127c",
+      "ko": "아... 그래, 그 정도로 가혹한 게 맞을지도 모르겠다."
+    },
+    {
+      "line": 13,
+      "event": "cdate_liam_1",
+      "english_sha256": "7ea0d3f69968a27291d1f1d717808236322656df0450722ab07030184c165430",
+      "ko": "하... 맞아. 그래서 변화를 일으킬 계획을 짜며 수많은 밤을 보냈어. 의미 있는 변화를."
+    },
+    {
+      "line": 14,
+      "event": "cdate_liam_1",
+      "english_sha256": "a7bff03cfd6dc7ea00151550e846fe9df066d58bae18cfd9dfef185b1b8dc8a7",
+      "ko": "그러다 깨달았지. 내가 코븐에 들어간 건 인생에서 가장 큰 변화 중 하나였어."
+    },
+    {
+      "line": 15,
+      "event": "cdate_liam_1",
+      "english_sha256": "f10c6a48dc88af27570716ed63aadca3fca28fc5324858bf51fbba2f9c96d310",
+      "ko": "어떻게 보면 조이와 다른 친구들이 내가 빠져 있던 어둠에서 날 구해 준 거야."
+    },
+    {
+      "line": 16,
+      "event": "cdate_liam_1",
+      "english_sha256": "9679b30c5bc3d06f0413aa6a03baac42c5001692f548b5b02c167d6e910d63d8",
+      "ko": "정말 의미 있는 변화 같네."
+    },
+    {
+      "line": 17,
+      "event": "cdate_liam_1",
+      "english_sha256": "c4368b32c0b42fb12a83f194eaf2984de1facc81005ba08e50a745526fd6714e",
+      "ko": "진정으로 그랬지."
+    },
+    {
+      "line": 18,
+      "event": "cdate_liam_1",
+      "english_sha256": "3d1ed7ca8dfc788f8c98d49ddc16e3ded4b7a46ac9c8ea4e1f9b5bc95c4caca8",
+      "ko": "그리고 나도 기여할 수 있는 게 있다는 걸 깨달았어."
+    },
+    {
+      "line": 19,
+      "event": "cdate_liam_1",
+      "english_sha256": "383c4e6b46788d8f5d9664c3a6848133462e182344162c3ea59d5ac842d7306e",
+      "ko": "난 그런 어둠 속에 있는 게 어떤 건지, 거기서 돌아오는 게 어떤 건지 독특한 관점을 갖고 있잖아."
+    },
+    {
+      "line": 20,
+      "event": "cdate_liam_1",
+      "english_sha256": "414a4d7757d56ded0f586b2a320b7bf11d1c356175a3f4a152f0d3be2b21bedb",
+      "ko": "그러니 다른 악당들에게도 똑같이 해 줄 프로그램을 만든다면 어떨까?"
+    },
+    {
+      "line": 21,
+      "event": "cdate_liam_1",
+      "english_sha256": "85e2fa2d5e33b68cb10303f1c85a49da1ef81e97b7195ffbd25081313789a34f",
+      "ko": "물론... 그게 그렇게 간단한 척할 생각은 없어. 미묘한 사정도 있고, 분명 아주 복잡한 주제지..."
+    },
+    {
+      "line": 22,
+      "event": "cdate_liam_1",
+      "english_sha256": "de6cbafff7b7349f84e3ca68373274a9f236e2f40dc1a9a3f527c4db56dd061f",
+      "ko": "이 프로그램이 우리가 저지른 피해를 대충 덮어 준다는 척할 생각은 없어."
+    },
+    {
+      "line": 23,
+      "event": "cdate_liam_1",
+      "english_sha256": "5c803b576473a50f735ac10a94b7cc534affe16aae7b626aefb7a38919a30aa5",
+      "ko": "충분하지 않아. 영원히 충분하지 않겠지. 그래도 아무것도 안 하는 것보다는 뭔가 하는 게 나아."
+    },
+    {
+      "line": 24,
+      "event": "cdate_liam_1",
+      "english_sha256": "de289dd93b2565ef984b90c0971adb94e7044601e14550461820b1d52d82787d",
+      "ko": "응, 무슨 말인지 알겠어."
+    },
+    {
+      "line": 25,
+      "event": "cdate_liam_1",
+      "english_sha256": "2813fa3fe6f351c875bc94d9964da4e059c2f0120e2bef2d64868563567c7ea1",
+      "ko": "그래도... 그 강력한 존재들이 세상을 파괴하려는 대신 구하는 걸 돕는다면..."
+    },
+    {
+      "line": 26,
+      "event": "cdate_liam_1",
+      "english_sha256": "32462d0db10a3ebd84b10d69d9d14c150be32655d03ce5e10490045d3818fa1b",
+      "ko": "...분명 의미 있는 변화겠지?"
+    },
+    {
+      "line": 27,
+      "event": "cdate_liam_1",
+      "english_sha256": "7ba20e092a10ae47a7867ea42ed3f67e09e2cba5ad1cb4ca8736b1952f595996",
+      "ko": "그러길 바라..."
+    },
+    {
+      "line": 28,
+      "event": "cdate_liam_1",
+      "english_sha256": "c31cbd1a7211dea3fb508fbac0de49b984d780058c28707826b3a70efd2ad5d5",
+      "ko": "둘은 잠시 말없이 있어. 리암은 자기 안을 들여다보며 수많은 생각과 후회를 헤쳐 나가는 것 같아."
+    },
+    {
+      "line": 29,
+      "event": "cdate_liam_1",
+      "english_sha256": "4c101b36d08ef8efb12f0c068222e1521ff3ca14b1a68cc75c2ccbd1ac89d3d1",
+      "ko": "어쩌면 지금 네가 해 줄 수 있는 최선은 이 침묵 속에서 그의 손을 잡아 주는 것뿐일지도 몰라."
+    },
+    {
+      "line": 35,
+      "event": "cdate_liam_2",
+      "english_sha256": "091a6758e42ea2c02e4af65de87e916100ef41c29c3cc6da53677d174902167b",
+      "ko": "테이블탑 RPG 게임 마스터"
+    },
+    {
+      "line": 37,
+      "event": "cdate_liam_2",
+      "english_sha256": "1820cbca080ff36f5ae329e7a213bb7e2199ad488d7fc47d9b12510f38f2f92f",
+      "ko": "아, 그래... 새로운 예술로 향하는 나의 최근 여정이지!"
+    },
+    {
+      "line": 38,
+      "event": "cdate_liam_2",
+      "english_sha256": "c2dd9c6fd51cc960181ad8d40eb7f62a1a0dae2a1107117399fe6cae2ef69a41",
+      "ko": "모험을 쓰는 것 같기도 하고, 연극을 연출하는 것 같기도 해..."
+    },
+    {
+      "line": 39,
+      "event": "cdate_liam_2",
+      "english_sha256": "16ecbe1d9a1cba0d62d482f19cede326962ad148d60ecfe3cfa55d0eab4fee71",
+      "ko": "...그러면서도 함께 화음을 이루게 해야 하는 캐릭터들의 오케스트라를 지휘하는 일이야."
+    },
+    {
+      "line": 40,
+      "event": "cdate_liam_2",
+      "english_sha256": "83c82e34c011afb30f1cf2fa14e89120e38ec0514c17f74e20e4c1be909152dd",
+      "ko": "그러니까 톨킨, 셰익스피어, 모차르트를 합치면 게임 마스터 리암 드 리옹쿠르가 된다는 거야?"
+    },
+    {
+      "line": 41,
+      "event": "cdate_liam_2",
+      "english_sha256": "20770e56090cd3579d2a70670415c2f6229b739b708dad3f254632f546dd03cb",
+      "ko": "비꼬는 거 알아... 하지만 그래, 대체로 맞아."
+    },
+    {
+      "line": 42,
+      "event": "cdate_liam_2",
+      "english_sha256": "f7be619d7b9cf1f57d4955bca23ad736f88ca982ffddae23c92e8dbf5411b2f9",
+      "ko": "참여자 모두의 선택에 매 순간 적응해야 하는, 끊임없이 변하는 이야기를 엮는 거지."
+    },
+    {
+      "line": 43,
+      "event": "cdate_liam_2",
+      "english_sha256": "36f7cdd43e0826a1a9e7d38d31c325e778aebe16fdd5673d8d0d80ff5d361c41",
+      "ko": "플레이어들이 최대한 짜릿하고 즐거울 수 있도록 셀 수 없는 시간을 쏟아."
+    },
+    {
+      "line": 44,
+      "event": "cdate_liam_2",
+      "english_sha256": "61dbe793b769ae29478958ce0f0136e0d49ca0fcba3d351bcb5c449e84c4fbc8",
+      "ko": "정말... 헌신적이네."
+    },
+    {
+      "line": 45,
+      "event": "cdate_liam_2",
+      "english_sha256": "6eeb7fcb42d1e62f480d9ecdee1d7e757a5b8668fd11cadf537fde8e144979de",
+      "ko": "%CURRENTPLAYERNAME%, 난 무언가에 열정을 느끼면 한 치의 양보도 없이 몸과 마음을 바쳐."
+    },
+    {
+      "line": 46,
+      "event": "cdate_liam_2",
+      "english_sha256": "0684ec68f31fd6cdb1f98f0c091360a184179083d943f5a147af66accca234d1",
+      "ko": "좀 더 평범하게 말하자면, 인생을 대충 살 수는 없다는 거야."
+    },
+    {
+      "line": 47,
+      "event": "cdate_liam_2",
+      "english_sha256": "1176bb21281f158c6f764ffe0214c0ff165290eed9cee0c89677bae977fe9cea",
+      "ko": "누구든 네 열정에... 얽힐 수 있다면 운이 좋겠네."
+    },
+    {
+      "line": 48,
+      "event": "cdate_liam_2",
+      "english_sha256": "68f3ff826ba60a3e813e401e98e21575176ff614cc2fac6bc2c004409c11f342",
+      "ko": "네가 한 말이야. 내가 아니라."
+    },
+    {
+      "line": 49,
+      "event": "cdate_liam_2",
+      "english_sha256": "c4beb7da517c7f69b7c08e4ffa9a80e2e13e170498b7a34cbe5a21c19e4e2583",
+      "ko": "그래도 요약하면 이거야. 평소에는 경험 못 할 독특한 상황에 플레이어들이 몰입하도록 이야기를 만들려고 해."
+    },
+    {
+      "line": 50,
+      "event": "cdate_liam_2",
+      "english_sha256": "ae8c56122f93f83c59d1daf23fd4bd2890f9deedf5e2866aca1d2c25b1dec4ad",
+      "ko": "예를 들어 최근에는 플레이어들이 칠대죄 중 하나를 관장하는 신의 대사제가 되는 캠페인을 진행했어."
+    },
+    {
+      "line": 51,
+      "event": "cdate_liam_2",
+      "english_sha256": "96516254089a12a1288db1482d3eb4aeed3283148773f65290b3f98bbe95fcc3",
+      "ko": "그들은 필멸자들을 죄악의 삶으로 끌어들이며 땅을 누비고, 교단을 키우고, 혼란을 심어야 했지."
+    },
+    {
+      "line": 52,
+      "event": "cdate_liam_2",
+      "english_sha256": "a1c2b42676f55472965be0c579c315b0f4e9422633c741057863d4456fa4a378",
+      "ko": "서로 다른 대죄의 사제로 바꿔 가며 세 차례 캠페인을 했어."
+    },
+    {
+      "line": 53,
+      "event": "cdate_liam_2",
+      "english_sha256": "da8fdb6fd49be888883822f0d5f110a1d5ac77fe31d6289cdff99b18ff27eb5e",
+      "ko": "인정해야겠네. 적어도 한 번은 해 보고 싶어져."
+    },
+    {
+      "line": 54,
+      "event": "cdate_liam_2",
+      "english_sha256": "867eb2bfd7272b326f88692377c3ee7d9edf66ef82f3cbb705b63836be61608a",
+      "ko": "그래, 네가 없어서 아쉬웠지. 놀라운 경험이었어, %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 55,
+      "event": "cdate_liam_2",
+      "english_sha256": "0afe33aa8b0c954b931b81612c1a57c07a01c26edfe142fc177e9f7f151b7c65",
+      "ko": "아, 통달할 새로운 예술을 또 찾아냈다는 게 기쁘군!"
+    },
+    {
+      "line": 56,
+      "event": "cdate_liam_2",
+      "english_sha256": "5dac982da86fe8e32ec25ed4ea8d6faaed93d4b5deed7145f2eb52eadcfded05",
+      "ko": "한 무리를 몇 시간 동안 네 말을 듣게 만들 수 있다는 것도 장점이겠지."
+    },
+    {
+      "line": 57,
+      "event": "cdate_liam_2",
+      "english_sha256": "e6bca02a94162814f4a5636d0fdc2f346a8e9b2870f40e8600badb018c47db70",
+      "ko": "아, 조용히 해!"
+    },
+    {
+      "line": 58,
+      "event": "cdate_liam_2",
+      "english_sha256": "223d1ca643f360e4fe78bf4a4a25ddeb11889dec8cff6a65f3a131513c74ba08",
+      "ko": "(하지만 그래, 확실히 장점이야.)"
+    },
+    {
+      "line": 59,
+      "event": "cdate_liam_2",
+      "english_sha256": "47664490b174927f95cf49777208b1d94efdbdb8549383f512a78e2ada19a12f",
+      "ko": "넌 지금까지 만든 캠페인 몇 개를 설명해 달라고 해."
+    },
+    {
+      "line": 60,
+      "event": "cdate_liam_2",
+      "english_sha256": "dd96be0b3a840ffd2b56ab61e64b53fe1b1df9859e1bd2cbc5a1be285ca69b16",
+      "ko": "열정을 느끼는 걸 말할 때 리암은 빛이 나. 참... 보기 좋아."
+    },
+    {
+      "line": 66,
+      "event": "cdate_liam_3",
+      "english_sha256": "80bbf35cdadadc15c784abcac2024cd333f1f8057ba4cb6f30df62b8c0963375",
+      "ko": "\"리암 프롬\"의 모델이 된다는 것"
+    },
+    {
+      "line": 68,
+      "event": "cdate_liam_3",
+      "english_sha256": "7eb4079dca58212695198a405d5797144ba85a20802848cc00f8e9d98bade653",
+      "ko": "참 묘하지, 응?"
+    },
+    {
+      "line": 69,
+      "event": "cdate_liam_3",
+      "english_sha256": "26c2afbf24bb99a77a751c7426ef4bc510104b083370eb32ad45041184e45068",
+      "ko": "예술가가 뮤즈가 되다니!"
+    },
+    {
+      "line": 70,
+      "event": "cdate_liam_3",
+      "english_sha256": "18f64bd21cd5c9893523d8d70c3a28cf9581655614f617bee803e075f349492d",
+      "ko": "오래 살다 보면 누군가 내 이야기를 하게 되는 것도 놀랍진 않겠지."
+    },
+    {
+      "line": 71,
+      "event": "cdate_liam_3",
+      "english_sha256": "72eadde4c513b362552f772a99460d85df339660c103fb9989e52dfe63d51dfd",
+      "ko": "그 리암 이야기가 리암 아카데미에 다니며 살아가는 수십 명의 리암 이야기라는 거야?"
+    },
+    {
+      "line": 72,
+      "event": "cdate_liam_3",
+      "english_sha256": "f5b402047490f52ef0e4673ac4b9df4f6f8d73f38a95b1585b1f86134bdc8f7d",
+      "ko": "그것도... 확실히 하나의 선택이지."
+    },
+    {
+      "line": 73,
+      "event": "cdate_liam_3",
+      "english_sha256": "a0f050296b09eac416be348c0c3f7be81a5724f878fc9fb623cb3cd01ba6e336",
+      "ko": "뭐가 예술인지에 관해 조이와 나의 이해가 꽤 다르다는 건 분명해."
+    },
+    {
+      "line": 74,
+      "event": "cdate_liam_3",
+      "english_sha256": "a0d6c2c4c2f0926abc40192a96d0a303a179fd0f989d40968421c47e1bfd62f1",
+      "ko": "그래도 그 작품에 관한 내 의견으로 너무 귀찮게 하진 않기로 했어."
+    },
+    {
+      "line": 75,
+      "event": "cdate_liam_3",
+      "english_sha256": "ade26591a267ee9e0a5c7539659d0fc77c2af3fa8efc7c1cc9e25df4fc5212dd",
+      "ko": "다정하네."
+    },
+    {
+      "line": 76,
+      "event": "cdate_liam_3",
+      "english_sha256": "8d7d8eb5bec26a39ea11ab0c457f836d46096a19d841673b91bfff7fafee08b4",
+      "ko": "예술가의 날개를 꺾는 사람이 되고 싶진 않거든."
+    },
+    {
+      "line": 77,
+      "event": "cdate_liam_3",
+      "english_sha256": "732fd8ba0ebdb82485104ee592c0c863260e5035a420fa58ccfcffe43ba34268",
+      "ko": "정말 관점이 그렇게 달라?"
+    },
+    {
+      "line": 78,
+      "event": "cdate_liam_3",
+      "english_sha256": "b2dbdd0cf76baf8a79f388d3d6018643bcc2f603703c427ca8f1fc4b4a0dd045",
+      "ko": "물론 \"리암 프롬\"은 네 개념 시와는 아주 다른 부류지만..."
+    },
+    {
+      "line": 79,
+      "event": "cdate_liam_3",
+      "english_sha256": "c555d927273546cf3123ce792b778ab5e818ad679d4d22411bd123e9fe8963cd",
+      "ko": "...이를테면 \"남자 2명 샐러드 1개\"와는 그렇게 달라?"
+    },
+    {
+      "line": 81,
+      "event": "cdate_liam_3",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "…"
+    },
+    {
+      "line": 82,
+      "event": "cdate_liam_3",
+      "english_sha256": "cced141b287e34ecd5328effcef6810e9260e70e1b57ac3cfbed02d4a07fa173",
+      "ko": "...음, 그건 반박할 수 없네."
+    },
+    {
+      "line": 83,
+      "event": "cdate_liam_3",
+      "english_sha256": "9596b711fe1a835191dbf94441b195bea613d84e16e2250165e7244262d83cc6",
+      "ko": "어쨌든 이번에는 조이가 프로젝트 아이디어를 괜찮게 생각하는지 먼저 물어봐 줘서 정말 고마웠어."
+    },
+    {
+      "line": 84,
+      "event": "cdate_liam_3",
+      "english_sha256": "65310f12e100d7881dbfda4d7ca3a2c0b042ca2c0bd74eaf3c8e5734f1425ed5",
+      "ko": "어떤 부분이 제일 좋아?"
+    },
+    {
+      "line": 85,
+      "event": "cdate_liam_3",
+      "english_sha256": "67c9a70f9d8da16a07bbe215e01a6ded18d8c553275a81bfd414be58482b8e52",
+      "ko": "너무 리암다운 말이라 웃겠지만... 나에 대해 물어보고... 그러니까... 정말로 들어 준다는 점인 것 같아."
+    },
+    {
+      "line": 86,
+      "event": "cdate_liam_3",
+      "english_sha256": "602ec4b7d36816d49c54ec6241811c02cf0d330c40c3b21d92df60bf51971e53",
+      "ko": "나한테서 수십 명의 리암을 짜내야 하잖아?"
+    },
+    {
+      "line": 87,
+      "event": "cdate_liam_3",
+      "english_sha256": "55f79754cde25161ce3e7fadda86f41d9cf87b5294ac2fdf6407d70946ef9481",
+      "ko": "헤헤... \"수십 명의 리암을 짜내야 한다\"고."
+    },
+    {
+      "line": 88,
+      "event": "cdate_liam_3",
+      "english_sha256": "cf24472b432bb2d34dba1609b22bb8ef8c8cb679f27fe5669adb6e7a4a9b5d41",
+      "ko": "%CURRENTPLAYERNAME%! 아무튼... 그러려고 몇 시간씩 앉아서 날 인터뷰해."
+    },
+    {
+      "line": 89,
+      "event": "cdate_liam_3",
+      "english_sha256": "a1a49abe6b9d9c0bc219c2300bc4d972a146f5cc90926353657995b71270bbfd",
+      "ko": "물론 서로 알고 지낸 지도 몇 년 됐지만, 바보 같아 보여도 \"리암 프롬\"이 우릴 더 가까워지게 한 것 같아."
+    },
+    {
+      "line": 90,
+      "event": "cdate_liam_3",
+      "english_sha256": "6b48987ba0b516d908a9b1b5f8a41b487c9f1419b29aad014ba5ac5f2691df63",
+      "ko": "그 말 들으니 좋네, 리암. 다들 누군가 자기를 알아봐 주길 바라잖아?"
+    },
+    {
+      "line": 91,
+      "event": "cdate_liam_3",
+      "english_sha256": "c732d5102ad2843975f562829be3624fdf226692689d42972158b6bbc3a22a45",
+      "ko": "...그래. 기분 좋고 따뜻한 감각이지."
+    },
+    {
+      "line": 92,
+      "event": "cdate_liam_3",
+      "english_sha256": "5ac25a7348fc64af659021ea1ca2500d9db0aaa184b9378e3e00dbb54dcf204f",
+      "ko": "둘은 잠시 조용히 있어. 너도 그의 마음에 그런 기분 좋고 따뜻한 감각을 조금 일으키는 걸지도 몰라."
+    },
+    {
+      "line": 98,
+      "event": "cdate_liam_4",
+      "english_sha256": "ad0c5bf378f636a6d17236d1d86df915cf4ff99c528ac625405cdfe0bef23ad7",
+      "ko": "아파트 나눠 쓰기"
+    },
+    {
+      "line": 100,
+      "event": "cdate_liam_4",
+      "english_sha256": "c1fb26d451ee523101749636d1151b32e8f53903156e4ef96b934beef1bc25e5",
+      "ko": "...뭐?"
+    },
+    {
+      "line": 101,
+      "event": "cdate_liam_4",
+      "english_sha256": "f17f8e9310ef4513000ecaffff136c1a606e3f8b960fe5acb80c00702be35037",
+      "ko": "나랑... 같이 살고 싶다고?"
+    },
+    {
+      "line": 102,
+      "event": "cdate_liam_4",
+      "english_sha256": "50bba984187327856c7c703b83fa1cb770b436af9eb7daff749a716795a68d15",
+      "ko": "아니, 이 바보야!"
+    },
+    {
+      "line": 103,
+      "event": "cdate_liam_4",
+      "english_sha256": "165fe9eeeac5d6d9cbc6c7472cf7cf6ca4858d5ef38bd96cc34683e5e2e410b3",
+      "ko": "아파트를 같이 쓰는 건 어떤지 물은 거야."
+    },
+    {
+      "line": 104,
+      "event": "cdate_liam_4",
+      "english_sha256": "d8b1f790e1b325f4b44bd739bb9436e5770a63b6addfe4de4067b325706ed27f",
+      "ko": "요즘 오멘이랑 산다고 들었는데, 맞지?"
+    },
+    {
+      "line": 105,
+      "event": "cdate_liam_4",
+      "english_sha256": "dddddb2d1bb668d84eaa200bb0241c073a7126162a639b6f5cab5a3e22e5046f",
+      "ko": "아! 그래, 맞아."
+    },
+    {
+      "line": 106,
+      "event": "cdate_liam_4",
+      "english_sha256": "6dd04341429bebf9c271aaa374fb9c430b140e8bb6dccd9e30b473c07eea6057",
+      "ko": "갱생 서사 프로그램에서 내가 오멘의 후원자야."
+    },
+    {
+      "line": 107,
+      "event": "cdate_liam_4",
+      "english_sha256": "a3ee2d9c1eaf11663ff889dc0f34d7a3bac7efbfb95e0f58bf98e337246b4bec",
+      "ko": "백 년 넘게 갇혀 있었으니 오멘은... 뭐... 갈 곳이 없었거든."
+    },
+    {
+      "line": 108,
+      "event": "cdate_liam_4",
+      "english_sha256": "cce2c08d19b9fa2c0105fc4c240b450fd3c531cd9125117002bbd436652ce8e8",
+      "ko": "결국 자기 집을 구할 계획이지만, 그때까지는 나랑 지내면 돼."
+    },
+    {
+      "line": 109,
+      "event": "cdate_liam_4",
+      "english_sha256": "8bf8222133b4ad5b2dd97ec6f2c1889edc3e5f153a08cc5e429823868b25686a",
+      "ko": "솔직히 정말 배려 깊네. 하지만 오멘을 아니까 안 물을 수가 없어. 지금까지는 어때?"
+    },
+    {
+      "line": 110,
+      "event": "cdate_liam_4",
+      "english_sha256": "8f64bf4d10bb90c0ffa2461bb6da834e54eb634a360a6106b9d84ad9758c7718",
+      "ko": "음... 길고양이에게 집을 마련해 주는 것과 크게 다르진 않아..."
+    },
+    {
+      "line": 111,
+      "event": "cdate_liam_4",
+      "english_sha256": "8448eddd97265d82408e0f685db8f2da4c11fcb90c84cbe1b3966cd031f06cd0",
+      "ko": "...그 길고양이가 어째서인지 전기톱을 다룰 줄 안다는 것만 빼면."
+    },
+    {
+      "line": 112,
+      "event": "cdate_liam_4",
+      "english_sha256": "43d5ca7cbb7eacbcd2cbef25d5f3a7396ea116eebbc9fd3287a8e30a7c62c09a",
+      "ko": "그래, 정말 오멘답네."
+    },
+    {
+      "line": 114,
+      "event": "cdate_liam_4",
+      "english_sha256": "6e87a12a7ed93e570ebfa5d3171776cc50d6c17418609614fb6a9d7a76c358a9",
+      "ko": "그래도 길고양이처럼, 믿음을 주기 힘들고 사고를 잘 친다고 해서 달라지는 건 없어. 집처럼 느끼게 해 주려고 노력하는 거지."
+    },
+    {
+      "line": 115,
+      "event": "cdate_liam_4",
+      "english_sha256": "7905d63c8d7609600612817d5fec92dc8e6d5043d3466f29fbe55eb8d29bfafd",
+      "ko": "뛰어난 요리로 감탄시켜 오멘의 호감을 얻으려 했는데, 미각이... 좀 덜 세련된 것 같아."
+    },
+    {
+      "line": 116,
+      "event": "cdate_liam_4",
+      "english_sha256": "2e39e989f8c39f4eb79c8760926f020b5c54c7906a9b40386d710527dab9be2f",
+      "ko": "시행착오 끝에 핫도그를 좋아한다는 걸 알았어. 그래서 핫도그를 해 주지."
+    },
+    {
+      "line": 117,
+      "event": "cdate_liam_4",
+      "english_sha256": "4440d8ed096f974972a8c5cf497bc1621f85acb89194fde42df93ac454860bd7",
+      "ko": "리암! 반려동물을 키우면 그 짜증 나고 거만한 겉모습이 좀 부드러워질 거라고 늘 생각했는데..."
+    },
+    {
+      "line": 118,
+      "event": "cdate_liam_4",
+      "english_sha256": "4af7e669044f9cba80c165cf03b63aabeda7525ee7c5e2cdf73818bcffa232b0",
+      "ko": "...네게 이상적인 반려동물이 악의 지배자일 줄은 상상도 못 했어."
+    },
+    {
+      "line": 119,
+      "event": "cdate_liam_4",
+      "english_sha256": "069737775823967909ad1cd4c0085c8631ed45834f0453fbb073aa32b8c126cc",
+      "ko": "%CURRENTPLAYERNAME%!"
+    },
+    {
+      "line": 120,
+      "event": "cdate_liam_4",
+      "english_sha256": "5bdacb13f6b64c6807aad4100c8d3a33a5257156ecfbeccb6c691777fae954a4",
+      "ko": "오멘을 반려동물 취급한다는 뜻은 아니야... 귀찮은 동생에 더 가까우려나?"
+    },
+    {
+      "line": 121,
+      "event": "cdate_liam_4",
+      "english_sha256": "dfc4aa0215aef6577ad1de94775fd92555e80441febec053083fdfebe05c0b2a",
+      "ko": "어쨌든 무슨 말인지 알겠지."
+    },
+    {
+      "line": 122,
+      "event": "cdate_liam_4",
+      "english_sha256": "0160e0c09d15aa8c088c77d1105815d1bea223bcb52010c3ecfc84fee7a17099",
+      "ko": "헤헤... 알아."
+    },
+    {
+      "line": 123,
+      "event": "cdate_liam_4",
+      "english_sha256": "f677a5eb08b743153c30222c244bbdb59c69e6a60d30cdce72dc6db16f288145",
+      "ko": "살인과 악행 말고도 더 좋은 방법이 있다는 걸 오멘이 배울 수 있으면 좋겠어..."
+    },
+    {
+      "line": 124,
+      "event": "cdate_liam_4",
+      "english_sha256": "e2651e431cb6ec11f6aacc035fcf8f7a7fe68900ddd7ba722b560a04e3c58aad",
+      "ko": "리암이 후원자 역할을 이렇게 진지하게 받아들이고, 다른 사람을 이만큼 챙기는 걸 보니 마음이 따뜻해져."
+    },
+    {
+      "line": 125,
+      "event": "cdate_liam_4",
+      "english_sha256": "cb79b240dccf0ec878e0da300bbacbc27290ecab809e40c790bf41087a96f353",
+      "ko": "속죄가 얼마나 중요한지 정말 이해하는 것 같아."
+    },
+    {
+      "line": 131,
+      "event": "cdate_liam_5",
+      "english_sha256": "3c4912fee11ac74952848fa78f83820842e200960c18a053ce91f1ddf36d2c83",
+      "ko": "행사는 지금까지 어때?"
+    },
+    {
+      "line": 133,
+      "event": "cdate_liam_5",
+      "english_sha256": "bba44ee791af4173759cf0cb0789a4a863e94ab0e946d3d4387746356b42481e",
+      "ko": "지금까지는 꽤 좋았어."
+    },
+    {
+      "line": 134,
+      "event": "cdate_liam_5",
+      "english_sha256": "30bcb23fa30cf3776cca833b84a29ed762a0ada8cdfa3786d4449b0bc069e8df",
+      "ko": "하루의 상당 부분을 아티스트 골목의 야오이 부스에서 보내. 좀 지칠 때도 있지."
+    },
+    {
+      "line": 135,
+      "event": "cdate_liam_5",
+      "english_sha256": "ae769c991810a307542e3da978b4b5aa1adddf0c3eba6543cdb61c6c45f333b9",
+      "ko": "대중은 남자들이 키스하는 그림에 굶주려 있거든."
+    },
+    {
+      "line": 136,
+      "event": "cdate_liam_5",
+      "english_sha256": "5d6491f04a72e543ff2b6e7f8a3d836d33b38a3a9160147ea4cb9823e786a22a",
+      "ko": "정말 그렇지."
+    },
+    {
+      "line": 137,
+      "event": "cdate_liam_5",
+      "english_sha256": "77d60b8357be6aa929fe38e9e328678bc92f5f5b1bb9f341e255750013a61b4d",
+      "ko": "다행히 친구들이 가끔 들러서 말동무가 돼 주거나 부스를 봐 줘."
+    },
+    {
+      "line": 138,
+      "event": "cdate_liam_5",
+      "english_sha256": "e8d2920822e3c7f9ba3a4676b87a5401ccddfda38b562ea35d84eea31bac3adb",
+      "ko": "아, 맞아. 어제 에이프릴이 거기 있었던 것 같아. 그렇지?"
+    },
+    {
+      "line": 139,
+      "event": "cdate_liam_5",
+      "english_sha256": "4b332d6cbe208d1539e8994619daca2bff279fed35a7eafaa43d6b1e894d6bbd",
+      "ko": "그래. 몇 시간 있었어."
+    },
+    {
+      "line": 140,
+      "event": "cdate_liam_5",
+      "english_sha256": "8ca14b966e5a7704224ea7ca0df80c0a3efcabf8ca960dbf18c2fe144eea25b2",
+      "ko": "사람들을 즐겁게 하는 법을 정말 잘 알더군."
+    },
+    {
+      "line": 141,
+      "event": "cdate_liam_5",
+      "english_sha256": "d00af81db154ce552b7d2a90348de41dd11871aa587f91e06a6ede698c18e758",
+      "ko": "답례로 나도 돕겠다고 했어. 내 작사 지식과 예술 전반에 관한 전문성이 도움이 될 테니까."
+    },
+    {
+      "line": 142,
+      "event": "cdate_liam_5",
+      "english_sha256": "6f090bf6b8ccd7a946542fd1dc993ede228d680a4baed136dc21fee285df1028",
+      "ko": "놀랍게도 필요 없다고 하더군!"
+    },
+    {
+      "line": 143,
+      "event": "cdate_liam_5",
+      "english_sha256": "646e4c5a720b46460e39c9dd569747d2627a1ed86b6aecd8ccb61669c58d52ff",
+      "ko": "그래... 놀랍네."
+    },
+    {
+      "line": 144,
+      "event": "cdate_liam_5",
+      "english_sha256": "2973f2eeca004c91038dcd2c5a92fcd47aedd78050ef7fdb9c2ab9225fbbdf57",
+      "ko": "대신 근육질 남자 둘 사이에 눌려 있는 자기를 그려 달랬어. 취향은 저마다 다르니까."
+    },
+    {
+      "line": 145,
+      "event": "cdate_liam_5",
+      "english_sha256": "a1d4f3ff7d294a2cc82ba1719ff4014a435c02db0287fd12e38093738f568045",
+      "ko": "어쨌든 하루 종일 부스에만 있지는 않아."
+    },
+    {
+      "line": 146,
+      "event": "cdate_liam_5",
+      "english_sha256": "d4e3b9e4e23c26953e45ade2fa10bd684516595f3a2ba43fdc6f985f34c5bb33",
+      "ko": "더그랑 희귀 가챠를 찾아다녔어. 보기 힘든 표본을 잡으려는 열성 탐험가들 같지."
+    },
+    {
+      "line": 147,
+      "event": "cdate_liam_5",
+      "english_sha256": "a5df0dee2a1fa14f65e013e3f1ae62185a5d3d40a5c15349e2f6a0335219d0cc",
+      "ko": "너희 둘이 작은 탐험을 떠나는 리얼리티 쇼가 있으면 보겠는데!"
+    },
+    {
+      "line": 148,
+      "event": "cdate_liam_5",
+      "english_sha256": "b8db26b8a0f195466b886cdbb8d8cbabe5e72e24e6718f97f3c70cb8c3c7e6d5",
+      "ko": "직접 보면 어때? 다음엔 같이 가자."
+    },
+    {
+      "line": 149,
+      "event": "cdate_liam_5",
+      "english_sha256": "2724850c72557604801a5cfccc356040b75e020cd8dc67b2b5bab9e8bcfdf001",
+      "ko": "오, 꼭 가고 싶어!"
+    },
+    {
+      "line": 150,
+      "event": "cdate_liam_5",
+      "english_sha256": "78816cde71c5b45b24420d8804e5c15cf3bd3c36dcf38f2ba7ab4e2148643178",
+      "ko": "아무튼... 즐겁게 지내고 있어."
+    },
+    {
+      "line": 151,
+      "event": "cdate_liam_5",
+      "english_sha256": "b6e40ec109b64ee72336543901da3917906b557b2659b915da32b56815e9a31d",
+      "ko": "리암 드 리옹쿠르도 가끔은 가장 저급한 취미에 빠져야 하니까."
+    },
+    {
+      "line": 152,
+      "event": "cdate_liam_5",
+      "english_sha256": "12cbc783b37b12c073f3971e7c3abea2e75c4b670039e72a493665dfb245a68d",
+      "ko": "너도 그 저급한 취미를 함께하고 싶어! 둘은 다음 날 같이 뭘 할지 행사 일정을 살펴봐."
+    },
+    {
+      "line": 158,
+      "event": "cdate_liam_6",
+      "english_sha256": "f2d7789d90b5369afd29ef6cf9b283c1832a655c0ab619d9f06ef543d088ad9a",
+      "ko": "스푸키 콘 친구들"
+    },
+    {
+      "line": 160,
+      "event": "cdate_liam_6",
+      "english_sha256": "fdaa92595fada35416002cd15886f71652ac141011c2eb0c3801a539f76001d2",
+      "ko": "우리 무리가 어떻게 모였냐는 거지?"
+    },
+    {
+      "line": 161,
+      "event": "cdate_liam_6",
+      "english_sha256": "c663f895abd183d6859bd61ef13f5de067a7fba98a4ac52eef7bc06604620d4f",
+      "ko": "음, 조이와 나는 당연히 스푸키 아카데미에서 알게 됐어."
+    },
+    {
+      "line": 162,
+      "event": "cdate_liam_6",
+      "english_sha256": "d12d3c12b9d835560233b1c3a65a284154dfd313a639635c2588f6ec4f1c2d58",
+      "ko": "더그는 조이를 통해 만났고... 에이프릴은 더그를 통해 만났지..."
+    },
+    {
+      "line": 163,
+      "event": "cdate_liam_6",
+      "english_sha256": "a4979eb47fcc682af505ab9f1c0c38e46a69cb7816727923de7f1fa798176fda",
+      "ko": "오멘을 합류시킨 건 나야. 갱생 서사 프로그램에서 내가 후원자거든."
+    },
+    {
+      "line": 164,
+      "event": "cdate_liam_6",
+      "english_sha256": "2957882d20c0c36174c68d91487a49dc553dac51768cf6b5e820bdcafacbfe8e",
+      "ko": "프로그램의 첫걸음을 내딛는 동안 가까이 두려고, 이번 행사에 같이 오라고 설득했어."
+    },
+    {
+      "line": 165,
+      "event": "cdate_liam_6",
+      "english_sha256": "b478fb23f6e19978b8bdf779d746ef3588bac1907198161bcd849b63aaa20eb8",
+      "ko": "다정하네."
+    },
+    {
+      "line": 166,
+      "event": "cdate_liam_6",
+      "english_sha256": "cbfe1563d877c0391028a11f5d155e4c9969cf2d7b0b87d3fd08efb5eaa96032",
+      "ko": "그럴지도. 좋은 관계를 쌓으면 더 나은 방식이 있다는 걸 깨닫는 데 도움이 될 거라 생각해. 적어도 내겐 핵심이었으니까."
+    },
+    {
+      "line": 167,
+      "event": "cdate_liam_6",
+      "english_sha256": "6229aa338496b0b9e81f5844fe980fdd392dc090dfdcf6c1aa80df311382c44d",
+      "ko": "좋은 관계... 나처럼?"
+    },
+    {
+      "line": 168,
+      "event": "cdate_liam_6",
+      "english_sha256": "035a4058e001ead9f578ae71d181b3aa99b084a2bd0ef7990ece65fdfa50c129",
+      "ko": "헤헤... 그래, 너처럼."
+    },
+    {
+      "line": 169,
+      "event": "cdate_liam_6",
+      "english_sha256": "f2a7c4a060ddfd984cda442d507a63fd8c885e88fc473c75332f08c63d144fd0",
+      "ko": "좋아, 그럼 이제 니코만 남았네."
+    },
+    {
+      "line": 170,
+      "event": "cdate_liam_6",
+      "english_sha256": "a5e894209a2b9bcaa71fd8e4b6f6f8df5a8df6bad8230c873e387ace70329738",
+      "ko": "니코도 내가 데려왔다고 할 수는 있겠지만, 스스로 끼어들었다는 게 더 정확해."
+    },
+    {
+      "line": 171,
+      "event": "cdate_liam_6",
+      "english_sha256": "11722757009524b4557cc6be74a1e0dcdc00805261502cf8caa31212067d387e",
+      "ko": "잠깐... 뭐?"
+    },
+    {
+      "line": 172,
+      "event": "cdate_liam_6",
+      "english_sha256": "4d027060656a93e6faa3087d53ff6c4e72a50e47060bbcd06fee6642952dfe3f",
+      "ko": "얼마 전 연기 실력을 완성하려고 즉흥 연기 수업을 듣기 시작했어."
+    },
+    {
+      "line": 173,
+      "event": "cdate_liam_6",
+      "english_sha256": "f7ebf095e7de01eff4d2908ce1f7f2dfba96061c0d3389502c1a96cb72ad99dd",
+      "ko": "니코도 그 수업을 들었는데... 알다시피 상당히 외향적이잖아?"
+    },
+    {
+      "line": 174,
+      "event": "cdate_liam_6",
+      "english_sha256": "5b2e6ab734a61cb9f8ad2f91a19375de85c744a84a41b8aaeca2c36464004df1",
+      "ko": "수업 듣는 모두와 친구가 됐어. 나만 빼고."
+    },
+    {
+      "line": 175,
+      "event": "cdate_liam_6",
+      "english_sha256": "1c3d9db851d63bdd15d858a66fbd9c0de73de8c0fab10a131b26b417bce726a9",
+      "ko": "시도는 했지만, 난 친해지려는 접근을 정중하게 거절했지. 사 세기 동안 친구는 넘칠 만큼 사귀었거든."
+    },
+    {
+      "line": 176,
+      "event": "cdate_liam_6",
+      "english_sha256": "1238d84fac06f58cff5627aedd622a0854b6588640c87fca4755a2f506b55c3a",
+      "ko": "아! 멈출 수 없는 친화력과 움직일 수 없는 비친화적 물체의 대결이네."
+    },
+    {
+      "line": 177,
+      "event": "cdate_liam_6",
+      "english_sha256": "a32c063dbb68f1f83c69608ab0ece1d4cff59238b5803f8fc4abc9d75ec44610",
+      "ko": "내가 이겼을 거야... 하지만 어느 날 카페에서 조이와 더그와 함께 있는데, 길 건너에서 니코가 날 발견했어."
+    },
+    {
+      "line": 178,
+      "event": "cdate_liam_6",
+      "english_sha256": "e8d5fcfef92e408fa53e902da25ae1585db7d8bab73659072d7c8bf36f8ad3be",
+      "ko": "좀 더 현명한 사람이었다면 내가 조용히 있고 싶다는 걸 알아들었겠지만... 니코는 현명함보다 매력이 앞서는 사람이지."
+    },
+    {
+      "line": 179,
+      "event": "cdate_liam_6",
+      "english_sha256": "5b19770b13637e9f9759e5e13c68f757457a30eeaecbd6cd592d7ca092bfa8eb",
+      "ko": "인사하러 오더니 어느새 조이, 더그와 나중에 만날 계획을 세우고 있었어."
+    },
+    {
+      "line": 180,
+      "event": "cdate_liam_6",
+      "english_sha256": "f63d6ceea68b23039f2c007fcf4860054c00f4a4083cd4fc36cc1eec0b5ed4b4",
+      "ko": "뭔지 알겠다. 완전히 니코답네."
+    },
+    {
+      "line": 181,
+      "event": "cdate_liam_6",
+      "english_sha256": "638e7c96f633e57fa2daf06a3159bd9e2ea4c258af721453271bc2aaf1335e0d",
+      "ko": "맞아. 처음엔 짜증 났지만, 덕분에 배운 게 있어."
+    },
+    {
+      "line": 182,
+      "event": "cdate_liam_6",
+      "english_sha256": "1b77e2f0e65950b1b8df14c814d7a8fba739f9fa4727de9356b906d5f921bbc2",
+      "ko": "가끔은 인내심을 가지면, 귀찮게 느낀 사람이 진심으로 소중한 사람이 될 수 있다는 것."
+    },
+    {
+      "line": 183,
+      "event": "cdate_liam_6",
+      "english_sha256": "07cd16e657cc99c52114d4fd01c4e943c0563d12766fe742937f1a9ed8d363db",
+      "ko": "...나처럼?"
+    },
+    {
+      "line": 184,
+      "event": "cdate_liam_6",
+      "english_sha256": "1bbb3a10c91a80cc85b53e90f49ae9b1b1926bb921376502d817d527c1052d82",
+      "ko": "풉... 너무 운을 시험하지 마, 꼬마 익살꾼."
+    },
+    {
+      "line": 185,
+      "event": "cdate_liam_6",
+      "english_sha256": "cda90d46c587227054e2d1e048820eb7081906d89d4652f614fdf3d0f994c623",
+      "ko": "리암의 까칠한 벽을 허무는 너 좀 봐. 계속 수다를 떨며 시시한 농담으로 미소를 몇 번 더 끌어내. 보기 좋아."
+    },
+    {
+      "line": 191,
+      "event": "cdate_zoe_1",
+      "english_sha256": "b8d30b271a9f9da32ccf2c501dba7bbc3c39acef819f7bb69ee589b3a5718de5",
+      "ko": "창작자로서 성공하기"
+    },
+    {
+      "line": 193,
+      "event": "cdate_zoe_1",
+      "english_sha256": "3839b1901513fd3be8b66a004a2bf3acee5fc3d7ccef655c7f433e5384744319",
+      "ko": "정말 파란만장했어!"
+    },
+    {
+      "line": 194,
+      "event": "cdate_zoe_1",
+      "english_sha256": "22c7072fbde70239fb01eee2cbcc32056339f275cd585bfa230368139db6a471",
+      "ko": "물론 네가 상상할 법한 좋은 점들은 전부 있지."
+    },
+    {
+      "line": 195,
+      "event": "cdate_zoe_1",
+      "english_sha256": "14091c657f5b16844746df29856882b4744af60be2dbe98c158da7b81faa90ad",
+      "ko": "내가 만든 것에 이렇게 많은 사람이 공감하는 걸 보면 인정받는 기분이 드는 건 확실해."
+    },
+    {
+      "line": 196,
+      "event": "cdate_zoe_1",
+      "english_sha256": "aa96d91f02b75bf9125d2caa79560e892556ae5a501451cb38db3192e3331bef",
+      "ko": "적지만 열성적인 독자들을 위해 팬픽을 쓰는 것도 정말 즐거웠지만, 팬층이 훨씬 커진 걸 불평할 순 없지."
+    },
+    {
+      "line": 197,
+      "event": "cdate_zoe_1",
+      "english_sha256": "53c200c633b21b9fc598bcec41101ae54ca31f481e6826e7f438f2602472db58",
+      "ko": "응... \"리암 프롬\" 덕분에 창작자로서 새로운 경험을 했을 것 같아."
+    },
+    {
+      "line": 198,
+      "event": "cdate_zoe_1",
+      "english_sha256": "0f69a1bca955ef62bd519d184a0b88b8cdf6d37ee07118ecee208452f0ce8875",
+      "ko": "맞아. 이제 새 화를 애타게 기다리고, 끝없이 이론을 쓰고, 좋아하는 리암들끼리 엮는 팬들이 잔뜩 보여..."
+    },
+    {
+      "line": 199,
+      "event": "cdate_zoe_1",
+      "english_sha256": "593d5911c64de4427e104d7f120ad14608acb9cad6cc90c13b9ac4c1096ec801",
+      "ko": "개인적으론 고양이 소년 메이드 리암과 근육질 리암을 밀어."
+    },
+    {
+      "line": 200,
+      "event": "cdate_zoe_1",
+      "english_sha256": "58c697d965086ef77a911be9571b5d52a592e4c5af10fdbb0026ceec9d4635d8",
+      "ko": "오, 좀 막 나가는 커플링인데! 마음에 들어."
+    },
+    {
+      "line": 201,
+      "event": "cdate_zoe_1",
+      "english_sha256": "843b1392dfc8447dd86b6eac02c12c686c4034e14eb9749de66198a9598728d6",
+      "ko": "아무튼 이젠 의견도, 칭찬도, 기회도 훨씬 많아..."
+    },
+    {
+      "line": 202,
+      "event": "cdate_zoe_1",
+      "english_sha256": "51d4f1e5d931b4d5250c6253bdabebdd4801a2cd1b828f6650136521f7d68650",
+      "ko": "네가 잘돼서 정말 기뻐!"
+    },
+    {
+      "line": 203,
+      "event": "cdate_zoe_1",
+      "english_sha256": "1aa7b1c1d5fb1fd6d299eae251a665c7898baeb43d48fb6b8a5b76da6c6ef739",
+      "ko": "고마워!"
+    },
+    {
+      "line": 204,
+      "event": "cdate_zoe_1",
+      "english_sha256": "9d33b01662726cd0d1c6cd1bc16f7f9490dd184ffa73dca9daa894d6a820277d",
+      "ko": "그래도 나쁜 점이 조금은 있어."
+    },
+    {
+      "line": 205,
+      "event": "cdate_zoe_1",
+      "english_sha256": "6ede551f03de47df66918ce9d8240b31e7e780ab97fcca6f4d001387e5471325",
+      "ko": "이제 정말 많은 사람이 \"리암 프롬\"에 애정을 느끼잖아. 일종의 책임감이 생겨."
+    },
+    {
+      "line": 206,
+      "event": "cdate_zoe_1",
+      "english_sha256": "518f409a18bb8facca59c9e41dafef32724bb1d7219c922a280b7e1bd7178067",
+      "ko": "예를 들어 이렇게 사랑받고 돈도 되는 걸 계속 확장하는 게 합리적인데, 어떻게 또 다른 이상하고 바보 같은 아이디어를 작업하겠어?"
+    },
+    {
+      "line": 207,
+      "event": "cdate_zoe_1",
+      "english_sha256": "828789700123736c3846041fdd791bead5d74a6b60a2ddd177a2cf2ddca68c3a",
+      "ko": "너... \"리암 프롬\" 작업을 안 하고 싶은 거야?"
+    },
+    {
+      "line": 208,
+      "event": "cdate_zoe_1",
+      "english_sha256": "33bd1c6565c52b39af7701e52235b1323df45e940fe29a156ce1f978af974b0f",
+      "ko": "아니, 바보 같고 사랑스러운 리암들로 가득한 학교에서 지내는 건 좋아."
+    },
+    {
+      "line": 209,
+      "event": "cdate_zoe_1",
+      "english_sha256": "700cb3944bfd419bf4fb9905dbe5a8c3fb7db00a7a9794e52dd9f18a753ba70e",
+      "ko": "그냥 조금 더 복잡해진다는 거야."
+    },
+    {
+      "line": 210,
+      "event": "cdate_zoe_1",
+      "english_sha256": "5a8dc5144f577cce01f824d134fb93231a54598b227ce535bc67027d31e48023",
+      "ko": "처음엔 \"내가 정말 하고 싶은 건 뭐지?\"로 시작하지만, 규모가 커질수록 널 묶는 변수가 늘어나."
+    },
+    {
+      "line": 211,
+      "event": "cdate_zoe_1",
+      "english_sha256": "ed80cc6a98da8de7aca967f9ce10f53e506b586e12960863e6be424eeb52e786",
+      "ko": "\"뭐가 제일 현명하지? 뭐가 제일 책임 있는 선택이지? 뭐가 제일 돈이 되지?\""
+    },
+    {
+      "line": 212,
+      "event": "cdate_zoe_1",
+      "english_sha256": "f001696cd8da2bb089106dcd1940c37706b085621b35ce5386bbcd51afd59574",
+      "ko": "으, 나 좀 봐. 뭘 불평하고 있나 적어 둔 걸 보자... \"실제로 꽤 열정을 느끼는 프로젝트로 성공한 것\"이네."
+    },
+    {
+      "line": 213,
+      "event": "cdate_zoe_1",
+      "english_sha256": "f3806db88038047837378f14301bf12f5e4fd609c500a01017843bf17309bb8c",
+      "ko": "아니야, 조이. 스트레스받는 건 너무 당연해."
+    },
+    {
+      "line": 214,
+      "event": "cdate_zoe_1",
+      "english_sha256": "0cd12abef67edc649633a23ead08d840c70269e1889d495b0526cbd594f69b30",
+      "ko": "...고마워."
+    },
+    {
+      "line": 215,
+      "event": "cdate_zoe_1",
+      "english_sha256": "9818db20bf9c689220310c283cff072766678324d2fb8aa0cee073f73df2c4d2",
+      "ko": "너와 조이는 그 뒤 몇 시간 동안 귀여운 여자애들이 귀여운 일을 하는 느긋한 애니를 보며 긴장을 풀어. 영혼을 달래는 약이 돼."
+    },
+    {
+      "line": 221,
+      "event": "cdate_zoe_2",
+      "english_sha256": "251e81663732814fbc62f704d8fe32d5139bf9f706b7956cd59d81862986a017",
+      "ko": "리암 프롬의 모든 것"
+    },
+    {
+      "line": 223,
+      "event": "cdate_zoe_2",
+      "english_sha256": "7f0ad7a4048726e19daa35c20f999c7b290dc4360250093799e814c2f1cbedb7",
+      "ko": "나의 최고 걸작!"
+    },
+    {
+      "line": 224,
+      "event": "cdate_zoe_2",
+      "english_sha256": "8ad9dc3685bc2a76a6aef216d5ab3d671779f4f80529a78bdf2dab8c44ac80a2",
+      "ko": "네 작품 중 가장 리암다운 작품!"
+    },
+    {
+      "line": 225,
+      "event": "cdate_zoe_2",
+      "english_sha256": "cea890007a53cd1809eb2ba017309946390f890d627df8681f0e38e86ff1ec6f",
+      "ko": "푸흐, 두말하면 잔소리지."
+    },
+    {
+      "line": 226,
+      "event": "cdate_zoe_2",
+      "english_sha256": "fd6f2b7aeccaafcc0033483c9bd7d9f5388f9035ce9744d54a11ed44dcd50a69",
+      "ko": "그런데... 리암을 무시하려는 건 아니지만... 왜 하필?"
+    },
+    {
+      "line": 227,
+      "event": "cdate_zoe_2",
+      "english_sha256": "733d57342aa48c340aff35dddfc60953216a992e642dd9b846e463d904ab6ba0",
+      "ko": "아냐, 무슨 말인지 알아. 리암은 참 독특한 소재지."
+    },
+    {
+      "line": 228,
+      "event": "cdate_zoe_2",
+      "english_sha256": "73d6f7861a1d09451c9af7ff621cea99f7ebaf424018a1ebae5b9d3efc7ec858",
+      "ko": "있지? 스푸키 아카데미에서 보니까 가장 인기 있는 편은 아니더라고... 그래서 오해를 많이 받는 캐릭터 같다는 느낌이 들었어."
+    },
+    {
+      "line": 229,
+      "event": "cdate_zoe_2",
+      "english_sha256": "f47807d6116201d1183081b4e95201b571c14def0a14de9be5b7ed494604dc39",
+      "ko": "응, 오해받는다는 말을 한두 천 번쯤 한 것 같아."
+    },
+    {
+      "line": 230,
+      "event": "cdate_zoe_2",
+      "english_sha256": "f3401bc3b8cd8ccc1f18894383b5cee862f6e3953b8cbb2e4ab8cab564333e10",
+      "ko": "그래, 그럴 거야."
+    },
+    {
+      "line": 231,
+      "event": "cdate_zoe_2",
+      "english_sha256": "1b8369b90fd455c872c74b6a84089d65501698e0ec987d51480aca113d90ff5e",
+      "ko": "사실은... 난 영겁의 세월 동안 존재했어."
+    },
+    {
+      "line": 232,
+      "event": "cdate_zoe_2",
+      "english_sha256": "8b85eec96d0cd3667778c2b6a0a99ee229687608844e798de8b30d63e30c8115",
+      "ko": "내 변화는 졸업 무도회에 초대받는 우스운 반전 한 번으로 일어난 일이 아니야."
+    },
+    {
+      "line": 233,
+      "event": "cdate_zoe_2",
+      "english_sha256": "1cbdbebad93fd3501dd0ee3dd64f79a62ce146e8fcfc578a44ed5bc12d59e167",
+      "ko": "정말 오랫동안 필멸자의 삶을 관찰했어... 내가 파괴하도록 만들어진 그 삶을 사랑하게 됐지."
+    },
+    {
+      "line": 234,
+      "event": "cdate_zoe_2",
+      "english_sha256": "d459838ce038644e7f536057c23594fa6e9711d3a296e488adf91b920c719313",
+      "ko": "그 매혹은 점점 커져서, 결국 힘 대부분을 포기하고 나도 필멸자의 일원이 되기로 했어."
+    },
+    {
+      "line": 235,
+      "event": "cdate_zoe_2",
+      "english_sha256": "a2b0d2b09176a29aced4f55dee7185b244b696abb364e1169f5f9ef83c584a73",
+      "ko": "대단한 결심이네."
+    },
+    {
+      "line": 236,
+      "event": "cdate_zoe_2",
+      "english_sha256": "eca62eea159c84ae2f8f7efebe3212a39fe05866767011b7f14f74e3eaa8b1a8",
+      "ko": "응, 맞아."
+    },
+    {
+      "line": 237,
+      "event": "cdate_zoe_2",
+      "english_sha256": "4f4b394153b11c801639f344bbbf6bc073d66aa71258949232a3e4c426699715",
+      "ko": "모든 필멸자의 삶에는 놀라운 이야기가 있어... 리암의 삶에도."
+    },
+    {
+      "line": 238,
+      "event": "cdate_zoe_2",
+      "english_sha256": "dcd3b09be1731081856ec7774074e5ba6ccbd873409b89973fa3f7fde7ead69d",
+      "ko": "물론 리암은 사람들이 흔히 요약하는 \"못 견딜 인간\", \"짜증 나는 자식\" 같은 모습도 있어."
+    },
+    {
+      "line": 239,
+      "event": "cdate_zoe_2",
+      "english_sha256": "957a2a67c1548f2decf758bc8dc09b85751aecb033f43a6d6a678f245ba8c355",
+      "ko": "하지만 다른 모든 필멸자처럼, 그것보다 훨씬 더 많은 면이 있지."
+    },
+    {
+      "line": 240,
+      "event": "cdate_zoe_2",
+      "english_sha256": "ef6bd9f36381ddc80d3bd6a152ba6a9273a1fb56fad143bf9dbe3cb8c5079d97",
+      "ko": "\"리암 프롬\"은 조금 그런 이야기야. 모든 필멸자 삶의 끝없는 가능성과 경이로운 복잡함을 탐구하는 것."
+    },
+    {
+      "line": 241,
+      "event": "cdate_zoe_2",
+      "english_sha256": "7ce81f1995c5c31a56394d29afef6d2bbd66f8f30b389a1a9bd462c91bc818db",
+      "ko": "와, 조이... 그렇게 말하니까 아름답네."
+    },
+    {
+      "line": 242,
+      "event": "cdate_zoe_2",
+      "english_sha256": "8918ebc0ad51a46494d493d816a476f70f53c81370ab7a8118bfee07a3c36739",
+      "ko": "난 그냥 섹시한 리암들이 키스하고 섹시한 모습을 보여 주는 게 주내용인 줄 알았어."
+    },
+    {
+      "line": 243,
+      "event": "cdate_zoe_2",
+      "english_sha256": "2e532a5fca2e4d1932646bbe244d5c43dac2d3812b9c0d01a17b4f28bfa82547",
+      "ko": "음, 둘 다일 수 있잖아?"
+    },
+    {
+      "line": 244,
+      "event": "cdate_zoe_2",
+      "english_sha256": "ad00d2b74f7197332cca83e084d5729e4ea1105b1e438a5e722dbc75c18833e9",
+      "ko": "둘은 밤이 깊도록 삶에서 가장 아름다운 것들과, 어떤 리암 둘이 키스해야 제일 섹시할지 이야기해."
+    },
+    {
+      "line": 250,
+      "event": "cdate_zoe_3",
+      "english_sha256": "ebcb0430932b22b226acb1c3f2edc867e5771bc4fab69d9a5eb7240018a51bcf",
+      "ko": "갱생 서사 프로그램"
+    },
+    {
+      "line": 252,
+      "event": "cdate_zoe_3",
+      "english_sha256": "55c93a6c05a6bbc422cc1b542118df9fae387637d926300a95f86f55ac233e18",
+      "ko": "음, 좀 지루해... 하지만 이해는 해."
+    },
+    {
+      "line": 253,
+      "event": "cdate_zoe_3",
+      "english_sha256": "69254e7fd408bd668f55bdc021ce2e0782bd572d4ef165a48ad60df1b8a4090c",
+      "ko": "우리가 성인군자는 아니니까, 저지른 온갖 악행을 만회하려는 게 맞지."
+    },
+    {
+      "line": 254,
+      "event": "cdate_zoe_3",
+      "english_sha256": "a22d3041861b8e7b109c156a3d69a49680a5612e2500f8039cde310b918cf57b",
+      "ko": "여럿이 모여서 이야기하고, 리암이 준비한 훈련이랑 온갖 걸 해."
+    },
+    {
+      "line": 255,
+      "event": "cdate_zoe_3",
+      "english_sha256": "288cad37b88e5501d49f0a665d8e0bd74ac2f48b21926e8f1bd2056de3a7934a",
+      "ko": "다들 스스로를 의미 있게 바꾸려고 노력한다니 기뻐."
+    },
+    {
+      "line": 256,
+      "event": "cdate_zoe_3",
+      "english_sha256": "f3e0a4fd4b30fec904d22c5fbfdd84a3764768c9b4e9466ea1b7ccd2821a9347",
+      "ko": "당연하지! 하지만 가끔은 좀 귀찮은 일이기도 해..."
+    },
+    {
+      "line": 257,
+      "event": "cdate_zoe_3",
+      "english_sha256": "d87a27194e597455a9c6921ceb6337428427450a956b671db135a3f6139c0e30",
+      "ko": "그럴 것 같아. 변화에는 노력이 들지만, 그럴 가치가 있다고 생각해."
+    },
+    {
+      "line": 258,
+      "event": "cdate_zoe_3",
+      "english_sha256": "33bfcfe4df7e270b4661f86765c16ef569aa2d58baae66346c47679eb9b0d4b2",
+      "ko": "물론이지. 충분히 갱생하면 훨씬 더 대단한 프로그램의 두 번째 단계로 넘어갈 수 있거든."
+    },
+    {
+      "line": 259,
+      "event": "cdate_zoe_3",
+      "english_sha256": "4caac51cdc9ad24c6e777f64b47be8da683fb42b933c0c4532c85622c19f1e2c",
+      "ko": "코븐을 돕는 일종의 용병 부대가 되는 거야!"
+    },
+    {
+      "line": 260,
+      "event": "cdate_zoe_3",
+      "english_sha256": "a88a448cfe4ea5cf37a8532eacae4965a4f319409b51e430cba384164bdcff83",
+      "ko": "악을 위해 쓰던 힘을 전부 돌려서... 이제 세상을 구하는 데 쓰는 거지!"
+    },
+    {
+      "line": 261,
+      "event": "cdate_zoe_3",
+      "english_sha256": "29e342633ddccd2c5075e3bdc3bb14029bf18570ed687d8d6d3a58f07b35a03a",
+      "ko": "그래, 그건 정말 대단하게 들린다."
+    },
+    {
+      "line": 262,
+      "event": "cdate_zoe_3",
+      "english_sha256": "642222e7562c6a2fed9fd529f358842df28c2686606444b4e609a0df275dfd6f",
+      "ko": "그렇지?!"
+    },
+    {
+      "line": 263,
+      "event": "cdate_zoe_3",
+      "english_sha256": "030e06e7fac13e443f9c0ac4e0d8414c58a6488bd8118fd41395dcc96d110427",
+      "ko": "지금 두 번째 단계로 곧 넘어가는 건 리암과 나뿐이야. 나머지는 계속 모임에 나와 믿을 만하다는 걸 증명해야 해."
+    },
+    {
+      "line": 264,
+      "event": "cdate_zoe_3",
+      "english_sha256": "f6a7c6debbd680fd297dc280559d70bf11520e1c593723107265fdfae5481487",
+      "ko": "우등생이네!"
+    },
+    {
+      "line": 265,
+      "event": "cdate_zoe_3",
+      "english_sha256": "a28351a109c8b955c1511930b41f898e9aaf36033215977fdafdc4e9a2893ba9",
+      "ko": "당연하지! 갱생 서사 프로그램에서 수석이라고!"
+    },
+    {
+      "line": 266,
+      "event": "cdate_zoe_3",
+      "english_sha256": "7b24ca2c786aaff24d9769bb7912d23b5a069f0ead98dfda287474fd9c123819",
+      "ko": "가장 사악했던 내가 이제 가장 많이 갱생했어. 반에서 최고야!"
+    },
+    {
+      "line": 267,
+      "event": "cdate_zoe_3",
+      "english_sha256": "26d4605b06bd9d0916b5488855039939bf1dc4351c50f5b19d319abf983f3a7a",
+      "ko": "코븐은 늘 그렇듯 찌푸리고 있지만, 힘이 크게 억눌린 상태라도 고대 존재 중 하나가 자기편이 된 게 기쁜 것 같아."
+    },
+    {
+      "line": 268,
+      "event": "cdate_zoe_3",
+      "english_sha256": "7f9b4d06e698497535a9b07c7cbe21c7c96b134bdb26e8dbbc1ca90e4c5bbf83",
+      "ko": "그게 마침내 필멸자 쪽으로 균형을 기울여 줄지도 모르지."
+    },
+    {
+      "line": 269,
+      "event": "cdate_zoe_3",
+      "english_sha256": "9e1839fb05f05f73d293f6fbfab88aedb958d4d9c3fdb6a113c13a9da8861406",
+      "ko": "아, 그러면 좋겠다!"
+    },
+    {
+      "line": 270,
+      "event": "cdate_zoe_3",
+      "english_sha256": "57716928e1816a0a78111960526405ac39ef2711fa88471d42005d1a26b1f9ad",
+      "ko": "멋진 코븐풍 제복도 주면 좋겠어. 상상해 봐!"
+    },
+    {
+      "line": 271,
+      "event": "cdate_zoe_3",
+      "english_sha256": "18f9d0d48e7173b441878b8e525d7140b571d230018d48128b6f0762480a543d",
+      "ko": "아, %CURRENTPLAYERNAME%! 방금 생각났는데, 내가 코븐과 가까워지면... 마법소녀가 되는 걸로 쳐 주는 거야!?!?"
+    },
+    {
+      "line": 272,
+      "event": "cdate_zoe_3",
+      "english_sha256": "5d0d55c8066aacb0cdd9051a8bd5fa8f3682ec948dcc42fb0b43b5d1c99ee52b",
+      "ko": "헤... 그럴지도."
+    },
+    {
+      "line": 273,
+      "event": "cdate_zoe_3",
+      "english_sha256": "f3744646f85c6bc39fa697d315fd788777d8c3758f5c5a387b76d07646a8a0ca",
+      "ko": "어쨌든 내겐 이미 마법소녀야."
+    },
+    {
+      "line": 274,
+      "event": "cdate_zoe_3",
+      "english_sha256": "a3e7b35e24c7862593212676ea9baca12330d10d6f7e50580140535dd59a696c",
+      "ko": "다음 몇 시간 동안 조이를 위한 마법소녀 대사를 구상해. 그녀가 곧 세상을 지켜 줄 걸 아니 안심돼."
+    },
+    {
+      "line": 280,
+      "event": "cdate_zoe_4",
+      "english_sha256": "01e5546a5e5e85e96e3b0a9fb0ef95f110dd68ee83cd7f17710f2966eff8a48b",
+      "ko": "조이의 다음 목표는?"
+    },
+    {
+      "line": 282,
+      "event": "cdate_zoe_4",
+      "english_sha256": "d763dc6888a515a466a903222b30901600871f935806f109ea5d1841939dac42",
+      "ko": "참 좋은 질문이야!"
+    },
+    {
+      "line": 283,
+      "event": "cdate_zoe_4",
+      "english_sha256": "e3926e480b276443cc8f3bd9d9818f2ab8b7c2eb1cabac9e7946b56b655d3163",
+      "ko": "\"리암 프롬\"도 있고 하니까, 앞날이 얼마나 밝을지 상상하게 되더라고!"
+    },
+    {
+      "line": 284,
+      "event": "cdate_zoe_4",
+      "english_sha256": "9f2916a3f9be608a64fe8f3541bdbd183af255dbe470a651570ecb223c751845",
+      "ko": "응, 정신없어."
+    },
+    {
+      "line": 285,
+      "event": "cdate_zoe_4",
+      "english_sha256": "f07e294968744df2cdb14185938ffb111a8b4a0883cb0dd256442c269554fee7",
+      "ko": "처음엔 작은 장난 같은 생각이었잖아? 거의 창작 훈련처럼, 별로 인기 없는 리암을 매력적인 이야기의 중심으로 만들 수 있을까 싶었지."
+    },
+    {
+      "line": 286,
+      "event": "cdate_zoe_4",
+      "english_sha256": "e58fad23d7b6c241fbc1f982988db240278695cba766e59c3c956f8e82fc9514",
+      "ko": "그러다... 펑!"
+    },
+    {
+      "line": 287,
+      "event": "cdate_zoe_4",
+      "english_sha256": "5362de380fa1822d58eb32c6ad781034dda33e7bf8cafd00ab91ea5d66d067e9",
+      "ko": "리암들... 사방에 리암들!"
+    },
+    {
+      "line": 288,
+      "event": "cdate_zoe_4",
+      "english_sha256": "d16c42bffaa7108e38886618213136af94de99d3340a79d5045b6d0e51f2c83a",
+      "ko": "하하, 맞아! 처음 아이디어의 범위는 정말 작았는데... 이젠 한계가 없어."
+    },
+    {
+      "line": 289,
+      "event": "cdate_zoe_4",
+      "english_sha256": "3f91397430ba837f76df04235b3806a4750d8f6ff95d00b35284c207302bb2f0",
+      "ko": "리암들을 보여 주는 그림이 조금 있는 팬픽으로 시작했는데, 요즘엔 온갖 제안으로 메일함이 넘쳐나."
+    },
+    {
+      "line": 290,
+      "event": "cdate_zoe_4",
+      "english_sha256": "f6764219e75003323da49933a13a0d90ae0cd3033c7242f2320de8a535f32ba3",
+      "ko": "봉제 인형, 리암 아카데미 배경의 테이블탑 RPG, \"리암 프롬\"을 비디오 게임으로 만들자는 여러 제안..."
+    },
+    {
+      "line": 291,
+      "event": "cdate_zoe_4",
+      "english_sha256": "42fa376cc4a005d62a9bb7d6d08f6bc7583466633a61070721dc3157282723da",
+      "ko": "와! 전부 승낙해! 계약서 다 사인해! 다음은 \"리암 프롬\" 피자 가게와 리암 테마 란제리다!"
+    }
+  ]
+}

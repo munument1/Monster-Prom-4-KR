@@ -2,20 +2,25 @@
   "status": "draft_translation_in_progress",
   "workflow": "Finish text translation first; defer comprehensive QA, font checks, game installation and visual testing until translation is complete.",
   "catalog_candidates": 23986,
-  "ui_written": 1111,
-  "event_fields_written": 862,
-  "total_written": 1973,
-  "percent_written": 8.23,
+  "ui_written": 2502,
+  "event_fields_written": 7181,
+  "total_written": 9683,
+  "percent_written": 40.37,
   "qa_complete": false,
   "installed_translation_count": 652,
   "installed_bridge": "0.1.3",
   "event_assets_written": {
     "english_events_challenge": 104,
+    "english_events_chibidates": 379,
+    "english_events_comic": 254,
     "english_events_conshop": 32,
+    "english_events_convos": 230,
     "english_events_default": 1,
+    "english_events_endings": 200,
     "english_events_epilogue": 12,
     "english_events_gachashop": 1,
     "english_events_guestintro": 164,
+    "english_events_maingame": 5256,
     "english_events_prologue": 33,
     "english_events_standard": 260,
     "english_events_tutorial": 156,
@@ -23,15 +28,14 @@
     "english_prologue_likes": 63
   },
   "next_assets": [
-    "english_events_comic",
-    "english_events_chibidates",
     "english_events_convos",
     "english_events_endings",
     "english_events_maingame"
   ],
   "notes": [
-    "Counts describe authored fields, not reviewed or runtime-validated translations.",
-    "Untracked artwork and build_manual_images.py were not modified or included.",
-    "No game launch, font switch, or installation performed during this draft batch."
+    "User explicitly authorized parallel translation.",
+    "Monster Prom 4 title spelling: 몬스터 프롬 4: 몬스터 콘.",
+    "Translation-only authoring continues; no game launch or new installation.",
+    "Draft counts do not mean QA completion."
   ]
 }

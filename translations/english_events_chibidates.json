@@ -1,0 +1,2279 @@
+{
+  "source_sha256": "42c529da4e99abe3f1982e73291502b336701217a30ff659cb3da77a407a123e",
+  "entries": [
+    {
+      "line": 3,
+      "event": "date_april_1",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 5,
+      "event": "date_april_1",
+      "english_sha256": "caa1041c12bb071fbfcb0ff4b3b07964ece279ca759f7190eafcd6b0518a4013",
+      "ko": "너와 에이프릴은 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 6,
+      "event": "date_april_1",
+      "english_sha256": "92d26a487d8514ad2baf072eb7f9e28692aee1d4e7653743cb8e57a49403da2f",
+      "ko": "끝날 무렵 에이프릴의 발이 아파 와. 크고 삑삑거리는 광대 신발이 이렇게 불편할 줄 누가 알았겠어?"
+    },
+    {
+      "line": 7,
+      "event": "date_april_1",
+      "english_sha256": "09a0156a88692e450fa93300332c5b101689faaba06022e6b6ab95b39efde5ed",
+      "ko": "그래서 넌 남은 길을 진흙 웅덩이까지 전부 업고 가. 기사도 정신이 대단한데!"
+    },
+    {
+      "line": 8,
+      "event": "date_april_1",
+      "english_sha256": "0a501ff65b340d45a66c2114902b57fdb49fcc13fbc2b560ad6906cbc836da33",
+      "ko": "이제 샤워하러 가."
+    },
+    {
+      "line": 13,
+      "event": "date_april_2",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 15,
+      "event": "date_april_2",
+      "english_sha256": "caa1041c12bb071fbfcb0ff4b3b07964ece279ca759f7190eafcd6b0518a4013",
+      "ko": "너와 에이프릴은 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 16,
+      "event": "date_april_2",
+      "english_sha256": "51fcff2f706eecd13ae08947415a9f593647bb540e4ef6bfc78e2e89fb1250f0",
+      "ko": "에이프릴은 세계적으로 유명한 아이돌이 되고 싶은 꿈과 그걸 이룰 계획을 전부 들려줘."
+    },
+    {
+      "line": 17,
+      "event": "date_april_2",
+      "english_sha256": "716714133fe34ae172098bd556dfea996d64bda6ea9d468939216b8052be6085",
+      "ko": "질 수 없으니 넌 어젯밤 머리카락이 스파게티가 된 꿈을 들려줘."
+    },
+    {
+      "line": 18,
+      "event": "date_april_2",
+      "english_sha256": "8a8b9afd12b58bb68e7133e961df26f88389a083c517fd082d3849e9221f34c2",
+      "ko": "언젠가 네 꿈도 이룰 수 있겠지! 튀르키예에선 스파게티 모발 이식도 해 주나? 알아볼 시간이야!"
+    },
+    {
+      "line": 23,
+      "event": "date_april_3",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 25,
+      "event": "date_april_3",
+      "english_sha256": "2cd9577ebd215c5c881c788ad451fa19e8a8e70b86889c3a19687ada4de5e94e",
+      "ko": "너와 에이프릴은 최신 액션 영화를 봐."
+    },
+    {
+      "line": 26,
+      "event": "date_april_3",
+      "english_sha256": "6cab23b8c3550ec039448bb3f62c6d982b828cfeca62cd5f6c432a628917f542",
+      "ko": "에이프릴은 등장인물들이 쓰는 총과 사격 기술에 관해 할 말이 많아."
+    },
+    {
+      "line": 27,
+      "event": "date_april_3",
+      "english_sha256": "df87b59cd2b704bf60eee22b43f4ab0c60aa6007fadb29fd72e3f737672f7247",
+      "ko": "넌 총을 어떻게 그렇게 잘 아냐고 물어. 그 뒤로 갑자기 말수가 줄어들어."
+    },
+    {
+      "line": 28,
+      "event": "date_april_3",
+      "english_sha256": "9999003d9925679a1f112d66564c13945906f2965fba2344543023b1eebd1540",
+      "ko": "아마 영화에 집중하나 봐. 이 친구, 진정한 영화광이네! 넌 함께 즐거운 시간을 보내."
+    },
+    {
+      "line": 33,
+      "event": "date_april_4",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 35,
+      "event": "date_april_4",
+      "english_sha256": "7cf20fcc573e9ed00f1a4bbb95c8e528e43bdc8e6cd19ae46898af4384de2cb2",
+      "ko": "너와 에이프릴은 호텔에서 함께 영화를 봐."
+    },
+    {
+      "line": 36,
+      "event": "date_april_4",
+      "english_sha256": "9a5d56fa827b39355a9d417e1fddf5188dfb68a865cd0a29f9f984ebc8cd0521",
+      "ko": "룸서비스를 주문하기로 해. 에이프릴은 샐러드를 시키지만, 네 푸짐한 나초를 애타게 쳐다봐."
+    },
+    {
+      "line": 37,
+      "event": "date_april_4",
+      "english_sha256": "d89d40f435489b6f7310cacefeeec07646e90ffc048623bcc87a90ae2957efc9",
+      "ko": "아이돌은 엄격한 식단을 강요받는 일이 많다는 걸 아는 넌 같이 먹고 둘만의 비밀로 하자고 해."
+    },
+    {
+      "line": 38,
+      "event": "date_april_4",
+      "english_sha256": "8e2bfc04aab177cdc9f8ec0c3cff38bb302c455776fc286a0bc85ef8d83a533f",
+      "ko": "그 결과 십 분도 안 돼서 푸짐한 나초 한 접시를 해치우는 모습을 보게 돼. 정말... 대단한 광경이야."
+    },
+    {
+      "line": 39,
+      "event": "date_april_4",
+      "english_sha256": "8e1f6add707a71e786a87ee6f82425f2c50dc55f190b1bb26298b3248db7cadc",
+      "ko": "뭐 어때. 에이프릴도 모처럼 편히 즐겨서 좋잖아!"
+    },
+    {
+      "line": 44,
+      "event": "date_april_5",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 46,
+      "event": "date_april_5",
+      "english_sha256": "59344a4f3e5dc4b0181dfa637d6ef270ae0ccabe8b7691739abb817ad3835980",
+      "ko": "너와 에이프릴은 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 47,
+      "event": "date_april_5",
+      "english_sha256": "1a80401307a0cea5a1937dd6cc747fd32efec38240ff18f0d1d52a757a78a64c",
+      "ko": "몸으로 말해요를 하기로 해!"
+    },
+    {
+      "line": 48,
+      "event": "date_april_5",
+      "english_sha256": "9597c89b1374edb7834cb015bf57fe926217b12e204f87a04b2de21009ccc87b",
+      "ko": "에이프릴에게 완패해. 광대와 마임이 어느 정도 친척뻘일 테니 예상할 수도 있었겠네."
+    },
+    {
+      "line": 49,
+      "event": "date_april_5",
+      "english_sha256": "feac97f7a3956087b9499eb3c5b5df4d6c5b9ea9540e5bca7994e696bb64ff6d",
+      "ko": "그래도 말없이 통닭 한 마리를 먹어 치우는 걸 보는 건 즐거웠어. 새로운 취향 해금!"
+    },
+    {
+      "line": 54,
+      "event": "date_april_6",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 56,
+      "event": "date_april_6",
+      "english_sha256": "59344a4f3e5dc4b0181dfa637d6ef270ae0ccabe8b7691739abb817ad3835980",
+      "ko": "너와 에이프릴은 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 57,
+      "event": "date_april_6",
+      "english_sha256": "aa1bfc5b6162514c9c926817ea459a5f7aca7a68b4c0ac6444ad706ea266022d",
+      "ko": "어릴 적이 떠오르고 분위기도 좋다며 캔디랜드를 하자고 해. 부담 없는 게임 같아서 동의하지."
+    },
+    {
+      "line": 58,
+      "event": "date_april_6",
+      "english_sha256": "bbd0cc05983fa5b6d0287d2e9ec5fb537858e2083e1077fb8a6716b8c2d8bc79",
+      "ko": "두 시간, 그리고 뒤집힌 탁자 하나 뒤에야 에이프릴 퍼스트와 하는 캔디랜드가 얼마나 치열한지 알게 돼."
+    },
+    {
+      "line": 59,
+      "event": "date_april_6",
+      "english_sha256": "904f8289fc9725cc8db95e7a73089e401b03f43fb0d5045c0635814dbf318c1d",
+      "ko": "적어도 이제 너희 관계는 당밀 늪지의 공포도 이겨 낼 수 있다는 걸 알았네. 귀여워라!"
+    },
+    {
+      "line": 64,
+      "event": "date_doug_1",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 66,
+      "event": "date_doug_1",
+      "english_sha256": "e545c08d15b5ff34289d7097057f2f98675f25dbef309d2ad52814880cab93c4",
+      "ko": "너와 더그는 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 67,
+      "event": "date_doug_1",
+      "english_sha256": "779d6a8d7211c04548765d21617788fe99649b0f4dbbacac2d9eb1385863c34b",
+      "ko": "시간을 보내려고 \"아이 스파이\"를 하기로 해."
+    },
+    {
+      "line": 68,
+      "event": "date_doug_1",
+      "english_sha256": "7dac27c6dbd43630f429eb6200e529f5207cd4280744e2cb5129f2e36721ab06",
+      "ko": "넌 \"잘생긴 초록색 얼뜨기가 보여\"라고 해. 더그는 자기를 말하는 거란 걸 깨닫는 데 이십 분이나 걸려."
+    },
+    {
+      "line": 69,
+      "event": "date_doug_1",
+      "english_sha256": "72be26f60154779a200671ff4f9d422f5eacf877132d2558476ddb49e2b12a72",
+      "ko": "그래야 네가 알고 사랑하는 잘생긴 초록 얼뜨기지!"
+    },
+    {
+      "line": 74,
+      "event": "date_doug_2",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 76,
+      "event": "date_doug_2",
+      "english_sha256": "e545c08d15b5ff34289d7097057f2f98675f25dbef309d2ad52814880cab93c4",
+      "ko": "너와 더그는 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 77,
+      "event": "date_doug_2",
+      "english_sha256": "b0a44425eb9f0e82ff4993fd3d8c93be8d2f0ab49c13a98c67dce7a74fc24ba5",
+      "ko": "더그가 비둘기에게 같이 주려고 새 모이를 가져왔어. 어머!"
+    },
+    {
+      "line": 78,
+      "event": "date_doug_2",
+      "english_sha256": "ac702499e0cf11a1556f04dd6ddc7319296ee3e3d08ec3126adf21939fb7393b",
+      "ko": "아쉽게도 오늘은 비둘기가 안 보이네. 대신 영역 의식이 아주 강한 거위들은 있어."
+    },
+    {
+      "line": 79,
+      "event": "date_doug_2",
+      "english_sha256": "4227b190e7a77eef02b02331d5e5ea04818ef7dca1bbf4f70a66c7e42344b01a",
+      "ko": "즐거운 산책은 사악한 거위들을 피해 죽어라 달리는 시간으로 바뀌어. 그래도 손은 꼭 잡았잖아! 얼마나 로맨틱해!"
+    },
+    {
+      "line": 84,
+      "event": "date_doug_3",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 86,
+      "event": "date_doug_3",
+      "english_sha256": "a72d7662a29bd71f446709d64f1802577913b646b635e916b5389cdd4ee73283",
+      "ko": "너와 더그는 고급 식당에 가."
+    },
+    {
+      "line": 87,
+      "event": "date_doug_3",
+      "english_sha256": "5eb061da92305fb6cc9e654d434ff0a891baf672aaf612edbd926ed4ec565cfd",
+      "ko": "여기서 내놓는 파격적인 요리가 그렇게 대단하다고 들었어. 메뉴도 정말 많네!"
+    },
+    {
+      "line": 88,
+      "event": "date_doug_3",
+      "english_sha256": "642ec431c4ab83db5027382141c68c19a612a8c6dd0bb9a89f1608818c2bc00e",
+      "ko": "더그는 조금 압도돼. 웨이터가 오자 당황해서 핫도그를 시켜 버려."
+    },
+    {
+      "line": 89,
+      "event": "date_doug_3",
+      "english_sha256": "5937549405f5c62de4de5de4333f761535d51ad2953dc768540f9cd87d99643f",
+      "ko": "둘 다 평생 먹은 핫도그 중 최고야. 캐비아 머스터드 농축 소스는 처음 들어 봤지만, 이제 제일 좋아하는 양념이 됐네. 맛있다!"
+    },
+    {
+      "line": 94,
+      "event": "date_doug_4",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 96,
+      "event": "date_doug_4",
+      "english_sha256": "a72d7662a29bd71f446709d64f1802577913b646b635e916b5389cdd4ee73283",
+      "ko": "너와 더그는 고급 식당에 가."
+    },
+    {
+      "line": 97,
+      "event": "date_doug_4",
+      "english_sha256": "9296b5ad16561521d127b0a8ccafd5309c3cd7d9b1931d93a6113aa8789047bb",
+      "ko": "계산서를 받기 전까지는 정말 즐거웠어. 둘 중 누구도 이 돈을 낼 수는 없어."
+    },
+    {
+      "line": 98,
+      "event": "date_doug_4",
+      "english_sha256": "64b1a3b660f4a1a3877269c0b8133a08df7ff287967a0fa6f39f0c30d1681627",
+      "ko": "그래서 식당에 진 빚을 갚느라 둘이 설거지를 하며 식사 시간이 네 시간 더 늘어나."
+    },
+    {
+      "line": 99,
+      "event": "date_doug_4",
+      "english_sha256": "be3849b2e6dd58d56aa41bf24a2c15f0046fd5998f1136d81741dc0ae2c6dfc3",
+      "ko": "의외로 재밌고 가까워지는 활동이야! 넌 씻고 더그는 말려. 손님들이 미끈한 접시를 싫어하지 않길 바라야겠네!"
+    },
+    {
+      "line": 104,
+      "event": "date_doug_5",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 106,
+      "event": "date_doug_5",
+      "english_sha256": "8a07ac5c2069185cfff1e101259d5c835d3f9dd1f5ffa51f776ad790ac1c34fc",
+      "ko": "너와 더그는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 107,
+      "event": "date_doug_5",
+      "english_sha256": "2b6ab7369e6efdde7a1b266fd81de894753e6ba3b52ad1646d478426de5f3bd6",
+      "ko": "더그가 스타트키커에서 후원한 새 유로 보드게임을 해."
+    },
+    {
+      "line": 108,
+      "event": "date_doug_5",
+      "english_sha256": "b14bda7afea70e4bac4b6244d8455b2512236c497510e07f5420ad0a69595fd0",
+      "ko": "두 시간 반 동안 규칙을 이해하려다 보니, 그냥 말로 탑을 쌓는 게 더 재밌다는 걸 깨달아."
+    },
+    {
+      "line": 109,
+      "event": "date_doug_5",
+      "english_sha256": "9093e4487ea1bc20fe55dc7a814b56bb2e6401fa7ceaca583e584bfcc33ea4af",
+      "ko": "축하해. 쓸데없이 복잡한 젠가를 다시 발명했네. 그래도 더그와 즐겁게 놀았잖아!"
+    },
+    {
+      "line": 114,
+      "event": "date_doug_6",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 116,
+      "event": "date_doug_6",
+      "english_sha256": "8a07ac5c2069185cfff1e101259d5c835d3f9dd1f5ffa51f776ad790ac1c34fc",
+      "ko": "너와 더그는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 117,
+      "event": "date_doug_6",
+      "english_sha256": "ad2b2ef5098f6ce38f0171bd721d0eb02e7a06c19998179f66d046ed25b24cd2",
+      "ko": "친선 경쟁 타로를 몇 판 해."
+    },
+    {
+      "line": 118,
+      "event": "date_doug_6",
+      "english_sha256": "ebee9986c9d1b173602db6660b5751ff6c229fa1a1c21ba6a917dc1a8af5c022",
+      "ko": "더그는 흥미로운 점괘를 읽어 줘. 그중 하나 때문에 앞으로 상추를 먹기가 꺼려져."
+    },
+    {
+      "line": 119,
+      "event": "date_doug_6",
+      "english_sha256": "db304b20d072c8162e304a705b2e94fe4447f43704813ecbb9185150cea85541",
+      "ko": "네가 더그에게 읽어 주는 점괘는 전부, 이상할 만큼 널 닮은 사람과 키스하는 내용이야."
+    },
+    {
+      "line": 120,
+      "event": "date_doug_6",
+      "english_sha256": "dc0618a55c5a77fd2d572939949c63e12106187a31685c2d9ddb53d4da77a8a1",
+      "ko": "한 판도 못 이겼지만 솔직히 애초에 그게 목적은 아니었잖아. 네 미래에 두 번째 데이트가 있기를!"
+    },
+    {
+      "line": 125,
+      "event": "date_liam_1",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 127,
+      "event": "date_liam_1",
+      "english_sha256": "7d040f9db2f7e8a124f0e7747e533409ac6468e99d13de5d6cb75cd8b2b1e11f",
+      "ko": "너와 리암은 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 128,
+      "event": "date_liam_1",
+      "english_sha256": "5ac570f861ae465c05d3f151fbc3567623e7c0925b6453c9ea3862820d52fe9d",
+      "ko": "리암은 널 도망 못 가는 청중으로 삼아 온갖 불평을 늘어놔. 날씨, 경제, 일회용 플라스틱에 대한 끝없는 증오까지..."
+    },
+    {
+      "line": 129,
+      "event": "date_liam_1",
+      "english_sha256": "ef3ba60dd87ebab3c3627bd0e0f9374786cdd6b7dc870dd01088e953cfd4879f",
+      "ko": "남들은 그가 끔찍한 시간을 보낸다고 생각하겠지만, 넌 불평이 리암의 사랑 표현이라는 걸 알아."
+    },
+    {
+      "line": 130,
+      "event": "date_liam_1",
+      "english_sha256": "465e31ff55fa752fd2123f8120fbb3e24f3cfb124e1a4116afc01efa19b53b7a",
+      "ko": "공인된 리암 애호가인 넌 그가 욕하는 걸 듣는 게 가장 좋아. 정말 매력적인 상대야!"
+    },
+    {
+      "line": 135,
+      "event": "date_liam_2",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 137,
+      "event": "date_liam_2",
+      "english_sha256": "7d040f9db2f7e8a124f0e7747e533409ac6468e99d13de5d6cb75cd8b2b1e11f",
+      "ko": "너와 리암은 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 138,
+      "event": "date_liam_2",
+      "english_sha256": "1be2ac0309444072654da32a62615a6521a9e5d97d39893bdefd9c7dfbbb5cca",
+      "ko": "리암은 산책 내내 남자 올림머리의 완전하고 세세한 역사를 들려줘."
+    },
+    {
+      "line": 139,
+      "event": "date_liam_2",
+      "english_sha256": "71b35fc3c7cc78e0b19f64a5fcc91db01d135872771e672a25beafebfa54e789",
+      "ko": "대부분 흘려들어. 하나도 관심 없는 이야기를 늘어놓는, 탐스러운 보랏빛 입술을 보는 데 더 집중하거든."
+    },
+    {
+      "line": 140,
+      "event": "date_liam_2",
+      "english_sha256": "dbb854c876069d932abe86919b95bb74661cabd3866aad63cf8c533ae226e60e",
+      "ko": "결국 리암은 자기 목소리를 실컷 들었고, 넌 모처럼 이상한 사람처럼 보이지 않고 그를 실컷 봤어. 둘 모두에게 완벽한 밤이네."
+    },
+    {
+      "line": 145,
+      "event": "date_liam_3",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 147,
+      "event": "date_liam_3",
+      "english_sha256": "08369da8c41e38516ad02e8e1613af5d2219be1f88c9a9e498e38cf6d80374d0",
+      "ko": "너와 리암은 현대 미술관에 가기로 해."
+    },
+    {
+      "line": 148,
+      "event": "date_liam_3",
+      "english_sha256": "9cafd6df888fbff32f05ccff9abe2669b3a73897f6d7c83cc2a2351b1b196aae",
+      "ko": "당연히 리암은 물 만난 고기야. 보이는 이상한 조각 덩어리와 추상적인 얼룩 하나하나에 관해 정보가 넘쳐나."
+    },
+    {
+      "line": 149,
+      "event": "date_liam_3",
+      "english_sha256": "2b10cf1c6adbe3191642f236fe19b8f4424fcd532c352bfe447c3853cd6fc062",
+      "ko": "열정이 지나쳐서 그림 옆에 걸린 소화기의 의미까지 설명해 버려."
+    },
+    {
+      "line": 150,
+      "event": "date_liam_3",
+      "english_sha256": "cbf20571b5699a1d6d39fea17fd69d021600fd997ecb231cba5d9f2bb421d0d9",
+      "ko": "바로잡으려다가, 즐거워하는 모습이 너무 귀여워서 그만둬. 덕분에 예술과 소화기에 관해 많이 배우게 돼."
+    },
+    {
+      "line": 155,
+      "event": "date_liam_4",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 157,
+      "event": "date_liam_4",
+      "english_sha256": "08369da8c41e38516ad02e8e1613af5d2219be1f88c9a9e498e38cf6d80374d0",
+      "ko": "너와 리암은 현대 미술관에 가기로 해."
+    },
+    {
+      "line": 158,
+      "event": "date_liam_4",
+      "english_sha256": "9cafd6df888fbff32f05ccff9abe2669b3a73897f6d7c83cc2a2351b1b196aae",
+      "ko": "당연히 리암은 물 만난 고기야. 보이는 이상한 조각 덩어리와 추상적인 얼룩 하나하나에 관해 정보가 넘쳐나."
+    },
+    {
+      "line": 159,
+      "event": "date_liam_4",
+      "english_sha256": "149df9328bf05806102bd933109031fcb9b42c1c44824c490914e19cb446472b",
+      "ko": "갑자기 거대한 추상화 앞에서 멈추더니 아무 말도 안 해. 말이 안 나올 만큼 감동했는지, 모처럼 뜻을 전혀 모르겠는지 알 수 없어."
+    },
+    {
+      "line": 160,
+      "event": "date_liam_4",
+      "english_sha256": "43402019fa0e06c6358c6258bee6145eea7701131670569d4b556c707851cbe3",
+      "ko": "그래도 엄청 귀여워서, 옆에 서서 잠시 말없이 작품을 봐. 기분이 좋아. 친밀하기도 하고."
+    },
+    {
+      "line": 165,
+      "event": "date_liam_5",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 167,
+      "event": "date_liam_5",
+      "english_sha256": "0bb305f0c5894f82388d69ba77dd92d8c48c7aa5915af019f4c2ae48b35b7f16",
+      "ko": "너와 리암은 옛날 흑백 영화를 함께 봐."
+    },
+    {
+      "line": 168,
+      "event": "date_liam_5",
+      "english_sha256": "2fe31ea4707b12bb8a7db4424ec65e0eef8b8a02d08f4692dda9848f3466f28b",
+      "ko": "리암은 \"저 배우는 촬영장에서 상상도 못 할 양의 코카인을 했어\", \"이 영화 별로인 것 같아\" 같은 흥미로운 잡학이 가득해."
+    },
+    {
+      "line": 169,
+      "event": "date_liam_5",
+      "english_sha256": "8ce63c40c33775c9b44cbe5bfcb29f777e0aabfed59c45ff1814d534ec8b2475",
+      "ko": "정보 폭탄의 왕을 찬양하라!"
+    },
+    {
+      "line": 174,
+      "event": "date_liam_6",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 176,
+      "event": "date_liam_6",
+      "english_sha256": "e17f8c457dfd214e8917a81a51caf9ac07a12707caa5503904857792a5868671",
+      "ko": "너와 리암은 최신 액션 영화를 봐."
+    },
+    {
+      "line": 177,
+      "event": "date_liam_6",
+      "english_sha256": "0b1a14dd303d3c99982467d2457c9cf63afc80e6ba0ff6fe70b62e7e8379b149",
+      "ko": "영화 내내 리암이 지루해 보여서 조금 걱정돼..."
+    },
+    {
+      "line": 178,
+      "event": "date_liam_6",
+      "english_sha256": "35748f6c95a2510dea5ad6384f1b37bea1b9248973b9c1009663d27ada885e26",
+      "ko": "하지만 엔딩 크레딧이 올라가자 눈이 빛나. 넌 곧 리암이 영화 보는 밤에 가장 좋아하는 걸 알게 돼. 로튼 포테이토에 신랄한 평론을 함께 쓰는 거야."
+    },
+    {
+      "line": 179,
+      "event": "date_liam_6",
+      "english_sha256": "3c2a66000b92301ef30d5b214ab30459d4aef2f83f39ad2529226d1feabb2d1a",
+      "ko": "같이 까면서 가까워지기, 야호!"
+    },
+    {
+      "line": 184,
+      "event": "date_nico_1",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 186,
+      "event": "date_nico_1",
+      "english_sha256": "abb946459a772fec86882380cbd052d6cfa880e6bfb74d8d00958305a9997f07",
+      "ko": "너와 니코는 역사박물관에 가기로 해."
+    },
+    {
+      "line": 187,
+      "event": "date_nico_1",
+      "english_sha256": "c53b46b8c30e55dc3a31244a0b80410a6365b79d958105aabddd60f8fca0bb3d",
+      "ko": "니코는 박물관 다니기를 좋아한대. 연도도 사실도 출구 위치도 잘 못 외우지만."
+    },
+    {
+      "line": 188,
+      "event": "date_nico_1",
+      "english_sha256": "98bafb0a8b195bdac636f6c050df037afd805d1c620785703b7bf04bf54cb036",
+      "ko": "그래도 고대 그리스 연극 가면을 보니 정말 신이 나. 원시 코스프레 같잖아!"
+    },
+    {
+      "line": 189,
+      "event": "date_nico_1",
+      "english_sha256": "23795b9fb06de74c0a0228c049aa5b5468ede78b41e7e4c06c9d40840153fafc",
+      "ko": "혼자 옛 그리스 연극을 재현하려는 모습을 지켜봐. 그리스어는 분명 하나도 모르지만, 조각 같은 몸매는 네 눈에 꽤 고전적이네!"
+    },
+    {
+      "line": 194,
+      "event": "date_nico_2",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 196,
+      "event": "date_nico_2",
+      "english_sha256": "13722204da0f31074b8e1aebebec6d6c67e56e03c2ee99547c5a75da97c80d75",
+      "ko": "너와 니코는 미술관에 가기로 해."
+    },
+    {
+      "line": 197,
+      "event": "date_nico_2",
+      "english_sha256": "d4332456229d4253cfd5538012250d17cb38f3f3b526c4c75211fbed02459ce9",
+      "ko": "니코가 옛 그림들을 엄청 좋아한다는 걸 알고 놀라. 드라마와 열정, 심지어 살인으로 가득하대!"
+    },
+    {
+      "line": 198,
+      "event": "date_nico_2",
+      "english_sha256": "7cc4123615e67003ce19e4303ca8a58180b9d6cfc6710152cc4d672afdfb4d3c",
+      "ko": "생각해 본 적 없었지만, 그림도 애니 같은 게 많네. 과장된 자세와 넘쳐흐르는 감정들 말이야."
+    },
+    {
+      "line": 199,
+      "event": "date_nico_2",
+      "english_sha256": "a90597e3d446b45a9a6d54555bab5a165bab451135c2454cf30df7bb8946144c",
+      "ko": "니코는 최후의 만찬의 13명 전부와 절규 같은 유명한 작품을 따라 하기까지 해. 젠장, 이렇게 다재다능한 줄은 몰랐네!"
+    },
+    {
+      "line": 204,
+      "event": "date_nico_3",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 206,
+      "event": "date_nico_3",
+      "english_sha256": "f21b49a1864b0418492dd3e4db546ae232e2e3b289eda521b6a664259eedb9ab",
+      "ko": "너와 니코는 고급 식당에 가."
+    },
+    {
+      "line": 207,
+      "event": "date_nico_3",
+      "english_sha256": "d221ab73ae00c4e051762592fa2a81bca148ecb8bc5f2eb9ef575d0e00f1c594",
+      "ko": "넌 늘 니코가 어떻게 먹는지 궁금했어. 엄밀히 말하면 입이 둘인데 음식은 어디로 들어갈까?"
+    },
+    {
+      "line": 208,
+      "event": "date_nico_3",
+      "english_sha256": "aa064d969f564f635bfd9a6f27bdaaeeb8fa3828c186a348ab1c476a11330cfe",
+      "ko": "그 질문의 답은 너무 섬뜩해서 묘사할 수 없다는 걸 알게 돼."
+    },
+    {
+      "line": 209,
+      "event": "date_nico_3",
+      "english_sha256": "7e10944c379b31610d94748db692d13c9987633fff0f9db5866b4fdb908b1d54",
+      "ko": "그래도 그 라멘에 차마 말 못 할 짓을 하지 않는 동안에는 즐겁게 대화할 수 있어. 만세!"
+    },
+    {
+      "line": 214,
+      "event": "date_nico_4",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 216,
+      "event": "date_nico_4",
+      "english_sha256": "f21b49a1864b0418492dd3e4db546ae232e2e3b289eda521b6a664259eedb9ab",
+      "ko": "너와 니코는 고급 식당에 가."
+    },
+    {
+      "line": 217,
+      "event": "date_nico_4",
+      "english_sha256": "7600359fbe7bf50566b6dbf7e634edb690b62a816fdb109abac2a4f4daa95e96",
+      "ko": "니코가 나루토 코스프레를 완벽하게 갖춰 입고 와. 저녁 먹고 중급 닌자 시험을 보러 간대."
+    },
+    {
+      "line": 218,
+      "event": "date_nico_4",
+      "english_sha256": "ececb87220f2be781c06044e97ed5d713d672bd0b0e4f4d610e20b61386f65cf",
+      "ko": "주로 호기심 때문에 따라가기로 해. 알고 보니 \"중급 닌자 시험\"은 식당 뒤에서 니코가 소리 지르며 허공에 주먹질하는 거였어."
+    },
+    {
+      "line": 219,
+      "event": "date_nico_4",
+      "english_sha256": "9e2356f16ec0f701f09d58af2ca298818fe8c3f89b3d0109b66570b3dd520e1b",
+      "ko": "넌 관중석에서 경기를 해설하는 설명 담당 캐릭터를 해 주겠다고 해. 넌 그렇게 응원하는 사람이니까!"
+    },
+    {
+      "line": 224,
+      "event": "date_nico_5",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 226,
+      "event": "date_nico_5",
+      "english_sha256": "65989389642e54d1192ddf847fdefe5889e2b7293cc887bb0a19774e4f437e55",
+      "ko": "너와 니코는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 227,
+      "event": "date_nico_5",
+      "english_sha256": "be064f7ce7aebc0ff2cd3e6ecfa9fdf47aeaed02651db3a4907034fdb0715bfc",
+      "ko": "클루를 해. 유럽 사람들의 항의 메일이 쏟아지기 전에 덧붙이면 클루도라고도 하지."
+    },
+    {
+      "line": 228,
+      "event": "date_nico_5",
+      "english_sha256": "6e23ea81425dcee839ede9a21d6a04f6260517c31439a3af36e93324b8763496",
+      "ko": "니코는 시작하기 전에 탐정이라는 \"캐릭터에 몰입\"해야 한다고 우겨. 그 말은 허름한 술집에서 독백하고 시가를 피운다는 뜻인 것 같아."
+    },
+    {
+      "line": 229,
+      "event": "date_nico_5",
+      "english_sha256": "a7f2de0702d995250e8007dc7a6ce9e6788817161ef234f346d01bd0b92b4370",
+      "ko": "결국 너무 취해서 실제로 게임은 못 하지만, 너와 니코는 여전히 아주 즐거워! 탐정은 멋지네!"
+    },
+    {
+      "line": 234,
+      "event": "date_nico_6",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 236,
+      "event": "date_nico_6",
+      "english_sha256": "65989389642e54d1192ddf847fdefe5889e2b7293cc887bb0a19774e4f437e55",
+      "ko": "너와 니코는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 237,
+      "event": "date_nico_6",
+      "english_sha256": "9badd5c8f8f0b78ecdaf93d7f650c8cd0de390ef0b6b86a5443f25c96349655d",
+      "ko": "카드를 속여 점수와 명성을 얻는 정치 테마 게임 쿠를 해."
+    },
+    {
+      "line": 238,
+      "event": "date_nico_6",
+      "english_sha256": "fef9dd44b64396f8cef61682f28c951d2b9e623a48ef0983f12e17bae0478cda",
+      "ko": "니코는 명배우가 되고 싶어 하면서도 거짓말은 형편없어. 넌 쉽게 이겨."
+    },
+    {
+      "line": 239,
+      "event": "date_nico_6",
+      "english_sha256": "f5b352c0a013d5ab96d75e98289dee9f5a39055df6a727935f070f1632696bba",
+      "ko": "그러자 니코는 사실 네 정부와 협력해 자기 정부를 무너뜨리는 스파이 역할을 하고 있었다고 설명해."
+    },
+    {
+      "line": 240,
+      "event": "date_nico_6",
+      "english_sha256": "32610fe565610e6437624dc8c88ec1aade1fb24eecd358c4fcc7c1f077d82eb4",
+      "ko": "뭐, 그렇게라도 패배를 받아들이면 됐지!"
+    },
+    {
+      "line": 245,
+      "event": "date_omen_1",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 247,
+      "event": "date_omen_1",
+      "english_sha256": "cf31394f3714fc03af83f39b4525d5de4438a5de4113f8431fe741a496a1fbad",
+      "ko": "너와 오멘은 고급 식당에 가."
+    },
+    {
+      "line": 248,
+      "event": "date_omen_1",
+      "english_sha256": "331247ec5e41e3672106773a53425fd31dcc5d7edee9a66742a9c4bcb59faffc",
+      "ko": "오멘은 과거 악당으로서 이뤘던 정복을 전부 들려줘. 한때 바로 이 식당 근처에도 요새가 있었대!"
+    },
+    {
+      "line": 249,
+      "event": "date_omen_1",
+      "english_sha256": "6d2620b447f857e3b258fac23d1b8577510be8077474caf784f70605a7809379",
+      "ko": "호기심에 둘이 옛 요새를 보러 가. 지금은 빨래방이네."
+    },
+    {
+      "line": 250,
+      "event": "date_omen_1",
+      "english_sha256": "c88cf34b62afebd48a3333271e150b97920331b59cce20ba2dfb742a6c378d81",
+      "ko": "세탁기에 그렇게 매료되지만 않았다면 오멘이 더 화냈을지도 모르겠어. 미래는 정말 지금이구나!"
+    },
+    {
+      "line": 255,
+      "event": "date_omen_2",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 257,
+      "event": "date_omen_2",
+      "english_sha256": "cf31394f3714fc03af83f39b4525d5de4438a5de4113f8431fe741a496a1fbad",
+      "ko": "너와 오멘은 고급 식당에 가."
+    },
+    {
+      "line": 258,
+      "event": "date_omen_2",
+      "english_sha256": "ace51e21199b750a4e8c555c7bf13312467a6f4ffec8a7d179651ed658f6c75c",
+      "ko": "오멘이 웨이터와 부하의 차이를 이해하는 데 좀 걸려..."
+    },
+    {
+      "line": 259,
+      "event": "date_omen_2",
+      "english_sha256": "306d2609e96a282768953e28d5f881701d422adf8efbe4d545b4cfa5958bff0d",
+      "ko": "다행히 음료를 잘못 가져온 웨이터를 채찍질하려는 건 말릴 수 있었어."
+    },
+    {
+      "line": 260,
+      "event": "date_omen_2",
+      "english_sha256": "e7e0a71b52baf0ca93dccca1dea95f842c5707cb446a3ad2d6cb0481e0335508",
+      "ko": "적어도 언제나 네 편이라는 건 알겠네! 참 사려 깊은 꼬마 소시오패스야!"
+    },
+    {
+      "line": 265,
+      "event": "date_omen_3",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 267,
+      "event": "date_omen_3",
+      "english_sha256": "0a8fb0b2c68da3cb6fd54ae67ce207097c2409f4380ca8b36dd50340650b8b58",
+      "ko": "너와 오멘은 다정하게 붙어 앉아 SF 스페이스 오페라를 봐."
+    },
+    {
+      "line": 268,
+      "event": "date_omen_3",
+      "english_sha256": "86373dcdbb6729799f2334d4e298bb4ab0279ef29d8db35f10e509b36464a09c",
+      "ko": "오멘은 악당의 승리를 응원해. 당연히 마지막에 영웅들이 이기자 몹시 실망하지."
+    },
+    {
+      "line": 269,
+      "event": "date_omen_3",
+      "english_sha256": "8a3595473178a2f5ee8eba5f65480c9a39a40d54c2e7b7319f6abfead5696be1",
+      "ko": "하지만 그걸 계기로 수백 년 전 영웅들에게 패배했던 경험을 뜻밖에도 깊이 이야기하게 돼. 저주도 퍼붓고, 눈물도 조금 흘려."
+    },
+    {
+      "line": 270,
+      "event": "date_omen_3",
+      "english_sha256": "db3f30a2cefd1051dba9b98c11b59409f7792f865dfea8de9df485324658c23c",
+      "ko": "끝날 무렵엔 속을 털어놓은 덕에 기분이 훨씬 좋아져. 집단 상담으로 변하는 데이트 만세!"
+    },
+    {
+      "line": 275,
+      "event": "date_omen_4",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 277,
+      "event": "date_omen_4",
+      "english_sha256": "ca8d3329af3bb428f533f1aaa948a5c8cea410ab547af8b68886f80ee4391bfd",
+      "ko": "너와 오멘은 피가 난무하는 슬래셔 영화를 봐."
+    },
+    {
+      "line": 278,
+      "event": "date_omen_4",
+      "english_sha256": "08d27da6fe0ebe09c9d559ea8877465d910b3a74485aacba17b0bb396d2ae978",
+      "ko": "오멘이 정말 몰입해. 살인범의 수법을 메모하기까지 해."
+    },
+    {
+      "line": 279,
+      "event": "date_omen_4",
+      "english_sha256": "5a3bf1188a05f68ac0c6d259e460aeec3d627961470c3ee225deb64562bd60ee",
+      "ko": "엔딩 크레딧이 올라가자 적은 걸 자랑스럽게 보여 줘. \"불패의 오멘이 영광을 되찾는 길: 칼 45자루를 활용한 계획\""
+    },
+    {
+      "line": 280,
+      "event": "date_omen_4",
+      "english_sha256": "35aa5bc6b52b84c6fe903d5c4a714484b343b487075a72a7e5a52eed40692145",
+      "ko": "꾸준히 자기 계발하는 아름다운 여자는 최고지!"
+    },
+    {
+      "line": 285,
+      "event": "date_omen_5",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 287,
+      "event": "date_omen_5",
+      "english_sha256": "a06921b483396aa1413129b810afb7019d142ad0c64e11f3b17adf1f036df3ce",
+      "ko": "너와 오멘은 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 288,
+      "event": "date_omen_5",
+      "english_sha256": "f16d12607eb0c34c1d7cbe09b6c4582a1f45d398de174052c7fa040386234a07",
+      "ko": "포커의 밤을 보내기로 해. 오멘이 널 완전히 발라 버려."
+    },
+    {
+      "line": 289,
+      "event": "date_omen_5",
+      "english_sha256": "a7ae5d15fd5a90b2d8b1b76bc01d5137cb5f21c1e053a84e067d6c6ef82b82be",
+      "ko": "얼굴이 금속 가면이면 포커페이스는 꽤 쉽더라고."
+    },
+    {
+      "line": 290,
+      "event": "date_omen_5",
+      "english_sha256": "bf2bf203b5b483a2ad3cc64cc5f643847383c83d7fe9f1131e8870c04dcd7b1e",
+      "ko": "그러고 보니... 얼굴이 금속 가면인데 애초에 표정은 어떻게 짓는 거지?"
+    },
+    {
+      "line": 291,
+      "event": "date_omen_5",
+      "english_sha256": "0e4eae4e53b480b98d691ca7fe0dae39f30cda82791d15ed93e3f4867b7130df",
+      "ko": "흠... 답을 모르는 게 나은 질문도 있겠지."
+    },
+    {
+      "line": 296,
+      "event": "date_omen_6",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 298,
+      "event": "date_omen_6",
+      "english_sha256": "a06921b483396aa1413129b810afb7019d142ad0c64e11f3b17adf1f036df3ce",
+      "ko": "너와 오멘은 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 299,
+      "event": "date_omen_6",
+      "english_sha256": "5c00b3d7665c5a7424d38c8cba2446e45018552928b5ebcfd44f7f68c77a6d99",
+      "ko": "카탄의 개척자를 해. 오멘은 정복 요소를 좋아해서 바로 최대 군사력 점수를 노려."
+    },
+    {
+      "line": 300,
+      "event": "date_omen_6",
+      "english_sha256": "251498a101987535b6762e2f597a9b6e5e5ce2b490a3ff8657d0f683ea595772",
+      "ko": "게임이 끝날 때쯤 기사 카드가 98장이야. 어떻게? 덱에 기사 카드가 그렇게 많지도 않은데."
+    },
+    {
+      "line": 301,
+      "event": "date_omen_6",
+      "english_sha256": "792d32dcabacd9a837482939185303cb385a6de0a6483c071b8d11c998a0651f",
+      "ko": "그래도 넌 이겨. 오멘은 정착지나 도시는 하나도 안 지었거든..."
+    },
+    {
+      "line": 302,
+      "event": "date_omen_6",
+      "english_sha256": "ea55342d11b26f57163f26a378455af0b6dadc0cf5f84dbd5a9579b1937a75b4",
+      "ko": "하지만 자기 군대가 네 \"한심한 히피 공동체\"를 점령하니 진정한 승자는 자기라고 우겨. 좋을 대로 생각하라지!"
+    },
+    {
+      "line": 307,
+      "event": "date_zoe_1",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 309,
+      "event": "date_zoe_1",
+      "english_sha256": "3482557ae22ad6b6018cd132e91828a86d6e0c85636f3e8c5e90c2a853995587",
+      "ko": "너와 조이는 고급 식당에 가."
+    },
+    {
+      "line": 310,
+      "event": "date_zoe_1",
+      "english_sha256": "ec454030b45a0aa3d256d58dd879dfbe8f81e57841ac13306c7668c632072320",
+      "ko": "조이가 교자를 거침없이 먹어 치워. 그렇게 많은 입을 동시에 채우는 건 처음 봐."
+    },
+    {
+      "line": 311,
+      "event": "date_zoe_1",
+      "english_sha256": "20e8b3be2f3bb2093769e3edde01ac5416995ecfcc79e3d797f547e441b2428a",
+      "ko": "교자는 조이가 오는 걸 싫어하겠지만... 넌 아니지! ;D"
+    },
+    {
+      "line": 316,
+      "event": "date_zoe_2",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 318,
+      "event": "date_zoe_2",
+      "english_sha256": "3482557ae22ad6b6018cd132e91828a86d6e0c85636f3e8c5e90c2a853995587",
+      "ko": "너와 조이는 고급 식당에 가."
+    },
+    {
+      "line": 319,
+      "event": "date_zoe_2",
+      "english_sha256": "ed18adbc8df24ce2d330424e000c3e39a7c5baed03031b3c287c7a9005b85788",
+      "ko": "로맨틱한 상투적 장면을 따라 밀크셰이크 하나에 빨대 두 개를 꽂기로 해. 마시면서 서로 눈을 바라보는 그 귀여운 걸 할 수 있잖아!"
+    },
+    {
+      "line": 320,
+      "event": "date_zoe_2",
+      "english_sha256": "d28cac74cfce2080aae12c4a24ed8207fcbcaa410ee20c34c5e8eaa2b67cac0b",
+      "ko": "조이는 밀크셰이크를 고맙게 받고... 두 번째 빨대를 써서 다리의 입으로도 마셔. 음."
+    },
+    {
+      "line": 321,
+      "event": "date_zoe_2",
+      "english_sha256": "83a62bb66194b09bdfee2b21a71626ce68065b8a062c519467c1daeb0a9e5fa8",
+      "ko": "하지만 덕분에 뜻밖에 엉덩이가 잘 보여서 불평할 생각은 없어!"
+    },
+    {
+      "line": 326,
+      "event": "date_zoe_3",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 328,
+      "event": "date_zoe_3",
+      "english_sha256": "10e0c88ea35836619fbaec25ced5c8cfe0acdd62cde205a450bacedc2792ba27",
+      "ko": "너와 조이는 90년대 마법소녀 애니를 몰아봐."
+    },
+    {
+      "line": 329,
+      "event": "date_zoe_3",
+      "english_sha256": "4ca66a6210109f6bc5c680176e60cabc13b733f34a49cf14311e72b78bbd0a95",
+      "ko": "조이는 아주 좋아해. 자기도 \"마법소녀\"라서 엄청 공감된대."
+    },
+    {
+      "line": 330,
+      "event": "date_zoe_3",
+      "english_sha256": "91d4ed6b4f0076cacabc3752eba104d316e62785e2888098fb685ac25715739f",
+      "ko": "세계를 구한 적 있냐고 물어. 예전에 몇 번 멸망시키려 했다는데, 눈 가늘게 뜨고 보면 비슷한 거지."
+    },
+    {
+      "line": 331,
+      "event": "date_zoe_3",
+      "english_sha256": "5030dafba827309475de27f1a96d8486e656cc686425a33aa2bc8070fb49ce23",
+      "ko": "조이에 대해 잔뜩 배우며 즐거운 시간을 보내. 마법소녀가 최고야!"
+    },
+    {
+      "line": 336,
+      "event": "date_zoe_4",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 338,
+      "event": "date_zoe_4",
+      "english_sha256": "3969767f410ed54f131fbda721b2626768623ed1adba864d0dc84e962c931c89",
+      "ko": "너와 조이는 최신 액션 영화를 봐."
+    },
+    {
+      "line": 339,
+      "event": "date_zoe_4",
+      "english_sha256": "84f8d10e8b58a0f596dcbbd1b988be4458f35bb8063b21dfa5e07168259ade0c",
+      "ko": "보통은 총과 자동차 추격전, 멋진 한마디를 보겠지만 조이는 주인공과 악당의 관계에 더 관심이 있어."
+    },
+    {
+      "line": 340,
+      "event": "date_zoe_4",
+      "english_sha256": "c2259a6f25272a2fb116c2c8205a487105865d11b856e2b3b7786ec9afa33be3",
+      "ko": "아쉽게도 바라던 원수에서 연인으로 전개는 아니지만, 대수롭지 않게 넘겨. 팬픽이 그래서 있는 거잖아!"
+    },
+    {
+      "line": 341,
+      "event": "date_zoe_4",
+      "english_sha256": "e0ddac2a92d0d24d6a53dd2441ee3d94edfaa15d6fc4bbbacfe680d9d576229b",
+      "ko": "밤늦게까지 라이벌 꽃집과 문신 가게라는 대체 세계관 팬픽의 줄거리를 함께 짜. 조이는 정말 멋지고 창의적이야!"
+    },
+    {
+      "line": 346,
+      "event": "date_zoe_5",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 348,
+      "event": "date_zoe_5",
+      "english_sha256": "b0515db59431b9b53d069f363d04714de18fa46892ac9224fb0ba055a639c80d",
+      "ko": "너와 조이는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 349,
+      "event": "date_zoe_5",
+      "english_sha256": "4a4e0d6b6a20b48af0fdf433f508e74c4a741426374ad987a3cd3571fef4a29a",
+      "ko": "주제 카드를 뽑고 즉흥적으로 함께 이야기를 만드는 게임을 해."
+    },
+    {
+      "line": 350,
+      "event": "date_zoe_5",
+      "english_sha256": "4538fa3e80afdb8906d456a236f676f5f2a2ad371ffa58ec6afab1fa5039cce6",
+      "ko": "너와 조이니까 금세 자연스러운 결론에 도달해. 줄거리를 완전히 놓치지 않으면서 누가 더 많은 좆을 이야기에 넣나 겨루는 거야."
+    },
+    {
+      "line": 351,
+      "event": "date_zoe_5",
+      "english_sha256": "ab2ca7014698ad6fa162dfd322ebc5eebd993404cb9d6ca1a7d5a20f4d6a60a9",
+      "ko": "야설도 게임으로 만들 수 있을 줄 누가 알았겠어? 참 멋진 세상에 살고 있네!"
+    },
+    {
+      "line": 356,
+      "event": "date_zoe_6",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 358,
+      "event": "date_zoe_6",
+      "english_sha256": "b0515db59431b9b53d069f363d04714de18fa46892ac9224fb0ba055a639c80d",
+      "ko": "너와 조이는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 359,
+      "event": "date_zoe_6",
+      "english_sha256": "f09739022e65fcedebe757eb104d309a0906fccdb7cc6c03889e4f5b2e26adea",
+      "ko": "조이가 직접 만든 게임으로 깜짝 놀라게 해. \"리암 프롬\" 테이블탑 RPG판이야!"
+    },
+    {
+      "line": 360,
+      "event": "date_zoe_6",
+      "english_sha256": "61a2aca3083f078fa3316716d11fc78ccef851e63118f7b6864ffcee37cf78a4",
+      "ko": "아직 개발 단계라는 말은 필요 없어. 던전 앤 드래곤 보드에 모든 말을 작은 리암 가면으로 덮어 놨거든."
+    },
+    {
+      "line": 361,
+      "event": "date_zoe_6",
+      "english_sha256": "7de95eb8f4a583f78d7a5c61a8ee5ddd5122fb85dbdddc32745bd5f565c2a82d",
+      "ko": "그래도 넌 야만전사 리암으로 즐겁게 플레이해. 조이의 성직자 리암과는 꽤 뜨거운 일이 벌어지고!"
+    },
+    {
+      "line": 366,
+      "event": "date_none_1",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 368,
+      "event": "date_none_1",
+      "english_sha256": "2137da1756e41d7a692df547ccbee4a0c7910df31ae800850903356518dca58d",
+      "ko": "문화를 즐기고 싶어서 지역 현대 미술관에 가기로 해."
+    },
+    {
+      "line": 369,
+      "event": "date_none_1",
+      "english_sha256": "b6eb5dcd30b35afa8e7e216ade52bb6953c298703d331be5abfa762ae1bf02fb",
+      "ko": "추상화들, 기묘한 모양의 조각들, 울면서 체리 파이를 먹는 남자의 사진들 앞에 서."
+    },
+    {
+      "line": 370,
+      "event": "date_none_1",
+      "english_sha256": "4bf80e48ae2e582e01cef9f988c059414718a88741e904a84a9d5624ec57f3c9",
+      "ko": "분명 네가 이해할 수준이 아니야. 그러다 혼자니까 이해하는 척할 필요도 없다는 걸 떠올려."
+    },
+    {
+      "line": 371,
+      "event": "date_none_1",
+      "english_sha256": "af2641c0df4b79b57d62fa53a0dcf5f4d710e69a4b6fa308ad5d13c914b1d8b7",
+      "ko": "정말 해방된 기분이야. 결국 작품 몇 개는 진심으로 즐기게 돼. 그래, 체리 파이는 맛있어 보여. %VARY_LOWEST_STAT_PLUS_2%를 얻어."
+    },
+    {
+      "line": 376,
+      "event": "date_none_2",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 378,
+      "event": "date_none_2",
+      "english_sha256": "bcababc8d23853b67b84f08d38daeeed6968c65d74f1950b66bf8102beceee3a",
+      "ko": "자신과 시간을 보내고 싶어서 혼자 지역 박물관에 가기로 해."
+    },
+    {
+      "line": 379,
+      "event": "date_none_2",
+      "english_sha256": "52109cebb245a0e6cad4f7238ce03b27adc42b146970fcbf5d4ff98dbb102496",
+      "ko": "행사는 정말 좋지만, 인파와 활동과 죽을 뻔한 경험들 때문에 이 \"휴가\"가 일상보다 더 일처럼 느껴지기 시작해."
+    },
+    {
+      "line": 380,
+      "event": "date_none_2",
+      "english_sha256": "1b9e599b0495679b354aa4f171d10a2b8e964dce0d20025768736bfe2b2f12e3",
+      "ko": "덕분에 이런 박물관의 고요함이 정말 소중하게 느껴져. %VARY_LOWEST_STAT_PLUS_2%를 얻어!"
+    },
+    {
+      "line": 385,
+      "event": "date_miranda_1",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 387,
+      "event": "date_miranda_1",
+      "english_sha256": "d6f0954cbc47160eef39e34c70c66c6ec8b80b41f4f573cc114e519c0e1d060a",
+      "ko": "너와 미란다는 고급 식당에 가."
+    },
+    {
+      "line": 388,
+      "event": "date_miranda_1",
+      "english_sha256": "2106bd5ee115290cee8c08cff875c5d81d2428dc86ad878a37b87d6c11170dbc",
+      "ko": "자리마다 포크가 두 개뿐이라 미란다가 실망해. 작은 선의의 거짓말로 기운을 북돋아 주기로 해."
+    },
+    {
+      "line": 389,
+      "event": "date_miranda_1",
+      "english_sha256": "d17a72f8b074c8ec7fc6ec3c20872ee1e7312f00c60d58c1c285a5f2cd826798",
+      "ko": "넌 촛대가 음식을 먹기 편한 납작한 전처럼 으깨는 특수한 뭉툭한 은식기라고 설명해."
+    },
+    {
+      "line": 390,
+      "event": "date_miranda_1",
+      "english_sha256": "cce46a8b9bffb86b01eb5c737bd08271ad7f63b2ea73e2dc3eeaebafc984f964",
+      "ko": "둘이 스테이크와 샐러드를 납작하게 만들며 즐거워해. 웨이터들은 재미없어하지만, 너희는 확실히 재밌어!"
+    },
+    {
+      "line": 395,
+      "event": "date_miranda_2",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 397,
+      "event": "date_miranda_2",
+      "english_sha256": "d6f0954cbc47160eef39e34c70c66c6ec8b80b41f4f573cc114e519c0e1d060a",
+      "ko": "너와 미란다는 고급 식당에 가."
+    },
+    {
+      "line": 398,
+      "event": "date_miranda_2",
+      "english_sha256": "d3a5591f75dc611d48b8b395366d559f9e10f5baa315efe0ac18562109185c19",
+      "ko": "연어를 주문하자 미란다가 경악해. 넌 체면을 살리려고 \"가난한 자를 먹어라\"라는 멋진 새 유행의 일부라고 해."
+    },
+    {
+      "line": 399,
+      "event": "date_miranda_2",
+      "english_sha256": "cca776e69a6935f932e7430f01c4bda6fce7c99c0a3460b514565dcef0e73900",
+      "ko": "미란다는 납득하고 \"여기서 가장 빈털터리인 바닷가재\"를 시켜. 바닷가재는 전부 똑같이 가난하니까, 엄밀히 말해 원하는 걸 얻었네."
+    },
+    {
+      "line": 400,
+      "event": "date_miranda_2",
+      "english_sha256": "17b59cb4895520183a0589698f382449fc3774a24775ba7bb9ede0afb9a462be",
+      "ko": "건배!"
+    },
+    {
+      "line": 405,
+      "event": "date_sawyer_1",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 407,
+      "event": "date_sawyer_1",
+      "english_sha256": "f484b7de9e49533a5cfe2f30ce86d0a75946e27564f94095dc8dba348243871e",
+      "ko": "너와 소여는 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 408,
+      "event": "date_sawyer_1",
+      "english_sha256": "a5af2466a282908949de1d19e8bd31d919330bafbbd3c3acc01fc06f8dbdc2ff",
+      "ko": "소여는 야외 활동에 꽤 능숙해. 산책길에서 여러 동물의 발자국을 알아봐."
+    },
+    {
+      "line": 409,
+      "event": "date_sawyer_1",
+      "english_sha256": "22d87600f6735fc7188d95fc956d7df10874644e175c37be8badb6867100d19d",
+      "ko": "비둘기와 갈매기, 광견병 너구리와 평범한 너구리, 낭만적으로 걷는 커플과 곧 이혼 법원으로 걸어갈 커플까지 구별해..."
+    },
+    {
+      "line": 410,
+      "event": "date_sawyer_1",
+      "english_sha256": "8f2711d896ccd335a36bac34c4847526ad79486a500d6a12a2f9a100954aa8e3",
+      "ko": "이 즐거운 데이트로 네 발자국이 \"소여의 벌린 품으로 향하는 길\"로 굳어지길 바라!"
+    },
+    {
+      "line": 415,
+      "event": "date_sawyer_2",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 417,
+      "event": "date_sawyer_2",
+      "english_sha256": "f484b7de9e49533a5cfe2f30ce86d0a75946e27564f94095dc8dba348243871e",
+      "ko": "너와 소여는 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 418,
+      "event": "date_sawyer_2",
+      "english_sha256": "75cae07b0ceb976a7f78bccd24fcf1a1765e66942b0d0d3e7ac724dd361fc69e",
+      "ko": "소여는 말들 이야기를 신나게 해. 목장이 좀 그립다고 고백해."
+    },
+    {
+      "line": 419,
+      "event": "date_sawyer_2",
+      "english_sha256": "31a94898de1f19a4029c229ced67fde775ab8a952c4ecd80947e8db244c4fbf5",
+      "ko": "집의 느낌을 주려고 넌 네 발로 엎드려 태워 주겠다고 해. 소여는 감동해!"
+    },
+    {
+      "line": 420,
+      "event": "date_sawyer_2",
+      "english_sha256": "27e2393832e5a239b093941fa240a58f0c4466933027bfac66031e921ab52667",
+      "ko": "소여가 네 위에 올라타고, 넌 공원을 내달려. 이런 건 확실히 처음이 아닌가 봐!"
+    },
+    {
+      "line": 425,
+      "event": "date_freehugs_1",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 427,
+      "event": "date_freehugs_1",
+      "english_sha256": "4233dd0884d31cc8c51fc8eb622c8787da9f023489fc341b9fa81a15fe716fb0",
+      "ko": "너와 브루스는 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 428,
+      "event": "date_freehugs_1",
+      "english_sha256": "77a54f309f979cac679f2cb56479cfe266ff6f037fa117b15ce8ef3da8dfb76c",
+      "ko": "브루스는 운동할 수 있어 좋아해. 오늘이 하체의 날이라더라고!"
+    },
+    {
+      "line": 429,
+      "event": "date_freehugs_1",
+      "english_sha256": "85ac91091a4de40801c9c21f006e53dcde9513bf2fb850a89aeff99335c93ba6",
+      "ko": "그러니까 다리에 감사하며 운동을 시켜 주는 국가 기념일, 하체의 날이라는 뜻이야."
+    },
+    {
+      "line": 430,
+      "event": "date_freehugs_1",
+      "english_sha256": "2f69de7c9675e19f953eb42c3bbc3a551c1f4f0541ec577c07d8ac6e4dc8eae5",
+      "ko": "재미도 챙기고 기념일도 즐기네!"
+    },
+    {
+      "line": 435,
+      "event": "date_freehugs_2",
+      "english_sha256": "993c1619a871ff49bf91f53035916983025645e37178c7b2f613f1cf796a3b38",
+      "ko": "산책하기"
+    },
+    {
+      "line": 437,
+      "event": "date_freehugs_2",
+      "english_sha256": "4233dd0884d31cc8c51fc8eb622c8787da9f023489fc341b9fa81a15fe716fb0",
+      "ko": "너와 브루스는 즐겁게 공원을 산책해."
+    },
+    {
+      "line": 438,
+      "event": "date_freehugs_2",
+      "english_sha256": "8ca3efa8b6958126239061ae943c29104c965f556b2a5a096f611e407f69272d",
+      "ko": "즐겁게 대화하다 길 끝에 도착하자 둘 다 생각해. 왜 여기서 멈춰?"
+    },
+    {
+      "line": 439,
+      "event": "date_freehugs_2",
+      "english_sha256": "4d54603166302868bb14c8f5e7559ac43b4748a5ee34fd868aa14a6cdd24fee6",
+      "ko": "그래서 근처 숲으로 들어가 즉흥적으로 7마일을 걸어."
+    },
+    {
+      "line": 440,
+      "event": "date_freehugs_2",
+      "english_sha256": "c396d4a92c5c787eb22532b255fbe83913bae882476208189c557fa02a45b2a5",
+      "ko": "내일 종아리가 비명을 지르겠지만, 가장 좋아하는 포옹쟁이와 알찬 시간을 보냈으니 그럴 가치가 있었어!"
+    },
+    {
+      "line": 445,
+      "event": "date_gerard_1",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 447,
+      "event": "date_gerard_1",
+      "english_sha256": "2752186a94bb751b2a03dc73c58341b361323c53029f8c10cdda3f02edc8e60e",
+      "ko": "너와 제라드는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 448,
+      "event": "date_gerard_1",
+      "english_sha256": "89c5e6814f197d14bda598a571a4bfc4ad00a3786f808b52f70b63f54f416a59",
+      "ko": "둘이 친선 경쟁 타로를 몇 판 해."
+    },
+    {
+      "line": 449,
+      "event": "date_gerard_1",
+      "english_sha256": "da8dee7e18430a82da1c567e0aa39e2d9414ba7cba804b728f044c7f126cb754",
+      "ko": "제라드는 어째서인지 탑만 계속 뽑아. 평범한 덱에 탑 카드가 이만큼 있진 않을 텐데. 속이는 건가?"
+    },
+    {
+      "line": 450,
+      "event": "date_gerard_1",
+      "english_sha256": "61f39b2f217d4addb90b224926d285ffbd70dce6f7187b5eb3bfed25f1f842e4",
+      "ko": "뭐, 어느 쪽이든 행복해 보이네. 탑을 뽑은 사람 대부분은 그렇지 않으니, 상관없겠지!"
+    },
+    {
+      "line": 455,
+      "event": "date_gerard_2",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 457,
+      "event": "date_gerard_2",
+      "english_sha256": "2752186a94bb751b2a03dc73c58341b361323c53029f8c10cdda3f02edc8e60e",
+      "ko": "너와 제라드는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 458,
+      "event": "date_gerard_2",
+      "english_sha256": "c75688c7f3211eec9659313114b2a0848c4cd4b448c33a1bafe53d6817e16ef3",
+      "ko": "제라드는 불행을 즐기니까, 가장 고통스러운 보드게임을 제안해. 모노폴리."
+    },
+    {
+      "line": 459,
+      "event": "date_gerard_2",
+      "english_sha256": "6d809f2c8d9930962355650522635453918dfe2be03d73b9db3d7b215ed3d8fe",
+      "ko": "알고 보니 제라드도 승부욕이 엄청나네. 두 시간과 수천 모노폴리 달러, 주먹질당한 벽 하나가 지난 뒤 그가 우승해!"
+    },
+    {
+      "line": 460,
+      "event": "date_gerard_2",
+      "english_sha256": "5515a092e7ff1cb3286c94dab2cecc41863b5b9beb4f997b3bf623f1dd9c20d2",
+      "ko": "네 가짜 자본주의 제국을 대가로 치렀어도, 모처럼 그가 웃는 모습을 보니 마음이 따뜻해져."
+    },
+    {
+      "line": 465,
+      "event": "date_kale_1",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 467,
+      "event": "date_kale_1",
+      "english_sha256": "ad4cb3c9a7435001521d860f49f233ec71d4eaa1f3de46d717629590f986c992",
+      "ko": "너와 케일은 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 468,
+      "event": "date_kale_1",
+      "english_sha256": "5077670ee5eab89400ad41772a5878972d8c58cd378100509f5d775b52b37b32",
+      "ko": "둘이 포케만 트레이딩 카드 게임을 친선으로 몇 판 하기로 해."
+    },
+    {
+      "line": 469,
+      "event": "date_kale_1",
+      "english_sha256": "3b6650a4cfab7d0a4f77783d6d32a404bd84dd8fdbfa1640ff3651cbf3b370be",
+      "ko": "케일은 꾸준히 널 박살 내. 몇 판 뒤 덱을 바꾸자고 제안해. 명백히 더 강한 자기 덱으로 네가 할 수 있도록."
+    },
+    {
+      "line": 470,
+      "event": "date_kale_1",
+      "english_sha256": "9b4c74488873e8538e3f613d2b5444005be0f81c85391cae7e6a8fda7f84ee7d",
+      "ko": "참 좋은 녀석이야!"
+    },
+    {
+      "line": 475,
+      "event": "date_kale_2",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 477,
+      "event": "date_kale_2",
+      "english_sha256": "ad4cb3c9a7435001521d860f49f233ec71d4eaa1f3de46d717629590f986c992",
+      "ko": "너와 케일은 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 478,
+      "event": "date_kale_2",
+      "english_sha256": "f50651e83614e0aab15ae8702b9b0d3846a5214905dcda54414d03850138d219",
+      "ko": "둘이 픽셔너리를 하는데, 좀 힘들어."
+    },
+    {
+      "line": 479,
+      "event": "date_kale_2",
+      "english_sha256": "cf9ab93eb47ad438cf1224364ee20d83e08b55bce9f1aa38300db75f966f23b0",
+      "ko": "케일은 \"토끼\", \"햄버거\" 같은 쉬운 주제가 계속 나와. 넌 어째서인지 \"시간이라는 개념\", \"신의 얼굴\" 같은 것만 나와."
+    },
+    {
+      "line": 480,
+      "event": "date_kale_2",
+      "english_sha256": "8c02f3fe2a75c60de65cd87c95656397720203dce4b38a573a36e0388bab8d03",
+      "ko": "적어도 케일은 너무 취해서 네 낙서가 죄다 엄청 심오하다고 생각해. 만족시키기 쉬운 친구 만세!"
+    },
+    {
+      "line": 485,
+      "event": "date_mamimi_1",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 487,
+      "event": "date_mamimi_1",
+      "english_sha256": "c4e8ed7d92fd3b3b6a922d0a4ac73f07ae042eb6548a9ad342f113fcf1c89127",
+      "ko": "너와 마미미는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 488,
+      "event": "date_mamimi_1",
+      "english_sha256": "af9a4abcbabfd1f0b660477efc123012a699505e7c8f25c9db3cdbb29a5a3012",
+      "ko": "마미미가 좋아하는 격투 게임 중 하나의 보드게임판을 하자고 해."
+    },
+    {
+      "line": 489,
+      "event": "date_mamimi_1",
+      "english_sha256": "8776fd97b054fdcfb614c5370bc385b132b07042743d634d80ec606d67d39c03",
+      "ko": "넌 동의하고, 마미미는 네 엉덩이를 반복해서 철저히 박살 내기 시작해."
+    },
+    {
+      "line": 490,
+      "event": "date_mamimi_1",
+      "english_sha256": "9b96caedcd34f635d2206262b2bba5c517ef291c711d5c22c3501a48a7e53538",
+      "ko": "하지만 넌 괜찮아. 널 때려눕힐 수 있는 강하고 자신감 넘치는 여자가 좋거든!"
+    },
+    {
+      "line": 495,
+      "event": "date_mamimi_2",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 497,
+      "event": "date_mamimi_2",
+      "english_sha256": "c4e8ed7d92fd3b3b6a922d0a4ac73f07ae042eb6548a9ad342f113fcf1c89127",
+      "ko": "너와 마미미는 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 498,
+      "event": "date_mamimi_2",
+      "english_sha256": "c072116d884bd5794bba4cb56ead5c1969fcc65a6fc797016d77a182bd754585",
+      "ko": "둘이 카페를 운영하는 아늑한 협동 게임을 해."
+    },
+    {
+      "line": 499,
+      "event": "date_mamimi_2",
+      "english_sha256": "a2e6c8ede56d62e3e2aece98d59e54d02b82f2307a90b9ab5336fb3caf443523",
+      "ko": "아쉽게도 패배해. 손님들이 심장마비를 일으키고 악평을 남겨도, 마미미가 커피에 카페인을 최대한 넣거든."
+    },
+    {
+      "line": 500,
+      "event": "date_mamimi_2",
+      "english_sha256": "fb8b989444a16f2ec5d64c795223e230930d25f8fddaa6b95687344a2032329c",
+      "ko": "뭐 어때. 이 멋진 카페인 마니아가 달라지길 바라진 않잖아!"
+    },
+    {
+      "line": 505,
+      "event": "date_puppet_1",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 507,
+      "event": "date_puppet_1",
+      "english_sha256": "4c48b98b6d1bb6092e473602e2c9bf652e7ed2a88b5733422785c2188d6fad0b",
+      "ko": "너와 와이엇은 즐거운 게임의 밤을 보내."
+    },
+    {
+      "line": 508,
+      "event": "date_puppet_1",
+      "english_sha256": "fdb0dcbbc97ee0302b995c04ca3be2804c9ad1d834639a94474ffabdd6d9b2fc",
+      "ko": "넌 사람이나 장소, 물건이 된 자기 정체를 예·아니요 질문으로 맞히는 \"나는 누구일까?\"를 해."
+    },
+    {
+      "line": 509,
+      "event": "date_puppet_1",
+      "english_sha256": "0b8f3736c4b7108727a544ea059108bb9ef99114c7b8c195aa66d397d2af8499",
+      "ko": "와이엇은 이 게임의 천재야. 수수께끼를 풀고 수많은 방 탈출을 해결한 게 확실히 도움이 됐네."
+    },
+    {
+      "line": 510,
+      "event": "date_puppet_1",
+      "english_sha256": "a9321319a96a295eb7de1b33adc2e7c1192b0e9451afa1560f1bc602e9984cfd",
+      "ko": "반면 넌 \"나는 무슨 색이야?\"가 예·아니요 질문이 아니라는 걸 자꾸 잊어."
+    },
+    {
+      "line": 511,
+      "event": "date_puppet_1",
+      "english_sha256": "db0f92280242eecbf89926fadabfab57739dac4815bdd0c01f3b3695b0e41ac6",
+      "ko": "그래도 와이엇은 네 바보 같은 모습이 매력적인 것 같아. 그래, 누군가는 그래야지!"
+    },
+    {
+      "line": 516,
+      "event": "date_puppet_2",
+      "english_sha256": "cb5880278639075f4a368091e01e169137639ed8a76ead947272424aea2cd7aa",
+      "ko": "보드게임의 밤"
+    },
+    {
+      "line": 518,
+      "event": "date_puppet_2",
+      "english_sha256": "210a9c0eab4887b6ad69fcf32ec1c12405c44cd5b4b44f47f4d11c5f3f854f21",
+      "ko": "너와 와이엇은 즐거운 게임의 밤을 보내. 넌 제일 좋아하는 게임이 뭐냐고 물어."
+    },
+    {
+      "line": 519,
+      "event": "date_puppet_2",
+      "english_sha256": "4ad536b9ce4ac788c93e45fb5ad1e279efe4ba12f261aafe8e98f72091666e2e",
+      "ko": "와이엇은 신나서 설명해. 예전에 중2병 시절, 누나와 함께 한 사람이 다른 사람을 전기톱 쪽으로 천천히 움직이는 컨베이어 벨트에 묶는 게임을 만들었대."
+    },
+    {
+      "line": 520,
+      "event": "date_puppet_2",
+      "english_sha256": "fa94a5bb608aaabc183c91935e1d9d1474c2ba6bcc96724173bd7c92158792e6",
+      "ko": "그 말을 잠시 곱씹은 뒤, 두 번째로 좋아하는 게임이 뭐냐고 물어."
+    },
+    {
+      "line": 521,
+      "event": "date_puppet_2",
+      "english_sha256": "d2d4f5b8deb4cfb5d2b602fa7e4265d3e7d73d1e950a19a64a7cc4b56d217ff1",
+      "ko": "체커래. 그래서 일단 오늘 밤은 체커를 즐기기로 해."
+    },
+    {
+      "line": 522,
+      "event": "date_puppet_2",
+      "english_sha256": "2554b1bc3789641878e22e750a15cedeecf370ccbd7e906257e2c2ba1dbd75da",
+      "ko": "그래도 관계가 발전하면 와이엇에게 묶여 보는 걸 생각해 볼지도 모르지. 두고 보자!"
+    },
+    {
+      "line": 527,
+      "event": "date_scott_1",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 529,
+      "event": "date_scott_1",
+      "english_sha256": "2dc03143b3d8f60a483e9369d00824e2a30d431d6f70f286fba38904498c6b32",
+      "ko": "너와 스콧은 고급 식당에 가."
+    },
+    {
+      "line": 530,
+      "event": "date_scott_1",
+      "english_sha256": "d495b2e9325a5f3ffbdccdeac9fdcf80a684835c214b5d0a94933526584c20c3",
+      "ko": "스콧은 수많은 사촌과 음식을 나눠 먹지 않아도 돼서 아주 기뻐해!"
+    },
+    {
+      "line": 531,
+      "event": "date_scott_1",
+      "english_sha256": "4bce131908326b7669ab76a9c89bbf497773771e1d541d7cac4a371c718deb36",
+      "ko": "하지만 집이 그립다며 둘의 요리를 큰 그릇 하나에 넣고 얼굴을 박아서 먹어도 되냐고 물어."
+    },
+    {
+      "line": 532,
+      "event": "date_scott_1",
+      "english_sha256": "217386a2503413e093ff3c30ad352c5d9fe42ddaed482938b1647dabb402fe28",
+      "ko": "네가 참치 샐러드를, 그가 단호박 수프를 시키기 전에 물었으면 좋았겠지만... 뭐 어때. 스콧을 위해서라면!"
+    },
+    {
+      "line": 537,
+      "event": "date_scott_2",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 539,
+      "event": "date_scott_2",
+      "english_sha256": "35483301c1b5bea703630d88b39cc1a41ebfbc5543e8cd3a59528477f07cd9f9",
+      "ko": "너와 스콧은 식당에 가."
+    },
+    {
+      "line": 540,
+      "event": "date_scott_2",
+      "english_sha256": "e5d8dcd22ef5836a8e96a31cc15985e4f62fea47934d5ea881a760df3fe6ce82",
+      "ko": "둘 다 스파게티를 시켜. 스콧은 이 기회에 자기가 발명한 새 스포츠 \"미트볼\"을 전부 설명해 줘."
+    },
+    {
+      "line": 541,
+      "event": "date_scott_2",
+      "english_sha256": "679f5e392f07ad4180e98347491fff49a0c2808a505b5f99b0cfadeba52f07b4",
+      "ko": "드리블하다가 상대 입에 미트볼을 덩크하는 게 목표야."
+    },
+    {
+      "line": 542,
+      "event": "date_scott_2",
+      "english_sha256": "4fbb0eee9f2aad7551cd56edadcfaf8456f3b14e69d65a4fe39f28eb22ee0998",
+      "ko": "스포츠보다는 질식 사고 같은데, 그래도 같이 해 줘. 그런데 이게 웬일? 네가 이겼어!"
+    },
+    {
+      "line": 547,
+      "event": "date_vera_1",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 549,
+      "event": "date_vera_1",
+      "english_sha256": "3559a54a99fea0f6b0d940c8fb273646580699f7a1df6ba3340dddf3e539fb12",
+      "ko": "너와 베라는 쉬면서 형편없는 리얼리티 쇼를 보기로 해."
+    },
+    {
+      "line": 550,
+      "event": "date_vera_1",
+      "english_sha256": "fce89ee5b4531c60625925ffcfc4289bfefd048a5272322fd65ad12994d030ec",
+      "ko": "팝콘을 먹고 팩을 붙이고, 출연자 절반을 까며 보내는 밤이야."
+    },
+    {
+      "line": 551,
+      "event": "date_vera_1",
+      "english_sha256": "05ce6c74f73544256b11a58ee393639f5ec005eb66b55c16afdcd0753a22c336",
+      "ko": "베라에겐 휴식이 거의 생소한 개념이라, 모처럼 발을 뻗고 쉬는 게 고맙다는 걸 알 수 있어. 참 좋은 시간이네!"
+    },
+    {
+      "line": 556,
+      "event": "date_vera_2",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 558,
+      "event": "date_vera_2",
+      "english_sha256": "abe6b57d7e09a3f978283953bc9e2e0fea0cdf2bd4b31d12998b9462f19b2fc7",
+      "ko": "너와 베라는 호텔 방에서 옛날 마피아 영화를 보기로 해."
+    },
+    {
+      "line": 559,
+      "event": "date_vera_2",
+      "english_sha256": "9ab464c01119f003ce50eebc3a3c80ed12372ad2df5f06b64f170ce5f76e2572",
+      "ko": "노련한 범죄 조직 두목인 베라는 할리우드의 조직범죄 묘사에 할 말이 많아."
+    },
+    {
+      "line": 560,
+      "event": "date_vera_2",
+      "english_sha256": "a2e515d7539a69352e5869204bdfab2b866bc3feb8cbb60b57484fe6199fd4b6",
+      "ko": "\"톰슨 기관단총은 사실 굉장히 비효율적이야\", \"저런 페도라는 죽어도 안 써\" 같은 말들이지."
+    },
+    {
+      "line": 561,
+      "event": "date_vera_2",
+      "english_sha256": "71747f51523c6a78dcbed50e0032c2b158f4abe8fd14929b503c0872e08bc524",
+      "ko": "아, 베라. 정말 개성 넘치는 사람이야!"
+    },
+    {
+      "line": 566,
+      "event": "date_veravalerie",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 568,
+      "event": "date_veravalerie",
+      "english_sha256": "75350d040b69bb328985d6503f45a4c5588774e30c232582aa0e5965d6d70190",
+      "ko": "너와 베라는 어릴 때 좋아하던 영화를 보며 추억을 캐내."
+    },
+    {
+      "line": 569,
+      "event": "date_veravalerie",
+      "english_sha256": "2959ff5969c8260424e93cf969be2d24d2c0673817f19aee2a7ac7b18e783293",
+      "ko": "함께 보낸 어린 시절 이야기를 떠올리며 서로를 웃겨..."
+    },
+    {
+      "line": 570,
+      "event": "date_veravalerie",
+      "english_sha256": "815ce470c4f66d2e540b5cc7a84465f240eee4a8247e7fcaf9acee7f789e6c28",
+      "ko": "돌이켜 보면 너희가 얼마나 지독한 꼬마 악동들인지 누가 알아채고 조치를 취했어야 했을 것 같네."
+    },
+    {
+      "line": 571,
+      "event": "date_veravalerie",
+      "english_sha256": "8fadeb6028198521378251da67c50f789244bb642775bb4a2d4e35366db1b10c",
+      "ko": "뭐 어때! 둘 다 괜찮게 컸잖아... 적어도 둘 다 섹시하게는 컸고!"
+    },
+    {
+      "line": 576,
+      "event": "date_fanzine_1",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 578,
+      "event": "date_fanzine_1",
+      "english_sha256": "96732f9f7b882610198bc6ce92cb55fc323272a21a8110cbb52be1be178e5dbc",
+      "ko": "너와 양양은 미술관에 가기로 해!"
+    },
+    {
+      "line": 579,
+      "event": "date_fanzine_1",
+      "english_sha256": "510b726fa1b98c8f57f561f934d38569f3ad21585ac637288a946cb4869c4693",
+      "ko": "작품에서 곧바로 영감을 받은 양양은 바로 그 자리에서 독립 잡지를 만들기 시작해."
+    },
+    {
+      "line": 580,
+      "event": "date_fanzine_1",
+      "english_sha256": "84e192097c8606b9799857ed915be757941e7bf690e7550c91fe0a37cd224362",
+      "ko": "알고 보니 \"서양 예술 정전 따위 엿 먹어\" 쪽 영감이라, 작품들을 자기 식으로 옮긴 결과는 꽤... 다른 말이 안 떠오르니 \"펑크 록\"이라고 하자."
+    },
+    {
+      "line": 585,
+      "event": "date_fanzine_2",
+      "english_sha256": "6d6d904ab872ca777f7b5e6c7d259bbae01341ab7ae85590fefabfb7f00e81d1",
+      "ko": "박물관 가기"
+    },
+    {
+      "line": 587,
+      "event": "date_fanzine_2",
+      "english_sha256": "96732f9f7b882610198bc6ce92cb55fc323272a21a8110cbb52be1be178e5dbc",
+      "ko": "너와 양양은 미술관에 가기로 해!"
+    },
+    {
+      "line": 588,
+      "event": "date_fanzine_2",
+      "english_sha256": "3c7d4395b5ea0fd57525618e284c1db2a5c77aed93ee57bd24cde37f145d39f6",
+      "ko": "그토록 DIY 정신이 강하고 파격적인 스타일인 사람치고, 놀라울 만큼 미술사를 잘 알아."
+    },
+    {
+      "line": 589,
+      "event": "date_fanzine_2",
+      "english_sha256": "815dd86bfa1f0730c6710749e9f7336163960a7731b6d2e2025cad1d688817c3",
+      "ko": "다빈치가 크림치즈를 얼마나 사랑했는지 재미있게 들려주고, 미켈란젤로는 샤워하면서 오줌 누기를 좋아했다는 것도 배우게 돼."
+    },
+    {
+      "line": 590,
+      "event": "date_fanzine_2",
+      "english_sha256": "eb00ed824f996fbd1dbdd26bb2dd10c7dff45ab8bf51a2ea74f6e0b51d3b1c96",
+      "ko": "...다시 생각하니 지어내는 것 같아. 그래도 자기 손으로 만드는 미술사 강의가 정말 신나는 모양이야!"
+    },
+    {
+      "line": 595,
+      "event": "date_susanne_1",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 597,
+      "event": "date_susanne_1",
+      "english_sha256": "f88ecb7a51e56e127ce8e7a8b8cf4cfcc1b55ff69d6f5b1684897580084b2369",
+      "ko": "너와 수잔은 느긋하게 액션 영화를 보기로 해."
+    },
+    {
+      "line": 598,
+      "event": "date_susanne_1",
+      "english_sha256": "acb1fa66f2aab16d0389a72b68d49f191e2bf4403bfb68e76aed9af87ede69eb",
+      "ko": "모두가 좋아하고 법적으로는 별개인 디젤펑크 시리즈를 틀어. \"성난 앨런: 격분의 고속도로\"."
+    },
+    {
+      "line": 599,
+      "event": "date_susanne_1",
+      "english_sha256": "f45dd56e8e05ca3eb2ed216f115f5e5843eeb7b36176280c0816bbc26a59dbb8",
+      "ko": "네 최애 캐릭터이자 장래 희망은 달리는 자동차 보닛 위에서 전기 기타를 치는 사람이야."
+    },
+    {
+      "line": 600,
+      "event": "date_susanne_1",
+      "english_sha256": "76e823e0f4ba2b51ab6f98ddebe39f22d6872507b30401c186cc899fe73c1bea",
+      "ko": "수잔은 첫 몬스터 트럭을 사면 바로 널 고용하겠다고 약속해. 멸망 후 세상의 최강 커플이 탄생했네!"
+    },
+    {
+      "line": 605,
+      "event": "date_susanne_2",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 607,
+      "event": "date_susanne_2",
+      "english_sha256": "26915c42556d57a31d953b7b8a6bd724a03ba2d4c1489b7c176e49f86ef003cd",
+      "ko": "너와 수잔은 느긋하게 나스카 경주를 보기로 해."
+    },
+    {
+      "line": 608,
+      "event": "date_susanne_2",
+      "english_sha256": "45c81f7a511ae27edba135d94d1088ce759d5725484db8a8dd6e9449bf14926b",
+      "ko": "수잔은 언젠가 직접 선수가 되려고 경쟁 레이싱 실력을 연습해 왔대!"
+    },
+    {
+      "line": 609,
+      "event": "date_susanne_2",
+      "english_sha256": "5d209dc9439129115a206509bc5383ee903d67556de826fd9db56ba1ef881a9c",
+      "ko": "그게 안 되더라도 불법 드래그 레이스에서 돈을 따는 데 실력을 계속 쓰면 되겠지."
+    },
+    {
+      "line": 610,
+      "event": "date_susanne_2",
+      "english_sha256": "fcc408270c7f25f900b60a4b23e8a6c06d9ba85d07d9bb8e2f1e85b2749cecb5",
+      "ko": "대안까지 준비한 커리어 우먼은 사랑스럽지!"
+    },
+    {
+      "line": 615,
+      "event": "date_zorrito_1",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 617,
+      "event": "date_zorrito_1",
+      "english_sha256": "a60907b6c143ebe21f7eab16f3e8197ca172ebb1c8586fc04056753dddc508b1",
+      "ko": "너와 이펑은 고급 식당에 가."
+    },
+    {
+      "line": 618,
+      "event": "date_zorrito_1",
+      "english_sha256": "445094bf3087008a9f82222ebb29cf39e34ee58213736dddfc30faeeab396c43",
+      "ko": "눈을 가리고 먹는 블라인드 다이닝이야. 당연히 이펑은 그 미스터리를 사랑해."
+    },
+    {
+      "line": 619,
+      "event": "date_zorrito_1",
+      "english_sha256": "8cac9159898429548319218805515b299f026ff8542eeed198b43ff643dd0b12",
+      "ko": "너도 식사가 아주 즐거워. 실수로 냅킨을 먹기 전까진. 이펑이 그걸 못 봐서 다행이야!"
+    },
+    {
+      "line": 620,
+      "event": "date_zorrito_1",
+      "english_sha256": "892510b1ce952d6449c233844f9da06227f1cb5a882019ac8c99a384b03c37d2",
+      "ko": "하지만 디저트 숟가락이 목에 걸렸을 땐 소리를 들어 버려. 메뉴에 죽음도 있는 줄 누가 알았겠어?"
+    },
+    {
+      "line": 621,
+      "event": "date_zorrito_1",
+      "english_sha256": "151be38e4ceb3f1e2c72283a5f7e305029d778e901aa4bba796b9af886787e48",
+      "ko": "다행히 이펑이 재빠르게 반응해. 안대를 벗고 하임리히법을 해 줘. 숟가락을 뱉어 내고 나니 좀 섹시하네!"
+    },
+    {
+      "line": 626,
+      "event": "date_zorrito_2",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 628,
+      "event": "date_zorrito_2",
+      "english_sha256": "a60907b6c143ebe21f7eab16f3e8197ca172ebb1c8586fc04056753dddc508b1",
+      "ko": "너와 이펑은 고급 식당에 가."
+    },
+    {
+      "line": 629,
+      "event": "date_zorrito_2",
+      "english_sha256": "ea7a92b77d7600297709ad45c01c4f96e743222d2b1d694ad8af385933071e34",
+      "ko": "메뉴가 너무 많아 막막한데, 이펑이 받아 들고 웨이터에게 말해. \"놀라게 해 주세요!\""
+    },
+    {
+      "line": 630,
+      "event": "date_zorrito_2",
+      "english_sha256": "958232599ca33bf1a417c5f3601359c713e33da7b2c299ae7b279a61d596ba12",
+      "ko": "웨이터는 그러겠다고 하고, 점심시간에 먹으려고 싸 온 맥앤치즈를 내와."
+    },
+    {
+      "line": 631,
+      "event": "date_zorrito_2",
+      "english_sha256": "dffe9221417a856e9cce93ed5146745d309c07d6cf7fda2214176a8328d1681f",
+      "ko": "그의 맥앤치즈 솜씨가 완벽해서 다행이야. 너와 이펑은 수수께끼 마카로니를 신나게 먹어."
+    },
+    {
+      "line": 632,
+      "event": "date_zorrito_2",
+      "english_sha256": "d2351375118120eb2af51110d8d246abcd5016d8392823fa2b0236ef85c8e91e",
+      "ko": "스파게티가 아니라 아쉽네. \"레이디와 트램프\" 장면을 따라 하고 싶었는데. 그래도 미스터리는 이 식당과 이펑의 매력 중 하나였지!"
+    },
+    {
+      "line": 637,
+      "event": "date_faith_1",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 639,
+      "event": "date_faith_1",
+      "english_sha256": "16c8ec73bf56e35edcf81bb8e5d5a949f6b85b42023fef39cce27612d37ba453",
+      "ko": "너와 페이스는 고급 식당에 가."
+    },
+    {
+      "line": 640,
+      "event": "date_faith_1",
+      "english_sha256": "5ca2c0bce84dce5547d526b0b1de9b6b4f3249dc114b880f9969f1d4a9cf3598",
+      "ko": "페이스는 비건 메뉴를 꼼꼼하게 물어봐. 만드는 과정에 동물 학대가 없었는지 확인하려고 재료 하나하나를 웨이터에게 캐물어."
+    },
+    {
+      "line": 641,
+      "event": "date_faith_1",
+      "english_sha256": "239c3cc86811aa79ded67eac04386845a379c1740bafc4291ca60f32d43c4375",
+      "ko": "넌 햄버거를 먹기로 마음먹었는데, 이제 좀 망설여져... 그래서 눈에 띄는 첫 두부 요리를 시켜."
+    },
+    {
+      "line": 642,
+      "event": "date_faith_1",
+      "english_sha256": "b5e1c0bcfe0f7ccfbd08c5e6ab42d4475a7815e0c817efc7922352aee093f215",
+      "ko": "사실 꽤 맛있어! 페이스가 네게 좋은 영향을 주네. 네 친구들에겐 드문 장점이지!"
+    },
+    {
+      "line": 647,
+      "event": "date_faith_2",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 649,
+      "event": "date_faith_2",
+      "english_sha256": "16c8ec73bf56e35edcf81bb8e5d5a949f6b85b42023fef39cce27612d37ba453",
+      "ko": "너와 페이스는 고급 식당에 가."
+    },
+    {
+      "line": 650,
+      "event": "date_faith_2",
+      "english_sha256": "84b365ae08af4b2c4024b531dfa2c59ee731b1bd6e75bdcd80cfdf6a0e559a90",
+      "ko": "최근 코븐과 함께한 모험을 물어보지만, 일 얘기를 하고 싶은 기분은 아닌가 봐."
+    },
+    {
+      "line": 651,
+      "event": "date_faith_2",
+      "english_sha256": "782313d6551177b4363e68f74f2488f796f3167e0d50277d5a7ddb6d5eee80e2",
+      "ko": "그래서 방향을 바꿔 고양이들을 물어. 눈이 반짝여. 그걸로 두 시간 동안 이야기해."
+    },
+    {
+      "line": 652,
+      "event": "date_faith_2",
+      "english_sha256": "d0738128b78b346686c85316c157f86e0593595ae9f995f373947e2cef450b46",
+      "ko": "아, 페이스 페르난데스. 모두가 사랑하는 고양이 광인!"
+    },
+    {
+      "line": 657,
+      "event": "date_tengu_1",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 659,
+      "event": "date_tengu_1",
+      "english_sha256": "4f103c7200b15315c86521ae3ab92cf4c741a9df8329f4a54a4b53fc3ee66dd9",
+      "ko": "너와 나나세는 시내의 새 고급 식당에서 저녁을 먹기로 해."
+    },
+    {
+      "line": 660,
+      "event": "date_tengu_1",
+      "english_sha256": "6a5844c40cb733445de182638b75971a4e44159b15e925ed2ef27667d437777d",
+      "ko": "먹는 동안 최신 SF 소설을 위해 조사 중인 내용을 전부 들려줘."
+    },
+    {
+      "line": 661,
+      "event": "date_tengu_1",
+      "english_sha256": "4256d2a2d96c37695794d4b5bd102ffeca660f7633d827ea5de65db634524846",
+      "ko": "아름다운 여자가 로켓 과학 정보를 쏟아내는 것보다 좋은 건 없지... 적어도 지금은 말이야."
+    },
+    {
+      "line": 662,
+      "event": "date_tengu_1",
+      "english_sha256": "9f855d8a83399684a920c0a41541ac6b5724aecb7b6c6884fa31b398dae3a3de",
+      "ko": "난 조용히 해야겠네. 나나세가 중량비가 부스터 추력에 끼치는 영향을 설명하고 있어. 집중하자!"
+    },
+    {
+      "line": 667,
+      "event": "date_tengu_2",
+      "english_sha256": "9f1cee248210467497c73ff2d46055fa4870b8dd398ce7aeeb1ccee1bfa2ef41",
+      "ko": "저녁 먹으러 가기"
+    },
+    {
+      "line": 669,
+      "event": "date_tengu_2",
+      "english_sha256": "16ed1d297fcdc5be1535d02983dfe2ef9c3a0d294128a497d0610f85d3de7452",
+      "ko": "너와 나나세는 시내의 새 비스트로에서 저녁을 먹기로 해."
+    },
+    {
+      "line": 670,
+      "event": "date_tengu_2",
+      "english_sha256": "a071c91af4e3e3f6cf1ac32b01ac42d1ec0d7b7225b572e7edd945837b9afef7",
+      "ko": "나나세는 직원 전부를 아는 것 같아. 웨이터마다 근황과 가족을 물어봐... 생일까지 전부 알고 있어."
+    },
+    {
+      "line": 671,
+      "event": "date_tengu_2",
+      "english_sha256": "6f32cf214aba1f97eacf7de2ddaf4c37c2c1fe2884c1f3fb3a57898b276b51a9",
+      "ko": "소외된 기분이 들려는 찰나, 네 생일이라고 선언해. 웨이터들이 케이크를 가져와!"
+    },
+    {
+      "line": 672,
+      "event": "date_tengu_2",
+      "english_sha256": "7e0c9b7bb188a733b22635baf51ccfd8509bf209acaa25dfa264c472e1779b20",
+      "ko": "나중에 생일이 아니라고 슬쩍 말해. \"그래, 당연하지.\" 나나세가 말해. \"그냥 공짜 케이크 먹고 싶었어.\""
+    },
+    {
+      "line": 673,
+      "event": "date_tengu_2",
+      "english_sha256": "3072702f8e1af5e5492bead79df1622321f58b9bfe550a13f9d8fcd60983a648",
+      "ko": "이 아름답고 기회에 강한 여자에게 축복을... 케이크에도 축복을!"
+    },
+    {
+      "line": 678,
+      "event": "date_cosplayfixer_1",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 680,
+      "event": "date_cosplayfixer_1",
+      "english_sha256": "6fba4316c2a1a8b6e50fd3500a61f768286231e1139022f933044b611c0910e7",
+      "ko": "너와 사샤는 호텔에서 다정하게 붙어 옛 영화를 봐."
+    },
+    {
+      "line": 681,
+      "event": "date_cosplayfixer_1",
+      "english_sha256": "a9d7f376eab94fb57193a8b22b37b366708f160de4f353f3aa36efb1f2a38ae2",
+      "ko": "사샤는 옛 의상 디자인에 덕후력을 발휘해. 치마에 이렇게 다양한 이름이 있는 줄은 몰랐어."
+    },
+    {
+      "line": 682,
+      "event": "date_cosplayfixer_1",
+      "english_sha256": "0e336db08e8dd02121b56a8838551f48e6fd625efa25cfe9bef7a054c697385d",
+      "ko": "트럼펫, 버블, 머메이드, 페플럼, A라인, 플리츠, 나이프 플리츠..."
+    },
+    {
+      "line": 683,
+      "event": "date_cosplayfixer_1",
+      "english_sha256": "b146e6c1dcd9d0dfcca35ecca14a1839bde57bb230c78608bbf69f180cdfdbfe",
+      "ko": "머리가 빙빙 돌아. 하지만 방금 사샤가 널 팔로 감싸서 그럴지도... 사실은 3개로! 아, 설렌다!"
+    },
+    {
+      "line": 688,
+      "event": "date_cosplayfixer_2",
+      "english_sha256": "e6420cd7a1be228b3a99a13fd3948f0f3ccc312c495d02e7b61a42eadef906e7",
+      "ko": "영화 보기"
+    },
+    {
+      "line": 690,
+      "event": "date_cosplayfixer_2",
+      "english_sha256": "6fba4316c2a1a8b6e50fd3500a61f768286231e1139022f933044b611c0910e7",
+      "ko": "너와 사샤는 호텔에서 다정하게 붙어 옛 영화를 봐."
+    },
+    {
+      "line": 691,
+      "event": "date_cosplayfixer_2",
+      "english_sha256": "917126a8cc8be040a901cd85dc517affa9cef683cd172f30cdb7bb9bc026d298",
+      "ko": "사샤가 꿈 하나를 이야기해. 언젠가 할리우드의 전문 의상 디자이너가 되고 싶대."
+    },
+    {
+      "line": 692,
+      "event": "date_cosplayfixer_2",
+      "english_sha256": "06e8bdac59da9f7d99f3f19958524ca1e5aba5a6357532fe317e4d4cf7224144",
+      "ko": "코스프레도 즐겁지만, 그 별난 의상들을 직접 만들어 내는 사람이 된다면 꿈만 같겠지!"
+    },
+    {
+      "line": 693,
+      "event": "date_cosplayfixer_2",
+      "english_sha256": "0e1f72ddee30e37e45c6d972830750a141c8674c23684900a1ce58c4b563cde7",
+      "ko": "넌 원할 때 언제든 사샤의 의상 모델을 해 줄 수 있다고 말해. 정말 부탁할지도 모르겠대."
+    },
+    {
+      "line": 694,
+      "event": "date_cosplayfixer_2",
+      "english_sha256": "4e4e7aafc6b00b7840fb1e95b164f182da52784d4af2fde15d2a00504847589f",
+      "ko": "정신 똑바로 차려, %CURRENTPLAYERNAME%. 네 미래에 섹시한 변신 장면 모음이 기다릴지도 몰라!"
+    },
+    {
+      "line": 699,
+      "event": "date_april_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 704,
+      "event": "date_april_datesfinished_2",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 709,
+      "event": "date_doug_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 715,
+      "event": "date_doug_datesfinished_2",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 720,
+      "event": "date_liam_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 725,
+      "event": "date_liam_datesfinished_2",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 730,
+      "event": "date_nico_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 735,
+      "event": "date_nico_datesfinished_2",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 740,
+      "event": "date_omen_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 745,
+      "event": "date_omen_datesfinished_2",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 750,
+      "event": "date_zoe_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 755,
+      "event": "date_zoe_datesfinished_2",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 760,
+      "event": "date_freehugs_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 765,
+      "event": "date_gerard_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 770,
+      "event": "date_kale_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 775,
+      "event": "date_mamimi_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 780,
+      "event": "date_miranda_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 785,
+      "event": "date_puppet_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 790,
+      "event": "date_sawyer_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 795,
+      "event": "date_vera_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 800,
+      "event": "date_scott_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 805,
+      "event": "date_fanzine_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 810,
+      "event": "date_susanne_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 815,
+      "event": "date_zorrito_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 820,
+      "event": "date_faith_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 825,
+      "event": "date_tengu_datesfinished_1",
+      "english_sha256": "a51153658e4845583b3a2e081344a1ca8d53bedab38bff46844b0f6aa5530309",
+      "ko": "더 얘기할 필요 없어. 우린 이미 사랑에 빠진 두 사람이잖아!"
+    },
+    {
+      "line": 830,
+      "event": "date_none_datesfinished_1",
+      "english_sha256": "89c05eaf9246ba0d3b49be4bf3ae978197977576b2e449fbb4649de61eab6f97",
+      "ko": "더 쉴 필요 없어. 넌 행사장을 즐길 준비가 됐어!"
+    },
+    {
+      "line": 835,
+      "event": "date_none_datesfinished_2",
+      "english_sha256": "89c05eaf9246ba0d3b49be4bf3ae978197977576b2e449fbb4649de61eab6f97",
+      "ko": "더 쉴 필요 없어. 넌 행사장을 즐길 준비가 됐어!"
+    }
+  ]
+}
