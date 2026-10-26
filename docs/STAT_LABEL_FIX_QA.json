@@ -1,5 +1,5 @@
 {
-  "bridge": "0.1.5",
+  "bridge": "0.1.6",
   "issue": "StatWidget.AwakeMe uses StatType.ToString directly instead of metatexts.",
   "fix": "Translate display string before UILabel.set_text and auxiliary-label cloning in both AwakeMe overloads.",
   "labels": {
@@ -15,13 +15,19 @@
     "build_errors": 0,
     "game_IL_layout_overloads": 2,
     "standalone_probe": "pass six stat names, preserve non-stat values, insertion/branch/stack, fail closed on missing setter",
-    "python_tests_passed": 12,
+    "python_tests_passed": 15,
     "dialogue_game_IL_layout": "pass: stat change construction precedes unique name-format slot",
-    "dialogue_standalone_probe": "pass: generated IL executed for all six names, positive/negative amounts, colors/reset tags, custom/fake stat names preserved"
+    "dialogue_standalone_probe": "pass: generated IL executed for all six names, positive/negative amounts, colors/reset tags, custom/fake stat names preserved",
+    "pause_game_IL_layout": "pass one constrained stat-name setter, actual enum TitleCase fields verified",
+    "pause_standalone_probe": "pass generated pause assignment IL executed, unrelated labels unchanged",
+    "case_probe": "pass all six names in upper/title/lower case plus known/unknown STA_ keys"
   },
-  "dll_sha256": "f2571a8072797d85a513cba17e59ac2fb95a6e264784965176e7fc3b5408ad95",
+  "dll_sha256": "51d3cce2d3d80bce8d7de7c72a9c4201934c4bdeb2a01f1f75bdbb67f6980e5a",
   "game_execution_test": "pending user",
   "game_modified": false,
   "dialogue_issue": "ProcessStatPatterns formats its parsed English stat name into a colored display string.",
-  "dialogue_fix": "Translate only object-array slot 4 immediately before display String.Format, after StatChange construction."
+  "dialogue_fix": "Translate only object-array slot 4 immediately before display String.Format, after StatChange construction.",
+  "pause_issue": "PauseMenuCharSheet.SetPlayerData separately displays TitleCase StatType enum names; earlier exact-uppercase mapping missed these.",
+  "pause_fix": "Translate only the constrained StatType.ToString value immediately before its label setter; support upper/title/lower cases.",
+  "core_stat_text_fix": "Translate exact default stat text or known STA_ keys; preserve custom labels and unknown keys."
 }

@@ -1,0 +1,2638 @@
+{
+  "style": "Casual Korean narration; quoted NPC speech retains its own voice.",
+  "changed_fields": 376,
+  "entries": [
+    {
+      "asset": "english_events_standard",
+      "line": 323,
+      "before_sha256": "88abaacd56f22e21c38f62e0179b41cc1c8420bc45035c3f9614d795186851fd",
+      "after_sha256": "17603821b0bd774ef91377079987ed6bfb981e1d521713625b84cc8c7187aa80",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 2557,
+      "before_sha256": "ed74f9e301fc65129e228100454fa6322fd78582c4ec88786547433ce9166c4c",
+      "after_sha256": "64e31046a623d16a8a67dceeb1befd8cf6f87dcfebd3b8fbb6bb2632304f921a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 6395,
+      "before_sha256": "f2e3f8613b08a19bc0e306f4c619736761fb264dae4abc176853f600813949dc",
+      "after_sha256": "bdaa8879e2eb4ca465353548de8f86eee8b2bcb8955a5b818a7930bf942ab551",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7670,
+      "before_sha256": "b3257d4649abf767d3c853020c4d2f3f1328cc99b807886e964de3fd121b1ea9",
+      "after_sha256": "874fdf2b04e24bd41ba00914dcdc4067b0263a6ef19b4e0520b4a4e39599f9ad",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7674,
+      "before_sha256": "3e89ccc9d13287479e31ecb8539cc4ada12b38a74ea06d5783b4b6f6e7fc7613",
+      "after_sha256": "7b718ca304216bb0518da61f034c9b35eca5c797a55954e75525a6e0a342d22d",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7680,
+      "before_sha256": "e7a1995d1455d709d42d728dab6b4f5e93c1282bc3611b9f6a2c752f5f912fc4",
+      "after_sha256": "adfc9001c4143c0e9521b3f7fd764997c0295395349814ebb6dbc27ca044a4cd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7694,
+      "before_sha256": "9f6c1e87086e884c03bb2b5c0e210044b81b7efab61f4e9f106657d1c98fa615",
+      "after_sha256": "eaa745d64e98b3ac26b1d9dba907469c94e8c2abb302151761242c2e7c316183",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7695,
+      "before_sha256": "1924183413ee9acbd18af6bd1d919d33de2cd009ca98c6a9cf4669b11198ee16",
+      "after_sha256": "8e6357f4a5827950bd33e0a5f43331e59b00497109d528f887224274b6423c06",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7701,
+      "before_sha256": "ed0e3fb98f243d51b4499e388875fb4054f35b41547f08918352e3b36a54002c",
+      "after_sha256": "2a9d0cdd716fc709d654f2c8f1994e10a3ed58a8dd3f72eb7313372c95cb23dd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7718,
+      "before_sha256": "18414f433523db7d01017c25e6a09ec0083fc31c0abcde7c8879c02fd9b3dfc2",
+      "after_sha256": "8494948c88d246b408d53edcd946c0d9a41100595155a9c99d682e6702792ae2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7729,
+      "before_sha256": "d9d06ebdc60f318177a1711bca9997e769b22ddaf33248adf786bc3bdc0d3d82",
+      "after_sha256": "5b7e3a3971c56ccfd8a89d9b8c6473ea4339c0da9f13b3abcc63c5aac1fc660e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7735,
+      "before_sha256": "c903046a9522822c5949557e220a12276ade2a8ac1670304dd8d386ba42c1a37",
+      "after_sha256": "29a051986ef48ac5eca74491366c887961bbf723438bcf7116f985e5b3660acd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7742,
+      "before_sha256": "b0a019e73569b74374d8d395da32d1fe039095600d9a196b682ec536201af25c",
+      "after_sha256": "2a096d72ec4376076faa3e813887985e34fbbcdeb63854983620a11198e437fd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7745,
+      "before_sha256": "23d2c0fa7c54f8cb422e5267d33452d3baa94831b6223010c8e3bf8d3769d542",
+      "after_sha256": "453c7da32a56622fbc0bf6f1392bd276f760e3437f440fa4abb7a50991fe2336",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7748,
+      "before_sha256": "118e82a9fdfc50c9e3627b41dd9ad3d396a0d64205db1c6db053777190bdd757",
+      "after_sha256": "1145aedc207a877031344cdfa244074c0b03c41981c56f990e9dd06daf798166",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7777,
+      "before_sha256": "c7084ad87fd619c7b56276b35261490669dfd85f66d023b15e0bfce9ae804f7d",
+      "after_sha256": "2ff662b41bb70e30aba2644cd0b5529ee457f7523f82ec031cf9dc0f2646738a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7780,
+      "before_sha256": "6d0736935c34a9c83bad97279a418902668e184a790ea72df9348e50a07b64d1",
+      "after_sha256": "23d813abec09346506ce748ec54b698c29fe18788d841be6664d1af57603c526",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7787,
+      "before_sha256": "94f89fc41a809e622f4978ba4964b01a467b37f2e85cb48bb9490bc2882dfa6b",
+      "after_sha256": "1672ac1f70e72ffa5bb4fd516970ed4b91499f16b6df1b408c9d89dd00be4389",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7798,
+      "before_sha256": "4f7814802cecd00b85505558fdb9afe949daf9a93be1964e3b35fe0bec16d427",
+      "after_sha256": "68060338656c30914978403f245fc664b5e5135aa08f4c576190c68b47adcf5a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7815,
+      "before_sha256": "3aaf76c9914790a541cd540f0bfa16295b725eae44ffb55914d74b2931cdaf52",
+      "after_sha256": "14b930596aa8c64a3e9b17f9bdcc9409f31100ba95d1d0f3ac971d18bf16b8cd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7833,
+      "before_sha256": "0de14da5997bfd03ed0550abb30d8d2c8a3a12e10abb24d305be7fa4de74ffd2",
+      "after_sha256": "b2af78a64e4fe743e87344f7f6bd7fda651a89f13d8d7dda509aa71f28f68815",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7837,
+      "before_sha256": "18f18b18d3a1a5fa4f6e4dd892e7ce8d2de4077e38d7b151e22dd92cc81c23a3",
+      "after_sha256": "628f05b5b51c840b1d8f1af8cbfc1a245bf1026fbe5e7a394ccd2d8aa8de3ebf",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7841,
+      "before_sha256": "842d95d0efffd20eedb11ccd23afb2962dcdc769a3d42603744c6243fd96d36b",
+      "after_sha256": "ba2532da5a054655b804fcda5a36189fa44ff5ef181478e03dbf5234ead698b1",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7854,
+      "before_sha256": "00541ba4bd70fde45386d401acedca244b4de4ebdc703a61479272eff3450d11",
+      "after_sha256": "007e90d3c7e31e3ed7209286d9a7a9f1c9144888fea3d079566d27ee8ade4b10",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7857,
+      "before_sha256": "42f19d2b0c0c5f8b4a4b51674b916a2efa00baab3f9f7d9519db069815b253fc",
+      "after_sha256": "4cd39ec06e3303cd20efe7c11838fea8d2973acc67b71cb1a5f65c111bbcb498",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7867,
+      "before_sha256": "f10503c17d67ecfbd86b29f9b2f20cce962ae2c2353133865537f87cc9c63265",
+      "after_sha256": "54628d8345d21f17cbac96f323d5ce14c573a290dab77675c3c2ecbb30ba6d50",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7883,
+      "before_sha256": "0d9f1f44bdcc44e0b9b6d9224d99c0780ca5ea7497eb7bc4caf2b2a611c42923",
+      "after_sha256": "f53680b59f7d34d9c1c80f2f40370a57a8df17ca2e3c10e835ca14bed0513332",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7891,
+      "before_sha256": "658721ecc1530f077e05258d3c0dfe8dd59ac48df6ed70aeaa8543206e449744",
+      "after_sha256": "01c824efcc2cf670206727b3f4f4330ef23021577f907296678ee8f8cf3d458f",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7901,
+      "before_sha256": "1ff874de1fd405607709dbcfda8899e27ed061d9a940c9368562857a30a77ce2",
+      "after_sha256": "7d84c702b28894ffa8a8abf20579f01c4fd37fc18a17fcfc00c71f2fca0dee0a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7906,
+      "before_sha256": "668addc7dc9705f1dc68340a8163cbb4b98ea07eb88ff417ae2a5611ada0e374",
+      "after_sha256": "eccebfb90efba3f39e1a3f453e30913b0ddf5d22fb4ffe03aae8131414a535d6",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7912,
+      "before_sha256": "499d0cb6890e0071a807d9db71b52e12c44f9715e4f670a6c2c003e9b4d3f2d1",
+      "after_sha256": "847e74339e8a543f9ba93244d3dbce179880cf9c888800e40af49bfd836872ca",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7932,
+      "before_sha256": "b31dbe85bd813582e86e031ec59c23ce329992a83dd8d4c745a5bb0928386816",
+      "after_sha256": "584baa4a7c04c44227799e6bdc48d67110ad1752bbc467b97fbbabb0bdd27d94",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7933,
+      "before_sha256": "45c67f0d0f280c75f7716d8a5e33febb3ee6ea1b31d579392ff613d3963f1b7f",
+      "after_sha256": "ff5d9b899fed15b2f8180204f194672d40c4e704ea4aedc2c4e6164c35332af9",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7942,
+      "before_sha256": "33f5fa2d0b46820fbabb3efb10046b0ac7dac66d9d6369ef8280208b3b12d32d",
+      "after_sha256": "6b1e7a5629a1b9ec4ceca0958289cf9dec913cf9d4231badce8b311adda42fbf",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7967,
+      "before_sha256": "a8a6131e52ac00bac11f2790b83a78aa993cae1cf1dc8237bef1d00b17bb74b2",
+      "after_sha256": "260f1380def712c84b64dac077363e488b7332f83c6ec866f106ed919f0fcabb",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7975,
+      "before_sha256": "3b2348f77d1df10f972109f458bbf0b6ccb7650da07c6296fe9b8d0e56636cdb",
+      "after_sha256": "534e358a5e071dcfde4f1d71e4ee20effdde9972dc7e366d1b3b8bbf45de7d9f",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7981,
+      "before_sha256": "6ec2b3d00a00deb61ac8492de0438d46588117d213ce1d92fc498a47c29b0cb2",
+      "after_sha256": "5342f0cc0736a728eb8b7d404139217e247fcda293076df00b5f85be45db7e4e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7989,
+      "before_sha256": "5c56de949aafbf07a0942df95b44d2b96ff8ddee63b80cfff99259a1f6c32f8d",
+      "after_sha256": "a74e82636f81dcc07fda4318de28e73d259b8c9f6d19a96167c1b6c8f91876f2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7994,
+      "before_sha256": "88bc168d0c7b62df1f5f6a946d2118a26ede7f3632264f6ee8b6802149efae4d",
+      "after_sha256": "1762ab3ff6d18540447b4b0b141e272a32f94381e5f2e43b441b3bacbf8135f7",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7997,
+      "before_sha256": "9ea3f4d1465135e396dc64725b10791c94e5a71890a3f5c58d5091cbe7952d22",
+      "after_sha256": "6788c0c0aa761603c6b563154967cdfcecafb5305c79c38c01993b7cfac267ac",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 7999,
+      "before_sha256": "451ca20dc81f45284aaada090e596530870422682cbf918efa1608b446d557fe",
+      "after_sha256": "9550b52c1004ae883895163b091bb4d55f93e9911cb5fb566d98b7f64d41930c",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8011,
+      "before_sha256": "ec4dc56e5f6f0cc0c1c2d41acdce24b743aa76aed423d243a633d469696b7c5f",
+      "after_sha256": "7af19a29b08b87b534c0a30a59ec9724f2bb97ee0d70b463b43ed9444e983ce6",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8014,
+      "before_sha256": "c64b20cb76b2313ca70622639610b3b30f3c23768feb7dab657f7d5bf61a47f6",
+      "after_sha256": "1a434cc1a14c7b96d92f41606ffa0ccb230386ade92448b97d3cd5484b2f8b31",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8024,
+      "before_sha256": "e33442513c47bca48cf046dfb77d2224cae760b680009d1dad40f8a8c3520615",
+      "after_sha256": "810941996e7cfaaefb80b77bbf1b170b4866f73960af5d9c71bd587de32b2bca",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8032,
+      "before_sha256": "cb28573c078d6a3cd99fa7824d0f4e5537471abf2e4e3864428dbd26c5d6d076",
+      "after_sha256": "dca572b548b8cad57f8164c489bb1feb1b4a448fe2571c71e369b4338c67dbc1",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8042,
+      "before_sha256": "e23e538a38c928271846a19f365d145ef642ab3402ace2788a6a2df0da450367",
+      "after_sha256": "1b1818c4bf481c73693367972cc0a765ef267ab78fdf801587287d294a149137",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8046,
+      "before_sha256": "f211440bb82e14da67ee0ded72e71296e89c19a3e2f7357103d3e1a2e5d518d2",
+      "after_sha256": "a4b4bb4b225ec1e4302662809fb6e855aa4fa95bbd2c62ff648d99839e912739",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8052,
+      "before_sha256": "532647ab89b557fbe68b89275cec8ae7692c19540029a4d7d4ecc582e99257a9",
+      "after_sha256": "267d48578af8290773bddbcc9aaba4d779dcfc28e4d902949b4697e966fc2a47",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8064,
+      "before_sha256": "ef40229012a80d06c7b861a4ad3ab4e9ed9043483810be9e4895dcaa9de9e613",
+      "after_sha256": "d747050a01345571f420a182132d2dbb6b627d8829158559cf4321b67692d447",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8079,
+      "before_sha256": "eab3fa35e23cf855dd4699a711d47ab130fc7241c135bd882f0fcaf934efdd36",
+      "after_sha256": "799a58a5c433132f122b53ea77dba8e2d59aeb46cba84695e49778bd71d7284a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8083,
+      "before_sha256": "454d5f87385b0fef8da4676425fa7acf023e8991159c2bde2dab4228b27da88d",
+      "after_sha256": "242e88906e72cad863900eaa396e60a2dc16326b3ecf417a2752fb54d923af34",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8092,
+      "before_sha256": "26ed1b9f64b22b057825bdd435c7fb4d7ab9d233c3dec8999dbc3b6f9b55fc65",
+      "after_sha256": "ed220d82e4ffe25a77aa1e508324b0edf60bc5364d80d18fdc80de61e90802c1",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8111,
+      "before_sha256": "1bd302e3b43bdb680873d58168f527d13c18d40c96065d21bcbaef0b11d563b7",
+      "after_sha256": "19873d1eb3fbbfcdfcf813ac8ce56370c644f7851f96e330dcc1cb4206d11ace",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8119,
+      "before_sha256": "ad4ebc172b716e19dd32298d6b5410bbbd9b13be38843d2a2a3c995e405db591",
+      "after_sha256": "0df40d59d3dee4093fd69d83911dc11483e8ff903f654ce176ea025b5fb7769e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8140,
+      "before_sha256": "ae7cdbaec49491b6448fad8490d5307b774b0b3cb5265711501bc363348dc64b",
+      "after_sha256": "23f2dd3129d30f64cece05e8b434490562df260d1f9d077de802192cbbd40724",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8145,
+      "before_sha256": "7f01ad4c7a89ca8e838667e9e4a94cbf8e15f9dba7f34de23d0ef6493dd613a2",
+      "after_sha256": "0da5a0bea94a4f3ebb2d727a135bcb7bb1b1168b2d0bb4e8fecec9c86275b7d3",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8147,
+      "before_sha256": "35837c0f221723949e9cd4719dfacb697fcff55b34ffc3827048b065481783fe",
+      "after_sha256": "07e1c744b79df82fdd5d5996c7886535f925ac36fba7945cf4603c84eeb1fed8",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8161,
+      "before_sha256": "bee53f558040ba58d9c2ad114b50a8cf22bb31bfe51d868c6abd54547755bdb8",
+      "after_sha256": "aff6b1a3e026b7a04bb71949275477662f68b9464e1b6682c0dfdaaf9371b185",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8164,
+      "before_sha256": "274ccf9277badb96ba5af095a881194ff6011cbfdc788c06f351a548cb1b14a6",
+      "after_sha256": "e7157711fd4cb5cf285d135a95be665a8d8a25141a2bd0c871d888cb1672a1da",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8174,
+      "before_sha256": "c6a93e1da1acfba1388bed5e56897c2cbf4eb6937f9a3081e06f1301931f41eb",
+      "after_sha256": "3a037e7d47250e9edd094658e7c1cad51330ff831d415fa6d71eb88b7fb4d174",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 8191,
+      "before_sha256": "bd5e9d404ac929652e8f26f84dd08320338814ad63a0437515c48c3a2bb09138",
+      "after_sha256": "362e679ced7f04c29e8c2ffb78680dfa1d2a3afccc95735b144d6ce621abd42a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 10485,
+      "before_sha256": "2d542f2b2cc1090cefc3981ad0214ff7f2915787de171a43b3879aa9658ae9fc",
+      "after_sha256": "c0f1cbaf76ed635fa643cb2970daadeb7606f3e27978f303624038e3df14aed1",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 12094,
+      "before_sha256": "d8f6fceb09d94418a273306a2ce6725c2f05d5d094fb6aaf60943400bcd7ddee",
+      "after_sha256": "0b0691c1dcbfa7059e010ad6816147f34f6e0d72309ee43ae956b9c83e5f3d59",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 호칭을 문맥에 맞춰 조정. 직접 인용 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15485,
+      "before_sha256": "e18f66c5372c9ade1161e4a99aeac8b8b77709bedac6dfa700435b20034c6e13",
+      "after_sha256": "0662cb79aad9a24b00b4b2e0d4b560f3f78e1e395085cb41e63ce82aa6969baa",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15692,
+      "before_sha256": "d81890ca9798b59e3f0c130bf94dbffdd298a136b94b0056642c9c7f522a0486",
+      "after_sha256": "2855ec45468e7d0f400f5dedec74a07756c5b09ff29321607788a90aa7c6fbdf",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15693,
+      "before_sha256": "3701d3c4ec3bc8f7dbfbfb77520182e0cd639133d07c694200a6f7317350cf84",
+      "after_sha256": "63e8f20d46900fbdbf1ad09007f1f7bc198c6bd558f104849425a056c41c2904",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15697,
+      "before_sha256": "039bba333bf1b16eedb7a38b472b2647bd2f4e9bfbea8603b7f3154fee4af671",
+      "after_sha256": "39a17d317df093b198c34a81a7a0b218183e3c2f12dc49e0cfa0ef11c439d385",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15704,
+      "before_sha256": "1b116e36df7dc804ffc289926c0f893551e9dd881847ffcf63ad21a83501c256",
+      "after_sha256": "c006059d37ed16b894cb381d650cee02d3fd5715c2f8c33c273008d493b1b98c",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15707,
+      "before_sha256": "87196afc3020eff8b2ba6b2d681154b7c1fde6b5835c48a537a676d4edbd1abf",
+      "after_sha256": "bc828de6f27656d8dddec73931e9c524d02d073e9db1d3e142e6e9819d19088b",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15713,
+      "before_sha256": "ed1a8ef61b6a6192be77d852a1af61cfb3acd1f1f40b66f0cee7ab6f426f38d0",
+      "after_sha256": "9e69023413e31e17593393a0010b48cf49c02f073cc482f9cb7b3dbe38a141a3",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15715,
+      "before_sha256": "10b30a34c997e06aabf8ce11ce8d05b532ceace88faa6c014128b5b88cb99de4",
+      "after_sha256": "e865ae5efb40f27dbb4201e07e42ad5b91fb09f007ce64aa31bfbc6fe8dc8920",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15716,
+      "before_sha256": "80e519f423d41bebe4c1eb02e8612f6b24eb962dc053d7876c16cbaee63e7450",
+      "after_sha256": "bb77a8d4f8fba1232d7b1c441c31994d0cf477b4c4fcea3d124f2272219b4ff0",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15724,
+      "before_sha256": "5ada9284473a056ea66f34804d28c0637672fb512c34ef637dbb1e5f223f3467",
+      "after_sha256": "d07b9fd91fe8da8573ae13605a7e80ce061c5150ff893df5c2551e44c9fa65b6",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15733,
+      "before_sha256": "8c96e7b6f77d7eb27289633e3e8d1d20b70c1bd73c3a32f9d7584638cd89c4ff",
+      "after_sha256": "eb1504386740155b323fd37ceacff0b6848549856f0e74cbf68c1204ae0ab3fc",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15743,
+      "before_sha256": "fee95aab880bf7e70eb292bee9a85be2e08c583709f164e63a9f7d507b88e3c5",
+      "after_sha256": "fefd3e4bc33d66219942f6306c025f31af01e06d344561cd92ae306bec2728a8",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15748,
+      "before_sha256": "fc0ec2c196ab1e293abe9735499d5874f4e70df193d8943a4214e68b3da8c98e",
+      "after_sha256": "4f1f34d6600e5587dac38b8836aae2e9dd4aa3ea7adb652ac51fb4aad110a808",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15757,
+      "before_sha256": "acccd6e04cfde53fb09c37a2a96054d274ba2a3abf499ba57b2e44e74e66d56f",
+      "after_sha256": "4637abdffe49a7d996299123e85092fa05c35cf9f583954e1846d2af12a28f77",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15759,
+      "before_sha256": "ecccd65427335f8c34097b4fa67f4209a7a1e9b4df7b6cc40445b74d7308b09b",
+      "after_sha256": "f7ed8971011899f650a3397bbfdf3a77505a296a83c4dcae21589dd8efaef9bc",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15760,
+      "before_sha256": "9f68b304e3ed6d2a55b7b1f1a8d0ac93c19f862c51d895d971fb5626e209f8ac",
+      "after_sha256": "1e9a09317a0d5de2fee24577fd09c2d114a67f0aabee29cc6b5d07a93ad450f3",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15761,
+      "before_sha256": "9bdb88d9e75dabfc7dfcb33f95a8e70d25a2faaf375da4c72f4b298c1b9ecb0d",
+      "after_sha256": "0c186d693fb2c2de88ae098be09dd82960a6d7f54511cbab0aca7f97e45303de",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15765,
+      "before_sha256": "29a1a4e6645f09dfb6cd84b436fd07503b63a27c9618a41f496ee38a591a03b2",
+      "after_sha256": "0167dd3b22a3b64dbd6d7c5e1253d64b6f0555af4787ae219b404bb3b8ef34d2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15768,
+      "before_sha256": "d8fd88692f4af50c4129afa3b241a2b477e84a2a949601f235d5f5a8584530a5",
+      "after_sha256": "d8600483988f760dc771ae5cbeebc3772f37b74fd77d7679b443db0466bba2f6",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15769,
+      "before_sha256": "11c8d7985ff8b8f57f0cd6428632f4287b8f57b983bfafedac04e4a4eb9ec1f0",
+      "after_sha256": "2dacb927570470a3fbf286b2ca948e88d8ae6e326045109f9ebb1fce716f56ea",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15771,
+      "before_sha256": "2b149f479ba1f1188dd964961f9a24172727e0b8a5adc1af8a99ac7f39ffd482",
+      "after_sha256": "2219b5c5aa071d4673b96cfcae56e3d2c1cc6955f9fa9a4c361579a11a43d3e2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15779,
+      "before_sha256": "3bca3c6c5fcaccf32202b1f8ccf915ad463ab8718e8113d73bd028a58f2355c7",
+      "after_sha256": "75503b6795f593b076d270698fa99a9e4feea580b5a9a596ff6455c6bd3a1376",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15780,
+      "before_sha256": "3768eecb7025c3722b3c82eccc6a1ba76b7d6ffdc9535157ba6ad3a23c71367b",
+      "after_sha256": "51b15ab5ba58121040403b360278c5ac8240da32c2539c322ea402ac5f56e5d2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15783,
+      "before_sha256": "1884755b01d59cd5a9c4d742b3da4d16de10b90cb93fff95c5afb591285e034f",
+      "after_sha256": "972d6a5927355515ff78babf66c0659af74e8564920c0468e5441c93833827d3",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15788,
+      "before_sha256": "806b3fcc6cc9533f6712e3b8e0e729453da74ba7a6a392e6de5285e0365c528a",
+      "after_sha256": "ca2d08342673ccd7a5488141199683b8429cb3697aa77ec1dd32c8f8419402fd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15792,
+      "before_sha256": "0e9525c3ea33fd3980e71f78f3de347a031228a26a741e1ada53c58a3cc4bdeb",
+      "after_sha256": "f60def88c3a36d707492f1d5059bb778f7d780295bfad0bf2c0981182b0f86e8",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15793,
+      "before_sha256": "00bfa8cd593aa5cfe31b09c1805eb166749951bc2560a4aa655dd6ec5c4a00ee",
+      "after_sha256": "fdc43095018c1740acac33ef0857ae5743753bb6b7cf3bc18aecf4395035c91b",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15795,
+      "before_sha256": "0ea8d1d2b4169b956cd234981713fb9050bb98f8316f833dcd0d4d35505c6d5b",
+      "after_sha256": "adc2855a4e7720e2e5ca0bb56e7beb94239dac2567ded109d93b7f03df86c782",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15798,
+      "before_sha256": "4140783245add60f0fa5a3e7c47fcf74eea13c258d863b8daa9179abe44b2bef",
+      "after_sha256": "9d946046555ba341c91ede495905beab093b8996e0bba012731b8585f1d682c7",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15799,
+      "before_sha256": "01b317324d870468b653ee3449cc9396bec5dd012966a0f81946f6c504c8f689",
+      "after_sha256": "49ec38f44020475798e103e4429d2f87cc446a3119db0754c20aa146069af2d7",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15800,
+      "before_sha256": "3768eecb7025c3722b3c82eccc6a1ba76b7d6ffdc9535157ba6ad3a23c71367b",
+      "after_sha256": "51b15ab5ba58121040403b360278c5ac8240da32c2539c322ea402ac5f56e5d2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15802,
+      "before_sha256": "1884755b01d59cd5a9c4d742b3da4d16de10b90cb93fff95c5afb591285e034f",
+      "after_sha256": "972d6a5927355515ff78babf66c0659af74e8564920c0468e5441c93833827d3",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15808,
+      "before_sha256": "d44c395a03d8cfd7a6a1a6c9bae7246c946bcda00d7c26500bd5edc83af4f37c",
+      "after_sha256": "0c9cf88799474c89d16362b2ab78636bda65deeb02f2f4c980a73cca650829ee",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15819,
+      "before_sha256": "4b2b45b15059a153b044b00b48e4abcb8134d194e418eb4ef67d23fac6c32da9",
+      "after_sha256": "dc96fde6c2081726ff2eb3623568038430a4598602a7d5de02b18cec163f8a90",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15831,
+      "before_sha256": "e9196d687b45326f0d7db7409ffbee4851f94cd34aa35f006a59bec71176664f",
+      "after_sha256": "e17160067e09cc21d5b8faa49ed0971a0ebe938a6e28dd637cd4feb6eb43b53e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15834,
+      "before_sha256": "24ce63657721abec622bcb82a7c084ee6c62daf409d16bd3bcf73c4bd028437d",
+      "after_sha256": "38e62a9072e96faca6f325c7d9df51e53af4e412a24918d77c71daf568bacfa7",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15841,
+      "before_sha256": "82efad764ae648f827faab26f167667d5c994077878e727f752a0945dba50ef6",
+      "after_sha256": "e8f4363feb4ef0cd3d3331df441bf8df2c40cfb913fdfa2b90858decbf1bffe7",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15847,
+      "before_sha256": "664bf5e9af21c2bfcec9cee17d7c08a5fb29eb7af8f61e0d43ef1381dbc36c3e",
+      "after_sha256": "d712e07990e7d1576510900be58ade45ce7a5fb199b21cb45840c75614fe0957",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15848,
+      "before_sha256": "0aee14b767b956b7902262c665706ba03c0afefbb2c32ac7b3ff6978692c0e8f",
+      "after_sha256": "6587b719a218ebe6edd38d585143960a7c301f5037cefac7968d261cd003fb26",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15849,
+      "before_sha256": "7fb4423957c394b60ee7f544fa7e2a9f7f8fa17fa5431d4f2fb1f255089c3b28",
+      "after_sha256": "801d0d5028cfbcb12385a386ef87632978bd9e43fe4425a7d77dbf8747d5c9f7",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15863,
+      "before_sha256": "79f179baf7be1214486f91ddf06b7ad79ce296310bc5d49771b44410fa3fa0c5",
+      "after_sha256": "78ecc50e82cca8c24484ebbd925db44f3f0e152abef08de02e327c3b7d0f5030",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15867,
+      "before_sha256": "91b1ed32eaa8368838908e5069eb36f3d522106a151f91a7b55eb240af4adea5",
+      "after_sha256": "42a086ef90c27dd46586b6e883c5d1471a445f268ba2154e1874fa73e3d5e7a2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15882,
+      "before_sha256": "4df86f4055c0958cfb69afc023504415fe68af0bc8610d66b9d0ba1bb9e5fd1a",
+      "after_sha256": "4536f085b18d0bd26b6a8a5a36d2ebac2d21283d878f9d53723f66aabd498097",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15883,
+      "before_sha256": "c8186c23e0c7dc871c4cda52469407a67c86576cd13ad5d33b51bb6566733171",
+      "after_sha256": "2b321c21be4e981d231baba4c6078dda7c22c0d031eb7027f70c7fecbd0e23d0",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15894,
+      "before_sha256": "ae23a8bbc66ee52d1feb0c63aff3a7d23c0616d937a4dfaf9d93b0b309bd68d6",
+      "after_sha256": "6b8b4ced4194a15bd56f3e174d944533360acef4d6d96cf4cdcf02a5afc2bdbc",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15900,
+      "before_sha256": "d3d5fa16e2dabb57a360d7cde547e0003e6335142f17a65bba68c381ca66bd25",
+      "after_sha256": "1c6fac0f41a73fa6a8b9845914ad7214cf182fce3cdf9991ec85fbb9b5705ff8",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15913,
+      "before_sha256": "4e3010945ee308c9bc79495e5709f73939a50ec141727e9a91aee66004c11f2c",
+      "after_sha256": "a1eee1d938971df2377b31fb38b88234b6b7602b82ee436fd29d1b8bf6d41c81",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15919,
+      "before_sha256": "c10e6f6704a667284b9aad87da0acee68ed7f258be0aec7c87c34c8c534ecfd0",
+      "after_sha256": "4d7d8552c60c7a6e9b9ac241cb13b6e79974255bdd101e4ed4d0b66f8a337a0b",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15933,
+      "before_sha256": "eae482a342f80ebeedeee4d60c4e8204be3cd27c06cc70e7c538fd472c8fb927",
+      "after_sha256": "0781f49c5e91f5aa4af00dc3d7c09a88546a424155a0be5f5112b29596c928fc",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15938,
+      "before_sha256": "3895c00a673ec762290287c9b64b9ac323760d88b9df331f155d163e04e23507",
+      "after_sha256": "053353bc16fc9d4b3b077e3a45d4d96e98ac06cd16ad393d261c3fae99028f3e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15944,
+      "before_sha256": "92e6e73d8e1a7d9c14f0d7c332ba31c121cb44269abdbea9cf8771e8323aaf96",
+      "after_sha256": "7a1c12f5e268a3250f42e25408c85b93b1e0a691051b6d5ac3ba187fbd9c4e31",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15956,
+      "before_sha256": "141905e841177ce4a6adfadda58fd5d731c2f43232b5c9807bd334870dcf520c",
+      "after_sha256": "a602a83771a703825b6215d3ac03e41530d36223c0378d8ca7776633f4011274",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15967,
+      "before_sha256": "586bf80108b8270a08ea595a878f22deac9f35b8e019f0e64cbb1c6784967e1d",
+      "after_sha256": "29176a23111ab0554c855f453a9d243b2dd31f69f64c5ba8dc490b6f446ef818",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15975,
+      "before_sha256": "f9debeb648606f36f3b778b0cf645f2fa9ab324197d55567928a4742067460d9",
+      "after_sha256": "ed0927a2f8733cbd85e3e823fd7e6342420ad9f7385034624a047fce5283e6f1",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15979,
+      "before_sha256": "38e0b2f9f92268c30e28826c47b650c6da3eae1c705720de6192f50bc4bf7783",
+      "after_sha256": "274fdac74c21eed15765e6b5c0a7fbf3e502f4670549a26d2780dae6640fe6c5",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15990,
+      "before_sha256": "650bfa845da571f2eaa8e6f4492237249fbb368d6b2a1c2e8f4e52dc2511a693",
+      "after_sha256": "5685b40b66fd884600031fbeb604a3299d1adfd8f9df1c048d7110e302623863",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16012,
+      "before_sha256": "a780b829ccf16ebfe5add638175f205b5f88eb19b266a6774713bfbf46dfcded",
+      "after_sha256": "6ebdfabb1c10e0c462e8ae7109ec26b5cd4cc6f405902b2cd7571dbf59d582dd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16028,
+      "before_sha256": "85e5a306eac045fed43ba48429d20c293df26ddeb727adbd60918af240325e87",
+      "after_sha256": "8687afc001fca2ac8e1b5a743ac7392ebef47902c658a50842739bd0d5c11ea5",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16032,
+      "before_sha256": "b37988adba0657a6e3cc0a9e14f31e287554cd4a4e0a7ad85a3928111c11ba2b",
+      "after_sha256": "0f4805209619c3f171efbe16f533f43cec255576a5874f2600bd217a345757b9",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16042,
+      "before_sha256": "a2bb9c2c48a86d95df7a6649d3fbb1fd8e882e08359568e6037e0c5bf872ba58",
+      "after_sha256": "527b0fd99f5ba7c10ad1da81b21912f89954f6eb9717942ac58c778eae909084",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16055,
+      "before_sha256": "ad76b80315514badd82d3935d775e4dd63081c0bcf4911a9f47a9c6ac4461a8b",
+      "after_sha256": "b8a643e653cb0a9ffd9abc2e95c8e641937d37ed72c112ce1394651af0827dbe",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16057,
+      "before_sha256": "4a0c36d02cfb405f426fe68fd2282a85157171c5bed1b9b32b205e95f115f488",
+      "after_sha256": "4e9c843511ba63cca3f35f3ce87f967a924ae04a70d673a3f56f33808f4b1514",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16061,
+      "before_sha256": "7f61b70d3e376d6f7d7a2bb6d3df061dfd7e5b9d21e1d18f6276f5e17ca36644",
+      "after_sha256": "272c8016a2b40b0be1741d3e3104c40de294e4650dfe03ee4bf459f93cae0c03",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16065,
+      "before_sha256": "e736978d042de99dabb6ae944794c4eb39e27b668205164b6758a159a6d7267e",
+      "after_sha256": "dfe8569fc9956f9aafcb613aec8855f654fecaa9e0e74d46a0caaa86f45b3fdd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16079,
+      "before_sha256": "d78347c4e6826e99cc24355a666e1f7214653e9f9b4eb6ca159172fcba608f64",
+      "after_sha256": "af6d91e97d428939b5d0be5cf245e1b55b08a0705e66ef9345e78fe48601cfce",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16087,
+      "before_sha256": "5b22221f1333a77b5e65fc3c7bc15c57112f78e16c8bc0be78f1afa442a0c173",
+      "after_sha256": "47e28f30f2677de5958de7223367f0c54f82c9c31fe16bbad96dd431d8545a23",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16090,
+      "before_sha256": "23260810f0a10f422a30a1547f5b4cd3184f3a364c771ed1e32306fd446c1c4b",
+      "after_sha256": "855a01c5f81850a617a311aab0700bf86570dc6d095f9c52f7b11ea23cbd7e2d",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16108,
+      "before_sha256": "107b8750c0f3c8dded4a3fbf874723bb17e67df624d9eff30d61fb1884d3a8c2",
+      "after_sha256": "3bc4a18261c6c923b57c65c0a69434ef2a7365155a83560995b8380a53f5dcdb",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16120,
+      "before_sha256": "db02c7ffb6dff20969676f020a67a6bf513d72c1fa6812187040a943d9562bf7",
+      "after_sha256": "9d9b0c13905ba20dc142e2ce9d9ee66f8aa13c5fa39ca963ffdae23c7916eaff",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16139,
+      "before_sha256": "6043e1c38db2acbf07a396e653dca93ee24d76aa705248458fb579a128f87075",
+      "after_sha256": "ec037c6431537fb95852fb745a3e052888cc081891f4108a7c2614bb1947d5e2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16149,
+      "before_sha256": "5a625b17e953570431495c3a40306d3b605179e5fcb750eff16d359b8612bd04",
+      "after_sha256": "0001312f9dc12cfa1e1850550801845a4c077473f0be440194e26f62fedffcbb",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16165,
+      "before_sha256": "30cc6cc581c3fb770e21531e4b5a2a95943b64998c8ef60605c9092d43f42f44",
+      "after_sha256": "be2cd053b63ca22b885ea353cbad0f7f01dc1b0b6a3bed9b06b84662591027ec",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16171,
+      "before_sha256": "b37a12b984e7634a781abd84b351bac8b4990aaf9921c0c284e13585a6a72f54",
+      "after_sha256": "caa7c2c695c585dd2238be41ed800f50b217ba7881cdb627b087bdb258578087",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16188,
+      "before_sha256": "6a1bfe62d53397f0302e4652fdf71b1ea0d97a5336f2eab846a7e67ae27d6164",
+      "after_sha256": "7e2113393735fd1710285445ab7f01ae9d600777724668cce36c47a45521afca",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16198,
+      "before_sha256": "2c36f08b28a2b55ed165642b1ce37390e6e42403ff69c417d8a930cef303b83a",
+      "after_sha256": "9c691f07a9997443323de1a22a058b666819e430c5f64afa677379927b9ade15",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16206,
+      "before_sha256": "7ab0e1e0737594103a98fb48033c076c27227490915f6da769738c10363a0f44",
+      "after_sha256": "47dcb29281cd26a327070df9259df93ab77107f4f44d61508fea0272a84c1f7c",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16212,
+      "before_sha256": "dbc088c22589042b5a73899f6c5282132efaef039906abd7fe9577ac72929d0b",
+      "after_sha256": "e813a918166635b37b1344658f9537efcb87ea947ae69158d773aa003ca2d1e8",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16217,
+      "before_sha256": "d77053f5cab1a941eb899669e249f62f869d81b3d6ed12b0690a7f804b77d05c",
+      "after_sha256": "1e690c45f903ab924ffdef834aa7a052daa6ad82ac5300ad5762997d903961fd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16221,
+      "before_sha256": "3d4e47b944ab81956b3a615f116b0de4397dc1bfb092d56c3261bee97cec986b",
+      "after_sha256": "e9b4e5882bcdbc138de57bae0354bbe87db2952a1ef0497bf10358d00aa6413c",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16240,
+      "before_sha256": "a808d5e83ecb75cf4408f8e23ce27d8608ca67ba432e6b39836ad062e5825312",
+      "after_sha256": "81229f4bc6fcf173014c7be4ff57e3c2f56a7824c0eedb16003839ed27e813d2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16242,
+      "before_sha256": "9cb4b43d4585ca5898441dba97cbe46b44afb51957b69c8704e45c121c8b188a",
+      "after_sha256": "b7074b4fbfe21ae0159172188300fae358826811c7b8b254bebdb908535f069e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16245,
+      "before_sha256": "0be1ac44336b11a8f2be5ded731da87da48627d3d29491fe81dfede9278d6468",
+      "after_sha256": "62d0f3d5e83efcc4fab8ad9f3742388c19ed14b205f51e29ad232a5bc428728d",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16254,
+      "before_sha256": "106cd847a38184f6dbf763492b438c9b768ce90185abc6115f0373ab1fd37c34",
+      "after_sha256": "b6cd2bea487ecd4c12fe7167ab0e8fdc46bb0e270178ad15b1d1f497ff5fa8e3",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16263,
+      "before_sha256": "432be523c4e5b3a75119072ab5eeb3acb4fe8db2cbd71336d52b01b933ca61b0",
+      "after_sha256": "de05b3c8562ac157ee2373a79014f996e13036263606b907c15f2a49f21fe5ab",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16275,
+      "before_sha256": "791a02d162a7eab8997574ee85ef34068d6da1e75a3a9b7e8911618e63b547df",
+      "after_sha256": "144c5c651b99dd4faa8d573f8db000a8494aec6dbce8b3ccb96719077c5ecc0d",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16276,
+      "before_sha256": "09c73e27931f7bb4694ddcc700a85a08ebcf527d43c87d2504228a84cb42c042",
+      "after_sha256": "db0ef2fd27be21b6e7974000a7177e93ff3aa08160de53a36fa20382a2e51f9b",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16282,
+      "before_sha256": "69014ffee58f561da1e13a7d1611b8b33d4135c5d1059725efed5518ca0220f4",
+      "after_sha256": "0ecc9981b8c57ddaa5340fd00f3ce8a18d0df61697ce08c90b8f08572e0fc71b",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16295,
+      "before_sha256": "65dae2077a075c305309f5e9cb4d3e5303755eae2af4f1f1fb20d8a84349b6e4",
+      "after_sha256": "9ce6f7e56f3f84e2e6039cb7aba4f9a86a96067dd9ebf1b0c2f85e121f2f9165",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16301,
+      "before_sha256": "12f61d331d11e7adad7d8bc3dc5d886db98fdb7c88aef401b5bc987fad4cad70",
+      "after_sha256": "0fb576a607ad3ea99e79b8f55677e46773f20a88fae08dda6b0b77e98f144a0e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16317,
+      "before_sha256": "6ed1e010a296675f09455c2aa9a9da68353ed740dc68530b221e931cd0b44860",
+      "after_sha256": "ee808e1eea87473f3a6993c0637d68cad7bb15716b040f748dc7df8796f50f10",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16322,
+      "before_sha256": "1b8de8e4db7a24fa860807e5d6c4a4375bbe6cd6a104a2a09eea444db1f10f6a",
+      "after_sha256": "6689413383817796460fdf71efcac4b850fc1339ba2ed881d100b1b1d8e6a8f5",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16327,
+      "before_sha256": "19dab57165a01d0afe09e0763f838212b098ca7eb7a00520e6664ffe58bf578d",
+      "after_sha256": "11a5ac8d04558a0077966c58b86e30bcf653fb20321957b06eb19cbf40308c39",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16331,
+      "before_sha256": "2842f17140dcdf813f5ff88ca2b4f14441a1027b41dba0d7084a77c37ad89aaf",
+      "after_sha256": "bbf264ba53ff18f608a0c1c3e86bce454fb044f63209abb2720c4ecf84c8273b",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16341,
+      "before_sha256": "13e11c9788e69e29c5090c326c7185d1afe0d1e14d377fc5f03cd12c96bb6381",
+      "after_sha256": "5e75f1cbc92c05b8ee5ebc164a3952f9e2dfcc7b1c443aa6d0ef964ef26046e2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16345,
+      "before_sha256": "83a295ff4783f391986e9cc4a4c601f97150b4b1904c21cf68634636cdd60421",
+      "after_sha256": "1ca31e100184c20e68595e7e9e6afdcf1cccbc577d080c26a046598156b2e833",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16346,
+      "before_sha256": "c641655ab11e04d72c160b2f5f48313d65fde3f82a514625157883241e8884e8",
+      "after_sha256": "0ae74c78d7fa505c0fca4cf13a3435f9cc0fc2f72632146a9dc0825b2370b48e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16358,
+      "before_sha256": "6aab2e042d1f31889367cebade22068436d8b3516ad648788cb42b58cee3048e",
+      "after_sha256": "18c952e8ee0d5013e1419ee0057ab36ba637971011c90ce525906e6d686c799b",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16375,
+      "before_sha256": "9b17c3c46efb1b70d7c50934e5116b72ad62cdfe67a3439d6a9c87eab04e4175",
+      "after_sha256": "1e4dbf1adf68953094ddadbcffa52278191f4b95895c9dfce5ffbebec4ba0de6",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16382,
+      "before_sha256": "4786d761e63ddede91c6b07d6a304d09f8c57304d31956dad3aa0bcef6dc4406",
+      "after_sha256": "717e9ee21b263dedff6320deb0dc6fc7e3fc91df3239fe6c13c9bfd0573c6035",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16404,
+      "before_sha256": "a38c6c3c3e034239bbd0c5f244e0772edea554a7bac6020ebd530f7760fbe54f",
+      "after_sha256": "f0e3d16471413247eaaff70e5fd713c5e641cd07437830f151e118c8d2cffe67",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16408,
+      "before_sha256": "ae3dbb15201a4e5cc21c703302bc9f43403658b04e5fa5e1d94d0b016f9dbab6",
+      "after_sha256": "01f315d77e1dd87a3562641a256822efd61d31b1017c674e6b0ba87aa3c17d11",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16413,
+      "before_sha256": "10b2a89b4ccd15d67d79d2f9249de44fc073e23d700ab5f148cb079e55441261",
+      "after_sha256": "b808cce8cce85342e11be0e5d91f18638d707873ec3316611859ace6caf627c6",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16434,
+      "before_sha256": "79c35cceab340c999b920e18906530892842f0764f9dde1d9746268aa256867a",
+      "after_sha256": "d158f1dc021edce264fcbf89d9f4d7bd8c76947e3a604936d42e7f9474814f6a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16445,
+      "before_sha256": "554bf434fa221202524579b918ab4d5b64f367960494746b9947e2fea4c8c85a",
+      "after_sha256": "7f46be0b237175a9761818c214ab7aa8f830cf7f7d3c294253291213387d3bb1",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16451,
+      "before_sha256": "0e4b90b32bc8456117d1be5dfaae7a63f7e523983bf50c4d83ad49c44157b79b",
+      "after_sha256": "c009dfd9f1ccae1a88057bf1936d9b4bb202dc9addaa7111c48b065ff7ec66c5",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16461,
+      "before_sha256": "e3250771f7ba7dda245da138375034376eb06c335ffa1c0ab6dd941c6810d15b",
+      "after_sha256": "499a0d5ea034f1c5c0f0c6fa7a7040618b22b801a96a65158affd264b21cc7a0",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16465,
+      "before_sha256": "53c165ae3f0be10b72a7363f1f5f197399f02ca0aad75a49d2482675f0bd4786",
+      "after_sha256": "bf510ad72fd129041c7b47b3bb66a2e5ec0ff21f73d763851f5289fab81fd032",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16475,
+      "before_sha256": "ff373b92b377c637549ccbfb2f92eca2e39c0e309d3403fe763eae2c8d821c61",
+      "after_sha256": "9e73532eb7aa953b4e7dc5ecd97b09ac6f340fe2fefd0f2baba4bdebe9eb2361",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16482,
+      "before_sha256": "03388b49c57a74053b7b0021b7809aaf3f0653cc395544f87a5d442746bbed18",
+      "after_sha256": "3774feeb1fbb49998a60a3aa3d85073d11d491d3623b9c354d590faff43868c2",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16484,
+      "before_sha256": "091a1ffb178a0a7624bf801b65220c1f2bf17302513488509192ecb979ec6cc7",
+      "after_sha256": "cdd72dc1a51559573b6e2da233dc15a7152faa1cb56f7f6949087c9e2dc4ab29",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16488,
+      "before_sha256": "9282764af169b5f2630f96b283bf72f88f57498995b5494ba262d390ee7a5b2f",
+      "after_sha256": "fe367d51cd877140c04c757d214dd7dc44961407e24592996da727095372a87d",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16496,
+      "before_sha256": "b1813fe5e1ca7cec763ab8da41907111a9bb4eb110a1b30c8d38a1d55c388cf4",
+      "after_sha256": "b4a7cf3a8341cb74438841de81204b0cf4dba1d57c67d2380440d8f96f034a88",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16498,
+      "before_sha256": "a09f2b135664acd6f6b82ade5c3f9f6ab6532e68e789e900c08c3681002f7b21",
+      "after_sha256": "97887facf1c2edb1e6033e6f81627ada7c41719020ee6a255eff3d82a51c78da",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16501,
+      "before_sha256": "4eb8b7480e1c215d0c7eee6e3141e3416cf287dba8099aa219b5dedb0267f8a4",
+      "after_sha256": "dc32c322885f31bfffe761da357d6475bad2420587057d8d92f1eb570192debd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 16502,
+      "before_sha256": "fa652d0e828f1db7a7bf17840ffe3fad75c095d423b3ff569f7c1062644c6d8f",
+      "after_sha256": "a8e85c5a3407d5908db0244cee89b5905a71079c2680d29e59183bb2d82ce47a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20623,
+      "before_sha256": "f30bcb20ea1ba6c0adf9ac5d21734715cb40a2ad7cb63e81679635676e122be6",
+      "after_sha256": "9e19c8da864f90c06a08c7ed0636bc6eb8afd96fcbf22f3e9d52a253926fb4dd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20647,
+      "before_sha256": "d7665a75b01ac72f1c7fb7c48aec5835118b6e0b369b78103c8b536617ed797b",
+      "after_sha256": "6ede4107e2e5dbe7f0adf12c2fca9977d86ba33d550446bd2d558c733ca78f8f",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20670,
+      "before_sha256": "d01367ef19a450b8ab7cac1ebd5fbeb86426eef2fafefd4dfb1f35855b5d567b",
+      "after_sha256": "3f7de9dfde4aa88829b5d3bf32d8204f49d13f58d9a2132fb8d38a9a53c9078a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20683,
+      "before_sha256": "8ccbe27219e71aeb953a642661571a7e8c991b53079b1857d5cae7415a166c5b",
+      "after_sha256": "7ac3bf86877c2cdca9c27a8d8d847f2b73901a59f8959fef600f518e26d5afdc",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20697,
+      "before_sha256": "41022d95b8ff119ad18de97560a17d3cb992cb6593a310aaf491710f95cc748d",
+      "after_sha256": "63198a38d782fce5fb1e021af8a4660d9bed59d6a2687997832017d83e765076",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20722,
+      "before_sha256": "e68ef5e3aca238c585c8e170128b0e0318120d758d23517c21f15b10d35b1965",
+      "after_sha256": "e8eb4a72b3432574e8b30e7d908a629d5da97ee15c9876baece3eac7de1de96a",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20784,
+      "before_sha256": "4516a7bf52c8874d8b5ce7d37ec48cfc814badbe5f53c7d8bac90c70202bb125",
+      "after_sha256": "3e97439af06be3c9e5efb38569438953d4bd3730d2891e273c5a94505395c6b7",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20787,
+      "before_sha256": "e149a1525ed5371bb8a343c8905fe7a64663330dea7ff87694718c48e7b457c5",
+      "after_sha256": "2c97de9df5d933593e7e7b64ef2e7611dafd3ad30a205aa1d423660f1bf41d57",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20800,
+      "before_sha256": "142d392dfa10f080fc4558d8c79d2cab0f91cdb7c555656cf2ec26a726074a6a",
+      "after_sha256": "450fc5ad83145f5fcc774deb0215c3be3ae6889b5d7c0d7990b8c68e0569c2b6",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20909,
+      "before_sha256": "4b34367231c60ecf5e955d5f96f28b19840ab38da631338660ea2fcdf6ab7827",
+      "after_sha256": "c375ac710acae1c5908589cee3c9710361845a30e5c018c43438d1ec4404638c",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20913,
+      "before_sha256": "6d3ea3172366718d417b80953f329850aabdf20990ba707de4eb8c141d492f33",
+      "after_sha256": "df5b082620e46c2e8ba9f5dfdfbbb8c3250c6410298812a621f56fc838b1cf2d",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20936,
+      "before_sha256": "b7e645e7c5d1b7e47303be5c2230e2293a9142b3f6a70a7853aa12d8d2586a95",
+      "after_sha256": "e31dca476f5022b7a8ad29db2900574e0c06a330d5752a7ffc15d9e32637ffbe",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20938,
+      "before_sha256": "d4486f6e60e4cd1617ef4dadb9b24bbfc251a8f75e1d29f8382f19e565373f8e",
+      "after_sha256": "7f8891e462e37114969d924dbed6e1345a17cc8b0a299d7bd1b4292a4d3d0bcd",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20954,
+      "before_sha256": "c4c1a09ae716a6ecb6d037dc8f425cd7a056acf4ee76cb5b556fc1ea4c28d4e1",
+      "after_sha256": "d8a0f742f2a6306413c54a5a45481face85970111639cfa2a5edc260194d2eca",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20956,
+      "before_sha256": "bb342cd61976dc3a50c8a925c99368a256603a4340335a111fad77050f51060d",
+      "after_sha256": "a7e4ae5ca3e796e6c10c2795ede32d99f970d4991c6405fc9a8d516f86c567a0",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20970,
+      "before_sha256": "ce22c85cd289075f19aaa814d992270ab3a27626d67c7279a37be99b65777e5b",
+      "after_sha256": "2d66faf4ad138edeb98a7ffd96edce44ca4b34b91e30d9d2e055fb0b8e4d3475",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 20997,
+      "before_sha256": "cdf1eeea9e4fe3085fabac245db4841662c19160739af1d1fb1c9e0d7aa38bab",
+      "after_sha256": "26b557fac6a68b8336738e998e56092fceb816255134b29b013da74746dcce0f",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21004,
+      "before_sha256": "f5919a4280a16fc5005b6462b8d52fb94e4a7422add12e4e0b11ea82045c9b25",
+      "after_sha256": "72eb53dcd3b938c32663d78a1bb80de4dab04d4830decdba0f9e0b890ef7897c",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21010,
+      "before_sha256": "e77cf3bc4e447f3f8e0953dc88d9778f25ca6fb851a7fedf9a92f1f79f1efb1f",
+      "after_sha256": "8b93981b925e9d593c5279a4f0277227caf2f05d8731b9081a8bba9263eefcae",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21017,
+      "before_sha256": "c65690cecca7af199460f5d86b6a037bb71d9a176142c2b67bb3763fe3f7a5e6",
+      "after_sha256": "29b0f7c07845f70d0d4cce77003b36d47376633bdcaf40ac8282bd7e7f049d4e",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21020,
+      "before_sha256": "6199aa816f1694923709fb95297495e68b4c3db532b9efaf76d142b3fb25293c",
+      "after_sha256": "86c3341d22546ad4a0efe3e6087035618f34a4ff4cc7138e27315d5edca16153",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21025,
+      "before_sha256": "53279a7cea5ff8b2ee816cfb4085b96afe495b1edf897d1f20ddbad2470a06a0",
+      "after_sha256": "1bef52f56068c3a34a09e5a785a18ac210e5ad703dbdf8f1b0a3f25ebaa70814",
+      "reason": "나레이터 본문을 친근한 해체로 통일하고 플레이어 지칭을 너/네로 교정. 직접 인용된 NPC 대사는 보존."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21035,
+      "before_sha256": "233acff70f1e1dac93d7ba0908cec053c279d044864a14e5de9cbdf34e64795f",
+      "after_sha256": "7e107a111ab1c8d3e88af8d0700acd70f6b9fecc73fa83eef61720d80221e2c0",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21058,
+      "before_sha256": "59b2efdaa3297bde6e7e398e99c37e74724f88a7256451c899046105f3de9af4",
+      "after_sha256": "8a101cef7dc87926d641d1c33d791e6cf7cdafd7ca1764b5d80b86a23f2dcc5d",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21082,
+      "before_sha256": "bb37919e899f83178c328ceb2f0c8230051bf344c1e315a0f116dd5fdc99601b",
+      "after_sha256": "60b8c2575090665149dd7f4876d8e683a9162ed31331d81388684ebb9eb6b1dd",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21092,
+      "before_sha256": "36c8362ee929ce2e2652d431e3b6f3135fbc4698c59ecb89a174dfefb974ad0c",
+      "after_sha256": "e80c5d2bc095843b5878a2ac831264719567bcbbec8968c7962d615e5f8d755e",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21134,
+      "before_sha256": "40231a597b62e157fd50ed719e5fd4c4abc1e66eef5a456e15c5798c8e4285bc",
+      "after_sha256": "c742e2dfeec3b30a7e288574991f0ec8b494088d698eb19940201b4cabc52267",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21135,
+      "before_sha256": "22e5fbfa513a72da9fc4c8bff42b0cd5bb0dfb554f1b71bd796bb8839874af16",
+      "after_sha256": "3a4782698880fe6b2a647624f7520115d599696193f6bdafa00511df8ecc43d2",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21139,
+      "before_sha256": "7d621ae41492cab2c8340ead64abe0ccab8b409d8bff693fa3aeb847234226d0",
+      "after_sha256": "76a90108883bfc5b3bfab232589a7e7071eceec0613d916cfd9d2da0c9ab9113",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21157,
+      "before_sha256": "62bb2a74b68aa143f53976b0dc0ef50567d2959a9e98f9265c058c5217b73617",
+      "after_sha256": "2803fdeaaa3a5d44c46694e40f1faf3a6c9dc8b60f30ce2896d9eccfb194fa07",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21195,
+      "before_sha256": "51348bd8761ebdeaa60aa78e8a6deb8d65b2ac950035d766c2038c19aba939a3",
+      "after_sha256": "45486c7bfe92e781e36a50a5ae915e61c01e1e46754968e08b0f68f13d566885",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21227,
+      "before_sha256": "480b372346d7f85b882be7d76d6a166c6872fcb4878048bb1f43431045658100",
+      "after_sha256": "622d049e8a6b9422b75bb52e82b064a42ee5c0d2ca6aa1c4a28f256ee4f9cf17",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21237,
+      "before_sha256": "9f90ba706ba28f1177e0417843867cff178eb767deef50c8c645b19a16f3ce74",
+      "after_sha256": "54fcd16b39c62b54edaba263f31657b2eab11a8fd5989c8fc16113e6268565d8",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21241,
+      "before_sha256": "da3a0d8e65634f57c1189dabb3c60ed8ebed3041f01e76488f1fce2ad3e6bd3d",
+      "after_sha256": "69590f2c47e35fce54bac117186f9499e337f906f20c5a699282cceaad27ccfb",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21249,
+      "before_sha256": "9cd6eae22bd1d28bfb77e889245292a4d70169ccac23582bc764401f7f68da8d",
+      "after_sha256": "296280748e3fb7e4608fc19f256415880717a7562451b6838692d9cb3139ac39",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21259,
+      "before_sha256": "b279467fc18acc2996f5a375265c2760a2a4bb926ddbe3493ec9bfd63522c914",
+      "after_sha256": "404f9feb35f05934ad3381a8416f6a0567214b858d6ec4811b5f9475242996f7",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21261,
+      "before_sha256": "9bf69db1ed18a582a393efc731b03e93e85e03a9fab44effe222d980c7b17fe0",
+      "after_sha256": "9adbcf61d0efd4b80c9b51d697af4e3451f169b7922884ffd1430ae7fbabcf67",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21319,
+      "before_sha256": "765f1b2e9b8cccfc874ee5180121e51955da0a72821aad94b7e7c055094998ac",
+      "after_sha256": "85dd27808c9c5bff24b315e34e76d9b98db144d2d55701c40c9f91bf4286fe41",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21320,
+      "before_sha256": "99f9c63492dff684b80efd9b6aa93a3db30217f9f2a527b5e19d70a1135a0e3f",
+      "after_sha256": "16ee862ef4d1289ff3102232327ede2780f62d299a78dd0c27e7d55a9e467608",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21321,
+      "before_sha256": "623f1144b4f4a5ed379e9d14d676d53f764d8e525fc246dc1c11a671bd2be0ed",
+      "after_sha256": "f023470fd0b3f4675ad6878d14728ee282a185310fc4021559b8287e13bc4cc1",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21322,
+      "before_sha256": "b298661c0ff28d7cedc3d53428d90e12e696fa8ab2e590a4cd76b598b82a17f2",
+      "after_sha256": "1ee1b5e0b978e658f05b513bcb03e5564d45908728d18bd4ccea9e2746ba06db",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21339,
+      "before_sha256": "b4ccbba5f655a989c468c3e5cc774c67a24977f33fa85bdbfbea7d99d7544509",
+      "after_sha256": "711f308f647fc061ca9465b64cd5bbb4978be8f0ffa9cd756d084ec355eed1bc",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21377,
+      "before_sha256": "173e32c579cc2936348913b0aadc66eab758a92015146a8723973f00a86f7727",
+      "after_sha256": "14ae2a11885edba2cd8424322e08be8f36d29b1577704d3870d508f8376f5ead",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21385,
+      "before_sha256": "257cb3c160d0891064926da9d324f39c09f94879c314c8bc32864d2898007490",
+      "after_sha256": "7aa7c62c2209e69a3194c1d85ada10a46e90ec4c8989d81434c0413466eee4b1",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21387,
+      "before_sha256": "5e959d176dcf0fef0d1e970cd34f4eebd00e8fbb557ad96182aa528a21fa42a3",
+      "after_sha256": "8a9de33cdb15bdf9aeec90363ef96b6b60a67a55960998658ba1b1a030be7748",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21458,
+      "before_sha256": "36a04108412a731dda167069f6c2c2fc075372741909412c73c554eba80c2fd9",
+      "after_sha256": "d297dc470b2119c3025a51c40467a112d0a61e05f878dcd40e1f3b0e11ee1299",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21561,
+      "before_sha256": "b366fc293891e8742204b41669e27257bdd998e807bf35cb805c6ea68f4d7309",
+      "after_sha256": "e9813cec1cd8cf862a158bd2f59d1e8fc5022d68665136567ce2f8be7b91e590",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21623,
+      "before_sha256": "b73205cefbb1f071882460b4e5da0060c2255c2e619d9a582e2afd1d4408e59a",
+      "after_sha256": "c8754d9ebd310f1a26907c34be6aa2091f7172ac1d89106b6bd8e71335e18aa5",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21654,
+      "before_sha256": "86b212e46d2bb8e6315123350ec93115afbceb9f020dad92f102e5e8022e676d",
+      "after_sha256": "b3cf0a21d4bcd92c2162c0262958421bf0b20829861a45cc9617c543cbae5297",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21672,
+      "before_sha256": "064a7a356d6b63e0fb4bbe851adf9416784a5730c3a54157a7f5866fce268110",
+      "after_sha256": "15cf98807c62f47dd44fade3a23f9bcaee09c32ffb1d9d84a779a39958e1f095",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21740,
+      "before_sha256": "0897638df02b561a21525ba1af3efffc0e6ab6f985c6247cb264975affa2a95a",
+      "after_sha256": "33d602d4c1304929393b519140dbb28b281661984cb1cb77fb9d4b71a42bd04e",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21752,
+      "before_sha256": "13ed4c48f255a2773dc9cdf1e8af49daea04a8a55a3bd2ca1944c4517ba973df",
+      "after_sha256": "57eade18e2374bedb398a5ec8eddf4bc7d80da53eb1c09f1fb5701f2d77d7d30",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21768,
+      "before_sha256": "5338eaa309664948b76d01c44ac74e448d9145d715b17f29c160771f9a98e2c2",
+      "after_sha256": "f6b70b56d8f84f5f125919d42be7a4523be66e86cb22944cbf5648badd1513fd",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21771,
+      "before_sha256": "827ea9d1b411b867fe26bb7cdbc819b994a476cd97e743e9e7f630a52deae11d",
+      "after_sha256": "85533f44260039323f98912487e1cc6ff634c0aeb9635b6169e98e14c460b2a9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21803,
+      "before_sha256": "f7edcffe92605aaef7eb6195d7a357a9b672b2f4afe7dd39f651358a9501e01a",
+      "after_sha256": "21b2da42d2dbb8bd51a93dc5453bc98df10c9b9cfd5cc688ce20d862871d42ea",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21806,
+      "before_sha256": "827ea9d1b411b867fe26bb7cdbc819b994a476cd97e743e9e7f630a52deae11d",
+      "after_sha256": "85533f44260039323f98912487e1cc6ff634c0aeb9635b6169e98e14c460b2a9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21814,
+      "before_sha256": "22df82f0229b298d39960d9c726341960d8a7565f3d553e998bde501b36af011",
+      "after_sha256": "c7a55f9fa85169365520782b4082f940b5cb907a69d8c2c53bffd11c0ffa8b34",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21848,
+      "before_sha256": "064a7a356d6b63e0fb4bbe851adf9416784a5730c3a54157a7f5866fce268110",
+      "after_sha256": "15cf98807c62f47dd44fade3a23f9bcaee09c32ffb1d9d84a779a39958e1f095",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21917,
+      "before_sha256": "0897638df02b561a21525ba1af3efffc0e6ab6f985c6247cb264975affa2a95a",
+      "after_sha256": "33d602d4c1304929393b519140dbb28b281661984cb1cb77fb9d4b71a42bd04e",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21929,
+      "before_sha256": "13ed4c48f255a2773dc9cdf1e8af49daea04a8a55a3bd2ca1944c4517ba973df",
+      "after_sha256": "57eade18e2374bedb398a5ec8eddf4bc7d80da53eb1c09f1fb5701f2d77d7d30",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21945,
+      "before_sha256": "5338eaa309664948b76d01c44ac74e448d9145d715b17f29c160771f9a98e2c2",
+      "after_sha256": "f6b70b56d8f84f5f125919d42be7a4523be66e86cb22944cbf5648badd1513fd",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21948,
+      "before_sha256": "827ea9d1b411b867fe26bb7cdbc819b994a476cd97e743e9e7f630a52deae11d",
+      "after_sha256": "85533f44260039323f98912487e1cc6ff634c0aeb9635b6169e98e14c460b2a9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21980,
+      "before_sha256": "f7edcffe92605aaef7eb6195d7a357a9b672b2f4afe7dd39f651358a9501e01a",
+      "after_sha256": "21b2da42d2dbb8bd51a93dc5453bc98df10c9b9cfd5cc688ce20d862871d42ea",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21983,
+      "before_sha256": "827ea9d1b411b867fe26bb7cdbc819b994a476cd97e743e9e7f630a52deae11d",
+      "after_sha256": "85533f44260039323f98912487e1cc6ff634c0aeb9635b6169e98e14c460b2a9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 21991,
+      "before_sha256": "22df82f0229b298d39960d9c726341960d8a7565f3d553e998bde501b36af011",
+      "after_sha256": "c7a55f9fa85169365520782b4082f940b5cb907a69d8c2c53bffd11c0ffa8b34",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22047,
+      "before_sha256": "8cfbb0ff988d57fa4d25227bd00690dcea640773bff5071f6d03af974621704c",
+      "after_sha256": "6520ac92e9bfd79b74d76a9a6d2a3560fe01dbbf91d5f27a2e191fbf4e68eb27",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22054,
+      "before_sha256": "42eb83e5ffe9e80e38705896b0b46d6f658a15d28e1c9a160b6a231983edcdda",
+      "after_sha256": "4ccac961a445e8d6e70b3a4a85c9c763ff05e9dc60992b1bfe6a6661784305c4",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22090,
+      "before_sha256": "3be851b224b47db1a47a9880fb8054cb7cb5450faa4bc8f3daa1abc2f0539b07",
+      "after_sha256": "ddd0b67b58d107dfdd10a775922c91c11388ce4ccf0b5f037fa49531495427aa",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22106,
+      "before_sha256": "132460b006cb4776cafd5b55a6e12c55ee7cf79ed78b544a8d14dffe7231290c",
+      "after_sha256": "752dd7f4807924544fa90ec4f45c448694436029981d815965882095c33e49e6",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22113,
+      "before_sha256": "eb0b9219054889a87050c8c35b69791032d0fa00df518467227ed5d68ca341a5",
+      "after_sha256": "34ac5779493bf2b77c5ee449929c87e72738e44addb43f5ad8e1e613316ebfbe",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22135,
+      "before_sha256": "b1aa71711a663493952ba4edde605b7b1760be646f9949fdff5483121aacdd05",
+      "after_sha256": "9a541d6757dedd2e817b803e15eba837789efb961e16320d992df545ca83bd4f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22156,
+      "before_sha256": "273842362e101d2da635551183c9bd9001fbbdb77f632cb01956500992e637fc",
+      "after_sha256": "7e4e5684956a6a781211beab36ca694235d28d8f25ca56c087d0c3147a686de1",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22165,
+      "before_sha256": "4b3c0c877adec8858fa9a88f114c7b8b486cb3d5b9cf400d02d3fa0820310626",
+      "after_sha256": "76a5dba13feffada0c10de6b12b50764504d3e78464b160f8f6642d382ea0c8c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22180,
+      "before_sha256": "96d0ea8c65e4d8d30c8e17366963415d4914de289ac633eb89e7dc2e7b52c283",
+      "after_sha256": "22817b454fc19a1e61e23367605addc7f4a6c3f7e4ad39fe5fbd4c652add4a18",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22212,
+      "before_sha256": "ebe84653932616cd4beb67df7c3ca3b389d11f2429c36576cf5cebaa98eff396",
+      "after_sha256": "cf820ae07a8800041184a970c3124efcae594c7043958b4cb4f99455ff09328d",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22329,
+      "before_sha256": "a5c005192cc37bb4cb1bddbed5d75161b7e52b28887c3de00ba9205089c9eb0d",
+      "after_sha256": "0ac66f0a07c6ec55a36167bbb0c2db7d57ba5d85e753cd790fbc988381874b98",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22336,
+      "before_sha256": "1e6ed0b95d6b5626802b940bd5d951440d33269f33f012a259d634c09b084e4b",
+      "after_sha256": "d0d1177036d067324165e857f6c3821fae218a64b66667b5e20583464d65d5b4",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22347,
+      "before_sha256": "fd9af0dc6d9c1aa5f97d890a303308995a1396fba120597478fca270db207358",
+      "after_sha256": "141c7132fe79960746eb209f65158db2c3e017b761dbc767d128b2e571a14f83",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22396,
+      "before_sha256": "2b1b36eed48469e88b3f98fa066e5e7d5f94190e879edafaaca7e6957c6d02a0",
+      "after_sha256": "ca07c77052c426ecd70c476a0c1124f6ae0fd5b487ca51dd7172693aab6c425f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22410,
+      "before_sha256": "b6273c637e04ff7b46d91505cd1e6aac4b10f6d949d9c5799b280ed365608da8",
+      "after_sha256": "437b4843f15378fc29b7ea4c3e8d607a580859fdba9268d5d9c3fb0b9aa146a9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22486,
+      "before_sha256": "6edb592cd61d3f89906bfc4224455e12fbe5fb72eb04c840a20cba0fff6ae08a",
+      "after_sha256": "2e8c3a97ca3e1dfc5103d35f4ffa0064da7a5eb19e424460d9ecc29f2dc2415a",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22489,
+      "before_sha256": "720b44bbc7de894ddd65b23ebd5203f6047ce7a8db25c7fcbb3a3e3c16f68c83",
+      "after_sha256": "a8fb27bf3172ad7662d5bff77173a8fc6ac566120fe9d544b12ad314ede3a53f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22526,
+      "before_sha256": "cea778ea3954e8906b7bdf3e15a21016e64478f01b4cc7f4269cd8d761b779c6",
+      "after_sha256": "8a0a0fdf0b98e1b142bd44779608f4809bc91e2648fb3fe738ad781268bc6e12",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22553,
+      "before_sha256": "81f522a0c2fc8ce54a4e3dc2b23df07f2d5606cad55099fa18204c874c2a6dfd",
+      "after_sha256": "1c56b2522b0c484a1642321e3cb00ec8a8c164a2059c947529ed8df9f48278dd",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22559,
+      "before_sha256": "3902303ec4ebd502860e99aa514762bf9e7cde80128afc0e67eec623d50ffe07",
+      "after_sha256": "17863207444f0b28c67505c579411c9505bbcc4efc62d09872103f1ed5da8aa1",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22589,
+      "before_sha256": "3902303ec4ebd502860e99aa514762bf9e7cde80128afc0e67eec623d50ffe07",
+      "after_sha256": "17863207444f0b28c67505c579411c9505bbcc4efc62d09872103f1ed5da8aa1",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22600,
+      "before_sha256": "7cad5428a8ece51f5dd684084766cf2162ab992f60a66a27ba9fc5f05e743db3",
+      "after_sha256": "a663fb4887f1f6b8f384edcf7ca7bc63e8be3d73a151bbc55342b7db83131b87",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22623,
+      "before_sha256": "56f1927ac26a06b6a7f4c325996197b5abaca3de1a6480891fe5828071de043b",
+      "after_sha256": "53435127028a70059ac9ebe41841c50dbc215679811e17678520ceb5c88baa78",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22626,
+      "before_sha256": "a4f8ee7c41b5dc75544190de0f8e389e1e25f75259139608e727d9b2d4781d01",
+      "after_sha256": "9a4dc8df3ed41df0d07cc4c0949390221eae961d1fe1c34473f50b4239254871",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22712,
+      "before_sha256": "cdbd848076cd9cfabb2f6efad68b5c9e968fed7c9e120b8906992ae31b45a427",
+      "after_sha256": "0117dc74e6387bf5b0cfa25d27e9f996181dc835700e192deaec0c17e120d5ff",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22715,
+      "before_sha256": "d4c359724ea25edb52695e5b104de6a49bab1f3b5bfd5b25d9a5b606e10e354c",
+      "after_sha256": "7fba3aae6fe6f16e96f443b0de2b105be97ffebf9e2fbc424d194fb2db887391",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22733,
+      "before_sha256": "acafcd368b92243d8af4325c4d9f23e175cc263cb28bcac34cd5a458d76e9c51",
+      "after_sha256": "47b14c5698bb9262a85a77ee7779c3ef6b469b6578bb928fb08768162f0860ef",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22737,
+      "before_sha256": "6325861d69ed8608296c56c26248990ea0bf81702f81c8e9536fa1a495f966c6",
+      "after_sha256": "aa3dc5908367aafceadf819bad3c8781f16bea279d287510f8b9aecc4969fea5",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22747,
+      "before_sha256": "56d22d115fe4439f770264a12da479cfbf550fa7ce4a44f02349571fcc1023e6",
+      "after_sha256": "2b47b3e0b299a0a363167d43918a69f22036a76ba07e14fbc75852415e046402",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22767,
+      "before_sha256": "d2cd23cb70ad1bf4677310d94f9ca2fbf19a325003362ac3dbd64a1a668559dd",
+      "after_sha256": "18495768fe043ac93fb9194accd44729967425543fd026d62e5932a71512dc9b",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22786,
+      "before_sha256": "56d22d115fe4439f770264a12da479cfbf550fa7ce4a44f02349571fcc1023e6",
+      "after_sha256": "2b47b3e0b299a0a363167d43918a69f22036a76ba07e14fbc75852415e046402",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22798,
+      "before_sha256": "1d53fc9b14322da08b9a129bea0081bd83537145432183203c0dfd68a08a4063",
+      "after_sha256": "96d9b89f22b50a1c492163995edb94ade5f7fb21cd277e7e920c55cb1a3c5a3f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22802,
+      "before_sha256": "20b89bfba8b7d6906eb7f0bb34751d6c118f77036bfd450bd94c62785d76f075",
+      "after_sha256": "177e27a236352a43736a0edf96d532a9a8af020ffde8e836831cfad9c62e9f26",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22813,
+      "before_sha256": "cc2a974067b683a17f196823cd946d6ec0ab2bfa78a7de95d35c40852842bc68",
+      "after_sha256": "3b96e0775baf228b0c69d3c775ef3368fbb0b06760106ba6d10477a501e760e9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22830,
+      "before_sha256": "2ce55c297cce842ae506fdc882818bc9f0139fe83b45aac06cd0ebcbf3ec9ff3",
+      "after_sha256": "384353d08ed45551f8d0a766573b57c70b18148e96d373c6698ce963a432627e",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22848,
+      "before_sha256": "c98f538eb0eaef573c34d8b518cd1b851aa4dbbd2b932c8b3ab3ba29d75f4722",
+      "after_sha256": "4834e5a7ddb9c99d86c15968616b406c5e1dccc2f6c06d7e33465b3e3d1182fc",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22859,
+      "before_sha256": "19a085bea19d8ab6dda7b9e39730d2fd50d07d1b95a648983039efc94daeb866",
+      "after_sha256": "149bbaa7984e38d07846293707624a690ef481763df1db255a01ebad39bf2b33",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22860,
+      "before_sha256": "a11d8879037da8d1e35d64e72dd581f96f6437851a4681dc47ac657e5f29dd16",
+      "after_sha256": "fab1ed1e1c882c37759333608950b3d7820a533b5061d7cfdf9cf8907787f935",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22897,
+      "before_sha256": "51bf9e363d677fe7f3ea57dadb56153cdcd35f37e63b610d29d30e401d394a6d",
+      "after_sha256": "9bbfb1bf9dd7e55aa53e2da61624ab18f317c8f0225d88353b50583ff4cd27a0",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22906,
+      "before_sha256": "476ac2cf12ed5956a66abcf135343017dd907a7982c15ec24c2f93eacfd66753",
+      "after_sha256": "0a6144ece86dea41b6f5fbaa93ddd19a74d5564b9d0dce6a3dc7e47f65f87df8",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22916,
+      "before_sha256": "2c67546a5ff1fd33656ba620d25489b5b08ba167efb480ef7e55a093bb38e730",
+      "after_sha256": "5b498dd743b00cf44b1cb97ef3eca097c8e68a3f0269cd446764548cac6be579",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22920,
+      "before_sha256": "f6415cb2fa33126e7a534793913582079e26cd04709170f0bf55de9ba822ec9a",
+      "after_sha256": "aa88c5c4fe081f50126e409ecc5ec8433950811a746395869d7e4a398b10c6d5",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22933,
+      "before_sha256": "2c67546a5ff1fd33656ba620d25489b5b08ba167efb480ef7e55a093bb38e730",
+      "after_sha256": "5b498dd743b00cf44b1cb97ef3eca097c8e68a3f0269cd446764548cac6be579",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22950,
+      "before_sha256": "37a8aafc0fdf8f586b0e310cb5ef5ff1cf783d00c047c81840cbfe12fc945454",
+      "after_sha256": "38c628f9ca01803d12bd4500e70387baa86cdcbe5e52bff3ec3252f605c359db",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 22985,
+      "before_sha256": "85824d7e46e7de21bd8ab15e8890a7302fffbbe2235306ed60b2a921c8c2b84f",
+      "after_sha256": "6967c6ebd0ee178b11927de7ea62d2a372b96b8c63c8221e30189e91829fbdbb",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23098,
+      "before_sha256": "904356a04313364b5983ad68b9737eacd8a363584302d7ef022518c83d7ec08d",
+      "after_sha256": "6e6752b639cad768e2e97c0847ef838c3e37d2ad3892dc142d21e79521c85495",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23109,
+      "before_sha256": "3f60128e1846931523b1cb35b3f477d9a820b4b0694724837d76d3e1ccd2efb4",
+      "after_sha256": "132b4c15b3c39d033e577fce6c479162b592d64ec9824f96bd7d115004aa6d51",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23124,
+      "before_sha256": "b0945d0c3cfd658a7fc62b617c913b044a111d1d5693bae1bca20ccedade5593",
+      "after_sha256": "a6ad9d50e2967a03077ee09ca363e238929f5f986ddf0fca4126d3c7286cb837",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23125,
+      "before_sha256": "03b44e7800321fc95f663f2510e6292beaff0e247fac400844a033c2c65a3e1b",
+      "after_sha256": "ce9d5304e620aff175b470aefa7ef3788c6c22b53414b011dd89f0343ddd7391",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23165,
+      "before_sha256": "13c84093b8e2d78fcf86cd87034623d1785f0479458be4c0bf4b014b47f8da2a",
+      "after_sha256": "2fd4ee43e9b8e223ed2d8f91127a62ba0ca9b76462cda4c06733a14051a78a4a",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23221,
+      "before_sha256": "f028d1abe8a44d185e9bae565652ffe6511c1fcbda583968e00b14bfe29ab3f6",
+      "after_sha256": "e6a5789d50af404148e213802f646b90ca49fae4c04a99fe9202651b271c7e1c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23222,
+      "before_sha256": "dea8cac5ed0a4fe0f7b3c4600397624b9af2a8c0ac3460c7064690805e2dd84e",
+      "after_sha256": "74c68074f7af471aabcc1c266b4cb2880139306919ad1a5b95aa4340eb7ae64c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23233,
+      "before_sha256": "ff43c308776312defeea3a82a46a083a4a930647724957fb9d71f478582ec31a",
+      "after_sha256": "62e72e30f280425dc46bd192849dd06d886db53fc32903fcfd5084d3b081abe2",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23244,
+      "before_sha256": "116445da822c690af4020c488895f56d08d1123a2769e9c586b572d1934676b4",
+      "after_sha256": "b29c6a0ec43547fdbef1870cfc7f049440239c57daf9b74ffaa45e3c15501515",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23252,
+      "before_sha256": "d712cc1de2ae0a35921b767918fb5dd6e8a5b7055ed39b6969938ee04172574e",
+      "after_sha256": "ada6938a68c287e087a40592a91db68ea62178e13de4289fe1b01ad211979f5f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23265,
+      "before_sha256": "521ae900539882f5db3b10fbef053723bfe6a02f21f674534bf4f65d8bb3fc65",
+      "after_sha256": "a52e17ddd814c4821cba81688ff9fc28ce5e8106b9146d0c59420e0e10fb6418",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23276,
+      "before_sha256": "20a5c55d8d9aa9462eb09dcd8e42344f5b07b5013894aa0c99a74fa8a1d54480",
+      "after_sha256": "209e974e437d52c426a9cf7341d838395969655362b5c2e05eae858259c300ee",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23288,
+      "before_sha256": "352dcbbb2b9a224a5dfca2c32d92a2138b777e2475d2bfb82cb98dce28896f7b",
+      "after_sha256": "cede846a9c9e815043a9ae853f849652325a404937f1b94b1389bc132c40c12f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23329,
+      "before_sha256": "b6d451454b3673d9d65fc1694267f87086462fcf9c547d6373008af493db8ea8",
+      "after_sha256": "6b327fa778ea6e3e90e4c421613075bd2fd9299d5ade65922dfed9e4820b161a",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23341,
+      "before_sha256": "0fbb260d400cc877e01e021e6c8e062b7ef9f0d54a39a06699062ac181bb1b77",
+      "after_sha256": "c93b79e6b944acf28eba64ec0dab64ecb2b611d0344d709d94e0118048b1b18e",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23349,
+      "before_sha256": "e1fd2770854cb70df7bc64bbecf1152a59d9baa0cb1834158d447c97aea6497e",
+      "after_sha256": "8cc5e43a33ccb6401ecb55627fbf3d26e8c76a66fe725e75612f3ac3940e91c6",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23358,
+      "before_sha256": "31bf1934a5405f7081b9a340512f6c89e00eb6aaa0f6fcbceb521212a787c057",
+      "after_sha256": "9aaa84bdcc207af9f58c7e37f74ec28efdf65782b21bbe5a8923111eeb37a39e",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23365,
+      "before_sha256": "93b34740df080d37276263a421c83c6bc2cb6273b1c8b182c98ed4c5bc6e3f00",
+      "after_sha256": "54fede34559e785cbabdbfaf69a27fd22e4f6357fc48027e8496d8b1a7925387",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23366,
+      "before_sha256": "2cc315d6cb5b2ac6b0f4788818b4462358779105254b075e6113f24fa43cc95c",
+      "after_sha256": "acf5cff1bf43bee3aee3e0a22d8cb04823374669fda850d5c111bac561254ba5",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23370,
+      "before_sha256": "fa21e834980e323476db0e5117fcef8793ad46a0163ded22b25177a6bbdcc62b",
+      "after_sha256": "157501166b40cc0f5aa1677753d08d36ea261c455a8c6bc62f2cbad65ddc3c70",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23381,
+      "before_sha256": "1d3f5f794a7f1090334138bad291382935b91301b851c7be99a15049b9b688ca",
+      "after_sha256": "b35909b09a89d5e08046c597b37e6b43368c1d83e0ff226abc3b74e17b513b8a",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23382,
+      "before_sha256": "5b22d44ddac2a038233a9c9b0d3bd2886ee57b15933cd08645796ec9cf457ea9",
+      "after_sha256": "0f9d685377c4821fb3dc15ef6540417533b0933510717f2fc006386375ee28fd",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23384,
+      "before_sha256": "b464f9dd9f6c00aa9d3fb7112af4e1730d04953d89fc650c901d4fdc87d25bfc",
+      "after_sha256": "8b67d8ac6fa6dfa27f1974fa239cfd69631c17fe3e1d8579aa0ec36663e9a325",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23410,
+      "before_sha256": "158f80366abf3ac82be444587c0f47f82ea22fe86b91a886954f99926cf53c7c",
+      "after_sha256": "4f17a90ae1103e6b5ce0acd7db34394d4abd50593bebc6a73d854a156a039668",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23431,
+      "before_sha256": "23e1ce9f67df17e169dade41d802b5deced10033749b7cf5dddd18ff411b59a1",
+      "after_sha256": "d10b86f687a1bad51f92cac5c88962ee348dc0ef223cc04a131c0eaac90ff759",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23454,
+      "before_sha256": "6e5b0e48fbe19983cc79785f9e93fd592cf01f4b10ce80c259af1a8a59315c4c",
+      "after_sha256": "55740707f3eb04b98049b048d5192633a8fcf2fb78fb2f6778f5fb8012999eb1",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23475,
+      "before_sha256": "c1eec73927bd5ccc87c28416286e6feb2f6cf5cdd0b91c100253cc4375ac39bd",
+      "after_sha256": "b9beaa91e4cd8e97eb1582e88da7a7be95e5cd661b7b1399cda9ceb5687d6d00",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23492,
+      "before_sha256": "92087bad3d67ed9cc9e6837126dc23a68abf0956307b4e3cf6500f7a197de851",
+      "after_sha256": "9da58b4016f70e6cac31db1294979fd21eb6a97d311eb63ece1291c88c414fbc",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23493,
+      "before_sha256": "159b317e563a1d593d43177f53eeb5a1033651374643c6f7b77c72cf0d173f25",
+      "after_sha256": "73e729836cb8c43307484cabe83b0e807cd85ea55873c8c071dc992d32f17035",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23522,
+      "before_sha256": "e21c61dab2adb7fe73e7082dc879ef0f17ae3a509400d3a282b4eb0edb775dfd",
+      "after_sha256": "4fcb028b50ea6a5ca4bbc0690227aa3a4b4896bcefaed44dbd5aea5096299c2f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23530,
+      "before_sha256": "1085561681b9a775bcd547d9a997a756b3a238990c3edd8dff49ba9b9d83fb63",
+      "after_sha256": "64faa068f08977aa2922eea18813ba4e2880d0ba4dd68ae889b1394066b0967c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23554,
+      "before_sha256": "1085561681b9a775bcd547d9a997a756b3a238990c3edd8dff49ba9b9d83fb63",
+      "after_sha256": "64faa068f08977aa2922eea18813ba4e2880d0ba4dd68ae889b1394066b0967c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23558,
+      "before_sha256": "ce05416563106c936b069eaefbc277f0334f3b05b034c7c0a03859caaf6fe580",
+      "after_sha256": "b614628ff421303d7ad0dc51c9b3cc41aeda714262d5ffebd9e1cff6511e4e8c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23575,
+      "before_sha256": "1085561681b9a775bcd547d9a997a756b3a238990c3edd8dff49ba9b9d83fb63",
+      "after_sha256": "64faa068f08977aa2922eea18813ba4e2880d0ba4dd68ae889b1394066b0967c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23605,
+      "before_sha256": "1085561681b9a775bcd547d9a997a756b3a238990c3edd8dff49ba9b9d83fb63",
+      "after_sha256": "64faa068f08977aa2922eea18813ba4e2880d0ba4dd68ae889b1394066b0967c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23709,
+      "before_sha256": "893248ee08cb51de356a865151d8b7121a2cb0545ea3f89c67ed600d0a16133b",
+      "after_sha256": "fc31dcbaf9f3349884fafb506c2303cecee9e7d7508ef656ffb447b455fe1c79",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23724,
+      "before_sha256": "2668eb0392a09bcac2ab979f6613418c5ad3d626882fbd17782e6a4085db9456",
+      "after_sha256": "148a3f2ab49e4a168ab65bf4c9025f158d8145ee25cd12f705f33705ebeb39fa",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23738,
+      "before_sha256": "e99d9fa09357383d35653c84d2de33ac2cb6c4908d61bf3a0557521fb4b9fde0",
+      "after_sha256": "4aca9346c265beb7cdc66846c142ef292cc973b316a3c48546c62a7c81b0257d",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23757,
+      "before_sha256": "b8f35f09f67ef42c34c52cc9b32481eba06ebb3405527f49d2419fe196ff23b1",
+      "after_sha256": "0c4377d60438f61dc3d2c46a3e763c4e1b2d9fc52997a36788065e7b3d9b005d",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23761,
+      "before_sha256": "f3ff0e937c6b2a0832a4fa9125361a345eee16bfa1b0337008bb7d4a36272966",
+      "after_sha256": "86254421018c3274e04b24824494b81313db0e548dc1cbfebfa920ff015d27a3",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23766,
+      "before_sha256": "90561db8af6a6046a3f1f4ec617075b25b05673b1ab36817ac2ee45973aa1e95",
+      "after_sha256": "15ca898db0a500b950b834fac5b22cee3cf36c985414dc1bbdc21918d8519a60",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23779,
+      "before_sha256": "f3840736675e4fd2775c772e2245f1307790d53ddefe25910bb230663e61a91e",
+      "after_sha256": "6a9d1eb54368732bc1572b74509f890f39c975a730d2d15bb32cd8ea76f2d5f5",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23876,
+      "before_sha256": "3c4fe4ba65545a8fc177060a4b991cba61b2a4cfc5c23a0ed509036997ab598f",
+      "after_sha256": "352491a114087710f544b8262dd76db5aa221dbf641071f8e12d14ae009668e8",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23880,
+      "before_sha256": "8b01bf326719325efa2b64c19fbbfa8be35f6a280deffcde6066e45790496b63",
+      "after_sha256": "924f04a849bd81afaaeaf9d306b84ecd0129f012cf9800f3a641b60e22da0c72",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23901,
+      "before_sha256": "48e70cea9dc34000d3e4337c5a17ae7ca906cb2275ad1b278d81c4237252f8c2",
+      "after_sha256": "9ec7cc0e10644197ac07132931a204b48e3a48584818c6ea2298e9d4f0562646",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23919,
+      "before_sha256": "bf909ef6b1ea73a6124b2b52cedc2b94cb9dcf1566de90e868b14ba2bac8b20a",
+      "after_sha256": "2d303f6f285bd15eea74c3fd1412ac8c31a932496a0ebf50e885bfbe96a23384",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23945,
+      "before_sha256": "181fa2da9982bcc20e4b1a7acf287c9a55329b15a3e6786d66fd39c145602489",
+      "after_sha256": "77525db2947b5269ae9e0fc1103a92002362b2cf09eacdf3345eea19c925b7b0",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23946,
+      "before_sha256": "6a0ffdeb7a175594eb9a56f8b0abfd81b358b9e47f4a6244ba43f349ee13968a",
+      "after_sha256": "a9aa9785847219689e34afaa9077b0de659ae312390bfd9caed155a9757cd365",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 23969,
+      "before_sha256": "f9a21191b1f9edf12db33982443af98283c8a89d08df70cc71800c889b704e91",
+      "after_sha256": "ab9f6bec3d358b2a87bc0ff55716e62a6d1ef9fa18d6bc97264a17c4d67dbcf3",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24007,
+      "before_sha256": "f36c16c08501424154db7e0d80de534458d532eebc2ab3b9287b1de8851ee32a",
+      "after_sha256": "c4c8cfe09080a9e6affdd532c1ad43acaf1bf0280f660c24c7ff88e26f1b6730",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24036,
+      "before_sha256": "3a4510ffee672c4c8ba3821820953e1a7d4a94d6b8112849af4d438e79dcd5a2",
+      "after_sha256": "0ef7fc92ac5134b244d42c2f370393523aa5e341f61e863954818f0eadac5ee9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24045,
+      "before_sha256": "65999b6126492b408e6c12b7ba135afc602d41f591355571ae86cf60f21565b8",
+      "after_sha256": "093c7eeca449595e3759d9758258cee7f02c3a3ac43cbb88513d92a2edb1b4e6",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24051,
+      "before_sha256": "ba80d05c8ba7527cecf9478bf95b1b421ce1a3edfa49c04dceccc3fe1a331290",
+      "after_sha256": "5b5ae12e381e676350a211957b4a33cb4482f153cd567ce16b7cdfa0afba04d9",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24090,
+      "before_sha256": "5b320365f5e3bb5377dd6208628852995a2c5500da173ce6a19d133ab8f9153e",
+      "after_sha256": "bab3e63d6e8218533bf2610a2c3665624fe3ca25fb756c4eb49fbc6046a088d8",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24154,
+      "before_sha256": "b15335d1ac7bb11da30b664a2366253da6228e9d82c6264cb777db193924bc86",
+      "after_sha256": "3ae2e4ee9dda2736bc2408de39285b16052f24ce8d06ca1330e903cb3350102f",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24239,
+      "before_sha256": "58f4a1e41a3e02d25f7b4aa7bb5f5fdc00272e836c5612232f9d7b132a897c79",
+      "after_sha256": "75fd71796db5333a9feed2e565079c2a8f619a428738cb52af01607447c13650",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24249,
+      "before_sha256": "43e93d4f47b56acce44e0a0e772a6049c3e526985d39a99e8c31b7bfdc87b9b2",
+      "after_sha256": "fc1b68dda290782d7c03ed55cf3e869507f548af1e4f9bddf39e041419364940",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24259,
+      "before_sha256": "2ddc69a7d58f9c1e04467b90b44632b6fe1295ee2b042b611ed5bdc54c3008f1",
+      "after_sha256": "d0fbeaee829b77596aa1c3931e43fc95c9bc6fe195a493e765c8c4fc4e416446",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24268,
+      "before_sha256": "8b713e0e185aade6cc97ab4efc17455a829fb59b92d284649112bfd900234280",
+      "after_sha256": "ee697dd513c63c02c2e82fa1b2163a2225479068fb0bd18412bc11d2670957ab",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24272,
+      "before_sha256": "188bf7a18dea4f52ff3a3243c425940b0829aec27944955bf2bafe1d720f9949",
+      "after_sha256": "303952abbcb03894705984ae0d258d0d1d4cc395be28af2ac7d07c68221013fa",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24280,
+      "before_sha256": "de6f553b8aee241a45c36e3f4d4032fce2b7cb25ab43a0aa49aeaf760b4ecaa8",
+      "after_sha256": "afc30650e16824211328566ef2243634f8b37ca23117d6229088e15d2b7f2882",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24286,
+      "before_sha256": "45ce834cc2602b386f08cbb69a420b12f61aa343d80767563b2a9db02f29972f",
+      "after_sha256": "71a70027f69258ed6d296c3649ba7821263a65ce94c5e5cf4b7449925b192cec",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24288,
+      "before_sha256": "1249c4d34bc2f97b9816d500a0964d8b3ae6fc2edd5ae04f8ce9b2e291f77c41",
+      "after_sha256": "565fac36c9c5e0f0d0f6348ccb19e2694291ff1ad5cc0cc35f216e7fd9ed9fa4",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24295,
+      "before_sha256": "8efc673c012795ef0e1e1669b2ea03fdeb788a5e4ac507968d0288743791ed51",
+      "after_sha256": "e5cee06a51eb7b162630d541d8316977ba6a680ca8eee495cce95b7c353abb5c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24298,
+      "before_sha256": "c6be3a11a3bc58314359a11923f397ff9ebf3c16f8dec37fe67e23aa448eb908",
+      "after_sha256": "77095950c70f5b1c20bb9df12b1de5b2915bb023b5d20edba2480148dc545f77",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24299,
+      "before_sha256": "b66bfbf09fe56e70617a57468b05627fe0096e7adadb9fb9d8498631243701af",
+      "after_sha256": "cec8a7161d94a9a02f9a6aa71ae92f74833d4861c9bc21d47f69c170d402740c",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24319,
+      "before_sha256": "9b5a811b44d413a16d5fcf322c167b421aebb6de2c91b9e133ff1cdc1c733c77",
+      "after_sha256": "dec3b867f9e32ccfcc4089b1c96fd04992db7f4f58881f05b769848c3ea63f4d",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24340,
+      "before_sha256": "11a874016d119f2c36f09c0907620b5f43f759a4e08dc55eb2b4ffe5491823d7",
+      "after_sha256": "3717275b4215bd2619899f79f22c74280d55cf55d8c5cccb3c2c9f654edaf024",
+      "reason": "나레이터의 해체 및 너/네 호칭 통일; NPC 직접 인용 말투는 보존"
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 15868,
+      "before_sha256": "cedeff0c134c66e07293cea1cb42a0bc2ac9693e0778d804dc1d7da612979b51",
+      "after_sha256": "22761b4f8764a6fd144e60c0a0252b2e28c13e2edda478d540766adc792fe9a1",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24393,
+      "before_sha256": "ce9d5a654610dd47ba87648ad7f5071305bee3e6b7e7838d1c255a8cd127d227",
+      "after_sha256": "1f66aea3bc9f83ef608e1a4ea703d030d7fb4e0c07ce1b89a7eaf91e6b2309f5",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24405,
+      "before_sha256": "b1227fc48caa23829af125dea01cef9db5895c7ba8ee0dca56d585cb95d90ec4",
+      "after_sha256": "cd664b9a4853c0f244f1319d10cccb85f78a678c9002174760ee8a140e2dd7ed",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24419,
+      "before_sha256": "b1227fc48caa23829af125dea01cef9db5895c7ba8ee0dca56d585cb95d90ec4",
+      "after_sha256": "cd664b9a4853c0f244f1319d10cccb85f78a678c9002174760ee8a140e2dd7ed",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24432,
+      "before_sha256": "b1227fc48caa23829af125dea01cef9db5895c7ba8ee0dca56d585cb95d90ec4",
+      "after_sha256": "cd664b9a4853c0f244f1319d10cccb85f78a678c9002174760ee8a140e2dd7ed",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24445,
+      "before_sha256": "b1227fc48caa23829af125dea01cef9db5895c7ba8ee0dca56d585cb95d90ec4",
+      "after_sha256": "cd664b9a4853c0f244f1319d10cccb85f78a678c9002174760ee8a140e2dd7ed",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24522,
+      "before_sha256": "d57ff54b3798fb99c627c229bd79a8dcc58f00c7f1aea1db241ab7c9d75dc944",
+      "after_sha256": "2ac3bab79ed1d194fabf6c31c00a263d62be1cd62e703826e45b7e40f241ead1",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24527,
+      "before_sha256": "5dd25d9f0c3f24b3d76c43d4c44875e02c91218079f9fa4f2ea1285bbf424469",
+      "after_sha256": "7cd15e965c768092a3c0dfceb29fd30ab1cd20b4f6a27273d7bcbb85256ef9ec",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24540,
+      "before_sha256": "4c11a0941a629a2832a5a4a6df296fde197661453a9a6cb8b22029c3972b4f10",
+      "after_sha256": "b0a94542e8a301a0f2c2f2a38f0eb04e64ac2673c9245337c70513c5b72cbd5f",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24647,
+      "before_sha256": "7def29837970f1bcd621ea76362cb26f747be5fed7fe9da2ccb4bd7a07cad404",
+      "after_sha256": "4a80dbf56c0b52f09230897257f6b0aca0fc245b2034b5623dd89e281498387f",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24687,
+      "before_sha256": "7daad6f3a943ab07a9a8e898fff5fa7835ad02248efe267fdf7aa6fc4d24f1ff",
+      "after_sha256": "93d95f9ad71476cab139c00fe5da9468c6bedf9b71357a93713aa5291424a802",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24711,
+      "before_sha256": "03577788a2614fc1cdef0bfe8785f5d6e16e567a267146f03a6367ebcfef6d1a",
+      "after_sha256": "cd09d34cb03d20485da81409d6f0e6ace4049f1d42aac91275133dee461baa0b",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24810,
+      "before_sha256": "be9d625d02c6fa09d9c09630b0f700d3f4ce04d34bb892d2913b651f544b0a6a",
+      "after_sha256": "35e74a2af5fb1ebe17a5c6067c0920fd98cd16960ac7f092d355faf1d3153c44",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24839,
+      "before_sha256": "addb13ccc33b4c5ec56b380f8449e526b677c1341fdd70c7ad44d3463076dbfa",
+      "after_sha256": "e12b652f135723d7f20693e357236929ded1dd7b5cfcfb90bfe5e01d5d2e2153",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24867,
+      "before_sha256": "0a7fa7b95dc7da5b864fed71e94ee9db6f60b45b743b8683af5efcd9c9bbd744",
+      "after_sha256": "126ba0c5bd02d895d571f55a02bceafe70adfa2b0710aaa30df39bcb47ab21d4",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24929,
+      "before_sha256": "48a292191101662477b8fc2f12ac2f3146f413abe86c476e76bf2729338b2c1d",
+      "after_sha256": "fc36ce834aa57e2fd91c5bc40dc887c684ada730be319ffa2d096c1cce59badf",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24956,
+      "before_sha256": "5a45cd5b22e43a0211adda42b77d5bed745a4f826ac15075aed8ddb5beefa2ec",
+      "after_sha256": "73d7f99055d45ad9b13564ea95594d0a3d69ede2e4b87bfc71d4613ffaa04af8",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 25001,
+      "before_sha256": "5a45cd5b22e43a0211adda42b77d5bed745a4f826ac15075aed8ddb5beefa2ec",
+      "after_sha256": "73d7f99055d45ad9b13564ea95594d0a3d69ede2e4b87bfc71d4613ffaa04af8",
+      "reason": "Narrator/Zoe-narrator casual voice and familiar player address; quoted sign preserved."
+    },
+    {
+      "asset": "english_events_standard",
+      "line": 74,
+      "before_sha256": "d64c7d0a91e7174025efed480986815b107a7ef2e6ea8880212f5af4a006f985",
+      "after_sha256": "ba15e143b2cfb08e6f88da7b6c8f35b478b35d5dee57cdf5abf67c77d6abefe6",
+      "reason": "Final scan: casual narrator instruction/thanks, including alternate narrator voice."
+    },
+    {
+      "asset": "english_events_maingame",
+      "line": 24724,
+      "before_sha256": "c913a859df416d5eeae903daac12acfe3e4f1acfa979eb86e2d31e5990b8c127",
+      "after_sha256": "04672f9e87932dd0189f4a1be51ec5bc5c39c2ecc1b0d6e7658b05a949ee1350",
+      "reason": "Final scan: casual narrator instruction/thanks, including alternate narrator voice."
+    }
+  ]
+}

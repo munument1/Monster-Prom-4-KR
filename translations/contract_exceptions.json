@@ -439,7 +439,7 @@
   },
   "english_events_maingame:7901": {
     "english_sha256": "c3277564f38dd74153b7543805347021d31e08ee20842d79b5948b54cc5d98dc",
-    "korean_sha256": "1ff874de1fd405607709dbcfda8899e27ed061d9a940c9368562857a30a77ce2",
+    "korean_sha256": "7d84c702b28894ffa8a8abf20579f01c4fd37fc18a17fcfc00c71f2fca0dee0a",
     "allow_number_localization": true,
     "reason": "Thirty=30분."
   },
@@ -457,7 +457,7 @@
   },
   "english_events_maingame:8011": {
     "english_sha256": "a17fa64587685991b376d0c9699fd259fcc71822524b5a5c7a9d775a4ad1c127",
-    "korean_sha256": "ec4dc56e5f6f0cc0c1c2d41acdce24b743aa76aed423d243a633d469696b7c5f",
+    "korean_sha256": "7af19a29b08b87b534c0a30a59ec9724f2bb97ee0d70b463b43ed9444e983ce6",
     "allow_number_localization": true,
     "reason": "$12k=$12,000."
   },
@@ -469,7 +469,7 @@
   },
   "english_events_maingame:8032": {
     "english_sha256": "55aee9ea84b9633b170566612f1fbc1a82c12c0fe4604d61ea159f923878e172",
-    "korean_sha256": "cb28573c078d6a3cd99fa7824d0f4e5537471abf2e4e3864428dbd26c5d6d076",
+    "korean_sha256": "dca572b548b8cad57f8164c489bb1feb1b4a448fe2571c71e369b4338c67dbc1",
     "allow_number_localization": true,
     "reason": "thirty=30분."
   },
@@ -487,7 +487,7 @@
   },
   "english_events_maingame:8119": {
     "english_sha256": "e4d4ed310c7a65974cad9031b828749515cb9b6a7f8e94f2a7e7616bfb67d705",
-    "korean_sha256": "ad4ebc172b716e19dd32298d6b5410bbbd9b13be38843d2a2a3c995e405db591",
+    "korean_sha256": "0df40d59d3dee4093fd69d83911dc11483e8ff903f654ce176ea025b5fb7769e",
     "allow_number_localization": true,
     "reason": "Two weeks=2주."
   },
@@ -751,7 +751,7 @@
   },
   "english_events_maingame:15743": {
     "english_sha256": "08b2c873990efe9446cb8e3e5380566c11649131886cab67f3df056c3e741cdc",
-    "korean_sha256": "fee95aab880bf7e70eb292bee9a85be2e08c583709f164e63a9f7d507b88e3c5",
+    "korean_sha256": "fefd3e4bc33d66219942f6306c025f31af01e06d344561cd92ae306bec2728a8",
     "allow_number_localization": true,
     "reason": "for the night=1박."
   },
@@ -763,13 +763,13 @@
   },
   "english_events_maingame:15847": {
     "english_sha256": "2d9d92e4ff7e009c2ed315a1cd18ad7b5b56bb2612c29ad5f013e60a5d786f51",
-    "korean_sha256": "664bf5e9af21c2bfcec9cee17d7c08a5fb29eb7af8f61e0d43ef1381dbc36c3e",
+    "korean_sha256": "d712e07990e7d1576510900be58ade45ce7a5fb199b21cb45840c75614fe0957",
     "allow_number_localization": true,
     "reason": "six months=6개월."
   },
   "english_events_maingame:16057": {
     "english_sha256": "a9e29be9fad3b045a540c0837653ae662606795191329e9ec436822027e579aa",
-    "korean_sha256": "4a0c36d02cfb405f426fe68fd2282a85157171c5bed1b9b32b205e95f115f488",
+    "korean_sha256": "4e9c843511ba63cca3f35f3ce87f967a924ae04a70d673a3f56f33808f4b1514",
     "allow_number_localization": true,
     "reason": "Five=5분."
   },
@@ -925,7 +925,7 @@
   },
   "english_events_maingame:21561": {
     "english_sha256": "84ca29fa8c3eca3d7b6ea05940c02da12d41d21db8c5ca273fab87d6a85b2c4c",
-    "korean_sha256": "b366fc293891e8742204b41669e27257bdd998e807bf35cb805c6ea68f4d7309",
+    "korean_sha256": "e9813cec1cd8cf862a158bd2f59d1e8fc5022d68665136567ce2f8be7b91e590",
     "allow_number_localization": true,
     "reason": "Fifteen=15분."
   },

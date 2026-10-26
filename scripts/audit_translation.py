@@ -9,6 +9,7 @@ from pathlib import Path
 
 from fontTools.ttLib import TTFont
 from build_playtest import ROOT, verify_line, game_safe_stat_effects
+from audit_narrator_tone import inspect_tone
 
 
 def digest(text):
@@ -84,6 +85,8 @@ def main():
             errors.append({'id': ident, 'error': 'incorrect Monster Con Korean title'})
     if expected != actual:
         errors.append({'error': 'catalog coverage mismatch', 'missing': sorted(expected - actual), 'extra': sorted(actual - expected)})
+    narrator_tone = inspect_tone(catalog, documents)
+    errors.extend(narrator_tone['errors'])
     # Reconstruct every event output and compare all bytes, including commands,
     # branches, speakers and all fields outside the chosen display field.
     output_rows = 0
@@ -117,6 +120,7 @@ def main():
               'translation_sha256': {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted((ROOT / 'translations').glob('*.json'))},
               'assets': len(sources), 'fields': len(catalog), 'built_event_fields': output_rows,
               'counts_by_asset': dict(Counter(c['asset'] for c in catalog)), 'errors': errors,
+              'narrator_tone_fields_scanned': narrator_tone['narrator_fields_scanned'],
               'unchanged_literal_or_control_fields': unchanged, 'hangul_characters': len(hangul), 'fonts': fonts,
               'long_strings_for_user_screen_test': sorted(long_rows, key=lambda x: -x['characters']),
               'installed_source_assets_compared': len(installed_sources),

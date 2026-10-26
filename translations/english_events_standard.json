@@ -167,7 +167,7 @@
       "line": 74,
       "event": "standard_bigplateau_lootbox1",
       "english_sha256": "018c9e106a95d1778eb0fe031aa75e88a90454b8d848edb5f9440e1caee88426",
-      "ko": "(몬스터 토큰 10개를 내고 랜덤 박스를 열어 무작위 추가 지능을 받으세요)"
+      "ko": "(몬스터 토큰 10개를 내고 랜덤 박스를 열어 무작위 추가 지능을 받아)"
     },
     {
       "line": 75,
@@ -779,7 +779,7 @@
       "line": 323,
       "event": "standard_commercialstands12",
       "english_sha256": "92215eb0c1c4e78e287ab70be7ea60be0422b9a77f66c3201653f20be531fb90",
-      "ko": "판매자는 한숨 쉬며 충전기에 \"UwU\" 얼굴을 그려. 삽니다! 귀여운 휴대폰 충전기 덕에 +2 CHARM!"
+      "ko": "판매자는 한숨 쉬며 충전기에 \"UwU\" 얼굴을 그려. 좋아, 살게! 귀여운 휴대폰 충전기 덕에 +2 CHARM!"
     },
     {
       "line": 329,

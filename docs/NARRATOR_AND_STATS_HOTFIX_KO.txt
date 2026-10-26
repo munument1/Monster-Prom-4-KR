@@ -1,0 +1,25 @@
+몬스터 프롬 4: 몬스터 콘 — 나레이터·능력치 표시 수정 0.1.6
+
+기존 통합 한글 패치를 적용한 상태에서 사용하는 수정 패치입니다.
+게임을 종료하고 이 ZIP의 내용물을 MonsterCon.exe가 있는 폴더에 복사하여 덮어쓰세요.
+
+이번에는 DLL 하나와 대사 TXT 두 개를 함께 교체합니다.
+- BepInEx\plugins\MonsterConKoreanBridge\MonsterConKoreanBridge.dll
+- MonsterCon_Data\StreamingAssets\game_assets\texts\english_events_maingame.txt
+- MonsterCon_Data\StreamingAssets\game_assets\texts\english_events_standard.txt
+
+수정 내용
+- 일시정지 캐릭터 창의 Smarts/Boldness/Creativity/Charm/Fun 한글 표시
+- 실제 내부 이름의 대소문자 차이(SMARTS/Smarts/smarts) 처리
+- 이전 능력치 창·대화 속 증감 표시 수정 포함
+- 나레이터 본문의 존댓말·여러분/당신 호칭 등 376개 항목을 자연스러운 반말로 교정
+- 나레이터 안에 인용된 NPC 대사·방송·안내 문구는 고유 말투 보존
+
+능력치 수치·증감 코드·변수·태그는 보존합니다.
+실제 게임에서 읽을 표시 이름만 바꾸고 매 프레임 UI 검색은 추가하지 않았습니다.
+
+나레이터 유형 3종의 문장 5,051개를 대상으로 말투를 검색하고 의심 항목을 검토했습니다.
+자동 말투 검사·전량 텍스트 계약 검사·테스트는 통과했으며, 모든 문장의 뉘앙스를
+사람이 전수 교열했다는 뜻은 아닙니다. 실제 게임 화면 확인은 사용자가 진행합니다.
+
+추가 설치 프로그램이나 Python은 필요 없습니다. 자동 백업은 만들지 않습니다.

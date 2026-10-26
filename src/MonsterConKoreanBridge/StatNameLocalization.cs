@@ -14,14 +14,49 @@ namespace MonsterConKoreanBridge
         {
             switch (name)
             {
-                case "SMARTS": return "지능";
-                case "BOLDNESS": return "대담함";
-                case "CREATIVITY": return "창의력";
-                case "CHARM": return "매력";
-                case "FUN": return "재미";
-                case "MONEY": return "돈";
+                case "SMARTS": case "Smarts": case "smarts": return "지능";
+                case "BOLDNESS": case "Boldness": case "boldness": return "대담함";
+                case "CREATIVITY": case "Creativity": case "creativity": return "창의력";
+                case "CHARM": case "Charm": case "charm": return "매력";
+                case "FUN": case "Fun": case "fun": return "재미";
+                case "MONEY": case "Money": case "money": return "돈";
                 default: return name;
             }
+        }
+
+        internal static string TranslateStatText(string text)
+        {
+            if (text == null || !text.StartsWith("STA_", StringComparison.Ordinal)) return Translate(text);
+            string name = text.Substring(4);
+            string translated = Translate(name);
+            return translated == name ? text : translated;
+        }
+
+        internal static IEnumerable<CodeInstruction> TranspilePauseStats(IEnumerable<CodeInstruction> instructions)
+        {
+            var result = new List<CodeInstruction>(instructions);
+            MethodInfo translate = typeof(StatNameLocalization).GetMethod("Translate", BindingFlags.Static | BindingFlags.NonPublic);
+            int replaced = 0;
+            for (int index = 2; index < result.Count; index++)
+            {
+                MethodInfo setter = result[index].operand as MethodInfo;
+                MethodInfo toString = result[index - 1].operand as MethodInfo;
+                Type constrained = result[index - 2].operand as Type;
+                if (result[index].opcode != OpCodes.Callvirt || setter == null ||
+                    setter.DeclaringType.FullName != "UILabel" || setter.Name != "set_text" ||
+                    toString == null || toString.DeclaringType != typeof(object) || toString.Name != "ToString" ||
+                    result[index - 2].opcode != OpCodes.Constrained || constrained == null ||
+                    constrained.FullName != "BeautifulGlitchConfig.StatType") continue;
+                var call = new CodeInstruction(OpCodes.Call, translate);
+                call.labels.AddRange(result[index].labels);
+                result[index].labels.Clear();
+                result.Insert(index, call);
+                index++;
+                replaced++;
+            }
+            if (replaced != 1)
+                throw new InvalidOperationException("Expected exactly one pause-menu stat-name assignment; found " + replaced + ".");
+            return result;
         }
 
         internal static IEnumerable<CodeInstruction> Transpile(IEnumerable<CodeInstruction> instructions)

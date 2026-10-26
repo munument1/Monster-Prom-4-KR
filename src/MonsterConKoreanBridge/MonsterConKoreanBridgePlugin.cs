@@ -20,7 +20,7 @@ namespace MonsterConKoreanBridge
     {
         public const string PluginGuid = "munument1.monstercon.koreanfontbridge";
         public const string PluginName = "Monster Con Korean Font/UI Bridge";
-        public const string PluginVersion = "0.1.5";
+        public const string PluginVersion = "0.1.6";
 
         private static readonly string PluginDirectory = ResolvePluginDirectory();
         private static readonly string DefaultMonsterConBundlePath = Path.Combine(PluginDirectory, "monstercon_korean_fonts.bundle");
@@ -184,6 +184,8 @@ namespace MonsterConKoreanBridge
                 PatchMethod("BeautifulGlitch.CoreTextManager", "LoadLanguageData", new[] { AccessTools.TypeByName("BeautifulGlitch.LanguageType") }, "LanguageLoadedPostfix");
                 PatchStatNames();
                 PatchDialogueStatNames();
+                PatchPauseStatNames();
+                PatchMethod("BeautifulGlitch.CoreTextManager", "GetStatText", new[] { AccessTools.TypeByName("BeautifulGlitchConfig.StatType") }, "StatTextPostfix");
             }
 
             if (_enableMetatextOverride.Value || _enableFontBridge.Value)
@@ -217,6 +219,27 @@ namespace MonsterConKoreanBridge
             {
                 text.SetValue(target, "불러오는 중...", null);
                 Logger.LogInfo("Localized loading label: " + scene + "/" + objectName);
+            }
+        }
+
+        private void PatchPauseStatNames()
+        {
+            Type sheet = AccessTools.TypeByName("Game.PauseMenuCharSheet");
+            MethodInfo target = sheet == null ? null : AccessTools.Method(sheet, "SetPlayerData");
+            if (target == null)
+            {
+                Logger.LogError("Pause-menu character sheet was not found; stat-name localization skipped.");
+                return;
+            }
+            try
+            {
+                _harmony.Patch(target, transpiler: new HarmonyMethod(
+                    AccessTools.Method(typeof(StatNameLocalization), "TranspilePauseStats")));
+                Logger.LogInfo("Patched Korean pause-menu stat names.");
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError("Could not patch pause-menu stat names: " + ex);
             }
         }
 
@@ -1053,6 +1076,13 @@ namespace MonsterConKoreanBridge
 
         private static class PatchCallbacks
         {
+            private static void StatTextPostfix(ref string __result)
+            {
+                MonsterConKoreanBridgePlugin plugin = Instance;
+                if (plugin == null || plugin._applicationQuitting || !plugin._enableMetatextOverride.Value) return;
+                __result = StatNameLocalization.TranslateStatText(__result);
+            }
+
             private static void LabelTextPostfix(object __instance, string __0)
             {
                 MonsterConKoreanBridgePlugin plugin = Instance;

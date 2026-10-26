@@ -31,4 +31,19 @@ try {
     })
     if ($slot.Count -ne 1) { throw 'Expected one formatted display-name slot after numeric stat parsing' }
     Write-Output 'PASS dialogue stat contract: numeric StatChange construction precedes the unique display-name formatting slot.'
+    $enum = $assembly.MainModule.Types | Where-Object FullName -eq 'BeautifulGlitchConfig.StatType'
+    foreach ($name in @('Smarts', 'Boldness', 'Creativity', 'Charm', 'Fun')) {
+        if (!($enum.Fields | Where-Object Name -ceq $name)) { throw "Missing actual TitleCase stat enum: $name" }
+    }
+    $sheet = $assembly.MainModule.Types | Where-Object FullName -eq 'Game.PauseMenuCharSheet'
+    $pause = @($sheet.Methods | Where-Object Name -eq 'SetPlayerData')
+    if ($pause.Count -ne 1) { throw 'Expected one pause character-sheet update method' }
+    $assignments = @($pause[0].Body.Instructions | Where-Object {
+        $_.OpCode.Name -eq 'callvirt' -and $_.Operand.FullName -eq 'System.Void UILabel::set_text(System.String)' -and
+        $_.Previous.Operand.FullName -eq 'System.String System.Object::ToString()' -and
+        $_.Previous.Previous.OpCode.Name -eq 'constrained.' -and
+        $_.Previous.Previous.Operand.FullName -eq 'BeautifulGlitchConfig.StatType'
+    })
+    if ($assignments.Count -ne 1) { throw 'Expected exactly one pause stat-name assignment, excluding player names and values' }
+    Write-Output 'PASS pause-menu stat display contract: TitleCase enum names and exactly one constrained stat-name setter.'
 } finally { $assembly.Dispose() }

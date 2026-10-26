@@ -2,7 +2,7 @@
   "status": "pass",
   "scope": "All extracted fields: source identity, coverage, contract and built event structure. Targeted language fixes; full literary proofreading and in-game layout/branch QA remain pending.",
   "translation_sha256": {
-    "contract_exceptions.json": "81ad313791cce2437852f5f63e14bbead9aa725be5877b05cef66066e40b0599",
+    "contract_exceptions.json": "bcfc129f67c346ee30c500f86890fd6a3caa2b268c99db45f00695de1206c641",
     "english_events_challenge.json": "922da7e6c3ef30e463d3cf88d2247293026207340e22e4c28ad7df166786cebc",
     "english_events_chibidates.json": "9b0c12c3c6feafbbbcd82174690752e756d75fbf8a2bbd95d8a5f440a2e7aa68",
     "english_events_comic.json": "13045626cca81d0fd392c186cc65ed0313f804c3a91cf213335ba9544d5c67f7",
@@ -13,14 +13,14 @@
     "english_events_epilogue.json": "782d4cd49a732c1c6eec817de894072a4d30b1f9d8364bbe71b6bd1acd127b78",
     "english_events_gachashop.json": "04f601670ed33bc07215925fe5f4697c9f17a28167ed80207eb412970e60d5d6",
     "english_events_guestintro.json": "f86f570c2c6ba67212fd2c2ea9ca9db81506e4dbad9d9fb3cf6417e96544179b",
-    "english_events_maingame.json": "1045b703b6c5f9c9a4cb821491e2c249966c5b215a9371e16046e9c159844b52",
+    "english_events_maingame.json": "57ed8eb5800e51e6e17a7a6e56a141ad8cd410f31c08774d0a46e9e367a6a3ec",
     "english_events_prologue.json": "be70fe4de10fc5c7bc3808a13ad71200357d45d2431b8506505fe2c4b05c74d1",
-    "english_events_standard.json": "c5067b38b0c039f6a0a4a497db48c70396cb96cea7d29867ee28448769f54182",
+    "english_events_standard.json": "25c07b58a0059ca5a390ad31abe69dd67a881562cc4295a079f589c41dfe6bde",
     "english_events_tutorial.json": "2f94592cc0967ea6f863978fd3696b4412b8e006a937f850a492bfc23a904ac4",
     "english_metatexts_ko.json": "6b77ff6030ff3aa44ea8c8aa6f94cc215d9b8e46cf22a7a92e4e0308d183f35e",
     "english_prologue_conpopquiz.json": "b2f950ab75ba06b4cb300acf195d76f1664d3986b413acf0dc10c69956774332",
     "english_prologue_likes.json": "7f92d10fda286b5afca2b57ff97ea5759d9e66060d5ecc70ccbbf4f90efab583",
-    "grammar_exceptions.json": "f518228756b2f114fe382c9db8637416a08d6bfe7dd2e0ce631d4544c070a6d9"
+    "grammar_exceptions.json": "ca691d926bc007e9257bc97a69b9a6fbfce6f4aabf4a945bd9bc8fafbee3c9f9"
   },
   "assets": 17,
   "fields": 23986,
@@ -45,6 +45,7 @@
     "english_events_default": 1
   },
   "errors": [],
+  "narrator_tone_fields_scanned": 5051,
   "unchanged_literal_or_control_fields": [
     "english_events_comic:906",
     "english_events_comic:1086",

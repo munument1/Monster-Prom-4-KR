@@ -1736,7 +1736,7 @@
   },
   "english_events_maingame:16451": {
     "english_sha256": "718448d508892317ead668eb40f30ece7566b869e18bdbf5806b010cd220d315",
-    "korean_sha256": "0e4b90b32bc8456117d1be5dfaae7a63f7e523983bf50c4d83ad49c44157b79b",
+    "korean_sha256": "c009dfd9f1ccae1a88057bf1936d9b4bb202dc9addaa7111c48b065ff7ec66c5",
     "omitted_tokens": [
       "%MRMRS%"
     ],
@@ -1808,7 +1808,7 @@
   },
   "english_events_maingame:23365": {
     "english_sha256": "306329edb0f5d45a48ee1e6781e689e9c5d9e1e0689a44ae52db2f190f330a01",
-    "korean_sha256": "93b34740df080d37276263a421c83c6bc2cb6273b1c8b182c98ed4c5bc6e3f00",
+    "korean_sha256": "54fede34559e785cbabdbfaf69a27fd22e4f6357fc48027e8496d8b1a7925387",
     "omitted_tokens": [
       "%MANWOMAN%"
     ],
@@ -1835,7 +1835,7 @@
   },
   "english_events_maingame:24299": {
     "english_sha256": "415f16a1368e7841fb13303414595a18d2087fdee854afa9c399a07fcf039ea8",
-    "korean_sha256": "b66bfbf09fe56e70617a57468b05627fe0096e7adadb9fb9d8498631243701af",
+    "korean_sha256": "cec8a7161d94a9a02f9a6aa71ae92f74833d4861c9bc21d47f69c170d402740c",
     "omitted_tokens": [
       "%SIRMAAM%"
     ],
