@@ -173,7 +173,7 @@
       "line": 140,
       "event": "shonen_comic_ending_1",
       "english_sha256": "39984bf97e459c6fb51422aaba4243bedfedb3073dd4efe854856b49b0d7aacb",
-      "ko": "\"더 세게 때려라!\"는 %COMICREPLACEMENTLOWERCASE_SHONEN1_1%에 들끓는 위험한 세계를 그린 만화야.[n][n]그것들을 막아 낼 수 있는 건 \"%COMICREPLACEMENTRAW_SHONEN1_2%의 토벌자들\"뿐... 하지만 그 대열에 합류하려면 냉혹한 시험으로 자격을 증명해야 하지. 바로 격투 대회 우승![n][n]시험의 첫 관문에서 젊은 전사들이 해야 할 일은 %COMICREPLACEMENTRAW_SHONEN2% 두 번째 관문은? 격투 대회야. 언제나 격투 대회지, 당연하잖아."
+      "ko": "\"더 세게 때려라!\"는 위험한 세계를 그린 만화야. 그곳에 들끓는 건 %COMICREPLACEMENTLOWERCASE_SHONEN1_1%[n][n]그것들을 막아 낼 수 있는 건 \"%COMICREPLACEMENTRAW_SHONEN1_2%의 토벌자들\"뿐... 하지만 그 대열에 합류하려면 냉혹한 시험으로 자격을 증명해야 하지. 바로 격투 대회 우승![n][n]시험의 첫 관문에서 젊은 전사들이 해야 할 일은 %COMICREPLACEMENTRAW_SHONEN2% 두 번째 관문은? 격투 대회야. 언제나 격투 대회지, 당연하잖아."
     },
     {
       "line": 142,
@@ -209,7 +209,7 @@
       "line": 154,
       "event": "shonen_comic_ending_3",
       "english_sha256": "b6db2367e059dee46fbe5e4411235d54fe3141fa243d45c92efcf96b5b70aba1",
-      "ko": "라이벌에서 친구로, 친구에서 적수로... 데미안과 아라비 중 누가... %COMICREPLACEMENTRAW_SHONEN1_3%의 토벌자가 될까?"
+      "ko": "라이벌에서 친구로, 친구에서 적수로... 데미안과 아라비 중 누가 토벌자가 될까? 둘이 맞서야 할 상대는... %COMICREPLACEMENTRAW_SHONEN1_3%"
     },
     {
       "line": 161,
@@ -218,10 +218,58 @@
       "ko": "네 영혼을 공포에 떨게 하는 건 뭐야?"
     },
     {
+      "line": 162,
+      "event": "shonen1",
+      "english_sha256": "370ef7691c19d13a7c19f43ae8e8f2616c227cdc24d57141652f71473a9f1e7e",
+      "ko": "[choice]20세기 초의 위대한 초현실주의 예술가들의 유령들.[n][r1]예술가 유령들.[n][r2]예술가 유령들[n][r3]예술가 유령들?"
+    },
+    {
+      "line": 163,
+      "event": "shonen1",
+      "english_sha256": "c3f6d4aa1a03bc7b1bde8b79e7587d905fd95ed08b147a24fc246d1468c4abd9",
+      "ko": "[choice]수학.[n][r1]수학.[n][r2]수학[n][r3]수학?"
+    },
+    {
+      "line": 164,
+      "event": "shonen1",
+      "english_sha256": "98b9d5c9d3e6244a9cc0a6621ea713b9bdc9f358986797c48b6c29d9076fcb90",
+      "ko": "[choice]다리 대신 총이 달린 늑대들.[n][r1]총 늑대들.[n][r2]총 늑대들[n][r3]총 늑대들?"
+    },
+    {
+      "line": 165,
+      "event": "shonen1",
+      "english_sha256": "cf8c33b432b038e2178d30d424a97f924a16ca2d4d46c0c06af7b99f8bd17840",
+      "ko": "[choice]크고 위협적인 자지를 가진 늑대들.[n][r1]왕자지 늑대들.[n][r2]왕자지 늑대들[n][r3]왕자지 늑대들?"
+    },
+    {
       "line": 172,
       "event": "shonen2",
       "english_sha256": "fc7f530b990eb4373e1e76325aa378aa229bc7d286351a60c60c55ddb0316daa",
       "ko": "결혼식 하객 모두를 감탄시키려고 뭘 할 수 있을까?"
+    },
+    {
+      "line": 173,
+      "event": "shonen2",
+      "english_sha256": "65074f68555f0eab018e5e7fa396136043d707537e6b1aa54c7b79eb49ea7009",
+      "ko": "[choice]가장 별난 성적 취향을 듣는 사람이 괴로울 만큼 자세히 공개하기.[n][r1]가장 별난 성적 취향을 듣는 사람이 괴로울 만큼 자세히 공개하는 거야.[n][r2]가장 별난 성적 취향을 듣는 사람이 괴로울 만큼 자세히 공개하기"
+    },
+    {
+      "line": 174,
+      "event": "shonen2",
+      "english_sha256": "66b5e405200c240f83a5f306e31f2336417d0f6d632dd95e95fbe8325bbf09d1",
+      "ko": "[choice]모두의 모자를 칭찬하기.[n][r1]모두의 모자를 칭찬하는 거야.[n][r2]모두의 모자를 칭찬하기"
+    },
+    {
+      "line": 175,
+      "event": "shonen2",
+      "english_sha256": "89a3523dabbbe37d9f49fdb49b1e0ad4622ef589d8c94254135a991b6ae4aea2",
+      "ko": "[choice]그냥 맨손으로 바다코끼리를 죽이기.[n][r1]맨손으로 바다코끼리를 죽이는 거야.[n][r2]맨손으로 바다코끼리를 죽이기"
+    },
+    {
+      "line": 176,
+      "event": "shonen2",
+      "english_sha256": "7c25db9ecfd65ba4ca30a5fe83b0be9f615b85a0134cebcb87b1775c6c3d3bcd",
+      "ko": "[choice]대수기하학의 주요 미해결 문제인 호지 추측을 풀기.[n][r1]대수기하학의 주요 미해결 문제인 호지 추측을 푸는 거야.[n][r2]대수기하학의 주요 미해결 문제인 호지 추측을 풀기"
     },
     {
       "line": 183,
@@ -230,10 +278,58 @@
       "ko": "지금의 진로를 고른 이유는 뭐야?"
     },
     {
+      "line": 184,
+      "event": "shonen3",
+      "english_sha256": "ef2ce1986343b9129237ac42e2b22d1fef72591372834f21f531221297d19f01",
+      "ko": "[choice]술에 취해서 내기를 했거든.[n][r1]술에 취해서 내기를 했거든."
+    },
+    {
+      "line": 185,
+      "event": "shonen3",
+      "english_sha256": "12e6893f014ae2a7d57b61175e38a4371dc1b79d640b11332c0c302c60ca71f7",
+      "ko": "[choice]훌륭한 치과 보험을 들 수 있을 것 같아서.[n][r1]훌륭한 치과 보험을 들 수 있을 것 같거든."
+    },
+    {
+      "line": 186,
+      "event": "shonen3",
+      "english_sha256": "30e16773ab306ba7697d6b1c826208ab9a66d70e0b18ed2173439392fb1d6e30",
+      "ko": "[choice]가입하면 멋진 티셔츠를 공짜로 준대서.[n][r1]가입하면 멋진 티셔츠를 공짜로 받거든."
+    },
+    {
+      "line": 187,
+      "event": "shonen3",
+      "english_sha256": "a13d0809188e913d433b000fb0726b863f19bdd346776e86e0e09062d72e34bf",
+      "ko": "[choice]섹스하려고.[n][r1]섹스하려고."
+    },
+    {
       "line": 194,
       "event": "shonen4",
       "english_sha256": "ef19cc358d46bdbfdaecd64f289c68f8cda854ded416464f7fb76050b2e3ea2b",
       "ko": "이 일로만은 절대 감옥에 가고 싶지 않아."
+    },
+    {
+      "line": 195,
+      "event": "shonen4",
+      "english_sha256": "d6f13ab358ccb49fd3ee7caa5d89b5ea74b42a9b1fc65d37bd156c17fff98334",
+      "ko": "[choice]색채 이론에 반하는 범죄.[n][r1]아직도 무슨 색을 섞어야 초록색이 되는지 모른다니까!"
+    },
+    {
+      "line": 196,
+      "event": "shonen4",
+      "english_sha256": "d8771e66f205dca4e8afecc6f297fb36d2c7ed8d843268f4ab169f560f7d727e",
+      "ko": "[choice]사람들이 키스하는 불법 그림.[n][r1]자기 입술에 키스하는 데미안을 그린 그림으로 가득한 공책이 있다니까!"
+    },
+    {
+      "line": 197,
+      "event": "shonen4",
+      "english_sha256": "62f000486228882fd5986186cced8e7035e74b4be3bea79f211c359c916157ad",
+      "ko": "[choice]실수로 저지른 살인. (이왕 살인할 거면 전부 고의로 하고 싶잖아.)[n][r1]자기 가족을 전부 죽였거든... 실수로!"
+    },
+    {
+      "line": 198,
+      "event": "shonen4",
+      "english_sha256": "c939df1627b3415e908f456e05bd83291ee5f8b3c50f6e648f11885e53997b5c",
+      "ko": "[choice]남의 똥 훔치기.[n][r1]그 악명 높은 \"똥 도둑\"이거든!"
     },
     {
       "line": 205,
@@ -242,10 +338,58 @@
       "ko": "숙취를 이겨 내는 가장 좋은 방법은?"
     },
     {
+      "line": 206,
+      "event": "shonen5",
+      "english_sha256": "ddd520367e902a3fc7aef9c671116efbcd3c7bc5517a479209e167a14c22bd74",
+      "ko": "[choice]격렬한 시 낭독 대결.[n][r1]격렬한 시 낭독 대결.[n][r2]시 낭독 대결에 너무 열을 올렸을"
+    },
+    {
+      "line": 207,
+      "event": "shonen5",
+      "english_sha256": "4f00b1fe952649ff09ec8f9b5f953d323b0580bdbb8d02f467327e1529639ef2",
+      "ko": "[choice]자기 손에 열정적으로 키스하기.[n][r1]자기 손에 열정적으로 키스하기.[n][r2]내 손에 키스하고 있었을"
+    },
+    {
+      "line": 208,
+      "event": "shonen5",
+      "english_sha256": "d855cd21d9cbea9e62382e11c2f8a67aba1907fb9270b932d892b943f796c3cc",
+      "ko": "[choice]의공학을 전공하며 보낸 6년.[n][r1]의공학을 전공하며 보낸 6년.[n][r2]우리가 의공학을 전공하고 있었을"
+    },
+    {
+      "line": 209,
+      "event": "shonen5",
+      "english_sha256": "2c3b0f18cbb24414e817683cac3a4a7c8424c957e016cf8b50b840da8296a38b",
+      "ko": "[choice]엉덩이 사이에 무거운 물건을 끼우고 버티기.[n][r1]엉덩이 사이에 무거운 물건을 끼우고 버티기.[n][r2]엉덩이 사이에 무거운 물건을 끼우고 있었을"
+    },
+    {
       "line": 216,
       "event": "shonen6",
       "english_sha256": "76a86c4a9d27d3513f716cfb04ab89d2ad5c90ed0c127064ec7a5e216c591028",
       "ko": "밴드를 한다면 이름을 뭐라고 지을래?"
+    },
+    {
+      "line": 217,
+      "event": "shonen6",
+      "english_sha256": "2af81518a8f7de0681bd71b8bd120f4bcf2dbd80146b03e6f91ec74064efd641",
+      "ko": "[choice]쌍둥이 불꽃 돌고래.[n][r1]쌍둥이 불꽃 돌고래!"
+    },
+    {
+      "line": 218,
+      "event": "shonen6",
+      "english_sha256": "52cce0fa864c18d15b6433f469d5083b35c1b0273c79fa245dff8197e221c594",
+      "ko": "[choice]안구 적출 수술.[n][r1]안구 적출 수술!"
+    },
+    {
+      "line": 219,
+      "event": "shonen6",
+      "english_sha256": "00469892561fffc3c101f12f9d0118d637f45a44c1cc00a9e93ee1b74d19aab1",
+      "ko": "[choice]영원한 카와이 눈동자.[n][r1]영원한 카와이 눈동자!"
+    },
+    {
+      "line": 220,
+      "event": "shonen6",
+      "english_sha256": "2570f9221fa10c251bf6bff8b68fc4b4013a8eebe0f78cd81f892afa9b75f73d",
+      "ko": "[choice]애널 비즈 섹시 필살 채찍질.[n][r1]애널 비즈 섹시 필살 채찍질!"
     },
     {
       "line": 228,
@@ -269,7 +413,7 @@
       "line": 239,
       "event": "magicalgirls_comic_ending_3",
       "english_sha256": "de3ca4c0ffb1a214c3e2d678e30616c97977ddeda02aa8f51c2d916500c7127f",
-      "ko": "단장, %COMICREPLACEMENT_MAGICALGIRLS5%의 배후가 너였다는 걸 진작 알아봤어야 했어."
+      "ko": "단장, 진작 알아봤어야 했어. 이 모든 게 네 짓이었구나... %COMICREPLACEMENT_MAGICALGIRLS5%"
     },
     {
       "line": 240,
@@ -314,10 +458,58 @@
       "ko": "작년에 백만 달러를 벌었다는 걸 설명할, 이상하지만 멋진 이유는 뭐가 있을까?"
     },
     {
+      "line": 253,
+      "event": "magicalgirls1",
+      "english_sha256": "1fb45b79f5e41d307f2cb937edb922dcb27cc46ceb6440a28bcea4a20213b674",
+      "ko": "[choice]문법을 올바르게 쓰는 능력.[n][r1]올바른 문법 사용[n][r2]문법의 규칙"
+    },
+    {
+      "line": 254,
+      "event": "magicalgirls1",
+      "english_sha256": "6ef7d567ce24b129f79ae26a8f811f97905e25a0d9357317cf9165ff1217fa53",
+      "ko": "[choice]인터넷에서 잔뜩 욕먹고... 그걸로 돈 벌기.[n][r1]인터넷의 집단적 분노[n][r2]인터넷의 집단적 분노"
+    },
+    {
+      "line": 255,
+      "event": "magicalgirls1",
+      "english_sha256": "3194068a05841c2c057085079dc1ba08f1210c3dcf2486e5fac74bef6a4441e1",
+      "ko": "[choice]네 항문. 근데 진짜 멋졌어. 믿어 봐.[n][r1]남들의 항문[n][r2]네 항문"
+    },
+    {
+      "line": 256,
+      "event": "magicalgirls1",
+      "english_sha256": "eff3016208f67c2f0c0a309765b3dd810661ad198040942cf27cb7c6ff6c1542",
+      "ko": "[choice]사람들이 네 얼굴이 그려진 굿즈를 반어적인 의미로 사들였어. (넌 진심으로 돈을 벌었으니, 그놈들 알 게 뭐야.)[n][r1]자기 굿즈를 팔아서 번 수익[n][r2]지난 분기에 올린 수익"
+    },
+    {
       "line": 263,
       "event": "magicalgirls2",
       "english_sha256": "30f09448066152513478f66fc78e13564cbc282d7994129d2e8ce8c4aa3c2a4a",
       "ko": "일상에서 뭔가 하나를 없앨 수 있다면 뭘 없앨래?"
+    },
+    {
+      "line": 264,
+      "event": "magicalgirls2",
+      "english_sha256": "88bcb5caf549a93da816173f528a4a63f724537b3f16bc0644dd0e8c6521077f",
+      "ko": "[choice]네 머리카락이 얼마나 아름다운지 모르는 사람들.[n][r1]자기 머리카락을 칭찬하지 않는 사람을 죽이거든."
+    },
+    {
+      "line": 265,
+      "event": "magicalgirls2",
+      "english_sha256": "6f73d3446cce20b8dc658685926ef12eee929d35f77e3fdf73a56e143622a0c1",
+      "ko": "[choice]청록색.[n][r1]청록색을 보면 반사적으로 토하거든."
+    },
+    {
+      "line": 266,
+      "event": "magicalgirls2",
+      "english_sha256": "b71ef93bcfb1afb413eccbad220555318c7c16e00af6486ee95c651ebab58ba1",
+      "ko": "[choice]세금 신고하기.[n][r1]탈세거든."
+    },
+    {
+      "line": 267,
+      "event": "magicalgirls2",
+      "english_sha256": "7abd80c8e6400c1633c42fa643e9c0223b3b9e229cec843a2442227b77499e8b",
+      "ko": "[choice]피자가 아닌 모든 것.[n][r1]맛있는 피자 냄새가 나거든."
     },
     {
       "line": 274,
@@ -326,10 +518,58 @@
       "ko": "이러면 안 되는 건 알지만, 조카의 5번째 생일 선물로 이걸 살 거야..."
     },
     {
+      "line": 275,
+      "event": "magicalgirls3",
+      "english_sha256": "b5b0e50ae2ff4a2e152626a685cc31c74e0c5235b34247e3cb2ca6f6836c34c2",
+      "ko": "[choice]변호사 군단. 언젠가는 필요할지도 모르잖아.[n][r1]무자비한 변호사 군단."
+    },
+    {
+      "line": 276,
+      "event": "magicalgirls3",
+      "english_sha256": "3d258b3877a83419b3106daca7c823731d3067c1ca50723151d555ba52e706bd",
+      "ko": "[choice]육류 산업에 대한 네 단호한 견해를 모은 자료. 인터넷에서 안 들어 주면, 5살짜리는 들어 줄지도 모르잖아![n][r1]육류 산업에 대한 아주 단호한 견해."
+    },
+    {
+      "line": 277,
+      "event": "magicalgirls3",
+      "english_sha256": "f0a4baeb39dc2705d2d614cf6f3fd53927800a44418a250804874b8b777f07a3",
+      "ko": "[choice]총.[n][r1]총."
+    },
+    {
+      "line": 278,
+      "event": "magicalgirls3",
+      "english_sha256": "3c9889b7ce09f2665795b7ab49327e81d8d9dd7d4a6048318e89983438f01c4a",
+      "ko": "[choice]총... 귀여운 무늬가 그려진 총. 그래도 어린애한테 주는 거잖아![n][r1]멋진 꽃무늬가 그려진 총."
+    },
+    {
       "line": 285,
       "event": "magicalgirls4",
       "english_sha256": "08e13794dcd22e3d691770a9f3bb3944039e4600b4e7c9b23e09bf2ba0461420",
       "ko": "어떤 끔찍한 생각 때문에 밤잠을 설쳐?"
+    },
+    {
+      "line": 286,
+      "event": "magicalgirls4",
+      "english_sha256": "5832f691cc4f8f14b132ea5d11a78912efee39b6c8299aae45eea49806e0e606",
+      "ko": "[choice]진짜 넌 몇 년 전에 죽었고 지금의 넌 그 자리를 대신하는 AI 복제품일 뿐이야.[n][r1]주인공이 시즌 중간에 살해당하고 복제품으로 대체되는 거야."
+    },
+    {
+      "line": 287,
+      "event": "magicalgirls4",
+      "english_sha256": "78beddbdbdab54857a24f565a0f836c3a4ca4db8fc410bf5c3da0cf981e0a271",
+      "ko": "[choice]프랑스는 없어. 우리 모두의 상상이 빚어낸 산물일 뿐이야.[n][r1]애니의 배경이 프랑스가 존재하지 않는 가상의 세계인 거야."
+    },
+    {
+      "line": 288,
+      "event": "magicalgirls4",
+      "english_sha256": "a60b5be8aceb43ed712aea21a932ddd4e4aecf93a587eab2b92fcc85da134c65",
+      "ko": "[choice]네 반려동물은 아마 네가 죽길 바랄 거야.[n][r1]마법의 마스코트가 당연하다는 듯 사악한 음모를 꾸미고 있던 거야."
+    },
+    {
+      "line": 289,
+      "event": "magicalgirls4",
+      "english_sha256": "54d2dd0b06efc0da0ff697fe042017fc1632f7aebf14d638a738d98d2150b07a",
+      "ko": "[choice]넌 언젠가 사랑하는 사람을 먹어야 할 거야. 그건 \"그럴까\"가 아니라 \"언제일까\"의 문제야.[n][r1]끔찍한 상황 때문에 주인공이 자기 자매를 먹게 되는 거야."
     },
     {
       "line": 296,
@@ -338,22 +578,70 @@
       "ko": "오늘 네가 꼭 들어야 할 뼈아픈 진실은?"
     },
     {
+      "line": 297,
+      "event": "magicalgirls5",
+      "english_sha256": "7e325288d1b4b6ee8f9daaa8d6d3f83a63a3889eec3531ffd2b4b8c81a0ecf53",
+      "ko": "[choice]비 오는 날을 좋아한다고 특별한 사람인 건 아니야.[n][r1]우리가 \"비\"라고 부르는 현상!"
+    },
+    {
+      "line": 298,
+      "event": "magicalgirls5",
+      "english_sha256": "48a7bba9f11074a61d0acbd138004e36ca1e78dd885885912a5fd0d82affe7ae",
+      "ko": "[choice]평생 지도에서 프랑스를 못 찾을 수도 있어. 그래도 괜찮아.[n][r1]프랑스의 실종!"
+    },
+    {
+      "line": 299,
+      "event": "magicalgirls5",
+      "english_sha256": "4c305f55f0dd0692123334f33535c4135bdd1a950ddf987fc3a2f3d1d46f051c",
+      "ko": "[choice]네 몸에서는 매초 백만 개의 세포가 죽는데, 넌 아무것도 안 하고 있어.[n][r1]세포 노화!"
+    },
+    {
+      "line": 300,
+      "event": "magicalgirls5",
+      "english_sha256": "e7a5bd73a96bfc06c015dda79ac3327f518dd8fd8807dcfc8b689c88ddd51556",
+      "ko": "[choice]치질이 있다고 네 엉덩이를 핥는 게 \"더 이색적인 경험\"이 되는 건 아니야.[n][r1]내 지긋지긋한 치질!"
+    },
+    {
       "line": 307,
       "event": "magicalgirls6",
       "english_sha256": "55cda5a675302be6539b45ef38fdadb17e35bc978e52b6637f8976551afe80fe",
       "ko": "영화에서 너무 많이 우려먹기 시작한 유행은 뭐야?"
     },
     {
+      "line": 308,
+      "event": "magicalgirls6",
+      "english_sha256": "84c18c4fa20ecd4435bc7971f9493ffd4aaaec62726d9a59e5949e683f522ecc",
+      "ko": "[choice]상을 노리고 넣는 길고 대사 없는 장면.[n][r1]아주 짜증 나는 마임 배우!"
+    },
+    {
+      "line": 309,
+      "event": "magicalgirls6",
+      "english_sha256": "f8ce7bafe1f04f2e74ad8ed6b31f508b949621ebe92ecafb1b8b4ba624c7e50a",
+      "ko": "[choice]유명한 지식 재산을 가져다 뒤틀어 놓는 것.[n][r1]사악한 덤보!"
+    },
+    {
+      "line": 310,
+      "event": "magicalgirls6",
+      "english_sha256": "ee68ceb5b5ebc85e7d2f2cdffd3f85efea7298d5a470e60953ffc8a75785c6ea",
+      "ko": "[choice]뭔가 숨기는 게 뻔한 귀여운 것들.[n][r1]광대. 왜인지는 몰라도 다들 무서워하잖아?"
+    },
+    {
+      "line": 311,
+      "event": "magicalgirls6",
+      "english_sha256": "b5c068fda5f0269b302f9a7156c84a27071d61c29eca05a6d77bf16480de3093",
+      "ko": "[choice]총 저글링. 총 저글링 나오는 영화를 또 보게 되면, 진짜 내가...[n][r1]총 저글러 가판트!"
+    },
+    {
       "line": 319,
       "event": "harem_comic_ending_1",
       "english_sha256": "fb5995f6ffc00762e3df25fbc9ba5c07be728644969f8339f92d96094253a93e",
-      "ko": "\"모두가 내 입술에 키스하고 싶어 해\"가 차세대 하렘물 돌풍을 예고해![n][n]순박한 시골 소녀 재클린은 %COMICREPLACEMENTLOWERCASE_HAREM1%을 찾아 대도시로 왔어. 사랑을 찾게 될 줄은 꿈에도 모른 채![n][n]운명과 불안정한 경제 사정 때문에, 그녀는 눈 돌아가게 섹시한 룸메이트들과 아파트를 나눠 쓰게 되지!"
+      "ko": "\"모두가 내 입술에 키스하고 싶어 해\"가 차세대 하렘물 돌풍을 예고해![n][n]순박한 시골 소녀 재클린은 무언가를 찾아 대도시로 왔어. 바로 %COMICREPLACEMENTLOWERCASE_HAREM1% 사랑을 찾게 될 줄은 꿈에도 모른 채![n][n]운명과 불안정한 경제 사정 때문에, 그녀는 눈 돌아가게 섹시한 룸메이트들과 아파트를 나눠 쓰게 되지!"
     },
     {
       "line": 321,
       "event": "harem_comic_ending_1",
       "english_sha256": "1a18db9128c3b8f01f45ef135ac51010bbeb2efd0dca76994fca415024769c99",
-      "ko": "룸메이트들에겐 한 가지 공통점이 있어. 아무도 재클린의 %COMICREPLACEMENTLOWERCASE_HAREM2%에 저항할 수 없다는 거야.[n][n]근육질에 언제나 발정 난 모티, 조용하고 잘생긴 마미미, 매혹적이고 숨 막히는 마일로... 그 밖에도 많아![n][n]그것만으로도 벅찬데 재클린은 도시 생활에서 가장 이해하기 어려운 것에도 적응해야 해. %COMICREPLACEMENTLOWERCASE_HAREM3%"
+      "ko": "룸메이트들에겐 한 가지 공통점이 있어. 다들 재클린의 매력에 저항할 수 없다는 거야. 그 매력이 뭐냐면... %COMICREPLACEMENTLOWERCASE_HAREM2%[n][n]근육질에 언제나 발정 난 모티, 조용하고 잘생긴 마미미, 매혹적이고 숨 막히는 마일로... 그 밖에도 많아![n][n]그것만으로도 벅찬데 재클린은 도시 생활에서 가장 이해하기 어려운 것에도 적응해야 해. %COMICREPLACEMENTLOWERCASE_HAREM3%"
     },
     {
       "line": 322,
@@ -416,10 +704,58 @@
       "ko": "2000년대 초반 유행 중 이제 돌아와야 할 건 뭐야?"
     },
     {
+      "line": 345,
+      "event": "harem1",
+      "english_sha256": "57257108f10ad3a3df07716ec9856dbcc5450d12145ccda9262f669492c24605",
+      "ko": "[choice]밈 3개랑 은어 4개 정도만 알면 멋져 보일 수 있다는 점.[n][r1]\"yeet\"이 무슨 뜻인지 설명해 줄 사람."
+    },
+    {
+      "line": 346,
+      "event": "harem1",
+      "english_sha256": "aa345e5c25e8b0ed47bfde24457b6b718e3b3b441321687eb97421d26c347a29",
+      "ko": "[choice]사람들이 진짜로 복수하는 것.[n][r1]복수."
+    },
+    {
+      "line": 347,
+      "event": "harem1",
+      "english_sha256": "36325b2edfcc683dc691e3bcda98597cd60791b75a9f1546152ba864d7985ea6",
+      "ko": "[choice]맛있는 담배... 이 유행은 왜 사라졌을까?[n][r1]맛있는 담배."
+    },
+    {
+      "line": 348,
+      "event": "harem1",
+      "english_sha256": "3627c677b5aa294ab2f0e7d5b117011b4f3b1374928ac421ae9bad4b74e6a6a8",
+      "ko": "[choice]바지 입기.[n][r1]호박 같은 엉덩이를 돋보이게 해 주는 세련된 도시 바지."
+    },
+    {
       "line": 355,
       "event": "harem2",
       "english_sha256": "5c97477ec252155255b6cc09388ecc4ee6dad495d2c278c1e106190ebcee005f",
       "ko": "첫 데이트에서 네 가장 큰 무기는 뭐야?"
+    },
+    {
+      "line": 356,
+      "event": "harem2",
+      "english_sha256": "e84a1b49e735f33aa53487838b2156ab46139eb3bf3e0ee6f68fa057149ecc7d",
+      "ko": "[choice]네게선 펌킨 스파이스 라테 맛이 나.[n][r1]펌킨 스파이스 라테!"
+    },
+    {
+      "line": 357,
+      "event": "harem2",
+      "english_sha256": "0f6cf414e3750e9f2def1238b141e026e93802366eda2b6f58527b7f04965d06",
+      "ko": "[choice]넌 튼튼하면서도 우아한 무릎을 가졌어.[n][r1]튼튼하면서도 우아한 무릎!"
+    },
+    {
+      "line": 358,
+      "event": "harem2",
+      "english_sha256": "add5af13c0693ecd75560ad0a31304f6ed0cf0eb0e616b7115c8596de2656af8",
+      "ko": "[choice]네 눈에는 영혼이 없어. 섹시한 빈 구멍 두 개 같달까.[n][r1]눈, 그러니까 사실상 섹시한 빈 구멍 두 개!"
+    },
+    {
+      "line": 359,
+      "event": "harem2",
+      "english_sha256": "f92b68193ef9719ae86c16d4de8822951121380ce115de8a071b9a7b93513e2e",
+      "ko": "[choice]호랑이로 변신할 수 있어.[n][r1]이유는 몰라도 호랑이로 변신하는 능력!"
     },
     {
       "line": 366,
@@ -428,10 +764,58 @@
       "ko": "첫 데이트에서 절대 못 넘기는 위험 신호는 뭐야?"
     },
     {
+      "line": 367,
+      "event": "harem3",
+      "english_sha256": "40e624702753db39a17c5dcc21ee8c00a25aa5c28ae8142d40f65533fef3acb9",
+      "ko": "[choice]세상 물정을 몰라.[n][r1]어쩐 일인지 길거리에도 지혜가 있다는 사실."
+    },
+    {
+      "line": 368,
+      "event": "harem3",
+      "english_sha256": "ccaab63b91b19b7ec12d556bdb9a2941a72d3542c5fb837cd4369382af319d92",
+      "ko": "[choice]소가 한 마리도 없어서 먹고 싶을 때 맛있는 초코 우유를 먹을 가능성이 줄어들어.[n][r1]소가 없다는 것."
+    },
+    {
+      "line": 369,
+      "event": "harem3",
+      "english_sha256": "3ee6ace691bf13e9225c4f67e9ed8d0293cc61e734f9b6c36f2fa6adc5ae5139",
+      "ko": "[choice]매력적인 요리 실력은 가짜야. 모자 밑의 쥐가 조종하고 있거든.[n][r1]누구든 모자 밑의 쥐한테 조종당할 수 있다는 사실."
+    },
+    {
+      "line": 370,
+      "event": "harem3",
+      "english_sha256": "be9d2858ede73cdbfe82836fe94b87b49f4455311901d804da7bd404b9c68aa1",
+      "ko": "[choice]하수구에 살아서 개인위생에도 영향이 있을 거야.[n][r1]\"하수구\"라는 지하 세계의 존재."
+    },
+    {
       "line": 377,
       "event": "harem4",
       "english_sha256": "033c6dd8114cda7083b5620c3639b0f4440f254850a4ff2e51b381aceac8a305",
       "ko": "모두에게 말했던 그 큰 프로젝트를 아직 못 끝낸 이유는 뭐야?"
+    },
+    {
+      "line": 378,
+      "event": "harem4",
+      "english_sha256": "1cf779b5fcb14ec0091bbba2a25349a485881b27757c5a7c6ea3c27013738b5a",
+      "ko": "[choice]먼저 여러 사람이랑 섹스하고 싶어.[n][r1]모두와 섹스하고 싶어 하거든."
+    },
+    {
+      "line": 379,
+      "event": "harem4",
+      "english_sha256": "e33f54471c06f97e93fea2ce456ffcfc663a813f93beacb8f48e7b03aa7f592d",
+      "ko": "[choice]고대의 저주.[n][r1]고대의 저주 때문이야."
+    },
+    {
+      "line": 380,
+      "event": "harem4",
+      "english_sha256": "57805b30fdb7147c1a6131dbae6a5883e645cf5ba905a9ed55a7755fb389c72f",
+      "ko": "[choice]침대 밑에 사는 생물이 기다리라고 했어. 침대 생물한테 무례하게 굴고 싶진 않아 :([n][r1]침대 밑에 사는 생물이 기다리라고 했거든."
+    },
+    {
+      "line": 381,
+      "event": "harem4",
+      "english_sha256": "3b01133f4b69d4804f1b4b9cea276e5d84bf15e8b6ba9338fa581cf8070564cd",
+      "ko": "[choice]거대 석유 기업들이 결정을 못 하게 압박해. 네게 위협을 느끼는 게 분명해. (당연히 그럴 만하지.)[n][r1]거대 석유 기업들이 결정을 못 하게 압박하거든."
     },
     {
       "line": 388,
@@ -440,10 +824,58 @@
       "ko": "합법이지만 불법이어야 할 건 뭐야?"
     },
     {
+      "line": 389,
+      "event": "harem5",
+      "english_sha256": "fe26745a3cc06bfbe90aaab4c248f5a8b11875d0abcbe333eb3010436bcded66",
+      "ko": "[choice]산타는 없다고 말하기. 사람들 삶에도 마법이 있어야지![n][r1]산타는 없다고 말한"
+    },
+    {
+      "line": 390,
+      "event": "harem5",
+      "english_sha256": "5219266ab5321e700fc5f4eb6e103677bd600890d04e86a9908153d102af0353",
+      "ko": "[choice]남의 엄마를 문신으로 새기기. 그냥 해골 문신을 해. 더 멋지기도 하고 남의 엄마 해골이라고 우길 수도 있잖아.[n][r1]술에 취해서 네 엄마를 문신으로 새긴"
+    },
+    {
+      "line": 391,
+      "event": "harem5",
+      "english_sha256": "801bbbe8c72dd72e43f5bb2f74afa3ba14f064ab35f891bc71229c78a4238091",
+      "ko": "[choice]남의 신분 도용하기. 있는 그대로의 모습보다 매력적인 건 없어. (더 매력적인 사람 모습은 예외일지도... 다시 생각해 봐야겠네.)[n][r1]장난으로 네 신분을 도용한"
+    },
+    {
+      "line": 392,
+      "event": "harem5",
+      "english_sha256": "2eb7bfe10ebbf866b4955cb35234ae310c9fc36f8a14616d18033878e455955d",
+      "ko": "[choice]인터넷 은어를 잘못 쓰기. 농담이 뭔지도 모르겠으면 시도조차 하지 마.[n][r1]인터넷 은어를 잘못 쓴"
+    },
+    {
       "line": 399,
       "event": "harem6",
       "english_sha256": "f5c75c490d97434407bfc0888f438f70663067b18fb4e967e1a116cb9b93a866",
       "ko": "세 번째 데이트에 하면 좋지만 저평가된 활동은?"
+    },
+    {
+      "line": 400,
+      "event": "harem6",
+      "english_sha256": "39fe319dfc63b5a5d8f7b97eec4eca817790a283e7d06e91867a61bbca8fc3d3",
+      "ko": "[choice]너와 데이트 상대만을 위해 꽃을 피울 때까지 벚나무 패기.[n][r1]벚꽃이 피기"
+    },
+    {
+      "line": 401,
+      "event": "harem6",
+      "english_sha256": "fd3a762fa138575115168340abb22d4220a185c69d1b00b77e54bc4291a9edfc",
+      "ko": "[choice]\"키스 면허\"를 따는 시험 연습하기. 진짜 있는 거야![n][r1]키스 기말시험에 합격하기"
+    },
+    {
+      "line": 402,
+      "event": "harem6",
+      "english_sha256": "052d64a1a8c4d08c6e56c2de81b597893f8b808c38194b8a9536dd73e26eafdb",
+      "ko": "[choice]피임법 공부하기. 책임감 있어 보이면서 섹스하고 싶다는 암시도 줄 수 있어.[n][r1]키스로는 임신할 수 없다는 걸 100% 확실히 하기"
+    },
+    {
+      "line": 403,
+      "event": "harem6",
+      "english_sha256": "42a885ff0224093075e7ed0c543df77b044e8a33f86bbb1ef7de422d1a51f625",
+      "ko": "[choice]진짜 손에서 놓을 수 없는 책, 돈키호테 하권의 53장 읽기![n][r1]53장을 읽기"
     },
     {
       "line": 411,
@@ -461,7 +893,7 @@
       "line": 413,
       "event": "sports_comic_ending_1",
       "english_sha256": "dbc073482e4f3b65096bf4468fe5830673642f7b158d21e776d0a07d76290e76",
-      "ko": "함께 대규모 볼링 선수권을 준비해. 우승컵을 못 따면 %COMICREPLACEMENT_SPORTS3%이니, 위험 부담이 크지.[n][n]이 약체들이 영원한 볼링 챔피언 \"울프팩\"을 이길 수 있을까?[n][n]쉽진 않을 거야. 그 전설적인 팀에겐 무시무시한 강점이 있거든. %COMICREPLACEMENT_SPORTS4%[n][n]우린 너희를 응원해, \"빅 볼러즈\"!"
+      "ko": "함께 대규모 볼링 선수권을 준비해. 우승컵을 못 따면 큰일이거든. %COMICREPLACEMENT_SPORTS3%[n][n]이 약체들이 영원한 볼링 챔피언 \"울프팩\"을 이길 수 있을까?[n][n]쉽진 않을 거야. 그 전설적인 팀에겐 무시무시한 강점이 있거든. %COMICREPLACEMENT_SPORTS4%[n][n]우린 너희를 응원해, \"빅 볼러즈\"!"
     },
     {
       "line": 421,
@@ -515,7 +947,7 @@
       "line": 429,
       "event": "sports_comic_ending_3",
       "english_sha256": "b453072ad40537a66c79b4919f2fcf71bd364ad0f862ce05bf89bcbd5f8e2d7a",
-      "ko": "핀이 도착했어! 하지만 이제 팀은 %COMICREPLACEMENT_SPORTS6%의 불이익을 받게 돼. 이런 상황에서 이길 수 있을까?!"
+      "ko": "핀이 도착했어! 하지만 이제 팀은 %COMICREPLACEMENT_SPORTS6% 불이익을 받게 돼. 이런 상황에서 이길 수 있을까?!"
     },
     {
       "line": 430,
@@ -530,10 +962,58 @@
       "ko": "가장 원대한 꿈을 이루지 못하게 막는 건 뭐야?"
     },
     {
+      "line": 438,
+      "event": "sports1",
+      "english_sha256": "613fecbc465038cd22af1f4dbfb08f3d64a30f3f642dcbc0280c7414b850f8a1",
+      "ko": "[choice]실수로 네 손끼리 접착제로 붙여 버렸어.[n][r1]실수로 자기 손끼리 접착제로 붙여 버린"
+    },
+    {
+      "line": 439,
+      "event": "sports1",
+      "english_sha256": "a9abca01f2a0dab35bb489e5ba25bc0331976fee36cbdb874bf8adef588f3e59",
+      "ko": "[choice]마법의 말하는 개가 꿈을 이루지 말라고 했어.[n][r1]마법의 말하는 개가 시킨"
+    },
+    {
+      "line": 440,
+      "event": "sports1",
+      "english_sha256": "21dc534b791af4966d262233c805083f606e4860814791d36abe8624e5395f5d",
+      "ko": "[choice]\"여자들을 끌어모으는 매력남\"이 되는 데 너무 몰두했어.[n][r1]볼링으로는 \"여자들을 끌어모으는 매력남\"이 될 수 없다는 걸 깨달은"
+    },
+    {
+      "line": 441,
+      "event": "sports1",
+      "english_sha256": "eec3b60dba50f10620065df5a095cd79f7c3c79b7852acad3233a56f1786c39a",
+      "ko": "[choice]Wii 스포츠.[n][r1]Wii 스포츠에 푹 빠진"
+    },
+    {
       "line": 448,
       "event": "sports2",
       "english_sha256": "dbc1c1e6d32489c293ee3e1c52c9b0c911fe35a1774ab0352c8bb93f25eda70e",
       "ko": "볼링장에서 쫓겨난 이유는 뭐야?"
+    },
+    {
+      "line": 449,
+      "event": "sports2",
+      "english_sha256": "578c919cb659e7dd7607565ab4f65082ab97398a199107a76de6cb02da328a65",
+      "ko": "[choice]공 구멍에 손가락을 넣을 때마다 신음해서.[n][r1]큰 공에 손가락 넣는 법을 훤히 아는 것."
+    },
+    {
+      "line": 450,
+      "event": "sports2",
+      "english_sha256": "f88b4bd08a6c31b567aee571dc7327dfb68a73845bd52447ad0191b93f394f32",
+      "ko": "[choice]진짜 같은 말 울음소리를 내서.[n][r1]진짜 같은 말 울음소리를 내는 것."
+    },
+    {
+      "line": 451,
+      "event": "sports2",
+      "english_sha256": "b43a568bd6fb16118d17328208bd9883a3e16b286edd77c3979e9404fcf2e9fa",
+      "ko": "[choice]공이 케이크가 아니라 진짜 공인지 확인하려고 전부 핥아서. 이게 과학적 방법이야![n][r1]볼링공이 진짜 볼링공인지 케이크인지 구별하는 능력."
+    },
+    {
+      "line": 452,
+      "event": "sports2",
+      "english_sha256": "c7deb1975716ec1d215f8c70a981763c048bdf70d099b7744efcce9a9d4472e5",
+      "ko": "[choice]상대의 거리 감각을 망가뜨리려고 한쪽 눈을 찔러서.[n][r1]거리 감각."
     },
     {
       "line": 459,
@@ -542,10 +1022,58 @@
       "ko": "반복해서 꾸는 악몽은 뭐야?"
     },
     {
+      "line": 460,
+      "event": "sports3",
+      "english_sha256": "e7ca62df9060dab5cf48994cc7c4c676b7a7dc849491bc54faf5da3f9cb6e99d",
+      "ko": "[choice]다른 네 명과 정략결혼하게 됐어.[n][r1]다 같이 마거릿이라는 여자와 결혼해야 하거든."
+    },
+    {
+      "line": 461,
+      "event": "sports3",
+      "english_sha256": "2898cbbccf805049fe9c22bbf9e30cf4af465ad6830bb4c5819bb86823195f70",
+      "ko": "[choice]사랑하는 할아버지의 농장을 빌렸는데 어디 뒀는지 기억이 안 나.[n][r1]할아버지가 농장을 잃게 되거든."
+    },
+    {
+      "line": 462,
+      "event": "sports3",
+      "english_sha256": "3aefc67ec12b6fd7dd0299cac2a1a1eb8a42b99c9b498d6cdef53613671f1bd6",
+      "ko": "[choice]운동 경기를 해야 하는데... 패자는 파이프로 다리가 부러질 거야.[n][r1]승자가 파이프로 패자의 다리를 부러뜨려도 된다는 규칙이 있거든."
+    },
+    {
+      "line": 463,
+      "event": "sports3",
+      "english_sha256": "f1672bdfd1478df69e9980d1d422844682955d80a15d3e1b23d7bf8b76ce99ef",
+      "ko": "[choice]아주 긴 샌드위치를 억지로 먹어야 해.[n][r1]아주 긴 샌드위치를 먹어야 하거든."
+    },
+    {
       "line": 470,
       "event": "sports4",
       "english_sha256": "3760a12285e5d02f515585efef334c9f7bbdba447c9111c197057aeed029025c",
       "ko": "매일 억눌러야 하는 불쑥 치미는 생각은 뭐야?"
+    },
+    {
+      "line": 471,
+      "event": "sports4",
+      "english_sha256": "7bd952cd932a393ae08d8a4aec9c9f89e402b9fe877bf10e9953f364cb4b76c3",
+      "ko": "[choice]부메랑을 사고 싶은 욕구.[n][r1]부메랑을 갖고 있다는 것."
+    },
+    {
+      "line": 472,
+      "event": "sports4",
+      "english_sha256": "142bcaea6e12be40e13bc89885cf809f054d950b72a67f22645a6739a33a7717",
+      "ko": "[choice]크고 위협적인 늑대 자지를 끄적이고 싶은 이상하고 강박적인 욕구.[n][r1]크고 위협적인 늑대 자지."
+    },
+    {
+      "line": 473,
+      "event": "sports4",
+      "english_sha256": "c8b23c13e4b4b8ea685ab51976ba52cfe864895975cf4dc04c976d46612edeae",
+      "ko": "[choice]거미라는 개념.[n][r1]거미 공포증을 극복했다는 것."
+    },
+    {
+      "line": 474,
+      "event": "sports4",
+      "english_sha256": "99f030621b76e6109eb7cca09978f29d3e25ad4411f79d225f443a3a37bfd924",
+      "ko": "[choice]영문학을 전공하고 싶은 강박.[n][r1]영문학 학위."
     },
     {
       "line": 481,
@@ -554,28 +1082,76 @@
       "ko": "할아버지가 절대 묻지 않았으면 하는 한 가지는 뭐야?"
     },
     {
+      "line": 482,
+      "event": "sports5",
+      "english_sha256": "478c20bf46c7377a96a21337d41033fd661129e55527f3129c9ac2fdafb9b336",
+      "ko": "[choice]꼬마 레니의 때 이른 죽음을 복수하려고.[n][r1]꼬마 레니의 때 이른 죽음을 복수하는 중"
+    },
+    {
+      "line": 483,
+      "event": "sports5",
+      "english_sha256": "ef4575e5b9e9c68ad981a8ce33e9ca20e172e7347be86f5fbc735514f7dc9d63",
+      "ko": "[choice]다시 멋져 보이고 싶다며 불알을 왁싱하려고.[n][r1]자기 (볼링) 공을 왁싱하는 중"
+    },
+    {
+      "line": 484,
+      "event": "sports5",
+      "english_sha256": "1b9d2c7a962c1ec46511443de4b82394d9547f7578f714d4d0fe1fed2174cd27",
+      "ko": "[choice]아기를 받으려고.[n][r1]아기를 받는 중"
+    },
+    {
+      "line": 485,
+      "event": "sports5",
+      "english_sha256": "efefaea2d5d9101ca17c5abb72079569fa3774173f6e7fcfea55f82d27e32125",
+      "ko": "[choice]생애 첫 바지를 사는 걸 도와주려고.[n][r1]생애 첫 바지를 사는 중"
+    },
+    {
       "line": 492,
       "event": "sports6",
       "english_sha256": "528d7fc7637b612f5b101dfdf312fe2354803816f8cf21b58e5d11a4e785a80a",
       "ko": "NBA를 훨씬 더 재밌게 만들 수 있는 건 뭐야?"
     },
     {
+      "line": 493,
+      "event": "sports6",
+      "english_sha256": "d9c2a3157b674ba3de4526d19c4734a66569aa4d8e63e6d984883c9a98f74536",
+      "ko": "[choice]온갖 모양의 공![n][r1]무시무시한 정육면체 공을 써야 한다는"
+    },
+    {
+      "line": 494,
+      "event": "sports6",
+      "english_sha256": "de10c44d9f44c968f774b5a66ff90a3c65b34f8908e39085b8afcadc74d03370",
+      "ko": "[choice]아름다운 몸매를 더 잘 뽐내도록 네 발로 경기하는 선수들.[n][r1]네 발로 경기해야 한다는"
+    },
+    {
+      "line": 495,
+      "event": "sports6",
+      "english_sha256": "9072d30e822d02e3d2b44a4696930b400f5b6cec881574fe6503fba0c2ea7a8b",
+      "ko": "[choice]우스꽝스러운 모자.[n][r1]우스꽝스러운 모자를 써야 한다는"
+    },
+    {
+      "line": 496,
+      "event": "sports6",
+      "english_sha256": "1e9b4bde8f947eb03ddc4b32cb22ad00b8f6f49da2585de545420b527c522939",
+      "ko": "[choice]경기마다 세 번까지 찔러도 되는 규칙.[n][r1]각자 규칙에 따라 배를 찔려야 한다는"
+    },
+    {
       "line": 504,
       "event": "noir_comic_ending_1",
       "english_sha256": "6b73263738722cb248e847f609897e47d9ad4d4ec647d04b9dd5cabba558b18d",
-      "ko": "\"진실의 불꽃\"은 사립 탐정 모스 맨을 따라가는 통속 누아르 모험물이야.[n][n]세상에 지친 이 탐정은 한때 경찰이었지만, %COMICREPLACEMENT_NOIR1% 뒤에 배지를 잃었어."
+      "ko": "\"진실의 불꽃\"은 사립 탐정 모스 맨을 따라가는 통속 누아르 모험물이야.[n][n]세상에 지친 이 탐정은 한때 경찰이었지만, %COMICREPLACEMENT_NOIR1% 때문에 배지를 잃었어."
     },
     {
       "line": 505,
       "event": "noir_comic_ending_1",
       "english_sha256": "5398d4b22c768681fa4bf7db368759b6202043ac90f38cb704f1b0b9b462412f",
-      "ko": "신비로운 팜 파탈이 새로운 사건을 들고 찾아오면서 그의 평온은 깨져. %COMICREPLACEMENT_NOIR2%[n][n]하지만 내면의 악마와도 싸워야 하니 탐정 노릇은 쉽지 않아. 모스의 경우 그 악마는 이런 모습을 하고 있지. %COMICREPLACEMENT_NOIR3%"
+      "ko": "신비로운 팜 파탈이 새로운 사건을 들고 찾아오면서 그의 평온은 깨져. %COMICREPLACEMENT_NOIR2%.[n][n]하지만 내면의 악마와도 싸워야 하니 탐정 노릇은 쉽지 않아. 모스의 경우 그 악마는 이런 모습을 하고 있지. %COMICREPLACEMENT_NOIR3%."
     },
     {
       "line": 506,
       "event": "noir_comic_ending_1",
       "english_sha256": "2f895f05311180e89fd85fecbb03afdcb61168ae536b53e49f9734dfeef0ea26",
-      "ko": "그것만으로도 벅찬데, 수수께끼를 풀수록 모스는 이 사건이 훨씬 거대한 무언가와 연결됐을지 모른다는 걸 깨달아. %COMICREPLACEMENT_NOIR4%[n][n]이 나방은 진실의 불꽃을 찾을까? 아니면 불길에 집어삼켜질까?"
+      "ko": "그것만으로도 벅찬데, 수수께끼를 풀수록 모스는 이 사건이 훨씬 거대한 무언가와 연결됐을지 모른다는 걸 깨달아. %COMICREPLACEMENT_NOIR4%.[n][n]이 나방은 진실의 불꽃을 찾을까? 아니면 불길에 집어삼켜질까?"
     },
     {
       "line": 514,
@@ -668,10 +1244,58 @@
       "ko": "동물원 출입 금지당한 이유는 뭐야?"
     },
     {
+      "line": 535,
+      "event": "noir1",
+      "english_sha256": "e6ecd0bb19fbeeef4ac2597669e6d2c6e4bd7144cd4ee5054c5d87e75de4f617",
+      "ko": "[choice]\"재미로\" 아무 데나 계속 총을 쐈어.[n][r1]\"재미로\" 아무 데나 총을 쏜 일"
+    },
+    {
+      "line": 536,
+      "event": "noir1",
+      "english_sha256": "19300db5979a67215190b4bdc4ce389cca678bcd0209499e2ebff9b6734c0fcc",
+      "ko": "[choice]과학적인 이유로 얼룩말 입에 온갖 물건을 집어넣으려 했어![n][r1]얼룩말 입에 물건이 들어가는지 시험한 일"
+    },
+    {
+      "line": 537,
+      "event": "noir1",
+      "english_sha256": "a4a1e05244a3249baa9f7fb06a39e3abe29f508c29666dfa4b4c655317cc9831",
+      "ko": "[choice]\"바지 없는 화요일\"을 유행시키려 했어.[n][r1]\"바지 없는 화요일\"을 유행시키려 한 일"
+    },
+    {
+      "line": 538,
+      "event": "noir1",
+      "english_sha256": "f3303bdc362a1d3617c9d02c864561dbe2bd9e689d9c30531e6b87389e8256e7",
+      "ko": "[choice]개들에게 강도질을 당해서, 내 안전을 위해서였어.[n][r1]개에게 총을 도둑맞은 일"
+    },
+    {
       "line": 545,
       "event": "noir2",
       "english_sha256": "6271d6a27401648f558ce2cfc54d7f4e6aab694d5457d3c9f44d4cfb48dd9e28",
       "ko": "너라면 무조건 눈길이 갈 추리 소설을 골라 봐."
+    },
+    {
+      "line": 546,
+      "event": "noir2",
+      "english_sha256": "074c24b2fdda9d565d5cba18d68936e4da098ff6fb422ba2f6781573691b5982",
+      "ko": "[choice]사라진 질 사건[n][r1]수수께끼의 사라진 질"
+    },
+    {
+      "line": 547,
+      "event": "noir2",
+      "english_sha256": "87b48c7105eb53cbeb1d33698a07d64d46dd5bded603384a499b3e8cef6d5aeb",
+      "ko": "[choice]꼬마 탐정단의... \"아기는 어디서 오는 걸까?\"[n][r1]아기가 어디서 오는지에 관한 수수께끼"
+    },
+    {
+      "line": 548,
+      "event": "noir2",
+      "english_sha256": "ad9c99795191d0a310bd7e26439a0839dd2164efd6c08edf349cc76e66706d4e",
+      "ko": "[choice]트윙크의 죽음[n][r1]트윙크의 의문스러운 죽음"
+    },
+    {
+      "line": 549,
+      "event": "noir2",
+      "english_sha256": "4385cc7820a3e4ab220a2c96f314318e3dba8af90fc94ac6408d413c41b74473",
+      "ko": "[choice]비행기가 나는 원리의 수수께끼[n][r1]비행기가 나는 원리에 관한 수수께끼"
     },
     {
       "line": 556,
@@ -680,10 +1304,58 @@
       "ko": "지니가 백만 달러를 주겠대. 하지만 조건이 있어..."
     },
     {
+      "line": 557,
+      "event": "noir3",
+      "english_sha256": "58bdfe5514e483a1cb9daa07ccf58c0d474000a9f2a763d85939df41dcd8ada1",
+      "ko": "[choice]말장난에 심각하게 중독돼.[n][r1]심각한 말장난 중독"
+    },
+    {
+      "line": 558,
+      "event": "noir3",
+      "english_sha256": "156eee60ec596bea57b05c15dca84727b301e9bf5127184b890ec9a902b7a386",
+      "ko": "[choice]누구랑 얘기하든 끈질기게 \"엄마\"라고 잘못 불러.[n][r1]경찰서장을 \"엄마\"라고 불렀던 그 끔찍한 기억"
+    },
+    {
+      "line": 559,
+      "event": "noir3",
+      "english_sha256": "286220a8ecb144d8ecf90a5946e1b87492550e9cbb012e015244d44baa7da222",
+      "ko": "[choice]래리라는 악마에게 스토킹을 당해.[n][r1]래리라는 진짜 악마"
+    },
+    {
+      "line": 560,
+      "event": "noir3",
+      "english_sha256": "158393add263e2325521f490de94b3dd8978e4ac9082e081e65e4db58001c418",
+      "ko": "[choice]매일 아침 부리토 여섯 개를 먹어야 해서, 늘 배가 아파.[n][r1]끊이지 않는 배앓이"
+    },
+    {
       "line": 567,
       "event": "noir4",
       "english_sha256": "d8828ef149604df8af5dd7a6e1f5d63edfe4ee05f21438214a5f91b55fd9d191",
       "ko": "심하게 저평가된 대화 주제는 뭐야?"
+    },
+    {
+      "line": 568,
+      "event": "noir4",
+      "english_sha256": "3a58dd414ca9a9bdcf3b7ad90fa985831e8b5db1ebae1dd371756509a51e78c6",
+      "ko": "[choice]황소자리는 객관적으로 섹시하지만, 쌍둥이자리는 대체로 최악이라는 사실.[n][r1]별자리에서 쌍둥이자리를 지워 버리려는 사악한 원대한 계획"
+    },
+    {
+      "line": 569,
+      "event": "noir4",
+      "english_sha256": "8ca6d4edf5cb3d8549265ceb52c1be7e232ed938c0a3911fcdbad79ce79b16a4",
+      "ko": "[choice]\"너희 엄마\" 농담.[n][r1]너희 엄마"
+    },
+    {
+      "line": 570,
+      "event": "noir4",
+      "english_sha256": "4e01107cb788fa853a28c170cf2f1d5d43f249e23caad2e0efe904a0a9d14190",
+      "ko": "[choice]판타지 캐릭터가 멍청하게 들리지 않으려면 피해야 할 이름.[n][r1]강력한 흑마법사 알라카자뮤엘의 귀환"
+    },
+    {
+      "line": 571,
+      "event": "noir4",
+      "english_sha256": "1fb4cdd08ecfe613d6f200f4b947d485583a3c33482d3d317d0d410fdcf25289",
+      "ko": "[choice]게화. 게가 아닌 생물이 게 같은 신체 구조로 진화하는, 입증된 수렴 진화 현상이지.[n][r1]게화 과정을 가속하려는 계획"
     },
     {
       "line": 578,
@@ -692,10 +1364,58 @@
       "ko": "세상에서 가장 마이너한 음악 축제에 왔어... 어떤 밴드를 보러 갈래?"
     },
     {
+      "line": 579,
+      "event": "noir5",
+      "english_sha256": "a7accccab758d9b9015e9f8e28f36a47ed90d00b4e8eee753254017cacc4cc4d",
+      "ko": "[choice]위조 시.[n][r1]위조 시 사업을 한다더군."
+    },
+    {
+      "line": 580,
+      "event": "noir5",
+      "english_sha256": "8a1b57f4280935e5e7bf4658449113fe6a04ba4c48843345f59a7a834620b0d4",
+      "ko": "[choice]지하 수학 선수들.[n][r1]불법 수학 경시 대회 도박을 하는 지하 조직에 있다더군."
+    },
+    {
+      "line": 581,
+      "event": "noir5",
+      "english_sha256": "feb9da3afdc2ac025243a3f76383063c97ba9b9cfabf4038072adb0a4b6666ab",
+      "ko": "[choice]아침 무한 리필 뷔페.[n][r1]\"맨손으로 먹는 바비큐 무한 리필 뷔페\"와 얽혀 있다더군."
+    },
+    {
+      "line": 582,
+      "event": "noir5",
+      "english_sha256": "96e070a5c6094ee06eb31355f51ee48252810c604719ba599100807f94314c59",
+      "ko": "[choice]가장 영광스러운 구멍.[n][r1]우리 화장실의 글로리 홀을 써 봤다더군."
+    },
+    {
       "line": 589,
       "event": "noir6",
       "english_sha256": "407f0e83a130ccba3c8dfa005086ede9453292afc82de2c275635800b7932531",
       "ko": "아직 그 마이너한 음악 축제야. 이제 밴드를 골랐으니... 제목만 보고 네 새로운 최애곡이 될 노래를 고른다면?"
+    },
+    {
+      "line": 590,
+      "event": "noir6",
+      "english_sha256": "e90e8ba7c70c75d2fb5aac99e17843ea0e77d4b37e8978d451fde965149dce51",
+      "ko": "[choice]수프만 먹을 수 있는 남자에 대한 공감.[n][r1]수프 한 그릇[n][r2]수프만 먹을 수 있는 병이 있어."
+    },
+    {
+      "line": 591,
+      "event": "noir6",
+      "english_sha256": "5689eaae868c942d40973154b583fd624f823f62e6e943aa3650ecadc817003a",
+      "ko": "[choice]끝없는 윤활젤.[n][r1]고통과 쾌락을 함께 주는 커다란 딜도[n][r2]윤활젤이 차고 넘쳐."
+    },
+    {
+      "line": 592,
+      "event": "noir6",
+      "english_sha256": "1ea949fafba1e2141d264462026864cd88979d443571fab3ec3d2631dfdbaca1",
+      "ko": "[choice]다섯 글자 단어.[n][r1]다섯 글자로 된 단어[n][r2]어쩌면 글자 수를 세는 데 정말 소질이 있는지도 몰라."
+    },
+    {
+      "line": 593,
+      "event": "noir6",
+      "english_sha256": "48182a549c6d4f373305c8b02b241f57092bc14d98ba2bbc2d9a4e95a059c593",
+      "ko": "[choice]잘못된 비유.[n][r1]빨리 달리는 흰 토끼[n][r2]비유를 만드는 데 영 소질이 없다는 걸 이제야 깨달았어."
     },
     {
       "line": 601,
@@ -776,10 +1496,58 @@
       "ko": "먼 미래의 직업 중 네가 갖고 싶은 직업은 뭐야?"
     },
     {
+      "line": 628,
+      "event": "spaceopera1",
+      "english_sha256": "6c6f35a8323137cd6959366d0ab98f31192efb1a6bde3df298572d416b1c6849",
+      "ko": "[choice]캡차 설계자.[n][r1]로봇도 통과할 수 있도록 모든 캡차를 해킹했기 때문이야."
+    },
+    {
+      "line": 629,
+      "event": "spaceopera1",
+      "english_sha256": "1dede9a379d336c96df96a44871b2235ee365588319c7f0b90c55f7cb97dda28",
+      "ko": "[choice]목성의 가장 어두운 비밀을 지키는 사람.[n][r1]목성의 가장 어두운 비밀에 관한 파일을 유출했기 때문이야."
+    },
+    {
+      "line": 630,
+      "event": "spaceopera1",
+      "english_sha256": "56a73b04f00aad24398afa29380c48f4bd61b240805338a51a730f516abe374e",
+      "ko": "[choice]숫자 6 분야의 세계 최고 전문가.[n][r1]인터넷에서 숫자 6을 지워 버려 혼란을 일으켰기 때문이야."
+    },
+    {
+      "line": 631,
+      "event": "spaceopera1",
+      "english_sha256": "ef83895462a1836ac6a863155ec327b3238706c4231ad313cefce269a77d6e2e",
+      "ko": "[choice]슈렉 영화 테스터.[n][r1]슈렉 영화를 너무 많이 불법 복제했기 때문이야."
+    },
+    {
       "line": 638,
       "event": "spaceopera2",
       "english_sha256": "d763eb083051c255c92ae251e2889df0fb8cdf49bb4e4bd66ca1e215ad1ef8da",
       "ko": "천만 달러에 당첨됐는데 오 분 안에 다 써야 해. 빨리! 써 버려!"
+    },
+    {
+      "line": 639,
+      "event": "spaceopera2",
+      "english_sha256": "34df50fa4d70346cc6395d98349d9f16fdf0030d9d65179c4f82a5355b41db09",
+      "ko": "[choice]글자 W의 권리를 사.[n][r1]글자 W의 권리를 사기 위해서야."
+    },
+    {
+      "line": 640,
+      "event": "spaceopera2",
+      "english_sha256": "6b7067608f3348fab18d761271d3964483a5cae795c08ec2283eaa01cc4d21bd",
+      "ko": "[choice]테트리스 소액 결제와 꾸미기 아이템에 다 써 버려.[n][r1]테트리스 소액 결제와 꾸미기 아이템에 펑펑 쓰기 위해서야."
+    },
+    {
+      "line": 641,
+      "event": "spaceopera2",
+      "english_sha256": "579c2ad09d66d7d352dd81972c9c8834600332a02ef6a3a89d71120fdd038d9e",
+      "ko": "[choice]마침 잘됐네! 두 달 전에 이메일을 보낸 그 빈털터리 왕자에게 보내 줘.[n][r1]두 달 전에 이메일을 보낸 빈털터리 왕자를 돕기 위해서야."
+    },
+    {
+      "line": 642,
+      "event": "spaceopera2",
+      "english_sha256": "761d4a529dd26060bc0e9bc38105124eb44c06ce0ae76eaa431cffd443a9e0c9",
+      "ko": "[choice]색소폰 연주자가 되겠다는 꿈을 이룰 때야![n][r1]색소폰 연주자가 되겠다는 꿈을 이루기 위해서야."
     },
     {
       "line": 649,
@@ -788,10 +1556,58 @@
       "ko": "로봇 가게에서 로봇을 살 때 반드시 찾는 기능은 뭐야?"
     },
     {
+      "line": 650,
+      "event": "spaceopera3",
+      "english_sha256": "67de1a7c4ec239410631fd94c428fc96d8f1c670d521083fdf0b1ce7b602a801",
+      "ko": "[choice]치명적인 발사체로도 쓸 수 있는 금속 자지.[n][r1]치명적인 발사체로도 쓸 수 있는 금속 자지."
+    },
+    {
+      "line": 651,
+      "event": "spaceopera3",
+      "english_sha256": "b9ca47103852c7cbbf06cd04469f35a592a0675a5f06c7bc334753aac8aef28f",
+      "ko": "[choice]로봇 특유의 세련된 유머 감각.[n][r1]로봇 특유의 세련된 유머 감각."
+    },
+    {
+      "line": 652,
+      "event": "spaceopera3",
+      "english_sha256": "bc8462bd174acdfcdf382c1ad9a9d28770c2ddf551db728fbdba0085b9b267a3",
+      "ko": "[choice]무료 인터넷 접속.[n][r1]무료 인터넷 접속."
+    },
+    {
+      "line": 653,
+      "event": "spaceopera3",
+      "english_sha256": "c5c4fc4f05ea20089d62d8705007a56a3b4bc0b55cb941c92641b5b35b472e4f",
+      "ko": "[choice]꽃말에 관한 방대한 지식.[n][r1]꽃말에 관한 방대한 지식."
+    },
+    {
       "line": 660,
       "event": "spaceopera4",
       "english_sha256": "f95c720a995eb528ccecedabb21d60f37222d88620bd212bd3383b599f71e38a",
       "ko": "고양이에게 지어 줄 끝내주는 이름은 뭐야?"
+    },
+    {
+      "line": 661,
+      "event": "spaceopera4",
+      "english_sha256": "1ab44872c88348c9a4d845eb2c1237d312ea9404917ba9a9530e350d0f6590e6",
+      "ko": "[choice]토성.[n][r1]토성."
+    },
+    {
+      "line": 662,
+      "event": "spaceopera4",
+      "english_sha256": "c7a2f989d782b9f0aa98e4533745cca0ec370478cecdedecaca25c295f5ab4f9",
+      "ko": "[choice]더글라스, 무시무시한 달의 왕.[n][r1]달의 왕 더글라스의 심장."
+    },
+    {
+      "line": 663,
+      "event": "spaceopera4",
+      "english_sha256": "4afe90106abf51b041050360dfc18ca999b2f3d8586bfbe30947ea4fa134de68",
+      "ko": "[choice]태양의 비밀스러운 달콤한 캐러멜 핵.[n][r1]태양의 비밀스러운 캐러멜 핵."
+    },
+    {
+      "line": 664,
+      "event": "spaceopera4",
+      "english_sha256": "bbad66d8bf2d491ff199057996ed64beffb0c354ddc794810390668dd21b0036",
+      "ko": "[choice]빅 머스터드.[n][r1]빅 머스터드 저장고."
     },
     {
       "line": 671,
@@ -800,10 +1616,58 @@
       "ko": "시의회 회의에 참석한 모두를 순식간에 짜증 나게 할 확실한 방법은?"
     },
     {
+      "line": 672,
+      "event": "spaceopera5",
+      "english_sha256": "06cd81179fd970b8c0046790b3a93ef3868cb507fed6c9a660cbf99d6e8f6820",
+      "ko": "[choice]바다코끼리 흉내를 뽐내.[n][r1]공공장소에서 바다코끼리 흉내 내지 말"
+    },
+    {
+      "line": 673,
+      "event": "spaceopera5",
+      "english_sha256": "282648eeaa4371547e6bd71504f0bd6d4438d73f283a1419cf4b842de5ef4ccf",
+      "ko": "[choice]시장을 유혹해 봐.[n][r1]달의 왕 더글라스를 유혹하지 말"
+    },
+    {
+      "line": 674,
+      "event": "spaceopera5",
+      "english_sha256": "08cb8b6d6f6448b5c9a1388aa9fa9e2c1c79ffdb233015292a0bc0e135ba5608",
+      "ko": "[choice]스탠드업 코미디 공연을 처음 선보여.[n][r1]절대로 스탠드업 코미디를 하지 말"
+    },
+    {
+      "line": 675,
+      "event": "spaceopera5",
+      "english_sha256": "a61127dc5e3c9c6a7f5f11c9925174a5adb5d8e578d2f0cf196991bcd15ab830",
+      "ko": "[choice]머스터드에 관한 (아주 해박한) 의견을... 또 늘어놔.[n][r1]머스터드에 관한 의견을 늘어놓지 말"
+    },
+    {
       "line": 682,
       "event": "spaceopera6",
       "english_sha256": "47c95a58eb1181a6cb88cb5ab50a236a0167de35859fc72e342722874b2ad105",
       "ko": "미래가 빨리 오길 바라게 만드는 새로운 기술은 뭐야?"
+    },
+    {
+      "line": 683,
+      "event": "spaceopera6",
+      "english_sha256": "b21b066eb54584b0cb84193caf3472890515edb4c412e358b7acf503da0c046c",
+      "ko": "[choice]배변 조절 자동화 시스템.[n][r1]배변 조절 자동화 시스템"
+    },
+    {
+      "line": 684,
+      "event": "spaceopera6",
+      "english_sha256": "983b8b3529cf0212c7df324dad2547c8f04ac7ee6d649f98bc86f638c107cace",
+      "ko": "[choice]미적 감각 처리 장치.[n][r1]미적 감각"
+    },
+    {
+      "line": 685,
+      "event": "spaceopera6",
+      "english_sha256": "ea52015d96fb3d3bf11c5ea430cf4e094c3e2332b551897cbf9180161f55d29d",
+      "ko": "[choice]AI 기반 속옷.[n][r1]속옷"
+    },
+    {
+      "line": 686,
+      "event": "spaceopera6",
+      "english_sha256": "9e8a6d6efad8775584cdd935f4374b120bd40f0f30f37ba2452ca3397875055f",
+      "ko": "[choice]눈썹 관리 시스템.[n][r1]눈썹 관리 시스템"
     },
     {
       "line": 694,
@@ -869,7 +1733,7 @@
       "line": 711,
       "event": "superheroes_comic_ending_3",
       "english_sha256": "6dc578b0168d56fbfaebac1d5dc69f5ebf41b19e64b4e97e9ab3ea853ebdfd3e",
-      "ko": "너도 그녀의 %COMICREPLACEMENTRAW_SUPERHEROES3_1%을 활용할 수 있을 거야."
+      "ko": "너도 그녀가 가진 %COMICREPLACEMENTRAW_SUPERHEROES3_1% 능력을 활용할 수 있을 거야."
     },
     {
       "line": 712,
@@ -911,7 +1775,7 @@
       "line": 718,
       "event": "superheroes_comic_ending_3",
       "english_sha256": "4beb02641c96e3fb13cd2a6f983469c427466245e7dab881befdaea1de3ecc33",
-      "ko": "풉, 나도 %COMICREPLACEMENT_SUPERHEROES6_1%로 능력을 얻은 얼간이와 한 팀 하고 싶진 않거든."
+      "ko": "풉, 나도 %COMICREPLACEMENT_SUPERHEROES6_1% 능력을 얻은 얼간이와 한 팀 하고 싶진 않거든."
     },
     {
       "line": 719,
@@ -926,10 +1790,58 @@
       "ko": "네가 제일 좋아하는 TV 프로그램이 폐지될 참이야. 방송국 간부들이 전화했어. 다음 시즌에 나올 새 캐릭터를 구상해서 프로그램을 살릴 기회가 생겼어. 잘 생각해. 어떤 캐릭터여야 할까?"
     },
     {
+      "line": 727,
+      "event": "superheroes1",
+      "english_sha256": "d6c332219a5a70a594ab9c988f2e8c12c4a17dea3f953ac9b88bbceae5117ad1",
+      "ko": "[choice]모자를 쓴 개.[n][r1]모자를 쓴 개.[n][r2]모자를 쓴 개"
+    },
+    {
+      "line": 728,
+      "event": "superheroes1",
+      "english_sha256": "d6718c29c02963c11517514a2ae96fa44f5c92cd85ffe22bc1bdfef5beeda5ab",
+      "ko": "[choice]총손 게리.[n][r1]총손 게리.[n][r2]총손 게리"
+    },
+    {
+      "line": 729,
+      "event": "superheroes1",
+      "english_sha256": "2a0fc7913ee22ce226c58d314345777db9101bb08e8c0fd9ab7d7ba562282067",
+      "ko": "[choice]위대한 예술가들이 다 하듯이, 대놓고 자신을 투영한 캐릭터.[n][r1]대놓고 작가 자신을 투영한 캐릭터.[n][r2]작가아님"
+    },
+    {
+      "line": 730,
+      "event": "superheroes1",
+      "english_sha256": "f041e87cf9aa3c3d6e8fd7ab47393cc631d8644ddce00b2897cbebacd7fe090c",
+      "ko": "[choice]슈퍼 아인슈타인.[n][r1]슈퍼 아인슈타인.[n][r2]슈퍼 아인슈타인"
+    },
+    {
       "line": 737,
       "event": "superheroes2",
       "english_sha256": "2d9a6c35b9035c62cb414a2cddb2b11311023c9a8a15c9aac14d471faba3e259",
       "ko": "옛 친구들과 멀어졌어... 마지막으로 어울린 지 10년. 이제 모두를 다시 모을 계획을 생각해야 해!"
+    },
+    {
+      "line": 738,
+      "event": "superheroes2",
+      "english_sha256": "1529a61e15e031a103cbc1587870226dbe7ded6fb593df5cc029437b08f4ebf6",
+      "ko": "[choice]별로 유명하지 않은 \"4인 탱고\" 대회.[n][r1]별로 유명하지 않은 \"4인 탱고\" 대회."
+    },
+    {
+      "line": 739,
+      "event": "superheroes2",
+      "english_sha256": "67cd5cff81205975957d7225eabc394862e67760ab04837d577475ddd33a3c6b",
+      "ko": "[choice]운명을 영원히 묶어 버릴 범죄를 함께 저질러.[n][r1]지난여름 함께 저지른 끔찍한 범죄의 유일한 목격자를 입막음하는 일."
+    },
+    {
+      "line": 740,
+      "event": "superheroes2",
+      "english_sha256": "dd124365da4a27bb0520489ae17d6dbb64fcdbab85a67a27317c367a0ec817c0",
+      "ko": "[choice]동네 세차장에서 1대 값으로 4대를 씻어 주는, 놓칠 수 없는 행사.[n][r1]동네 세차장에서 1대 값으로 4대를 씻어 주는, 놓칠 수 없는 행사."
+    },
+    {
+      "line": 741,
+      "event": "superheroes2",
+      "english_sha256": "e4b69f116256cf276fc44dfedc2eab0d5622bc6d16d73327fde53aa20879c5e0",
+      "ko": "[choice]동네 스와핑 클럽에서 보낸 하룻밤.[n][r1]동네 스와핑 클럽에서 보낸 아주 중대한 하룻밤."
     },
     {
       "line": 748,
@@ -938,10 +1850,58 @@
       "ko": "쥐 공동체에 봉사한 공로로 쥐 왕이 초능력 하나를 주겠대. 현명하게 골라."
     },
     {
+      "line": 749,
+      "event": "superheroes3",
+      "english_sha256": "57bd00996e39d6f432deda8c27a757bb39f21c5b359b56ff5664f441108128a0",
+      "ko": "[choice]와이파이 염력... 정신력으로 와이파이 신호를 만들어 내는 능력![n][r1]와이파이 염력"
+    },
+    {
+      "line": 750,
+      "event": "superheroes3",
+      "english_sha256": "f96dc60cd862c678a4aaa27bdc941a72b6996ac84ce576042a045b2e0dc30c4e",
+      "ko": "[choice]폭발성 설사... 말 그대로 폭발하는 거야.[n][r1]폭발성 설사"
+    },
+    {
+      "line": 751,
+      "event": "superheroes3",
+      "english_sha256": "55a3805e4661884b2f641e1faaef2c8b74ab1cd25993d535d11232f4e496f585",
+      "ko": "[choice]초가시성. 투명해지고 싶어 하는 건 찌질이들이나 하는 짓이야. 넌 눈에 띄려고 여기 왔어.[n][r1]초가시성"
+    },
+    {
+      "line": 752,
+      "event": "superheroes3",
+      "english_sha256": "40a5f67e58c2cc0e892e4aaa7c3c8a08a7d6b423e8a1cb89ccbbde67811c2f11",
+      "ko": "[choice]역사상 가장 강력한 갑옷, 주인공 보정.[n][r1]주인공 보정"
+    },
+    {
       "line": 759,
       "event": "superheroes4",
       "english_sha256": "725207dd95fa5631ac7eb109421039e7531b34a1b378c4b445bbd6cb75632c01",
       "ko": "아주 중요한 취업 면접에서 고전적인 질문을 받았어. 너의 대표적인 약점 하나는 뭐야?"
+    },
+    {
+      "line": 760,
+      "event": "superheroes4",
+      "english_sha256": "bfd43ce830a69f1f7b47a5d8c372dac3189f484efc1d3c5f1715cc09e691a0c9",
+      "ko": "[choice]전 애인을 잊지 못해. (아마 \"과한 사생활 고백\"도 문제겠지.)[n][r1]전 애인을 잊지 못하는 것"
+    },
+    {
+      "line": 761,
+      "event": "superheroes4",
+      "english_sha256": "b1b12640b0f5643058dfa3d7de8ca31b2e428aa413e5eee138972935b78f1abd",
+      "ko": "[choice]방귀 농담에 너무 웃어서 사실상 아무것도 못 해.[n][r1]방귀 농담에 너무 웃어서 사실상 아무것도 못 한다는 것"
+    },
+    {
+      "line": 762,
+      "event": "superheroes4",
+      "english_sha256": "832ff98a37872f408695563d299ea8704aae6ec2be633fc5869e7686cceea750",
+      "ko": "[choice]눈을 가리면 앞을 못 봐. 네가 얼마나 실속 있는 사람인지 보여 주지![n][r1]눈을 가리면 앞을 못 본다는 것"
+    },
+    {
+      "line": 763,
+      "event": "superheroes4",
+      "english_sha256": "378024e1db287df391f67010661e72d221040994724242199a2f159468e785fc",
+      "ko": "[choice]거위들이 (솔직히 정당한) 복수를 하려고 널 보기만 하면 공격해.[n][r1]삼 년 전 그 끔찍한 사건 이후 모든 거위에게 보이는 족족 공격당한다는 것"
     },
     {
       "line": 770,
@@ -950,10 +1910,58 @@
       "ko": "취업에 성공했어! 그런데 5년이 흘렀고 이곳에서 일하는 삶은 비참해. 그만두고 건물 전체를 불태우지 않는 이유는 하나뿐이야."
     },
     {
+      "line": 771,
+      "event": "superheroes5",
+      "english_sha256": "344e426304931a5042fa1216acee0846eef21fa7c7ab7bff78720ee307a2c62c",
+      "ko": "[choice]저들이 어떻게 구했는지, 네가 이모 문화에 빠졌던 시절의 고뇌에 찬 시 사본이 약점으로 잡혔어.[n][r1]정부가 그녀가 이모 문화에 빠졌던 시절의 사진을 약점으로 잡고 있어."
+    },
+    {
+      "line": 772,
+      "event": "superheroes5",
+      "english_sha256": "db8bf6ae2ebaeae511db67821e819d33dcf1fd60bdd361ebc9a0a4fc968d859c",
+      "ko": "[choice]회계팀의 제니퍼.[n][r1]회계팀의 제니퍼에게 푹 빠졌어."
+    },
+    {
+      "line": 773,
+      "event": "superheroes5",
+      "english_sha256": "9471bf1da018fc608fe956d54938451a295b05b2af8b16c6196c26a17e748910",
+      "ko": "[choice]내기에서 졌어.[n][r1]내기에서 졌어."
+    },
+    {
+      "line": 774,
+      "event": "superheroes5",
+      "english_sha256": "9ea99547a35aa19a3755f193e2a742992b9811a9b7923baa13d689a64d6540b6",
+      "ko": "[choice]타코 먹는 화요일.[n][r1]타코 먹는 화요일."
+    },
+    {
       "line": 781,
       "event": "superheroes6",
       "english_sha256": "484602c208afb9e6a7cba73bfaf5630bfb1e8edb58cc64d993668a76ac72218b",
       "ko": "넌 종마 네 마리가 있어. 네 자랑이자 기쁨이지. 그런데... 어떻게 갖게 됐는지는 좀 부끄러워..."
+    },
+    {
+      "line": 782,
+      "event": "superheroes6",
+      "english_sha256": "0ba8b1b274a4977d45598fb7995a630abfa26c6aa4c9fa1d3ccbcc072fd7d877",
+      "ko": "[choice]시리얼 상자에서 경품으로 받았어.[n][r1]시리얼 상자 경품으로"
+    },
+    {
+      "line": 783,
+      "event": "superheroes6",
+      "english_sha256": "3854b21a523e57da4f4e4287660f7e6dc51a5b34082cc96db4eab90997d9966c",
+      "ko": "[choice]증인 보호 프로그램 요원들을 설득해서 새 신분의 일부로 넣어 달라고 했어.[n][r1]증인 보호 프로그램에서 받은 새 신분의 일부로"
+    },
+    {
+      "line": 784,
+      "event": "superheroes6",
+      "english_sha256": "c46305ed3692bfb538c1c4338b77aec7eec11adf94c7f288f36c827d8a82455f",
+      "ko": "[choice]부자 부모님이 미대 진학의 꿈을 포기시키려고 사 줬어.[n][r1]부자 부모님이 미대 진학의 꿈을 포기시키려고 사 줘서"
+    },
+    {
+      "line": 785,
+      "event": "superheroes6",
+      "english_sha256": "650b01a07dd565a7bb9b7f007a24d8773ab16e4b94920eac0275454d6960a9b2",
+      "ko": "[choice]신을 협박했어.[n][r1]신을 협박해서"
     },
     {
       "line": 793,
@@ -1010,10 +2018,58 @@
       "ko": "지금 진로가 잘 안 풀리면 택할 다른 진로를 골라 봐."
     },
     {
+      "line": 817,
+      "event": "comicstrip1",
+      "english_sha256": "874ccaa8b4891429dd020e0c8354b46be968117a4292e6b7dfaba61156c2a416",
+      "ko": "[choice]달의 왕.[n][r1]달의 왕 더글라스."
+    },
+    {
+      "line": 818,
+      "event": "comicstrip1",
+      "english_sha256": "7cddc85b91ee6a7636372f64a8c59ed477e4a602b77fbdba79702ca4e7196d1e",
+      "ko": "[choice]암벽 등반가.[n][r1]실내 암벽 등반을 자기 정체성의 전부로 삼는 사람들."
+    },
+    {
+      "line": 819,
+      "event": "comicstrip1",
+      "english_sha256": "61ed03a0d85216882e408fd7622a1d7545a1d908469b410d6f1a8144295a7de9",
+      "ko": "[choice]물리학 박사.[n][r1]물리 법칙."
+    },
+    {
+      "line": 820,
+      "event": "comicstrip1",
+      "english_sha256": "a123cbc3349fb0cc20a487295550c55e316f7c2d71c488614b05b4160e4e312b",
+      "ko": "[choice]직사각형.[n][r1]객관적으로 역사상 최악의 도형인 직사각형."
+    },
+    {
       "line": 827,
       "event": "comicstrip2",
       "english_sha256": "c06e2c5b5db7cff141559cd94a47b1d6ad029365d013365dceb7bd52dd09d387",
       "ko": "넌 이상한 이세계물의 주인공이야. 여신이 한 가지를 내려 줄 수 있대. 현명하게 골라."
+    },
+    {
+      "line": 828,
+      "event": "comicstrip2",
+      "english_sha256": "89c78206d959bd53adeead47657aeb16bad7519e1b666c4806de9a5fa14c9757",
+      "ko": "[choice]성난 벌레들을 토해 내는 능력.[n][r1]아브라카-[턱이 벌어지며 벌들이 쏟아져 나옴]."
+    },
+    {
+      "line": 829,
+      "event": "comicstrip2",
+      "english_sha256": "0bab90877308b0fed578cca7b4e4cdae171e9dc677b915e66da0d9c4536db5ae",
+      "ko": "[choice]아름다운 발이 잔뜩. 끝없이 많은 발.[n][r1]발 소환."
+    },
+    {
+      "line": 830,
+      "event": "comicstrip2",
+      "english_sha256": "d5a98ce1a824d7462bf9a910c5bfb9d1f6c6ac77a29b1c056c209978844f7931",
+      "ko": "[choice]방귀를 조종하는 능력.[n][r1]방귀술."
+    },
+    {
+      "line": 831,
+      "event": "comicstrip2",
+      "english_sha256": "4c75c28ec17595a6c24b4215eb2c4f8574a689069e38f400dc89d97136a29738",
+      "ko": "[choice]우유 기반 저주에 관한 지식.[n][r1]유당 불내증 광선."
     },
     {
       "line": 838,
@@ -1022,10 +2078,58 @@
       "ko": "유행은 지났지만 꼭 돌아와야 할 건 뭐야?"
     },
     {
+      "line": 839,
+      "event": "comicstrip3",
+      "english_sha256": "a8294076dfac8f8fa085596705ee497b93f60ec0611326db9169a4908dfdd530",
+      "ko": "[choice]담배 피우기... 하지만 멋있게.[n][r1]담배 한 대라면 살인도 하겠어."
+    },
+    {
+      "line": 840,
+      "event": "comicstrip3",
+      "english_sha256": "06c10fbe9290d5f71079e928971ddc1485df9855158d7b19666db42a6080d805",
+      "ko": "[choice]성기 위생.[n][r1]포피는 언제나 깨끗이 씻어!"
+    },
+    {
+      "line": 841,
+      "event": "comicstrip3",
+      "english_sha256": "253b03bc8c0222fd8e53c8d03c34f78b1b90a3c842fde0644e45a23cadc198d7",
+      "ko": "[choice]등장인물들이 자신이 창작물 속에 있다는 걸 깨닫는 창작물! 더 많이 만들자![n][r1]엄마, 나 만화에 나와!"
+    },
+    {
+      "line": 842,
+      "event": "comicstrip3",
+      "english_sha256": "80dd4c5573c002d9a41e6e4813f6af38513f77cc90870042a1a44d5fa0f53f9e",
+      "ko": "[choice]생산 수단 장악.[n][r1]프롤레타리아가 잃을 것은 사슬뿐이다!"
+    },
+    {
       "line": 849,
       "event": "comicstrip4",
       "english_sha256": "295c99d14082f9da87c2a5630a9974bbff70cca9bed9ac0f15895d506c5e6c40",
       "ko": "넌 세 청년이 함께 사는 TV 프로그램의 작가인데 시청률이 낮아... 그래서 시즌 3에는 판을 흔들 뜻밖의 룸메이트를 추가하기로 해."
+    },
+    {
+      "line": 850,
+      "event": "comicstrip4",
+      "english_sha256": "ebb135ed6941485817aa9241762867e703a4ee18a75d58c7f3b952b22cc2bcfb",
+      "ko": "[choice]시인의 영혼을 가진 가위눌림 악마.[n][r1]가위눌림 악마 페리."
+    },
+    {
+      "line": 851,
+      "event": "comicstrip4",
+      "english_sha256": "4813b212878fabee0a39b96aa858178f39bf7064a29ddce28abbd6d68b51f81f",
+      "ko": "[choice]직업이 있는 돌고래.[n][r1]돌고래이자 변호사인 바버라."
+    },
+    {
+      "line": 852,
+      "event": "comicstrip4",
+      "english_sha256": "76a83802cd764c479f0bb8287ac174fcb6f515e8e3de445ac047c79e6ddff30d",
+      "ko": "[choice]순무로 만들어진, 요염한 바람둥이.[n][r1]순무로 만들어진 섹시한 낯선 사람."
+    },
+    {
+      "line": 853,
+      "event": "comicstrip4",
+      "english_sha256": "1e6ec4e3975433bbd33a7667d3ba11e6b2c2d295863454e8b3a6a5d79a4181f6",
+      "ko": "[choice]총의 요정.[n][r1]총의 요정 웬디."
     },
     {
       "line": 860,
@@ -1034,10 +2138,58 @@
       "ko": "네 인생을 영원히 바꾼 결정적인 사건은 뭐야?"
     },
     {
+      "line": 861,
+      "event": "comicstrip5",
+      "english_sha256": "731c7cfcd759ffe5391af4d54073b416ea4f033bf7b91825384fb470e25a0e9e",
+      "ko": "[choice]상상 속 친구가 너와 말을 하지 않게 됐을 때.[n][r1]후안이 제라드의 망가진 정신이 만들어 낸 상상에 불과하다는 거야."
+    },
+    {
+      "line": 862,
+      "event": "comicstrip5",
+      "english_sha256": "3a4f28df861f971541a3f21dec9c23f75bfb2040021c5144267f76f835e1bced",
+      "ko": "[choice]담배는 피우는 거라는 걸 배우기도 전에, 처음으로 담배를 먹었을 때.[n][r1]전부 은밀한 담배 선전이라는 거야."
+    },
+    {
+      "line": 863,
+      "event": "comicstrip5",
+      "english_sha256": "e46011532720d8e54774a65f7b2492058e5bbcf53bc9d82922b941ab265ba52e",
+      "ko": "[choice]소련의 붕괴.[n][r1]전부 은밀한 공산주의 선전이라는 거야."
+    },
+    {
+      "line": 864,
+      "event": "comicstrip5",
+      "english_sha256": "d4da2c95fa6d75abf06395f313949225946dd7cbaab18b26022a41c4fcbaf417",
+      "ko": "[choice]가필드에게 \"중지 명령\" 편지를 받아, 유망한 만화 기획인 고필드를 접어야 했을 때.[n][r1]생각해 보면 이 만화가 가필드를 은근히 표절했다는 거야."
+    },
+    {
       "line": 871,
       "event": "comicstrip6",
       "english_sha256": "3708b7a40866f236bbf8e61194e47e98884d5d1339f230e3a4f9c81537c2d96a",
       "ko": "저주받은 지니가 소원 3개를 들어주겠대. 하지만 그 대신 이 4가지 중 3가지를 영원히 빼앗아 가. 뭘 하나 남길래?"
+    },
+    {
+      "line": 872,
+      "event": "comicstrip6",
+      "english_sha256": "d8512cdc234f4790a3744b6715d967a5703b17ab5c8c15575fba597042ea0016",
+      "ko": "[choice]네 성기.[n][r1]내 자지?!"
+    },
+    {
+      "line": 873,
+      "event": "comicstrip6",
+      "english_sha256": "bdecf7dc54b723fea3f3bdbc8c7b066a3b14909ada1846b6ada699436a9ca2e0",
+      "ko": "[choice]앞으로 남은 인생 10년... 마침 소설을 쓰려고 계획했던 때지.[n][r1]미래?!"
+    },
+    {
+      "line": 874,
+      "event": "comicstrip6",
+      "english_sha256": "2d4b351ebe98449a92b5865c02d20e68b45df43278c2e710456d3ea56ac4f1ae",
+      "ko": "[choice]네 모든 재산. 비물질적인 것보다 훨씬 가치 있잖아.[n][r1]내 부동산 전부?!"
+    },
+    {
+      "line": 875,
+      "event": "comicstrip6",
+      "english_sha256": "9f6865518b76bd445616e49f5f8c95437ee836dac8622884978ddaefd952acbc",
+      "ko": "[choice]네 상징인 파이프. 파이프가 없으면 %CURRENTPLAYERNAME%이라고 할 수 있겠어?![n][r1]내 파이프?!"
     },
     {
       "line": 883,
@@ -1067,7 +2219,7 @@
       "line": 896,
       "event": "period_comic_ending_3",
       "english_sha256": "0a523a30d9893d2bba54b981cae470089f72af0ade8f89ef1170000121c4fdf5",
-      "ko": "글쎄요, 여기 우리 친구 사샤가 새로운 %COMICREPLACEMENTRAW_PERIOD1_1%을 보고 넋을 놓는 음탕한 모습을 소문으로 쳐 주신다면요."
+      "ko": "글쎄요, 여기 우리 친구 사샤가 새로운 %COMICREPLACEMENTRAW_PERIOD1_1%에게 넋을 놓는 음탕한 모습을 소문으로 쳐 주신다면요."
     },
     {
       "line": 897,
@@ -1148,10 +2300,58 @@
       "ko": "어떤 황당한 일을 계기로 지금 일자리를 얻었어?"
     },
     {
+      "line": 916,
+      "event": "period1",
+      "english_sha256": "95f70b429ff897ba8a39e15aa0c8139e7b7de2dba3362527c95e3420cab53f14",
+      "ko": "[choice]포크가 필요한 사람들에게 포크를 나눠 주는 자선 단체에서 봉사하기.[n][r1]포크 공급자"
+    },
+    {
+      "line": 917,
+      "event": "period1",
+      "english_sha256": "3bb61b205d46b55c16ee9d0375b22635f929af421bf7d253899aed1cce4ef5f2",
+      "ko": "[choice]아쿠아 피트니스 강사를 위한 안무 만들기.[n][r1]아쿠아 피트니스 강사"
+    },
+    {
+      "line": 918,
+      "event": "period1",
+      "english_sha256": "0489e64d34287c4ddc82e5a27eedc99895501cf8d20c1a530a4f296eb4387812",
+      "ko": "[choice]마을의 전임 전문 칭찬꾼을 무장 결투로 꺾고 그 자리를 차지하기.[n][r1]칭찬 전문가"
+    },
+    {
+      "line": 919,
+      "event": "period1",
+      "english_sha256": "a3865210dd569f4c732fc10601e2ccafa148886731412492ec9fd6771a601955",
+      "ko": "[choice]말의 집사가 되려고 학부 4년과 대학원 5년을 다니기.[n][r1]말의 집사"
+    },
+    {
       "line": 926,
       "event": "period2",
       "english_sha256": "6d6ed958fda8b6e42e194b3ea0c4ffe2e7c257a867981a37f0e3f326830b2def",
       "ko": "이 주 안에 $50,000를 벌어야 해. 어떻게 빨리 한몫 챙길래?"
+    },
+    {
+      "line": 927,
+      "event": "period2",
+      "english_sha256": "179170fc621e12c6201c82c265b93d9d80f2449b75d4a525ba50ae51aefcfa06",
+      "ko": "[choice]중고 마요네즈를 사서 되파는 수상한 사업.[n][r1]마요네즈 거래로 돈을 모았거든."
+    },
+    {
+      "line": 928,
+      "event": "period2",
+      "english_sha256": "611e177baf89203ee632fbba8b07f10b1596163b6228fe7e4096da6f4c884bcc",
+      "ko": "[choice]카드 게임에서 사기 치기. 그것도... 엄청 많이.[n][r1]카드 게임에서 사기를 쳤거든. 그것도... 엄청 많이."
+    },
+    {
+      "line": 929,
+      "event": "period2",
+      "english_sha256": "fe4e8beee4c372d95b6513365a534f95210cd2ff6cda530ee1195a638a829d11",
+      "ko": "[choice]여러 비유에 특허를 내고 시인들에게 사용료 받기.[n][r1]여러 비유의 특허를 정식으로 소유하고 있거든."
+    },
+    {
+      "line": 930,
+      "event": "period2",
+      "english_sha256": "10d19240b8a57f080c417edf61c410f8978ee1277049df0be8b11c4fd79f6c17",
+      "ko": "[choice]최근 떠올린 혁신적인 제품을 발명하기. 바로 바지.[n][r1]바지를 발명해서 돈을 모았거든."
     },
     {
       "line": 937,
@@ -1160,10 +2360,58 @@
       "ko": "역사상 가장 시시한 회식에 왔어. 자유로운 영혼인 넌 어떻게든 즐기려고 색다른 활동을 고르지."
     },
     {
+      "line": 938,
+      "event": "period3",
+      "english_sha256": "de52f4949c7ad646be81a51d6ab4fabd0daa38c55e2c350db3b175be3e1fde4f",
+      "ko": "[choice]아무도 시키지 않은 거위 흉내 내기.[n][r1]거위 흉내 내기"
+    },
+    {
+      "line": 939,
+      "event": "period3",
+      "english_sha256": "bec29bf9927dd41ba3dc1c16cda1cc0c52430bd6eda70a2b9753b85cefe72115",
+      "ko": "[choice]사람들 앞에서 울기.[n][r1]사람들 앞에서 울기"
+    },
+    {
+      "line": 940,
+      "event": "period3",
+      "english_sha256": "6c7fc14d6339826c563ca3d2a9da94cf872a4d1d22bce56d69cb90264e3f7a3a",
+      "ko": "[choice]말도 안 되는 양의 랜치 드레싱 마시기.[n][r1]랜치 드레싱 마시기"
+    },
+    {
+      "line": 941,
+      "event": "period3",
+      "english_sha256": "09e08d1d5a6cd9a471061b1c3d43aec5b6d34a1a7545e0620a82cd7f4b200c91",
+      "ko": "[choice]사회적으로 허용된 폭력의 일환으로 누군가를 곁눈질하기.[n][r1]누군가를 곁눈질하기"
+    },
+    {
       "line": 948,
       "event": "period4",
       "english_sha256": "562aceb4f5551cd08a6b66f5dba805ca643094c5b0927ed58349b2e5af78445d",
       "ko": "이런! 다음 금요일에 멋진 행사가 하나도 아니고 무려 넷이나 있어... 어디에 갈래?"
+    },
+    {
+      "line": 949,
+      "event": "period4",
+      "english_sha256": "9edbcec5baf7eb3a9ce7106ffd22ca84499ca5216467f3fa66a476ac4e7dcd9a",
+      "ko": "[choice]연례 몸으로 말해요 선수권 대회.[n][r1]연례 몸으로 말해요 선수권 대회"
+    },
+    {
+      "line": 950,
+      "event": "period4",
+      "english_sha256": "9198dd0f9a11f7a4db8127d1eda53dd77b60bb974975d401b19b9165c2231502",
+      "ko": "[choice]\"봄 최고의 미남 오리\" 대관식.[n][r1]\"봄 최고의 미남 오리\" 대관식"
+    },
+    {
+      "line": 951,
+      "event": "period4",
+      "english_sha256": "acdcece4eaf3501dd359c9fbf2e84592410a2c4acff1f5d559d9a68196e2d28a",
+      "ko": "[choice]겨울의 끝을 장식하는 숙청의 밤.[n][r1]겨울의 끝을 장식하는 숙청의 밤 행사"
+    },
+    {
+      "line": 952,
+      "event": "period4",
+      "english_sha256": "a979d59b6d89bd0ba7f741aba492a08f82ed3adc728b880f558f9a108caeee9c",
+      "ko": "[choice]꼬마 일라이자의 바르 미츠바에서 열리는, 모두가 기다려 온 스카 밴드 대회.[n][r1]꼬마 일라이자의 바르 미츠바에서 열리는, 모두가 기다려 온 스카 밴드 대회"
     },
     {
       "line": 959,
@@ -1172,10 +2420,58 @@
       "ko": "이 상황들 중 무엇이 가장 부끄러울까?"
     },
     {
+      "line": 960,
+      "event": "period5",
+      "english_sha256": "5ed34833cd5c164a8b9390255da4b7d977210bf494de58b757d4e1b1250640fe",
+      "ko": "[choice]실수로 말에게 키스하기.[n][r1]할아버지가 실수로 말에게 키스한 사건"
+    },
+    {
+      "line": 961,
+      "event": "period5",
+      "english_sha256": "5c383de51d00cd1ae492e0a2eb7771c08f6fa2a20eeeefc93c1b343f638b170c",
+      "ko": "[choice]퀴즈 대회의 밤에서 열두 번 연속 패배하기.[n][r1]퀴즈 대회의 밤에서 당한 집안의 굴욕적인 패배"
+    },
+    {
+      "line": 962,
+      "event": "period5",
+      "english_sha256": "f0fb6794004b23d1f0772b55f45def7434b4ae5673b612e99ee6732e99289e49",
+      "ko": "[choice]원한다고 스페인을 살 수는 없다는 지적을 듣고, 술에 취해 술집에서 그 사람과 싸우기.[n][r1]스페인을 사려던 아버지의 어리석은 시도"
+    },
+    {
+      "line": 963,
+      "event": "period5",
+      "english_sha256": "6833012717206f11179ce60681a72164a41204118ea50d6ff18eedefd259e273",
+      "ko": "[choice]할머니가 너와 가까워지려고 스케이트보드에 입문하기.[n][r1]끔찍한 데다 짧기까지 했던 할머니의 프로 스케이트보더 생활"
+    },
+    {
       "line": 970,
       "event": "period6",
       "english_sha256": "78708e0a35b9d748249cb3e2690126a765b9fae0e7a52126e984d86508ad04eb",
       "ko": "모든 걸 바꿀 수도 있는 편지를 받았어. 무슨 내용일까?"
+    },
+    {
+      "line": 971,
+      "event": "period6",
+      "english_sha256": "5e529aa34a4a3787e537eed45461fb9cb0bf48bda82edae31dbd0f3561d04e56",
+      "ko": "[choice]프랑스 국왕이 보낸 연애편지.[n][r1]프랑스 국왕이 보낸 연애편지잖아! 난 프랑스엔 가 본 적도 없는데... 그래서 더 신경 쓰여."
+    },
+    {
+      "line": 972,
+      "event": "period6",
+      "english_sha256": "538b1029c27e93667c7f075aec549ef0d0191b0478c6d9c36d662e06ab6c5893",
+      "ko": "[choice]러시안룰렛 국가대표팀 합격 통지서.[n][r1]러시안룰렛 국가대표팀에 합격했어. 올림픽, 내가 간다!"
+    },
+    {
+      "line": 973,
+      "event": "period6",
+      "english_sha256": "2caf0429fa94d55bf429a58169ec8aba199fbb3993e112f34948f23df81fe499",
+      "ko": "[choice]평생 한 번 올까 말까 한 츄러스의 집의 1개 값에 2개 행사![n][r1]츄러스의 집에서 1개 값에 2개를 주는 행사를 한대. 이러면 모든 게 달라지지!"
+    },
+    {
+      "line": 974,
+      "event": "period6",
+      "english_sha256": "074da8ddd0ceeaed268cb13a74e52a584a366c1a6e933dd63aa43da62dc49116",
+      "ko": "[choice]섭정 시대풍 보이 밴드에 들어오라는 초대장.[n][r1]영국에서 가장 명망 높은 보이 밴드에 들어오라는 초대장이잖아!"
     },
     {
       "line": 982,
@@ -1250,10 +2546,58 @@
       "ko": "인생의 실수 중 어쩐지 너답다고 느껴지는 한 가지는 뭐야?"
     },
     {
+      "line": 1007,
+      "event": "artsy1",
+      "english_sha256": "3178bc3b86eaae635c653a038196a754c6f1cfa4243f695fd308145bb89362ec",
+      "ko": "[choice]유통기한이 지나도 너무 지난 요구르트 먹기.[n][r1]유통기한이 지나도 너무 지난 요구르트를 먹은 거야."
+    },
+    {
+      "line": 1008,
+      "event": "artsy1",
+      "english_sha256": "7a1cad6050b77cd9eb5bdde54ef7469e4ab6cd310a77bcd9b6a5bc44c332e95a",
+      "ko": "[choice]구상 중인 이세계 만화의 영감을 찾다가 너무 멀리 가 버리기.[n][r1]이세계 만화의 영감을 찾다가 너무 멀리 가 버린 거야."
+    },
+    {
+      "line": 1009,
+      "event": "artsy1",
+      "english_sha256": "3b119b78a4020da5e022504a08e3f56c987c2ffea935d0b170f304533c52999d",
+      "ko": "[choice]비밀 의식의 마법 문양을 쓰다가 오타 내기.[n][r1]비밀 의식의 마법 문양을 쓰다가 오타를 낸 거야."
+    },
+    {
+      "line": 1010,
+      "event": "artsy1",
+      "english_sha256": "f12010871a0f50bec50441cd5d06a69b161fef17627883fede3b4b89338c89ac",
+      "ko": "[choice]너무 과격한 뒤로 공중제비 돌기.[n][r1]너무 과격하게 뒤로 공중제비를 돈 거야."
+    },
+    {
       "line": 1017,
       "event": "artsy2",
       "english_sha256": "24d8c1b7720263feb909e4fc990a5dab637309207fb302edcd94a276cdeb73d7",
       "ko": "콜로세움에서 죽을 때까지 싸워야 해. 상대는 고를 수 있어. 누굴 고를래?"
+    },
+    {
+      "line": 1018,
+      "event": "artsy2",
+      "english_sha256": "6589274376af4d009b5b17d29aa481c09df1b95be0320e20d1ea63ce16d1fc1f",
+      "ko": "[choice]무시무시하고도 흥겨운 \"콩가 줄\" 진형으로 싸우는 포르투갈 전체 인구.[n][r1]포르투갈 전체 인구야. 완다가 붐비는 공간을 두려워한다는 걸 나타내지."
+    },
+    {
+      "line": 1019,
+      "event": "artsy2",
+      "english_sha256": "5516f7c807c1adbb6299b9f804550093fa6e4d6433153a4f5b0546dcfdd779fd",
+      "ko": "[choice]공룡 여러 마리. 그 정도는 분명 상대할 수 있을 것 같아.[n][r1]수많은 공룡이야. 완다가 공룡에 집착한다는 걸 나타내지."
+    },
+    {
+      "line": 1020,
+      "event": "artsy2",
+      "english_sha256": "08ce1f277dd5bfe4a347cb9738b56deaef83f11e34bc41508e36e642478e07a1",
+      "ko": "[choice]네 전 애인 전부... 기분 나쁜 전 애인 지네로 합체한 모습으로.[n][r1]완다의 전 애인 전부야... 기분 나쁜 전 애인 지네로 합체한 모습이지."
+    },
+    {
+      "line": 1021,
+      "event": "artsy2",
+      "english_sha256": "c3dcf2521d209f9e0c069076318a27f49ac503984aebf9e7827cb4a09a1f5954",
+      "ko": "[choice]말. 사실 말은 꽤 근육질이지만... 솔직히 이 중에선 가장 합리적인 선택이야.[n][r1]말이야... 어째선지 완다의 아버지 문제를 나타내지."
     },
     {
       "line": 1028,
@@ -1262,10 +2606,58 @@
       "ko": "이 네 가지 고통스러운 활동 중 하나를 견디면 백만 달러를 주겠대. 과연 할 수 있을까...?"
     },
     {
+      "line": 1029,
+      "event": "artsy3",
+      "english_sha256": "8edc9858cd240cdd12ebd657a02946a3ed59feeb55df11886b19ede4dfcf0aec",
+      "ko": "[choice]곰을 때린 뒤 무슨 일이 생기는지 보기.[n][r1]곰을 때리는 일."
+    },
+    {
+      "line": 1030,
+      "event": "artsy3",
+      "english_sha256": "12c97fc7ee39d84f690599bd5eeb744baa4725fa85ff0273cfead882ef523086",
+      "ko": "[choice]최악의 악몽 속 암말의 갈기를 빗겨 주기.[n][r1]최악의 악몽 속 암말의 갈기를 빗겨 주는 일."
+    },
+    {
+      "line": 1031,
+      "event": "artsy3",
+      "english_sha256": "e8dc3e142dfcdd6a205ba423f947db5709332f55f8faf46c6ff46282ed937f92",
+      "ko": "[choice]네 죽음에 관한 각본 수정하기.[n][r1]자신의 죽음에 관한 각본을 수정하는 일."
+    },
+    {
+      "line": 1032,
+      "event": "artsy3",
+      "english_sha256": "58908449fc01b8ce45cfa68267262bbe6e7f13f30df90686951f46d29f13babd",
+      "ko": "[choice]온라인 게임을 1,000판 하며 절제심 기르기... 음성 채팅을 켜고.[n][r1]온라인 게임을 1,000판 하며 절제심을 기르는 일... 음성 채팅을 켜고 말이야."
+    },
+    {
       "line": 1039,
       "event": "artsy4",
       "english_sha256": "7fafd7b0afc270321a1df95670c7179bbd52853db5b0dc882d758b266187878e",
       "ko": "역대 최고의 소개팅 중인데, 넌 일찍 자리를 뜨려 해. 대체 왜 그러는 걸까?"
+    },
+    {
+      "line": 1040,
+      "event": "artsy4",
+      "english_sha256": "358968a820ae418a2118df4365e5178bf2287b9a8ce1d2ad2ef321ebdc43b60d",
+      "ko": "[choice]노벨상을 거의 탈 수 있을 것 같아서 연구하러 돌아가야 해. (전혀 아니야.)[n][r1]노벨상을 거의 탈 수 있을 거라고 믿거든. (전혀 아니야.)"
+    },
+    {
+      "line": 1041,
+      "event": "artsy4",
+      "english_sha256": "66bfb197e3d5e17cf8a8875e987f6d951bf19237792c9b63ac69f0d8a8a6600a",
+      "ko": "[choice]데이트 상대에게서 냄새가 나. 소개팅이라고 코까지 가리는 건 아니잖아.[n][r1]정신의 우주적 한계에서 지독한 냄새가 나거든."
+    },
+    {
+      "line": 1042,
+      "event": "artsy4",
+      "english_sha256": "ff22d344399c987ad50c642ae50309adf70e724aff1d875f54a26b7304435e93",
+      "ko": "[choice]소개팅 스피드런 신기록을 세우고 싶어.[n][r1]이 대모험을 끝내는 스피드런 신기록을 세우고 싶거든."
+    },
+    {
+      "line": 1043,
+      "event": "artsy4",
+      "english_sha256": "c9e8b571f5c2b7ee853bb27982694e8dd72b5185898176d2974b6012156d994e",
+      "ko": "[choice]종이접기 책이 배송될 예정이라 집에서 수령 서명을 해야 해. 차세대 종이접기계의 마이클 조던이 될지도 모르잖아![n][r1]내일 오전 9시에서 11시 사이에 집으로 택배가 오거든."
     },
     {
       "line": 1050,
@@ -1274,10 +2666,58 @@
       "ko": "뮤즈가 네 귀에 속삭여. 이제 네 손에 닿을 금단의 비밀을 알려 준대. 뭘 속삭여 주길 바라?"
     },
     {
+      "line": 1051,
+      "event": "artsy5",
+      "english_sha256": "03c089eda6aa2ff6531d60b6485ef4505781dfcacc124f3d76dae5484c07b4c6",
+      "ko": "[choice]아직 풀리지 않은 수학 문제인 에르되시-파버-로바스 추측의 해답.[n][r1]아직 풀리지 않은 수학 문제인 에르되시-파버-로바스 추측의 해답이지."
+    },
+    {
+      "line": 1052,
+      "event": "artsy5",
+      "english_sha256": "a18c22984b9fbcbe0ba5f2dfc68817739f6c07469b481a7d78ad3907649c8f30",
+      "ko": "[choice]다른 7개를 합친 것보다도 더 치명적인, 듣도 보도 못한 8번째 대죄.[n][r1]다른 7개를 합친 것보다도 더 치명적인, 듣도 보도 못한 8번째 대죄야."
+    },
+    {
+      "line": 1053,
+      "event": "artsy5",
+      "english_sha256": "057022f1c94612b584c8bfe8acbb0f634e7118cb659a7f3178b9a6a7e1c74ea2",
+      "ko": "[choice]복권 당첨 번호.[n][r1]복권 당첨 번호지."
+    },
+    {
+      "line": 1054,
+      "event": "artsy5",
+      "english_sha256": "ea87debe7a947763287e50674759fd26679dee48677e2853fbf3f1d357924670",
+      "ko": "[choice]너무나도 필요한 카 3의 후속작을 쓸 영감.[n][r1]너무나도 필요한 카 3의 후속작을 쓸 영감이지."
+    },
+    {
       "line": 1061,
       "event": "artsy6",
       "english_sha256": "a57073df47513f134f6c54007233b05556a0be2ee6e8bb67cd9c7d5611b125b0",
       "ko": "몇 년이나 걸렸지만, 드디어 가슴에 새길 문신을 정했어."
+    },
+    {
+      "line": 1062,
+      "event": "artsy6",
+      "english_sha256": "e56a4af43a981f0608504e807299e6125963bcf90230308b5bd5b10f40a1bbfd",
+      "ko": "[choice]세상의 모든 끝내주는 걸 상징하는, 끝내주는 호랑이.[n][r1]세상의 모든 끝내주는 걸 상징하는, 끝내주는 호랑이야."
+    },
+    {
+      "line": 1063,
+      "event": "artsy6",
+      "english_sha256": "e17d61b3e5fec38e5915ad87a299eab793776e4dd1aea966f9968ae4dd91da56",
+      "ko": "[choice]수학계의 악동이자 아직 풀리지 않은 수많은 수학 추측을 남긴 파울 에르되시.[n][r1]수학계의 악동이자 아직 풀리지 않은 수많은 수학 추측을 남긴 파울 에르되시야."
+    },
+    {
+      "line": 1064,
+      "event": "artsy6",
+      "english_sha256": "6ebc013248a57643f34e3605bbce1e8eccc59345c3ea204be5315fb75c7138d4",
+      "ko": "[choice]이번만큼은 미의 기준에 따르지 않는 나비.[n][r1]이번만큼은 미의 기준에 따르지 않는 나비야."
+    },
+    {
+      "line": 1065,
+      "event": "artsy6",
+      "english_sha256": "753fc03de06a68b16ece78e8a9a7f481c20c4381a48153040764a37c805857b8",
+      "ko": "[choice]네가 아는 가장 섹시한 사람들 전부... 하나의 우월한 생명체로 합쳐진 모습.[n][r1]네가 아는 가장 섹시한 사람들 전부야... 하나의 우월한 생명체로 합쳐진 모습이지."
     },
     {
       "line": 1073,
@@ -1289,7 +2729,7 @@
       "line": 1074,
       "event": "domino_comic_ending_1",
       "english_sha256": "0588b2214e5a014c5cbe7fc2c203f9cbd9b8b4b2114a89aaf0fe312593c68de8",
-      "ko": "케일은 탑을 오르며 층마다 온갖 뜻밖의 것들을 만나. 친구와 적... 심지어 %COMICREPLACEMENT_DOMINO2%까지.[n][n]주인공은 도미노의 고대 부적의 도움을 받게 돼. %COMICREPLACEMENT_DOMINO3%을 대가로 케일이 \"패의 마음\"을 볼 수 있게 해 주는 유물이지."
+      "ko": "케일은 탑을 오르며 층마다 온갖 뜻밖의 것들을 만나. 친구와 적... 심지어 %COMICREPLACEMENT_DOMINO2%까지.[n][n]주인공은 도미노의 고대 부적의 도움을 받게 돼. 이 유물은 케일이 \"패의 마음\"을 볼 수 있게 해 주지만, 이런 대가가 따라. %COMICREPLACEMENT_DOMINO3%."
     },
     {
       "line": 1075,
@@ -1376,10 +2816,58 @@
       "ko": "무인도에 가져가고 싶은, 솔직히 좀 쓸모없는 물건은 뭐야?"
     },
     {
+      "line": 1102,
+      "event": "domino1",
+      "english_sha256": "c2f9683d064bddff0aed9ff350854afde2af93e3b1ae4e59bf0c042cb6fc0b57",
+      "ko": "[choice]놀이공원 50% 할인권.[n][r1]도미노 테마 놀이공원인 도미노 랜드의 50% 할인권"
+    },
+    {
+      "line": 1103,
+      "event": "domino1",
+      "english_sha256": "189be755059b8fd1e82159597877000e4189994208b7cc40f5809b08681a057c",
+      "ko": "[choice]범죄 한 번 면제권.[n][r1]범죄 한 번 면제권"
+    },
+    {
+      "line": 1104,
+      "event": "domino1",
+      "english_sha256": "dd7fc4479e114eecb575f8318c0798e926dde790a73217e03df69b01cdb1da92",
+      "ko": "[choice]누구나 탐내는 택시 기사 졸업장이 딸린 택시 면허증.[n][r1]택시 면허증"
+    },
+    {
+      "line": 1105,
+      "event": "domino1",
+      "english_sha256": "73ef8a8a146cf36589d667aee6eee81e249b464eaecc616440902489c6e723d8",
+      "ko": "[choice]아버지의 인정.[n][r1]아버지의 인정"
+    },
+    {
       "line": 1112,
       "event": "domino2",
       "english_sha256": "38edfea29feb7a2a6f8edc98bd6242c6f214afa3a218c0fa62e0f8282c0b8f60",
       "ko": "무시무시한 적과 싸워야 해. 빨리! 전투에 도움이 될 뭔가를 집어!"
+    },
+    {
+      "line": 1113,
+      "event": "domino2",
+      "english_sha256": "5dc2f6cd63d7ba87d2f766a15b57d81608a112de5928fa54d7bb8636d8f98780",
+      "ko": "[choice]위엄 넘치는 말.[n][r1]말"
+    },
+    {
+      "line": 1114,
+      "event": "domino2",
+      "english_sha256": "9b1b3d01f9113756bc627e04500754af1fe32ecfcf55fbc90f9d74378b546026",
+      "ko": "[choice]술 취한 버니 삼촌.[n][r1]술 취한 버니 삼촌"
+    },
+    {
+      "line": 1115,
+      "event": "domino2",
+      "english_sha256": "6cc56ce4334497035ab1f482d3b850dbed82a8ad1e508eb641951f5da3c916c5",
+      "ko": "[choice]변호사 스무 명.[n][r1]자유롭게 돌아다니는 변호사 스무 명"
+    },
+    {
+      "line": 1116,
+      "event": "domino2",
+      "english_sha256": "d19435517c17ce00dfe93e1120c699ea8816b22114f8d0394eeed22b1938930b",
+      "ko": "[choice]펄펄 끓는 커피가 든 주전자.[n][r1]공짜 커피"
     },
     {
       "line": 1123,
@@ -1388,10 +2876,58 @@
       "ko": "일상에서 겪는 고난 중 누가 저주를 건 결과가 아닐까 강하게 의심하는 건 뭐야?"
     },
     {
+      "line": 1124,
+      "event": "domino3",
+      "english_sha256": "0736ff250bdb95344e76055717d4fbb6513ce13aee8496bdc0671b208ef553b6",
+      "ko": "[choice]글이 안 써지는 슬럼프.[n][r1]케일이 장편 소설을 못 쓰게 가로막는 강력한 슬럼프"
+    },
+    {
+      "line": 1125,
+      "event": "domino3",
+      "english_sha256": "4fdb9bf59961edfbb9630008004f8486da9d622cda548cb6d9142edc156cbe78",
+      "ko": "[choice]네가 하는 모든 게임의 소액 결제.[n][r1]쓸 때마다 내야 하는 오 달러"
+    },
+    {
+      "line": 1126,
+      "event": "domino3",
+      "english_sha256": "a8da18ead02801b146078f978f9d7cfdd17f35e7a7a42bb637f868c673e7bac2",
+      "ko": "[choice]탈모.[n][r1]남용하면 머리가 빠지는 부작용"
+    },
+    {
+      "line": 1127,
+      "event": "domino3",
+      "english_sha256": "9837cfb3453f69ec438da09a8f6ef37b41f1059d6790e951a9396e8cc5048ca9",
+      "ko": "[choice]도박 위원회가 널 쫓고 있다는 사실... 당연히 저주 때문이겠지![n][r1]사기를 치다 도박 위원회에 정당하게 쫓기는 신세"
+    },
+    {
       "line": 1134,
       "event": "domino4",
       "english_sha256": "f614f6195129ecc5f2e598e9cbcf0c05eff0aed69242754a9b8ad56b18a3b8fb",
       "ko": "큰 상금을 주겠대... 하지만 이것들 중 하나를 먹어야 해."
+    },
+    {
+      "line": 1135,
+      "event": "domino4",
+      "english_sha256": "0de26063acd5c1a882a9b4f54055e11be2bfc84b100c63adba46dfc5fe5de93f",
+      "ko": "[choice]네 신장 하나. 어차피 하나면 충분하잖아.[n][r1]언젠가 신장을 기증한다면 어느 쪽을 내보낼지 정하는, 두 신장 사이의 대결이지."
+    },
+    {
+      "line": 1136,
+      "event": "domino4",
+      "english_sha256": "c328100ee7bbb56037aef4b0698bb6e29088652e0f2843f8ce71f6fb5b3daf9f",
+      "ko": "[choice]네 부모님.[n][r1]자기 부모를 먹은 죄책감을 극복하려는 대결이지."
+    },
+    {
+      "line": 1137,
+      "event": "domino4",
+      "english_sha256": "3ecd15291a2bfc11ad1c6417bc31e9f4dc42ff29c5b596e1eab0ca4b7b2e0778",
+      "ko": "[choice]병에서 바로 퍼먹는 마요네즈.[n][r1]병에서 마요네즈를 퍼먹고 싶은 충동에 맞서는 대결이지."
+    },
+    {
+      "line": 1138,
+      "event": "domino4",
+      "english_sha256": "a45ecd68cab5100c3abe6666ed677a9c48649cc2c1eb3db4cfc3f7e4980c781d",
+      "ko": "[choice]고르는 대신, 셋 다 먹으면 더 큰 상금을 받을 수 있는지 묻기![n][r1]자신의 도박 중독에 맞서는 대결이지."
     },
     {
       "line": 1145,
@@ -1400,10 +2936,58 @@
       "ko": "합법이지만 불법이어야 할 건 뭐야?"
     },
     {
+      "line": 1146,
+      "event": "domino5",
+      "english_sha256": "a424a92cc190e62f6431f47518b0cabf89c84a4e4ab7702000235579dfae4d4f",
+      "ko": "[choice]비치발리볼 하기.[n][r1]비치발리볼 경기야.[n][r2]비치발리볼 경기라고?![n][r3]도미노 대신 배구공으로 하는... 해변의 도미노 대결"
+    },
+    {
+      "line": 1147,
+      "event": "domino5",
+      "english_sha256": "1f3c41f10ae4b10bc10b81cfebefad27c081b09f120ae59c641f0eb9c298c81a",
+      "ko": "[choice]섹시하고 아름다운 그리스 남자 조각상 감상하기.[n][r1]스파르타야.[n][r2]스파르타라고?![n][r3]...영화 패러디"
+    },
+    {
+      "line": 1148,
+      "event": "domino5",
+      "english_sha256": "3de7734c1e88971edd825a4e5e54c4ee0d57aaa9b3842c1459442e9b833dad05",
+      "ko": "[choice]온라인으로 도미노 하기.[n][r1]온라인 도미노 대결이야.[n][r2]온라인 도미노 대결이라고?![n][r3]컴퓨터로 인터넷에 접속해서 하는... 도미노 대결"
+    },
+    {
+      "line": 1149,
+      "event": "domino5",
+      "english_sha256": "030eef42de4f404fb6b9126df3fba5ae99d6f3638df2364b156b8a821c7aa5f6",
+      "ko": "[choice]칼싸움 [n][r1]칼 도미노 대결이야.[n][r2]칼 도미노 대결이라고?![n][r3]칼로 하는... 도미노 대결"
+    },
+    {
       "line": 1156,
       "event": "domino6",
       "english_sha256": "62ea002308d8504932c5514fc75c849560aab6ead3521f6020af4cc72ec65507",
       "ko": "학교에서 반드시 가르쳐야 하는 한 가지는 뭐야?"
+    },
+    {
+      "line": 1157,
+      "event": "domino6",
+      "english_sha256": "4dba13a57c956a03c342bca1ad33808f2b7d5c2f7b654934e8a771ab2628cd97",
+      "ko": "[choice]먹으려 들면 안 되는 것들.[n][r1]케일, 도미노 패는 절대 먹지 마라. 두 번 다시 못 할 실수니까."
+    },
+    {
+      "line": 1158,
+      "event": "domino6",
+      "english_sha256": "4b65b2ae0d1173a8b07bd1e8cfaa358941fa4b41a8191aa490c51b148812ce6e",
+      "ko": "[choice]대관람차 만드는 법.[n][r1]내가 죽거든 내가 가장 좋아하는 대관람차에 유골을 뿌려 주는 걸 잊지 마라."
+    },
+    {
+      "line": 1159,
+      "event": "domino6",
+      "english_sha256": "4663aa4238591edd2fad81a5a9dc7b3d9ceb2bc72df4575ea4928967988593e9",
+      "ko": "[choice]시간 여행 중 지켜야 할 예절.[n][r1]케일, 기억해라. 과거로 가면 아무것도 만지지 마라. 역사가 바뀔 수도 있으니까."
+    },
+    {
+      "line": 1160,
+      "event": "domino6",
+      "english_sha256": "dbb6de23240f2dbc81d9f6bcab0959ef44e77d78c9ca87f43e1b3f19e9178f33",
+      "ko": "[choice]총에 맞으면 안 되는 신체 부위.[n][r1]케일, 만만찮은 적과 맞서게 되거든 누구나 얼굴에 총을 맞으면 죽는다는 걸 기억해라."
     },
     {
       "line": 1168,
@@ -1496,10 +3080,58 @@
       "ko": "매주 가는 수족관을 더 좋게까진 아니어도, 확실히 더 흥미롭게 만들 핵심 변화 하나는 뭐야?"
     },
     {
+      "line": 1196,
+      "event": "fantasy1",
+      "english_sha256": "2bc29b3f14d14eff8480db523fdd7147a3769cce325f3bc9b99ce90eaf0eca27",
+      "ko": "[choice]물고기가 마침내 2분 넘게 기억하게 돼서, 네가 털어놓은 고백을 모두 기억하게 되는 것.[n][r1]물고기가 마침내 2분 넘게 기억하게 된 일이야."
+    },
+    {
+      "line": 1197,
+      "event": "fantasy1",
+      "english_sha256": "1c0acfcddd0540edc081806bdfedf78b39c2268c49d1db71e7b1925a386487a7",
+      "ko": "[choice]물고기가 마침내 수중 펑크 록을 발명하는 것.[n][r1]물고기가 마침내 수중 펑크 록을 발명한 일이야."
+    },
+    {
+      "line": 1198,
+      "event": "fantasy1",
+      "english_sha256": "691b95ace213b5307576ec39a4eb95f635ddbc42c7aab63849532a2472537598",
+      "ko": "[choice]사슴이라는 종 전체가 바다로 이주하는 것... 어떤 물고기 종과 공생하게 됐는지는 상상도 못 할걸![n][r1]사슴이라는 종 전체가 바다로 이주해 다른 물고기와 공생하게 된 일이야."
+    },
+    {
+      "line": 1199,
+      "event": "fantasy1",
+      "english_sha256": "483e47b59ed5e46ba63ac4f4c2e453ee4a421cb990803c85093fff7f0caf5047",
+      "ko": "[choice]물고기가 오럴 섹스를 발견하는 것. 우웩?[n][r1]물고기가 오럴 섹스를 발견하고 마침내 목숨 걸 만한 걸 찾은 일이야."
+    },
+    {
       "line": 1206,
       "event": "fantasy2",
       "english_sha256": "4a5d474d08c2394643d9c093f8906b4fe82cdc7da072522a0aa2cf6f38c789b9",
       "ko": "예언대로 넌 망망대해에서 해적들에게 쫓기고 있어... 상황을 뒤집으려면 누가 곁에 있었으면 해?"
+    },
+    {
+      "line": 1207,
+      "event": "fantasy2",
+      "english_sha256": "810767105114e8ac7ac4042597818c5960f7e9fdc00ac6ceb122965eda436329",
+      "ko": "[choice]방수 불길을 뿜어 용의 한계를 뛰어넘은 용.[n][r1]방수 불길을 뿜는 용이지."
+    },
+    {
+      "line": 1208,
+      "event": "fantasy2",
+      "english_sha256": "20fed1b00545839918f143c1b9c5527aa8555f15e1f558402957685eb8c3ce84",
+      "ko": "[choice]달은 외교력이 뛰어나기로 유명하니... 달의 왕 더글라스.[n][r1]달의 왕 더글라스야."
+    },
+    {
+      "line": 1209,
+      "event": "fantasy2",
+      "english_sha256": "ab68fb8c1605bb8c9f6a3899191a96cac39e6945ad8f5c32f4def8125546189e",
+      "ko": "[choice]내륙국치고 해군 규모가 너무 클지도 모르는 나라, 볼리비아.[n][r1]내륙국치고 해군 규모가 너무 클지도 모르는 나라, 볼리비아야."
+    },
+    {
+      "line": 1210,
+      "event": "fantasy2",
+      "english_sha256": "66bbfc90d42b1966a8da035f48348a5c5083ac2afdad8d19106eff99cec89c7c",
+      "ko": "[choice]총을 들었고 잃을 것도 없는 남자.[n][r1]총을 들었고 잃을 것도 없는 남자지."
     },
     {
       "line": 1217,
@@ -1508,10 +3140,58 @@
       "ko": "무슨 일이 있어도 모든 시민이 가져야 한다고 믿는 가장 중요한 권리는 뭐야?"
     },
     {
+      "line": 1218,
+      "event": "fantasy3",
+      "english_sha256": "d063ceb0c04ad4fe2af4ccc2cb28b3055c5dc1205458a45a091934a5d32e3709",
+      "ko": "[choice]법적 처벌 없이 딱 한 번 헤드샷을 날릴 권리.[n][r1]아주 정확하게 날린 헤드샷이지."
+    },
+    {
+      "line": 1219,
+      "event": "fantasy3",
+      "english_sha256": "5bc66b9cedd524b2ed98aa504af00dc523f2efa3d756ad0a428d8d92256de80f",
+      "ko": "[choice]라임을 맞출 권리.[n][r1]입에 착 붙는 라임이 있는 반왕정 구호지."
+    },
+    {
+      "line": 1220,
+      "event": "fantasy3",
+      "english_sha256": "6e4ba4ed8472cfc216d95b677e86a4b2234b0937728f4d2d4c6e26ccd8982ce6",
+      "ko": "[choice]투표할 권리. 농담 아니야. 넌 진지한 사람이거든.[n][r1]선거지."
+    },
+    {
+      "line": 1221,
+      "event": "fantasy3",
+      "english_sha256": "ec461420fa74f44d336702d4f90f7dcef9462fd0eaeb47bca602c34e3eeef08a",
+      "ko": "[choice]바텀이 되는 부정할 수 없는 쾌락을 누릴 권리.[n][r1]바텀이 되는 부정할 수 없는 쾌락이지."
+    },
+    {
       "line": 1228,
       "event": "fantasy4",
       "english_sha256": "0134292f9175ec3e19f2c85d8da2a9f7d39d56b9d98eb372fdd8e6df057c9640",
       "ko": "70세 미만의 평범한 인간인 넌 종이 신문을 안 읽은 지 오래야. 그래도 이런 헤드라인이라면 집어 들어 보겠지."
+    },
+    {
+      "line": 1229,
+      "event": "fantasy4",
+      "english_sha256": "cefe9d3883fa7eb97836c99785a4f924508507f71c069c26942f3b762427c9e0",
+      "ko": "[choice]제니퍼와 딜런이 섹스했다는 것. (딜런은 아직 레이철과 사귀는데도.)[n][r1]제니퍼와 딜런이 섹스했다는 사실이야. (딜런은 아직 레이철과 사귀는데도.)"
+    },
+    {
+      "line": 1230,
+      "event": "fantasy4",
+      "english_sha256": "1dc374fc6849ff9f5e19d78694c9d4a8cd7d18d5207257f374009531bf747356",
+      "ko": "[choice]누군가가 쌍둥이 형제를 먹었다는 것. (자궁 안에서 그런 것도 아니고.)[n][r1]공주 중 하나가 쌍둥이 자매를 먹었다는 사실이야. (자궁 안에서 그런 것도 아니고.)"
+    },
+    {
+      "line": 1231,
+      "event": "fantasy4",
+      "english_sha256": "5045a8750730f8ba6b1e6aaf05d789c377781c43e01e2f4c83b078651911884b",
+      "ko": "[choice]물고기에게 발이 있다는 것. (예상하는 위치도 아니야!)[n][r1]물고기에게 발이 있다는 사실이야. (예상하는 위치도 아니고!)"
+    },
+    {
+      "line": 1232,
+      "event": "fantasy4",
+      "english_sha256": "37011a5e8cabd63f2916b061f0126c43ea2d160c9265b02a5bb0886161e8bf75",
+      "ko": "[choice]상식과 달리 바닷물은 사실 마실 수 있다는 것. (충분히 노력하면.)[n][r1]상식과 달리 바닷물은 사실 마실 수 있다는 거야. (충분히 노력하면.)"
     },
     {
       "line": 1239,
@@ -1520,10 +3200,58 @@
       "ko": "30년 뒤 네 자녀들이 전쟁을 안 치렀으면 좋겠어. 하지만 꼭 싸워야 한다면, 적어도 이런 전쟁이길 바라..."
     },
     {
+      "line": 1240,
+      "event": "fantasy5",
+      "english_sha256": "fb8461a63dcb446a10084a92866491651057cbe81ae33d8bc0d5ef651da251d8",
+      "ko": "[choice]눈을 가늘게 뜨고 보면 전쟁이라 할 만한 축구 월드컵.[n][r1]축구 월드컵"
+    },
+    {
+      "line": 1241,
+      "event": "fantasy5",
+      "english_sha256": "309cc79b5143707aad3baf358ef4e216457e43598a2494141fa874f077642456",
+      "ko": "[choice]호랑이 마흔 마리와 벌이는 전쟁.[n][r1]호랑이 마흔 마리와 벌이는 전쟁"
+    },
+    {
+      "line": 1242,
+      "event": "fantasy5",
+      "english_sha256": "2608400255ee799f8db5d3682e0ca2b2842013b35dc5fa04ac77a51fad8f61be",
+      "ko": "[choice]마약과의 전쟁... 그런데 어느 편에서?[n][r1]마약과의 전쟁"
+    },
+    {
+      "line": 1243,
+      "event": "fantasy5",
+      "english_sha256": "dd9ecabc11d119f6c715d16773c4eed769fbfc07f424d9045cb79de1719b8a8a",
+      "ko": "[choice]와이파이 전쟁[n][r1]와이파이 전쟁"
+    },
+    {
       "line": 1250,
       "event": "fantasy6",
       "english_sha256": "5538cc5666cc3149c0520e4223f6b88fc73eb2b18357ca2cc05b17937957ba0f",
       "ko": "네가 상사를 싫어한다는 걸 상사가 알아서 해고당하고 있어. 어떤 식으로 알게 됐어야 가장 전설적일까?"
+    },
+    {
+      "line": 1251,
+      "event": "fantasy6",
+      "english_sha256": "331c07c80f68ef8c0cffcae4ed411b39ed9de172fed85dacc14ff6ebb29c1862",
+      "ko": "[choice]직접 디자인한 \"상사 좆까\" 티셔츠를 입고 있었어.[n][r1]네가 가진 그 티셔츠... \"왕정 좆까\"라고 적힌 티셔츠"
+    },
+    {
+      "line": 1252,
+      "event": "fantasy6",
+      "english_sha256": "823bba108b78818ceab3ad123a690db2685e273bf1d358e87860758ad26cc4f0",
+      "ko": "[choice]\"실수로\" 상사를 사내 단체 채팅방에 초대했어. 소외되는 기분이 안 들게 하려고![n][r1]네가 실수로 날 반란군 단체 채팅방에 초대한 일"
+    },
+    {
+      "line": 1253,
+      "event": "fantasy6",
+      "english_sha256": "37bf603922064c57ac10af31e80d9ac693279b101525cbc1f88b396ca30e19d2",
+      "ko": "[choice]언젠가 술에 취해서 상사에게 싫다고 말한 적이 있어.[n][r1]언젠가 네가 술에 취해 내게 말한 일"
+    },
+    {
+      "line": 1254,
+      "event": "fantasy6",
+      "english_sha256": "e7232407dbe9ecfbf7a42cecf99eec31c51097b9bc949f8dbc2d64a1b0dd880e",
+      "ko": "[choice]가장 최근에 올린 SNS 글. \"사내 쿠데타 같이 할 사람? ㅋㅋ 농담이야. 설마...\"라고 적었지.[n][r1]가장 최근에 올린 SNS 글... \"사내 쿠데타 같이 할 사람? ㅋㅋ 농담이야. 설마...\"라고 적은 그 글"
     }
   ]
 }

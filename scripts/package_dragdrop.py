@@ -17,11 +17,12 @@ def digest(path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--package', type=Path, default=ROOT / 'build/releases/MonsterCon-KR-test-20261026-QA5')
-    parser.add_argument('--output', type=Path, default=ROOT / 'build/releases/Monster-Con-KR-test-QA5-Windows-DragDrop')
+    parser.add_argument('--package', type=Path, default=ROOT / 'build/releases/MonsterCon-KR-test-20261026-QA6')
+    parser.add_argument('--output', type=Path, default=ROOT / 'build/releases/Monster-Con-KR-test-QA6-Windows-DragDrop')
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument('--bridge-only', action='store_true', help='Package only the updated bridge for an existing Korean installation')
     mode.add_argument('--narrator-hotfix', action='store_true', help='Include bridge and event files changed by the narrator voice review')
+    mode.add_argument('--asset-hotfix', nargs='+', metavar='ASSET', help='Include only named translated event assets')
     args = parser.parse_args()
     package, out = args.package.resolve(), args.output.resolve()
     source_manifest = json.loads((package / 'manifest.json').read_text(encoding='utf-8'))
@@ -29,14 +30,19 @@ def main():
     changed_assets = set()
     if args.narrator_hotfix:
         changed_assets = {row['asset'] for row in json.loads((ROOT / 'docs/NARRATOR_TONE_CHANGES.json').read_text(encoding='utf-8'))['entries']}
-    hotfix_names = {bridge} | {'MonsterCon_Data/StreamingAssets/game_assets/texts/' + name + '.txt' for name in changed_assets}
+    if args.asset_hotfix:
+        changed_assets = set(args.asset_hotfix)
+        allowed = json.loads((ROOT / 'docs/TEXT_QA_REPORT.json').read_text(encoding='utf-8'))['counts_by_asset']
+        if not changed_assets <= set(allowed) or 'english_metatexts' in changed_assets:
+            raise ValueError('Unknown event asset in text hotfix')
+    hotfix_names = (set() if args.asset_hotfix else {bridge}) | {'MonsterCon_Data/StreamingAssets/game_assets/texts/' + name + '.txt' for name in changed_assets}
     # The byte-identical payload already passed the full text/image audits.
     files = {}
     for record in source_manifest['files']:
         name = record['relative']
         if args.bridge_only and name != bridge:
             continue
-        if args.narrator_hotfix and name not in hotfix_names:
+        if (args.narrator_hotfix or args.asset_hotfix) and name not in hotfix_names:
             continue
         relative = PurePosixPath(name)
         if relative.is_absolute() or '..' in relative.parts or ':' in name or '\\' in name:
@@ -53,18 +59,18 @@ def main():
         destination.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source, destination)
     readme = out / 'MONSTERCON-KR-사용법.txt'
-    readme_source = 'docs/NARRATOR_AND_STATS_HOTFIX_KO.txt' if args.narrator_hotfix else ('docs/STAT_LABEL_HOTFIX_KO.txt' if args.bridge_only else 'docs/DRAGDROP_INSTALL_KO.txt')
+    readme_source = 'docs/TEXT_ASSET_HOTFIX_KO.txt' if args.asset_hotfix else ('docs/NARRATOR_AND_STATS_HOTFIX_KO.txt' if args.narrator_hotfix else ('docs/STAT_LABEL_HOTFIX_KO.txt' if args.bridge_only else 'docs/DRAGDROP_INSTALL_KO.txt'))
     shutil.copy2(ROOT / readme_source, readme)
-    is_hotfix = args.bridge_only or args.narrator_hotfix
+    is_hotfix = args.bridge_only or args.narrator_hotfix or bool(args.asset_hotfix)
     for source in ([] if is_hotfix else sorted((ROOT / 'docs/licenses').glob('*.txt'))):
         destination = out / 'licenses' / source.name
         destination.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source, destination)
     packaged = {p.relative_to(out).as_posix(): digest(p) for p in sorted(out.rglob('*')) if p.is_file()}
     field_count = sum(json.loads((ROOT / 'docs/TEXT_QA_REPORT.json').read_text(encoding='utf-8'))['counts_by_asset'][name] for name in changed_assets)
-    kind = 'narrator-and-stat-hotfix-for-existing-installation' if args.narrator_hotfix else ('bridge-hotfix-for-existing-installation' if args.bridge_only else 'local-Windows-dragdrop-playtest')
+    kind = 'translated-event-asset-hotfix' if args.asset_hotfix else ('narrator-and-stat-hotfix-for-existing-installation' if args.narrator_hotfix else ('bridge-hotfix-for-existing-installation' if args.bridge_only else 'local-Windows-dragdrop-playtest'))
     manifest = {'kind': kind, 'title': source_manifest['title'],
-                'text_fields': field_count if args.narrator_hotfix else (0 if args.bridge_only else source_manifest['text_fields']),
+                'text_fields': field_count if (args.narrator_hotfix or args.asset_hotfix) else (0 if args.bridge_only else source_manifest['text_fields']),
                 'unique_image_textures': 0 if is_hotfix else source_manifest['unique_image_textures'],
                 'game_build_identities': source_manifest['identities'], 'files': packaged,
                 'game_launched': False, 'game_modified_during_packaging': False,

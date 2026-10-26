@@ -68,7 +68,7 @@ def main():
     for relative in ['MonsterCon_Data/Managed/Assembly-CSharp.dll', 'MonsterCon_Data/StreamingAssets/aa/StandaloneWindows/texts_assets_all.bundle', 'MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll']:
         identities.append({'relative': relative, 'sha256': sha(GAME / relative)})
     manifest = {'schema': 1, 'title': '몬스터 프롬 4: 몬스터 콘', 'stage': 'local user playtest; linguistic/layout/full-branch QA pending',
-                'text_fields': 23986, 'unique_image_textures': images['unique_textures'], 'identities': identities, 'files': records}
+                'text_fields': text_qa['fields'], 'unique_image_textures': images['unique_textures'], 'identities': identities, 'files': records}
     (out / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     shutil.copy2(ROOT / 'scripts/package_installer.py', out / 'manage_patch.py')
     for action in ['check', 'install', 'restore']:
@@ -78,7 +78,7 @@ def main():
     for filename in ['TEXT_QA_REPORT.json', 'IMAGE_QA_REPORT.json']:
         shutil.copy2(ROOT / 'docs' / filename, out / filename)
     (out / '사용법.txt').write_text('몬스터 프롬 4: 몬스터 콘 통합 테스트 패치\n\n'
-        '텍스트 23,986개 + 이미지 UI/매뉴얼 49종. 게임 실행 검사는 사용자가 진행합니다.\n'
+        f'텍스트 {text_qa["fields"]:,}개 + 이미지 UI/매뉴얼 49종. 게임 실행 검사는 사용자가 진행합니다.\n'
         '게임을 종료하고 이 폴더에서 PowerShell을 연 뒤 실행하세요(Python 3 필요).\n\n'
         '확인만: python -X utf8 manage_patch.py check\n'
         '설치: python -X utf8 manage_patch.py install\n'

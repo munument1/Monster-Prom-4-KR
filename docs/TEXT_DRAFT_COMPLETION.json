@@ -1,13 +1,13 @@
 {
-  "catalog_fields": 23986,
-  "authored_fields": 23986,
+  "catalog_fields": 24274,
+  "authored_fields": 24274,
   "missing_fields": [],
   "extra_fields": [],
   "asset_counts": {
     "english_metatexts": 2502,
     "english_events_challenge": 104,
     "english_events_chibidates": 379,
-    "english_events_comic": 254,
+    "english_events_comic": 542,
     "english_events_conshop": 32,
     "english_events_convos": 1242,
     "english_events_default": 1,
@@ -23,5 +23,6 @@
     "english_prologue_likes": 63
   },
   "quality_qa_performed": false,
-  "note": "Authoring inventory only; no tag, numeric, grammar, font, build or game validation performed."
+  "note": "Authoring inventory expanded with 288 comic-answer fields. Current static QA evidence is in docs/TEXT_QA_REPORT.json.",
+  "initial_catalog_fields": 23986
 }

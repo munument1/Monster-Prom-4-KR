@@ -1288,5 +1288,28 @@
       "[검열됨]"
     ],
     "reason": "Reviewed literal sound cue, working-title caption or censorship gag; actual engine placeholders preserved."
+  },
+  "english_events_comic:740": {
+    "english_sha256": "dd124365da4a27bb0520489ae17d6dbb64fcdbab85a67a27317c367a0ec817c0",
+    "korean_sha256": "08ef00e6170b8981cfd482829f48d75d36c835726951d4159d5cdad00aeda218",
+    "allow_number_localization": true,
+    "reason": "Reviewed buy-N-for-one promotion: 4-for-1 / 2-for-1 localized as 1 unit price for 4 / 2 units; digits/quantities preserved; source hyphen is not a negative sign."
+  },
+  "english_events_comic:973": {
+    "english_sha256": "2caf0429fa94d55bf429a58169ec8aba199fbb3993e112f34948f23df81fe499",
+    "korean_sha256": "7e3e5b02f11bc31536b42266e00c7e797290059d8db1b5d2c780d5277fa87bcc",
+    "allow_number_localization": true,
+    "reason": "Reviewed buy-N-for-one promotion: 4-for-1 / 2-for-1 localized as 1 unit price for 4 / 2 units; digits/quantities preserved; source hyphen is not a negative sign."
+  },
+  "english_events_comic:828": {
+    "english_sha256": "89c78206d959bd53adeead47657aeb16bad7519e1b666c4806de9a5fa14c9757",
+    "korean_sha256": "d8d5d8fcd67c493905d55582e4f6306443c9b1ea2eb0787b51dd45ae3ad7ca71",
+    "omitted_tokens": [
+      "[jaw unhinges, bees pour out]"
+    ],
+    "added_tokens": [
+      "[턱이 벌어지며 벌들이 쏟아져 나옴]"
+    ],
+    "reason": "Literal jaw/bees stage direction translated inside comic replacement; choice and replacement controls preserved."
   }
 }

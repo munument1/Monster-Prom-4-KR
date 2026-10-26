@@ -21,6 +21,14 @@ CATALOG = ROOT / "work/catalog.jsonl"
 INDEX = ROOT / "work/source_manifest.json"
 
 
+def ordinary_display_field(line: str):
+    """Return the display column for dialogue and explicit choice directives."""
+    if not line.startswith(("\t", ">choice\t", ">action\t", ">comic_answer\t")):
+        return None
+    fields = line.split("\t")
+    return 3 if len(fields) > 3 and fields[3].strip() else None
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     records = []
@@ -44,7 +52,10 @@ def main() -> None:
         data = data.replace("\r\n", "\n")
         assert "\r" not in data, f"unexpected CR in {name}"
         raw = data.encode("utf-8")
-        (OUT / f"{name}.txt").write_bytes(raw)
+        source_path = OUT / f"{name}.txt"
+        temp_path = source_path.with_suffix('.tmp')
+        temp_path.write_bytes(raw)
+        temp_path.replace(source_path)
         manifest[name] = {
             "sha256": hashlib.sha256(raw).hexdigest(),
             "length": len(raw),
@@ -80,11 +91,13 @@ def main() -> None:
                 rows += 1
                 continue
             # The game's event parser also displays the *fourth* field of
-            # >choice and >action directives as player-facing choice/action
+            # >choice, >action and >comic_answer directives as player-facing text.
+            # Comic answers include [choice]/[r1]/[r2]/[r3] variants in that
+            # field: preserve those controls while translating every variant.
             # text. The preceding three columns remain structural metadata.
             # Skipping these lines silently leaves whole dialogue branches in
             # English, so include all three human-facing row categories.
-            if not (line.startswith("\t") or line.startswith(">choice\t") or line.startswith(">action\t")):
+            if ordinary_display_field(line) is None:
                 continue
             fields = line.split("\t")
             if len(fields) < 4 or not fields[3].strip():
@@ -99,7 +112,7 @@ def main() -> None:
                 "english": original,
                 "english_sha256": hashlib.sha256(original.encode("utf-8")).hexdigest(),
                 "kind": "event",
-                "row_type": "choice" if line.startswith(">choice\t") else ("action" if line.startswith(">action\t") else "dialogue"),
+                "row_type": "comic_answer" if line.startswith(">comic_answer\t") else ("choice" if line.startswith(">choice\t") else ("action" if line.startswith(">action\t") else "dialogue")),
             })
             rows += 1
     assert manifest and "english_metatexts" in manifest, manifest

@@ -2,10 +2,10 @@
   "status": "pass",
   "scope": "All extracted fields: source identity, coverage, contract and built event structure. Targeted language fixes; full literary proofreading and in-game layout/branch QA remain pending.",
   "translation_sha256": {
-    "contract_exceptions.json": "bcfc129f67c346ee30c500f86890fd6a3caa2b268c99db45f00695de1206c641",
+    "contract_exceptions.json": "b97b9a3fe446b62a86f91f70a024a42e5697977643a02d3fd649ac6a8e82e437",
     "english_events_challenge.json": "922da7e6c3ef30e463d3cf88d2247293026207340e22e4c28ad7df166786cebc",
     "english_events_chibidates.json": "9b0c12c3c6feafbbbcd82174690752e756d75fbf8a2bbd95d8a5f440a2e7aa68",
-    "english_events_comic.json": "13045626cca81d0fd392c186cc65ed0313f804c3a91cf213335ba9544d5c67f7",
+    "english_events_comic.json": "67fc724d947a6db850707bfecb6db634469b3339e11283235005c2cb7164d8c5",
     "english_events_conshop.json": "91dcbd0b92b610a1dac3323cc9e93bc2b32a908ff344a96a5ae2a052fdaac579",
     "english_events_convos.json": "2ace465b2eb478693f03a6d19956dacd16686652ba8b732cf06fa75e8ff5c0ff",
     "english_events_default.json": "3fca4e8bf5e34aac9ac4c4f6e6a0964085cead4d06f05ed46b72030e43e08216",
@@ -20,16 +20,16 @@
     "english_metatexts_ko.json": "6b77ff6030ff3aa44ea8c8aa6f94cc215d9b8e46cf22a7a92e4e0308d183f35e",
     "english_prologue_conpopquiz.json": "b2f950ab75ba06b4cb300acf195d76f1664d3986b413acf0dc10c69956774332",
     "english_prologue_likes.json": "7f92d10fda286b5afca2b57ff97ea5759d9e66060d5ecc70ccbbf4f90efab583",
-    "grammar_exceptions.json": "ca691d926bc007e9257bc97a69b9a6fbfce6f4aabf4a945bd9bc8fafbee3c9f9"
+    "grammar_exceptions.json": "539d8c2ece536013ce7c49827418b7ec47b428ad4f6b2b62cc1ebb1d4406ac3b"
   },
   "assets": 17,
-  "fields": 23986,
-  "built_event_fields": 21484,
+  "fields": 24274,
+  "built_event_fields": 21772,
   "counts_by_asset": {
     "english_events_chibidates": 379,
     "english_events_gachashop": 1,
     "english_prologue_conpopquiz": 36,
-    "english_events_comic": 254,
+    "english_events_comic": 542,
     "english_events_prologue": 33,
     "english_events_standard": 260,
     "english_events_epilogue": 12,
@@ -375,7 +375,7 @@
     "english_events_convos:1489",
     "english_events_convos:1531"
   ],
-  "hangul_characters": 1428,
+  "hangul_characters": 1430,
   "fonts": [
     {
       "font": "Jua.ttf",
@@ -517,11 +517,15 @@
     },
     {
       "id": "english_events_comic:140",
-      "characters": 287
+      "characters": 292
     },
     {
       "id": "XTR_CRE_20",
       "characters": 272
+    },
+    {
+      "id": "english_events_comic:321",
+      "characters": 249
     },
     {
       "id": "english_events_comic:795",
@@ -534,10 +538,6 @@
     {
       "id": "english_events_comic:602",
       "characters": 235
-    },
-    {
-      "id": "english_events_comic:321",
-      "characters": 234
     }
   ],
   "installed_source_assets_compared": 17,

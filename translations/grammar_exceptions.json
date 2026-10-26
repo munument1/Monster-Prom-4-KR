@@ -1849,5 +1849,13 @@
       "%HIMHER%"
     ],
     "reason": "Reviewed implicit subject in Korean rhetorical question."
+  },
+  "english_events_comic:875": {
+    "english_sha256": "9f6865518b76bd445616e49f5f8c95437ee836dac8622884978ddaefd952acbc",
+    "korean_sha256": "d69d60c48b21e5b1e9dfc94a49e231a513a21142db15d59d70c752c3ea281537",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "reason": "Redundant English possessive macro omitted for natural Korean; player-name token preserved."
   }
 }

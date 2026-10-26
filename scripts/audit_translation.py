@@ -10,6 +10,7 @@ from pathlib import Path
 from fontTools.ttLib import TTFont
 from build_playtest import ROOT, verify_line, game_safe_stat_effects
 from audit_narrator_tone import inspect_tone
+from extract_assets import ordinary_display_field
 
 
 def digest(text):
@@ -74,6 +75,14 @@ def main():
         tags = r'\[/?(?:b|i|sub|sup|sha|sin|ras|rai|sta)\]'
         if re.findall(tags, english) != re.findall(tags, ko):
             errors.append({'id': ident, 'error': 'formatting tag order changed'})
+        if c.get('row_type') == 'comic_answer':
+            markers = r'(\[(?:choice|r\d+)\])'
+            original_parts, korean_parts = re.split(markers, english), re.split(markers, ko)
+            if original_parts[1::2] != korean_parts[1::2] or korean_parts[0] or not ko.startswith('[choice]'):
+                errors.append({'id': ident, 'error': 'comic choice/replacement variant order changed'})
+            for marker, value in zip(korean_parts[1::2], korean_parts[2::2]):
+                if not value.strip() or not re.search('[가-힣]', value):
+                    errors.append({'id': ident, 'error': 'comic display variant empty or untranslated', 'variant': marker})
         texts.append(ko)
         if english == ko:
             unchanged.append(ident)
@@ -85,6 +94,12 @@ def main():
             errors.append({'id': ident, 'error': 'incorrect Monster Con Korean title'})
     if expected != actual:
         errors.append({'error': 'catalog coverage mismatch', 'missing': sorted(expected - actual), 'extra': sorted(actual - expected)})
+    for name, source in sources.items():
+        if name == 'english_metatexts':
+            continue
+        for line, text in enumerate(source.splitlines()):
+            if ordinary_display_field(text) is not None and f'{name}:{line}' not in expected:
+                errors.append({'id': f'{name}:{line}', 'error': 'source display directive missing from extraction catalog'})
     narrator_tone = inspect_tone(catalog, documents)
     errors.extend(narrator_tone['errors'])
     # Reconstruct every event output and compare all bytes, including commands,
