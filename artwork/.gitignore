@@ -1,0 +1,5 @@
+# Authoring drafts and machine-specific generation paths stay local.
+ui/generated/
+ui/manual_ko/
+ui/generated_manifest.json
+ui/final/review_ui.jpg

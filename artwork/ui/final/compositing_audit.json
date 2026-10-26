@@ -1,0 +1,409 @@
+[
+  {
+    "texture": "sactx-0-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+    "file": "sharedassets4.assets",
+    "id": 8,
+    "regions": [
+      [
+        90,
+        557,
+        370,
+        696
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-1-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+    "file": "sharedassets4.assets",
+    "id": 10,
+    "regions": [
+      [
+        1635,
+        826,
+        1922,
+        970
+      ],
+      [
+        1602,
+        1370,
+        1897,
+        1505
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-2-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+    "file": "sharedassets4.assets",
+    "id": 12,
+    "regions": [
+      [
+        0,
+        146,
+        625,
+        464
+      ],
+      [
+        1520,
+        892,
+        2032,
+        1016
+      ],
+      [
+        1520,
+        1924,
+        2032,
+        2048
+      ],
+      [
+        1520,
+        1408,
+        2032,
+        1532
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-3-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+    "file": "sharedassets4.assets",
+    "id": 14,
+    "regions": [
+      [
+        0,
+        146,
+        625,
+        464
+      ],
+      [
+        1651,
+        1898,
+        1949,
+        2041
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-4-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+    "file": "sharedassets4.assets",
+    "id": 15,
+    "regions": [
+      [
+        572,
+        70,
+        1197,
+        388
+      ],
+      [
+        1201,
+        126,
+        1826,
+        444
+      ],
+      [
+        572,
+        780,
+        1084,
+        904
+      ],
+      [
+        1144,
+        1352,
+        1656,
+        1476
+      ],
+      [
+        1144,
+        836,
+        1656,
+        960
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-5-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+    "file": "sharedassets4.assets",
+    "id": 16,
+    "regions": [
+      [
+        66,
+        1354,
+        366,
+        1501
+      ],
+      [
+        90,
+        1898,
+        370,
+        2037
+      ],
+      [
+        131,
+        810,
+        429,
+        953
+      ],
+      [
+        599,
+        1898,
+        886,
+        2042
+      ],
+      [
+        1534,
+        1898,
+        1829,
+        2033
+      ],
+      [
+        1034,
+        1898,
+        1334,
+        2045
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-6-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+    "file": "sharedassets4.assets",
+    "id": 17,
+    "regions": [
+      [
+        1258,
+        1086,
+        1883,
+        1404
+      ],
+      [
+        1258,
+        764,
+        1883,
+        1082
+      ],
+      [
+        0,
+        908,
+        625,
+        1226
+      ],
+      [
+        0,
+        264,
+        625,
+        582
+      ],
+      [
+        1258,
+        1408,
+        1883,
+        1726
+      ],
+      [
+        629,
+        764,
+        1254,
+        1082
+      ],
+      [
+        629,
+        1086,
+        1254,
+        1404
+      ],
+      [
+        444,
+        1730,
+        1069,
+        2048
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-2-2048x2048-BC7-SpriteAtlas_MainGameUI-41bd7a21",
+    "file": "sharedassets5.assets",
+    "id": 15,
+    "regions": [
+      [
+        155,
+        855,
+        1355,
+        1115
+      ],
+      [
+        1375,
+        925,
+        1685,
+        1080
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-3-2048x2048-BC7-SpriteAtlas_GeneralMenus-db21ad53",
+    "file": "sharedassets2.assets",
+    "id": 12,
+    "regions": [
+      [
+        403,
+        26,
+        507,
+        96
+      ]
+    ]
+  },
+  {
+    "texture": "sactx-1-2048x2048-BC7-SpriteAtlas_Gallery-91013676",
+    "file": "sharedassets9.assets",
+    "id": 5,
+    "regions": [
+      [
+        1575,
+        1537,
+        1879,
+        1841
+      ]
+    ]
+  },
+  {
+    "texture": "DLC_promo_button_4",
+    "file": "sharedassets2.assets",
+    "id": 17,
+    "regions": [
+      [
+        35,
+        15,
+        285,
+        66
+      ],
+      [
+        30,
+        72,
+        420,
+        140
+      ]
+    ]
+  },
+  {
+    "texture": "DLC_promo_button_1",
+    "file": "sharedassets2.assets",
+    "id": 26,
+    "regions": [
+      [
+        35,
+        15,
+        285,
+        66
+      ],
+      [
+        30,
+        72,
+        420,
+        140
+      ]
+    ]
+  },
+  {
+    "texture": "DLC_promo_button_3",
+    "file": "sharedassets2.assets",
+    "id": 31,
+    "regions": [
+      [
+        35,
+        15,
+        285,
+        66
+      ],
+      [
+        30,
+        72,
+        420,
+        140
+      ]
+    ]
+  },
+  {
+    "texture": "DLC_promo_button_2",
+    "file": "sharedassets2.assets",
+    "id": 32,
+    "regions": [
+      [
+        35,
+        15,
+        285,
+        66
+      ],
+      [
+        30,
+        72,
+        420,
+        140
+      ]
+    ]
+  },
+  {
+    "texture": "MPF_promo_button",
+    "file": "sharedassets2.assets",
+    "id": 21,
+    "regions": [
+      [
+        238,
+        85,
+        580,
+        128
+      ]
+    ]
+  },
+  {
+    "texture": "ui_info_sheet_first_launch",
+    "file": "sharedassets2.assets",
+    "id": 20,
+    "regions": [
+      [
+        210,
+        170,
+        670,
+        260
+      ],
+      [
+        1330,
+        170,
+        1750,
+        260
+      ],
+      [
+        1270,
+        335,
+        1660,
+        490
+      ],
+      [
+        810,
+        650,
+        1265,
+        885
+      ],
+      [
+        1315,
+        895,
+        1665,
+        945
+      ]
+    ]
+  },
+  {
+    "texture": "ui_info_sheet_crossover",
+    "file": "sharedassets2.assets",
+    "id": 33,
+    "regions": [
+      [
+        220,
+        180,
+        800,
+        305
+      ],
+      [
+        1360,
+        830,
+        1620,
+        925
+      ]
+    ]
+  }
+]

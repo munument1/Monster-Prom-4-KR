@@ -1,0 +1,450 @@
+{
+  "unique_textures": 49,
+  "texture_occurrences": 51,
+  "asset_files": 6,
+  "file_validation": "All object identities preserved; only named Texture2D objects changed; decoded RGBA pixels match final PNGs.",
+  "game_screen_validation": "User will verify in game.",
+  "images": [
+    {
+      "texture": "sactx-0-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_8.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "b479aea5b0e7d6e3181388f945429f35fed49718652b7290942294757a23d2c4"
+    },
+    {
+      "texture": "sactx-1-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_10.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "2906bf61d06dcd9539af6f9705a7e88a3019644771e97f1ef949ffb09ad2a867"
+    },
+    {
+      "texture": "sactx-2-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_12.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "dde668354acd32b20b5e0be0abc0d3db27d7bfd52439478a30e62c63599b9b6d"
+    },
+    {
+      "texture": "sactx-3-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_14.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "42e4e3022498b254347486d2bee73c5288e535df7f49e4977530a7354c50770f"
+    },
+    {
+      "texture": "sactx-4-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_15.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "762d99d4b54e0463dabc9b444877172b5660845671eb8838498e1381f30cae47"
+    },
+    {
+      "texture": "sactx-5-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_16.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "c9e5cdb86cb96643dc178cc81012de25aa57779a2e84e3d999c6b38f5ce5d81d"
+    },
+    {
+      "texture": "sactx-6-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_17.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "c681b14637e3712e294cf6e99c21c70e769890ee83101e2bec14b3fedee5a4ce"
+    },
+    {
+      "texture": "sactx-2-2048x2048-BC7-SpriteAtlas_MainGameUI-41bd7a21",
+      "image": "artwork/ui/final/sharedassets5.assets_15.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "57bd9cd09f2000b973e62ed1b738af7a26f6c5ef702fa8b17d656402e2172a3f"
+    },
+    {
+      "texture": "sactx-3-2048x2048-BC7-SpriteAtlas_GeneralMenus-db21ad53",
+      "image": "artwork/ui/final/sharedassets2.assets_12.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "4f4aad141339a0214b8316b6e834b7989ded0e6348509104c47e86866f8c7694"
+    },
+    {
+      "texture": "sactx-1-2048x2048-BC7-SpriteAtlas_Gallery-91013676",
+      "image": "artwork/ui/final/sharedassets9.assets_5.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "sha256": "f820890701e3d1f625635938027743b1495689feda86d8d346063e4aff71786f"
+    },
+    {
+      "texture": "DLC_promo_button_4",
+      "image": "artwork/ui/final/sharedassets2.assets_17.png",
+      "size": [
+        600,
+        160
+      ],
+      "sha256": "8785fbf74a9f392dcbbf1310c5db715ed5e4c7de0a847dd95d9651c5621651e7"
+    },
+    {
+      "texture": "DLC_promo_button_1",
+      "image": "artwork/ui/final/sharedassets2.assets_26.png",
+      "size": [
+        600,
+        160
+      ],
+      "sha256": "30395d4712ff92acdf59952450a9f018143afc98427e40e0e7eef4045786c6bb"
+    },
+    {
+      "texture": "DLC_promo_button_3",
+      "image": "artwork/ui/final/sharedassets2.assets_31.png",
+      "size": [
+        600,
+        160
+      ],
+      "sha256": "e0db1a4dcfa1a3a3e07698a6241b8b93efeb2919a8f2660cfcb714d5bc84a25a"
+    },
+    {
+      "texture": "DLC_promo_button_2",
+      "image": "artwork/ui/final/sharedassets2.assets_32.png",
+      "size": [
+        600,
+        160
+      ],
+      "sha256": "17527be1c9c1c71ec9b350983ac0683c4849fefc84362086d676172812ba87b1"
+    },
+    {
+      "texture": "MPF_promo_button",
+      "image": "artwork/ui/final/sharedassets2.assets_21.png",
+      "size": [
+        600,
+        152
+      ],
+      "sha256": "e36140f8bb8ee8e4e6f021e583afd313c6b1eb2490ce631c2f4c1cc85946d8be"
+    },
+    {
+      "texture": "ui_info_sheet_first_launch",
+      "image": "artwork/ui/final/sharedassets2.assets_20.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "305cd694fcefaee75d8f5c251f0f5b4e08aaadf09f27a41909a5646edd7f92c9"
+    },
+    {
+      "texture": "ui_info_sheet_crossover",
+      "image": "artwork/ui/final/sharedassets2.assets_33.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "71f939a556ff76c8e5382ddd0a231a0a6a25c1ed3e5ae695993b5529ccec5955"
+    },
+    {
+      "texture": "info_manual_0",
+      "image": "artwork/ui/final/info_manual_0.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "01f447bc1f3445f9fd14a4ef9fc5ca73f09e9dcbfd3091b7983d7eb18e4a6ee2"
+    },
+    {
+      "texture": "info_manual_1",
+      "image": "artwork/ui/final/info_manual_1.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9501a29ed3f6681f784f0ab54aeb4e7de7a9c38cc14b5321c6343a635870f600"
+    },
+    {
+      "texture": "info_manual_2",
+      "image": "artwork/ui/final/info_manual_2.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "e9aadff48ff35f89dccb22b7f8ac3f171b5a52c62aab96f27a182628556e50c6"
+    },
+    {
+      "texture": "info_manual_3",
+      "image": "artwork/ui/final/info_manual_3.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "c09ccdb480f6228fba44fed8d62c7cb744dff2b3d23c24272f5c40287ea510be"
+    },
+    {
+      "texture": "info_manual_4",
+      "image": "artwork/ui/final/info_manual_4.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "629eb025431002ecd0a1e81999508fb67960d2688bc603ff3cdef610e37e6e5f"
+    },
+    {
+      "texture": "info_manual_5",
+      "image": "artwork/ui/final/info_manual_5.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "90d81249d628732408fa24d22c53f536c825c24a51a1cf49f862b45f9a629129"
+    },
+    {
+      "texture": "info_manual_6",
+      "image": "artwork/ui/final/info_manual_6.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "a0208905d758956a71db4d6ea66d48294d65cff718cac2785980bebd6b07ba49"
+    },
+    {
+      "texture": "info_manual_7",
+      "image": "artwork/ui/final/info_manual_7.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9de3fbe956316319adb93e917c6d41fdf90411ceaae1a480e9ef90067bc67fe1"
+    },
+    {
+      "texture": "info_manual_8",
+      "image": "artwork/ui/final/info_manual_8.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "24ee190365cc07a548fcd789ec46ea7e58b66d3c6ca8aaaacba79ba5cff8ae45"
+    },
+    {
+      "texture": "info_manual_9",
+      "image": "artwork/ui/final/info_manual_9.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "6c20ff14580719c2c96365897730af19077f9ed300225ad660561a6f40d93d56"
+    },
+    {
+      "texture": "info_manual_10",
+      "image": "artwork/ui/final/info_manual_10.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9e85de4ca85619e6a74aec1e388839b6b4e4986bd30a0ddca78b92b262f763fc"
+    },
+    {
+      "texture": "info_manual_11",
+      "image": "artwork/ui/final/info_manual_11.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "73af9365e871801bac4381f0e3c0020faf0f95cba23d6850cb7230c7205985ee"
+    },
+    {
+      "texture": "info_manual_12",
+      "image": "artwork/ui/final/info_manual_12.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "3fea021be8a8600cb8259b7aeafed4fc3fcea651bb97bf484362b4f62dd2b44b"
+    },
+    {
+      "texture": "info_manual_13",
+      "image": "artwork/ui/final/info_manual_13.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "73da139a93294afe7dce7824899dde9c28e93b82d3cd2a2c69807765eb3ff0f6"
+    },
+    {
+      "texture": "info_manual_14",
+      "image": "artwork/ui/final/info_manual_14.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "8180140321b01cc07026c9e6647600cbcdc486a8f46456a47462009d5164ddcf"
+    },
+    {
+      "texture": "info_manual_15",
+      "image": "artwork/ui/final/info_manual_15.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "beac7476750c158a33a628640e66d0a26df2dd5567f08d57dcfb48c020c65d8b"
+    },
+    {
+      "texture": "info_manual_16",
+      "image": "artwork/ui/final/info_manual_16.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "656eb1c3e944f7139c8b013c1e162d782692a540f3bc42a6bc5e49cc3ffd7f31"
+    },
+    {
+      "texture": "info_manual_17",
+      "image": "artwork/ui/final/info_manual_17.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "debb132fc4812c6d1aac7968d10f3d98068a7a77cc9ec0a4fec7833c71bd9ad5"
+    },
+    {
+      "texture": "info_manual_18",
+      "image": "artwork/ui/final/info_manual_18.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "6ffb6e504328d0de6f8153280d488548671758ca0c4617c1dac56eb50f4a27c3"
+    },
+    {
+      "texture": "info_manual_19",
+      "image": "artwork/ui/final/info_manual_19.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "b8c4a8b374131dc13357b0db278613b74774f955820dd2f5df4c1fa18bd43419"
+    },
+    {
+      "texture": "info_manual_20",
+      "image": "artwork/ui/final/info_manual_20.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "212ecbaa8ef44d177b4e92440c0a2a836e62d4011316a27d1ce961644b4240b4"
+    },
+    {
+      "texture": "info_manual_21",
+      "image": "artwork/ui/final/info_manual_21.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9fb375ced81c85c423c68ee74c6b1a67f6b8385dda33ab96ec3e53d4f0ca60ec"
+    },
+    {
+      "texture": "info_manual_22",
+      "image": "artwork/ui/final/info_manual_22.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "c096f8254478c0c22db7d77001bd95d84da758187c04abceaf6f231fa5a1ae01"
+    },
+    {
+      "texture": "info_manual_23",
+      "image": "artwork/ui/final/info_manual_23.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "f9a2735d504ba389b48de9455fc5e6883d9e5c41945e50dbae887c590fb645b5"
+    },
+    {
+      "texture": "info_manual_24",
+      "image": "artwork/ui/final/info_manual_24.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "8f419a787869f801caf180879acd5dbd66634403381024c9a45659364d57fac1"
+    },
+    {
+      "texture": "info_manual_25",
+      "image": "artwork/ui/final/info_manual_25.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "f63c9921ea53b21ad6c1bd5c68215acbf9cb351200917da7a42890ebda6f752e"
+    },
+    {
+      "texture": "info_manual_26",
+      "image": "artwork/ui/final/info_manual_26.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "982a8c1fd14ecfb38d6679d6c566d6baf6122219c8f10f093f729e2cfc04dbde"
+    },
+    {
+      "texture": "info_manual_27",
+      "image": "artwork/ui/final/info_manual_27.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "0e64659fc7994ba43eaf72fd6d227730fa2017f4cfa890e6cb79d6b20263ffaf"
+    },
+    {
+      "texture": "info_manual_28",
+      "image": "artwork/ui/final/info_manual_28.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "cb4ececdbe56ad077d7b56346510fb50286c09bf974769817e540b9ce7d732cb"
+    },
+    {
+      "texture": "info_manual_29",
+      "image": "artwork/ui/final/info_manual_29.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "80654fbef442fec28a2a5bc9bb7d45ef026cb4d2196d74f5a3e6c8464efb0aa7"
+    },
+    {
+      "texture": "info_manual_30",
+      "image": "artwork/ui/final/info_manual_30.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "81622b37c98b3f5d10183f4ea505eb483bcdaf37695035a125b77937b3863504"
+    },
+    {
+      "texture": "info_manual_cover",
+      "image": "artwork/ui/final/info_manual_cover.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "9b6ae811982042006cd8d730c3fa324e7c68df2925ae1d5e50175cc27bc80fc8"
+    }
+  ]
+}

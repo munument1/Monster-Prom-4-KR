@@ -1,0 +1,200 @@
+{
+  "textures": [
+    {
+      "texture": "sactx-0-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_8.png"
+    },
+    {
+      "texture": "sactx-1-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_10.png"
+    },
+    {
+      "texture": "sactx-2-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_12.png"
+    },
+    {
+      "texture": "sactx-3-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_14.png"
+    },
+    {
+      "texture": "sactx-4-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_15.png"
+    },
+    {
+      "texture": "sactx-5-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_16.png"
+    },
+    {
+      "texture": "sactx-6-2048x2048-BC7-SpriteAtlas_Prologue-ed4bd6eb",
+      "image": "artwork/ui/final/sharedassets4.assets_17.png"
+    },
+    {
+      "texture": "sactx-2-2048x2048-BC7-SpriteAtlas_MainGameUI-41bd7a21",
+      "image": "artwork/ui/final/sharedassets5.assets_15.png"
+    },
+    {
+      "texture": "sactx-3-2048x2048-BC7-SpriteAtlas_GeneralMenus-db21ad53",
+      "image": "artwork/ui/final/sharedassets2.assets_12.png"
+    },
+    {
+      "texture": "sactx-1-2048x2048-BC7-SpriteAtlas_Gallery-91013676",
+      "image": "artwork/ui/final/sharedassets9.assets_5.png"
+    },
+    {
+      "texture": "DLC_promo_button_4",
+      "image": "artwork/ui/final/sharedassets2.assets_17.png"
+    },
+    {
+      "texture": "DLC_promo_button_1",
+      "image": "artwork/ui/final/sharedassets2.assets_26.png"
+    },
+    {
+      "texture": "DLC_promo_button_3",
+      "image": "artwork/ui/final/sharedassets2.assets_31.png"
+    },
+    {
+      "texture": "DLC_promo_button_2",
+      "image": "artwork/ui/final/sharedassets2.assets_32.png"
+    },
+    {
+      "texture": "MPF_promo_button",
+      "image": "artwork/ui/final/sharedassets2.assets_21.png"
+    },
+    {
+      "texture": "ui_info_sheet_first_launch",
+      "image": "artwork/ui/final/sharedassets2.assets_20.png"
+    },
+    {
+      "texture": "ui_info_sheet_crossover",
+      "image": "artwork/ui/final/sharedassets2.assets_33.png"
+    },
+    {
+      "texture": "info_manual_0",
+      "image": "artwork/ui/final/info_manual_0.png"
+    },
+    {
+      "texture": "info_manual_1",
+      "image": "artwork/ui/final/info_manual_1.png"
+    },
+    {
+      "texture": "info_manual_2",
+      "image": "artwork/ui/final/info_manual_2.png"
+    },
+    {
+      "texture": "info_manual_3",
+      "image": "artwork/ui/final/info_manual_3.png"
+    },
+    {
+      "texture": "info_manual_4",
+      "image": "artwork/ui/final/info_manual_4.png"
+    },
+    {
+      "texture": "info_manual_5",
+      "image": "artwork/ui/final/info_manual_5.png"
+    },
+    {
+      "texture": "info_manual_6",
+      "image": "artwork/ui/final/info_manual_6.png"
+    },
+    {
+      "texture": "info_manual_7",
+      "image": "artwork/ui/final/info_manual_7.png"
+    },
+    {
+      "texture": "info_manual_8",
+      "image": "artwork/ui/final/info_manual_8.png"
+    },
+    {
+      "texture": "info_manual_9",
+      "image": "artwork/ui/final/info_manual_9.png"
+    },
+    {
+      "texture": "info_manual_10",
+      "image": "artwork/ui/final/info_manual_10.png"
+    },
+    {
+      "texture": "info_manual_11",
+      "image": "artwork/ui/final/info_manual_11.png"
+    },
+    {
+      "texture": "info_manual_12",
+      "image": "artwork/ui/final/info_manual_12.png"
+    },
+    {
+      "texture": "info_manual_13",
+      "image": "artwork/ui/final/info_manual_13.png"
+    },
+    {
+      "texture": "info_manual_14",
+      "image": "artwork/ui/final/info_manual_14.png"
+    },
+    {
+      "texture": "info_manual_15",
+      "image": "artwork/ui/final/info_manual_15.png"
+    },
+    {
+      "texture": "info_manual_16",
+      "image": "artwork/ui/final/info_manual_16.png"
+    },
+    {
+      "texture": "info_manual_17",
+      "image": "artwork/ui/final/info_manual_17.png"
+    },
+    {
+      "texture": "info_manual_18",
+      "image": "artwork/ui/final/info_manual_18.png"
+    },
+    {
+      "texture": "info_manual_19",
+      "image": "artwork/ui/final/info_manual_19.png"
+    },
+    {
+      "texture": "info_manual_20",
+      "image": "artwork/ui/final/info_manual_20.png"
+    },
+    {
+      "texture": "info_manual_21",
+      "image": "artwork/ui/final/info_manual_21.png"
+    },
+    {
+      "texture": "info_manual_22",
+      "image": "artwork/ui/final/info_manual_22.png"
+    },
+    {
+      "texture": "info_manual_23",
+      "image": "artwork/ui/final/info_manual_23.png"
+    },
+    {
+      "texture": "info_manual_24",
+      "image": "artwork/ui/final/info_manual_24.png"
+    },
+    {
+      "texture": "info_manual_25",
+      "image": "artwork/ui/final/info_manual_25.png"
+    },
+    {
+      "texture": "info_manual_26",
+      "image": "artwork/ui/final/info_manual_26.png"
+    },
+    {
+      "texture": "info_manual_27",
+      "image": "artwork/ui/final/info_manual_27.png"
+    },
+    {
+      "texture": "info_manual_28",
+      "image": "artwork/ui/final/info_manual_28.png"
+    },
+    {
+      "texture": "info_manual_29",
+      "image": "artwork/ui/final/info_manual_29.png"
+    },
+    {
+      "texture": "info_manual_30",
+      "image": "artwork/ui/final/info_manual_30.png"
+    },
+    {
+      "texture": "info_manual_cover",
+      "image": "artwork/ui/final/info_manual_cover.png"
+    }
+  ]
+}

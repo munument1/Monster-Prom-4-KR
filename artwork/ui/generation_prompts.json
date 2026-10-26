@@ -1,0 +1,150 @@
+{
+  "mode": "built-in image_gen",
+  "manual_common": "Use case: text-localization. Edit target: this Monster Con game manual page. Produce a sharp 1920x1080 landscape image at exactly 16:9. Translate ALL readable English into fluent accurate Korean, including headings, full explanatory paragraphs, footnotes, screenshot UI text, dialogue and captions. Do not summarize or omit details. Preserve each illustration, character, icon, color palette, page number, panel positions and layout. Keep the MONSTER CON brand logo in English. Korean needs generous letter size, clean readable friendly rounded typography matching this cartoon game, no gibberish. You may reflow lines inside existing text panels to fit complete translations. Stable glossary: stats=능력치, smarts=지능, boldness=대담함, creativity=창의력, charm=매력, fun=재미, romance option=공략 대상, con=컨벤션, con afterparty=컨벤션 뒤풀이, run=플레이, good ending=성공 엔딩, failure ending=실패 엔딩, secret ending=비밀 엔딩, plotline=스토리라인, likes=취향, top 3=최애 3인, food court=푸드코트, comic=만화, comic stage=만화 단계, mystery shop=미스터리 상점, guest=게스트, pepper count=고추 개수, sexy stat=섹시 능력치, naughty stat=야릇 능력치. Names: Omen=오멘, Doug=더그, Zoe=조이, Liam=리암, April=에이프릴, Nico=니코. Character faces/artwork must remain intact. Retain all information and numerical rules accurately. Screenshot DAY must be '일차', BLUE is the player's name '블루'. Do not invent any rule, score, number, stage, goal or detail not present in original. Translate faithfully, not freely.",
+  "manual_notes": "Original generated drafts are preserved. Final assembly corrects inaccurate body text on pages 0, 4 and 5 with Jua; all other generated designs retained, with any further verified corrections recorded in assembler.",
+  "manuals": {
+    "0": {
+      "common": true,
+      "approved_text": "제목: 기본 설명\n『몬스터 컨』의 목표는 최고의 컨벤션 뒤풀이를 즐기는 것입니다. 데이트 상대와 함께 가도 좋고, 혼자 가도 좋습니다.\n플레이가 끝나면 컨벤션 뒤풀이에 누구를 초대할지 선택합니다. 6명의 공략 대상 중 한 명을 고르거나, 일곱 번째 선택지인 ‘아무도 선택하지 않기’를 고를 수 있습니다.\n누구를 선택하든 성공 엔딩을 보려면 정해진 조건을 충족해야 합니다. 그렇지 않으면 실패 엔딩을 보게 됩니다. 이 조건은 대개 플레이어의 능력치와 관련이 있습니다.\n화면 제목: 컨벤션에서 누구와 사랑에 빠질까? / 일차 4 / 에이프릴 / 블루 / 지능 13, 대담함 10, 창의력 9, 매력 13, 재미 6."
+    },
+    "1": {
+      "common": true,
+      "approved_text": null
+    },
+    "2": {
+      "common": true,
+      "approved_text": null
+    },
+    "3": {
+      "common": true,
+      "approved_text": null
+    },
+    "4": {
+      "common": true,
+      "approved_text": null
+    },
+    "5": {
+      "common": true,
+      "approved_text": null
+    },
+    "6": {
+      "common": true,
+      "approved_text": "제목: 능력치를 관리하는 방법\n능력치를 관리하는 방법은 여러 가지입니다. 간단히 정리하면 다음과 같습니다.\n윗줄 왼쪽: ‘취향’을 선택하면 능력치가 조금 바뀝니다.\n윗줄 오른쪽: 플레이를 시작할 때 ‘최애 3인’을 고릅니다.\n가운데 왼쪽: 장소를 방문하면 이벤트가 시작되기 전에 능력치를 얻습니다.\n가운데 중앙: 이벤트의 선택지는 능력치를 바꾸는 가장 주된 방법입니다.\n가운데 오른쪽: 푸드코트에 혼자 앉아도 능력치가 바뀝니다.\n아랫줄 왼쪽: 만화 속 선택지도 능력치에 영향을 줍니다!\n아랫줄 중앙: 미스터리 상점의 아이템도 능력치를 바꿀 수 있습니다."
+    },
+    "7": {
+      "common": true,
+      "approved_text": "제목: 취향과 최애 3인\n컨벤션에 들어가기 전에 ‘취향’과 ‘최애 3인’이라는 두 가지 방식으로 캐릭터의 성격을 정합니다.\n패널 제목: 취향\n취향 단계에서는 12가지 항목 중 캐릭터가 좋아하는 것 3가지를 고릅니다. 캐릭터의 개성을 만들고 상상력을 발휘하는 것 외에도 여러 기능이 있습니다. 취향이 어떤 역할을 하는지 살펴봅시다.\n• 각 취향은 한 명 이상의 공략 대상과 연결되어 있습니다.\n• 취향을 고르면 연결된 공략 대상에게 관심을 표현한 것으로 간주됩니다. 해당 공략 대상에 대한 ‘관심 점수’를 얻는 셈입니다.\n• 취향 3가지를 선택하면 게임은 관심 점수를 확인하고, 점수가 가장 높은 공략 대상이 등장하는 이벤트를 우선적으로 보여 줍니다.\n• 컨벤션이 시작된 뒤에도 관심 점수를 바꿀 방법이 있습니다. 다른 공략 대상에게 집중하고 싶다는 뜻을 게임에 전달할 수 있는 것이죠.\n• 각 취향은 특정 능력치와도 연결됩니다. 캐릭터의 시작 능력치를 정할 때 해당 능력치에 +1을 얻습니다.\n예시 화면 제목: 좋아하는 것 3가지를 골라 줘 / 옐로."
+    },
+    "8": {
+      "common": true,
+      "approved_text": "제목: 취향과 최애 3인\n패널 제목: 최애 3인\n최애 3인 단계에서는 특정 주제에 속하는 항목 5개를 보여 줍니다. 그중 가장 좋아하는 것 3개를 순서대로 고릅니다. 첫 번째가 1순위, 두 번째가 2순위, 세 번째가 3순위입니다.\n각 항목은 하나의 능력치와 연결됩니다. 선택한 순서에 따라 캐릭터의 시작 능력치가 정해지며, 선택지와 연결된 능력치가 올라갑니다.\n예시 화면: 퀴즈! / 가장 좋아하는 포켓맨 3명을 골라 줘 / 블루"
+    },
+    "9": {
+      "common": true,
+      "approved_text": "제목: 장소\n컨벤션 턴(메인 턴)에는 다섯 장소 중 한 곳을 선택해야 합니다. 어떤 장소를 골라야 할까요?\n특정 장소를 방문하면 그 장소에 해당하는 이벤트들을 만날 수 있습니다.\n이벤트가 시작되기 전, 해당 장소의 짧은 기본 이벤트가 나옵니다. 이때 특정 능력치를 +2 얻습니다. 장소마다 연결된 능력치가 다릅니다.\n위쪽 띠: 특정 능력치를 올리고 싶나요? 그 능력치에 맞는 장소를 고르세요!\n지도 안내: 메인 무대 = 지능 / 커뮤니티 구역 = 재미 / 로비 = 대담함 / 호텔 및 야외 = 창의력 / 굿즈 홀 = 매력"
+    },
+    "10": {
+      "common": true,
+      "approved_text": "제목: 이벤트: 능력치 교환\n이벤트는 게임의 핵심 요소이자 이야기의 중심입니다. 캐릭터는 해결해야 할 갈등에 부딪히고, 이를 해결할 두 가지 선택지를 받습니다.\n선택지를 고르면 그 행동의 직접적인 결과에 해당하는 전개를 보게 됩니다.\n또한 선택은 ‘능력치 교환’이라는 방식으로 능력치를 바꿉니다. 각 선택지는 특정 능력치 하나와 연결되어 있습니다.\n가운데 아래: 선택지를 고르면 그 선택지에 연결된 능력치가 올라갑니다. 대신 고르지 않은 선택지에 연결된 능력치는 내려갑니다.\n오른쪽 패널: 이런 이벤트를 상상해 보세요. 친구들과 패널 토크에 가려는데, 어떤 캐릭터가 수수께끼를 풀기 전에는 들여보내 주지 않겠다고 합니다.\n‘수수께끼 풀기’와 ‘그 사람의 얼굴 때리기’라는 두 가지 선택지가 나옵니다. 수수께끼를 푸는 것은 지적인 행동이므로 첫 번째 선택지는 지능과 연결됩니다. 얼굴을 때리려면 대담해야 하므로 두 번째 선택지는 대담함과 연결됩니다.\n이 예시에서 얼굴을 때리기로 하면 대담함이 오르고 지능이 내려갑니다."
+    },
+    "11": {
+      "common": true,
+      "approved_text": "제목: 선택지를 고르는 방법\n앞에서 설명했듯, 이벤트의 핵심은 각 선택지에 연결된 능력치를 추측해 전략적으로 선택하는 것입니다. 원하는 성공 엔딩의 조건을 맞추기 위해 능력치를 관리하는 주된 방법이죠.\n참고: 전략을 따르지 않고, 더 웃기거나 더 흥미로운 선택지를 골라도 됩니다!\n그래도 각 선택지가 어떤 능력치와 연결되는지 알아맞히고 싶다면, 다음 페이지의 능력치 해설을 참고하세요. 모든 능력치를 구분하는 데 도움이 될 것입니다!\n화면 위 선택지: 생각할 시간 없어! 비상용 망치로 네 팔을 부숴서, 마침내 뭔가 고장 난 걸 갖고 다니게 해!\n화면 아래 선택지: 네 은행 계좌 말이야. 너무 오래 빈털터리로 살았잖아. 금을 좀 넣으면 근사하게 고칠 수 있을 것 같네."
+    },
+    "12": {
+      "common": true,
+      "approved_text": "제목: 능력치 해설\n왼쪽: 대담함\n유난히 직설적이거나 무모하거나, 굳이 위험을 무릅쓰는 행동이라면 대담함에 해당합니다.\n말 그대로 대담한 일들이죠! 꽤나 불법적으로 보이는 일이나 폭력이 많이 수반되는 행동을 찾아보세요.\n오른쪽: 지능\n잘 알려지지 않은 사실을 알고 있거나 영리하게 행동하는 선택지는 지능에 해당합니다. 그 자체로 매우 논리적인 선택지도 마찬가지입니다.\n마법을 사용하는 것도 지능과 연결됩니다. 비전의 소환 의식을 한다고요? 그건 확실히 지능을 올려 줄 겁니다.\n무언가를 발명하는 선택지에서 상상력보다 두뇌가 더 중요해 보인다면, 그것도 아마 지능일 것입니다."
+    },
+    "13": {
+      "common": true,
+      "approved_text": "제목: 능력치 해설\n왼쪽: 창의력\n창의력은 예술이나 공예와 관련된 모든 것입니다. 아리아 부르기, 소네트 쓰기, 드레스 만들기 같은 일이죠.\n이 별난 게임의 기준으로도 정말 기발하게 느껴지는 선택지 역시 창의력에 해당합니다.\n또한 유명한 그림처럼 고급문화를 직접 언급하는 선택지도 대개 창의력과 연결됩니다.\n오른쪽: 재미\n재미는 파티, 섹스, 혼돈에 관한 모든 것입니다!\n다만 지나치게 폭력적인 혼돈은 대담함에 해당합니다. 그렇지 않다면 재미일 수 있죠. 때로는 미묘한 차이를 읽어야 합니다!\n재미는 약물이나 음식 같은 세속적인 즐거움과도 연결됩니다. 장난을 치고 농담을 하는 것도 마찬가지입니다.\n대중문화와 관련된 선택지도 보통 재미에 해당합니다. TV 프로그램, 비디오 게임 같은 신나는 것들 말이죠!"
+    },
+    "14": {
+      "common": true,
+      "approved_text": "제목: 능력치 해설\n매력\n매력은 대인관계 기술을 사용하는 모든 행동과 연결됩니다. 선하든 악하든 말이죠. 설득하기, 마음 사로잡기, 추파 던지기, 거짓말하기, 친구 되기 등이 해당합니다.\n선택지 자체가 공략하려는 상대를 칭찬하기 위한 구실처럼 보인다면, 아마 매력일 것입니다.\n로맨틱하거나 대놓고 달콤한 말도 매력에 해당합니다.\n아름다운 드레스를 만드는 것은 창의력일 수 있지만, 입는 것은 매력에 더 가깝습니다. 멋을 내거나 보기 좋게 꾸미는 일도 모두 매력에 해당하니까요.\n마지막으로, 선행을 하거나 정의를 위해 싸우는 행동으로 강하게 느껴진다면 매력일 가능성이 높습니다.\n참고: 어떤 선택지는 여러 능력치와 관련 있어 보일 수 있습니다. 시간을 들여 가장 큰 단서가 무엇인지, 그 단서는 어느 능력치와 연결되는지 생각해 보세요."
+    },
+    "15": {
+      "common": true,
+      "approved_text": null
+    },
+    "16": {
+      "common": true,
+      "approved_text": null
+    },
+    "17": {
+      "common": true,
+      "approved_text": null
+    },
+    "18": {
+      "common": true,
+      "approved_text": null
+    },
+    "19": {
+      "common": true,
+      "approved_text": null
+    },
+    "20": {
+      "common": true,
+      "approved_text": null
+    },
+    "21": {
+      "common": true,
+      "approved_text": null
+    },
+    "22": {
+      "common": true,
+      "approved_text": null
+    },
+    "23": {
+      "common": true,
+      "approved_text": null
+    },
+    "24": {
+      "common": true,
+      "approved_text": null
+    },
+    "25": {
+      "common": true,
+      "approved_text": null
+    },
+    "26": {
+      "common": true,
+      "approved_text": null
+    },
+    "27": {
+      "common": true,
+      "approved_text": null
+    },
+    "28": {
+      "common": true,
+      "approved_text": null
+    },
+    "29": {
+      "common": true,
+      "approved_text": null
+    },
+    "30": {
+      "common": true,
+      "approved_text": null
+    }
+  },
+  "ui": {
+    "newtag": "Edit target: a tiny game UI NEW tag. Replace NEW with exact Korean 신규, bold slightly tilted cream lettering on the same magenta trapezoid. Preserve exact original tag shape, same proportions and transparent margins; only text changes. This asset will be reduced to 104x70 pixels, so Korean must be very bold and clear.",
+    "music16": "text-localization. Edit target: original game texture atlas. Preserve exact 2048x2048 square canvas and sprite layout, bounding boxes, transparency, colors and illustrations. Korean text must be clean and exact. Change Kawaii Future Bass to 카와이 / 퓨처 베이스 on two lines; Fantasy Vibes to 판타지 / 감성 in BOTH labels; RETRO to 레트로; Surf Rock to 서프 록; LO-FI BEATS to 로파이 / 비트. Also the little Rock! sticker on the surf-rock cassette should say 록!. Only text in six paper cassette labels and that one tiny sticker, preserve all cassette artwork, faces, controllers, blank panels and exact coordinates.",
+    "music10": "text-localization. Edit target: original game texture atlas. Preserve exact 2048x2048 square canvas and sprite layout, bounding boxes, transparency, colors and illustrations. Korean text must be clean and exact. Change Surf Rock to 서프 록, LO-FI BEATS to 로파이 / 비트, Rock! cassette sticker to 록!. Only change these labels, preserve all cassette illustrations, controllers and positions.",
+    "music8": "text-localization. Edit target: original game texture atlas. Preserve exact 2048x2048 square canvas and sprite layout, bounding boxes, transparency, colors and illustrations. Korean text must be clean and exact. Change RETRO to 레트로 in the small paper label beneath the cassette at top left. Change nothing else; all original positions and sizes unchanged.",
+    "friendomat": "text-localization. Edit target: original game texture atlas. Preserve exact 2048x2048 square canvas and sprite layout, bounding boxes, transparency, colors and illustrations. Korean text must be clean and exact. Change FRIEND-O-MAT on the vending machine header to 친구 호출기 in large bubbly aqua/green letters matching the original, fitting the exact same header area. Change CALL A FRIEND! in the white speech bubble to 친구를 / 불러 봐! on two lines in purple. Only these two text areas. Preserve vending machine, bird mascot, blank shelves, transparent margins and blank separate panel exactly.",
+    "promo17": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Replace only Get the DLCs with DLC 구매 and PLAYABLE CHARS with 플레이어 캐릭터. Preserve character, exact banner outline, layout, colors, transparent margins.",
+    "promo26": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Replace only Get the DLCs with DLC 구매 and PLAYABLE CHARS with 플레이어 캐릭터. Preserve character, exact banner outline, layout, colors, transparent margins.",
+    "promo31": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Replace only Get the DLCs with DLC 구매 and PLAYABLE CHARS with 플레이어 캐릭터. Preserve character, exact banner outline, layout, colors, transparent margins.",
+    "promo32": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Replace only Get the DLCs with DLC 구매 and PLAYABLE CHARS with 플레이어 캐릭터. Preserve character, exact banner outline, layout, colors, transparent margins.",
+    "franchise": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Keep MONSTER PROM brand logo in English. Replace only Get the franchise bundle with 시리즈 묶음 구매. Preserve original characters and all art and banner outline.",
+    "firstlaunch": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Exact translations: GET EXTRA PLAYABLE CHARACTERS FOR THE CON! -> 새로운 플레이어 캐릭터와 함께! ; WHAT'S COMING IN THE NEXT FEW MONTHS -> 앞으로 추가될 콘텐츠 ; NEW DLC PLAYABLE CHARS / NEW GUESTS / NEW COMICS / A NEW MYSTERY BOX -> 새로운 DLC 플레이어 캐릭터 / 새로운 게스트 / 새로운 만화 / 새로운 미스터리 박스 ; TRIGGER WARNINGS -> 콘텐츠 경고 ; full bottom paragraph becomes: ‘꾸미기’에서 콘텐츠 경고를 설정하면 피하고 싶은 주제의 이벤트를 걸러낼 수 있습니다. 단, 대부분의 콘텐츠 경고는 스토리라인 이벤트에는 적용되지 않습니다. Preserve every character illustration and panel, replace only lettering.",
+    "crossover": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Keep game titles, center MONSTER PROM logo and legal fine print unchanged. Replace only top white panel wording with 인디 게임과 공식 협업한 / 새로운 의상을 만나 보세요! ; replace bottom right ACTIVATE THEM IN CUSTOMIZE! with ‘꾸미기’에서 / 적용하세요! Preserve exact art and layout.",
+    "gallery": "text-localization: faithfully edit the supplied game UI image, same aspect ratio and exact sprite layout. Korean text must be correct, no additions. Preserve artwork and transparency. Replace only TOO POOR 4 THIS! at lower right with 돈이 / 부족해! on two lines with playful cream colored lettering. All other atlas pixels and sprite positions must stay unchanged.",
+    "atlas_12": "text-localization. Edit the provided 2048x2048 game sprite atlas. Maintain exactly the original canvas, proportions, every sprite bounding box and position. Transparent background. Only change the specified English text to exact Korean. Clean bold legible expressive game lettering matching original colors. No extra words. Replace SPORTS with 스포츠 at upper left. At right replace HARD with 어려움 in BOTH red-car difficulty sprites (middle right: base and highlighted versions). Replace NORMAL with 보통 below the yellow car at bottom right. Black letters on transparency may look invisible in this preview: the base red-car icon still needs its Korean label 어려움 beneath the car. Preserve all arrows, controllers, cars and locations.",
+    "atlas_14": "text-localization. Edit the provided 2048x2048 game sprite atlas. Maintain exactly the original canvas, proportions, every sprite bounding box and position. Transparent background. Only change the specified English text to exact Korean. Clean bold legible expressive game lettering matching original colors. No extra words. Replace SHONEN in the upper-left comic-genre card with 소년 만화, same blue/yellow sporty lettering. Replace Kawaii Future Bass in bottom right cassette label with 카와이 / 퓨처 베이스 on two lines. Preserve all remaining controllers and graphics and their exact positions.",
+    "atlas_15": "text-localization. Edit the provided 2048x2048 game sprite atlas. Maintain exactly the original canvas, proportions, every sprite bounding box and position. Transparent background. Only change the specified English text to exact Korean. Clean bold legible expressive game lettering matching original colors. No extra words. Replace FANTASY at the top with 판타지, COMIC STRIP at top right with 네 컷 만화. Replace EASY under BOTH green-car difficulty sprites at right with 쉬움. Replace NORMAL under the yellow-car sprite at upper middle with 보통; the original NORMAL black text may be invisible on transparent background but must be replaced in its original location. Preserve arrows, cars, and other graphics.",
+    "gen17": "2048x2048 original genre atlas; localize SCI-FI→공상과학, ARTSY→예술, Mahō Shōjo→마법소녀, Card Battle→카드 배틀, Romance→로맨스, NOIR→느와르, SUPERHEROES→슈퍼히어로, PERIOD DRAMA→시대극. Preserve layout, artwork, positions, transparency."
+  }
+}
