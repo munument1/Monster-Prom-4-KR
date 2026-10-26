@@ -1200,6 +1200,5098 @@
       "event": "finalsuccess_zoe2",
       "english_sha256": "e72ccf877cd4f0451a411c1a730f592aed199d216a40ba14dd5b3eb4528a2b95",
       "ko": "조이는 공책을 가져와 새로 구상 중인 팬픽 아이디어를 보여 줬어."
+    },
+    {
+      "line": 449,
+      "event": "finalsuccess_zoe2",
+      "english_sha256": "0777a5e2b10975a5d5528474a13263510ef3d816f29651b468f21d108b007017",
+      "ko": "그 장엄한 야설의 개요만으로도 넌 잔뜩 달아올랐어..."
+    },
+    {
+      "line": 450,
+      "event": "finalsuccess_zoe2",
+      "english_sha256": "62c52351131e826a082616670e4ba42eb8d1a760cef1550aed13fd3d510353d4",
+      "ko": "조이는 알아차리고 뒤쪽으로 나가 네 \"문학적 호기심\"을 풀어 주겠다고 했지."
+    },
+    {
+      "line": 451,
+      "event": "finalsuccess_zoe2",
+      "english_sha256": "2db651fa2095b8470e6920e74f8cedfa23dc2940278593fdff6171f14ed5b590",
+      "ko": "독서가 이렇게... 손을 많이 쓰는 일인 줄 누가 알았겠어? ;)"
+    },
+    {
+      "line": 458,
+      "event": "finalsuccess_zoe3",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 459,
+      "event": "finalsuccess_zoe3",
+      "english_sha256": "226b4e4d2875e99d9965e26e50ec069008607630887e21785f50b35569cc3a2d",
+      "ko": "뒤풀이는 굉장했어!"
+    },
+    {
+      "line": 460,
+      "event": "finalsuccess_zoe3",
+      "english_sha256": "437ccfa359b68b2ef1ddf501881f81b175dac9b35d8e175084327bf4eb416721",
+      "ko": "너와 조이는 밤새 이번 행사가 얼마나 재밌었는지 추억했어."
+    },
+    {
+      "line": 461,
+      "event": "finalsuccess_zoe3",
+      "english_sha256": "f3c15174d862cdb4a96f29dbe5a387d6cd299621b469649ae1802928af6287a8",
+      "ko": "다음엔 뭘 할 건지 묻자 모른다고 했지. 하지만 다음에 뭘 할지 모르는 게 인생의 아름다운 부분 아닐까?"
+    },
+    {
+      "line": 462,
+      "event": "finalsuccess_zoe3",
+      "english_sha256": "875484b20c66c2a63ce6c7fe15e90c490abcccb0433beb2352ad5979e0d9ba46",
+      "ko": "조이는 필멸성이 그래서 좋다고 했어. 매 순간이 소중하고, 다음 순간에 뭐가 있을지 모르니까..."
+    },
+    {
+      "line": 463,
+      "event": "finalsuccess_zoe3",
+      "english_sha256": "25704ea8ff26937e623ac7daf4debf78b81c93dd8f43496359a3593eefb8971a",
+      "ko": "...너희 둘의 관계가 어디로 갈지도 포함해서."
+    },
+    {
+      "line": 464,
+      "event": "finalsuccess_zoe3",
+      "english_sha256": "93f22ad0dcfe1da9bdb73a6284ebcb220a2863504cd3f9ab007a6794859995a3",
+      "ko": "그러고는 키스했어. 넌 분명 예상 못 했지."
+    },
+    {
+      "line": 471,
+      "event": "success_none1",
+      "english_sha256": "6d72e7f51a1e21da6efb122ede6ca32a40d722a25239ffe3171498ea550b21be",
+      "ko": "이 멋진 경험에 낭만적인 결말이 필요하진 않으니까, 아무에게도 뒤풀이에 함께 가자고 하지 않았어."
+    },
+    {
+      "line": 472,
+      "event": "success_none1",
+      "english_sha256": "f692d7bc6f7bed96310b61b4bab037a6c1d520a41b277b947b922c1b714a0671",
+      "ko": "친구를 사귀고, 추억을 만들고, 굿즈에 터무니없는 돈을 쓰려고 행사에 왔지."
+    },
+    {
+      "line": 473,
+      "event": "success_none1",
+      "english_sha256": "c76b5bc2799f51d0f45e688ca4828c9aa0c9d8668206db32ac4bc5dbcd9797da",
+      "ko": "3개 중 3개 달성! 네 기준엔 승리야!"
+    },
+    {
+      "line": 480,
+      "event": "success_none2",
+      "english_sha256": "709e431bd76dad714d09a7a45450746b7e48de19b3b37dc4c446b57355508471",
+      "ko": "아무에게도 뒤풀이에 함께 가자고 하지 않았어."
+    },
+    {
+      "line": 481,
+      "event": "success_none2",
+      "english_sha256": "9b6139aa80d80f492ea18edcdf643339c8c041229c3ff4212d8ec3dcf43cbe0c",
+      "ko": "다른 반쪽이 왜 필요해? 넌 두 반쪽이 합쳐진 완전한 %CURRENTPLAYERNAME%이고, 그보다 더 좋은 모습은 없어!"
+    },
+    {
+      "line": 488,
+      "event": "success_none3",
+      "english_sha256": "061d0e6f3a032dc72c3a684d7fc76da1fc8da3e5f2f11676bced63996ce9067b",
+      "ko": "아무에게도 뒤풀이에 함께 가자고 하지 않았어. 이미 완벽한 밤을 계획했거든!"
+    },
+    {
+      "line": 489,
+      "event": "success_none3",
+      "english_sha256": "c8535d96818de6f4d564fc37e09e8f241f6d881a637166a3c8d4229a4dc00661",
+      "ko": "리무진으로 자신을 데리러 가고, 맛있는 저녁을 대접하고, 멋지게 3시간 늦게 도착할 계획이야."
+    },
+    {
+      "line": 490,
+      "event": "success_none3",
+      "english_sha256": "501d767bcd64fc4ebc4e883764471746f31c8070cd0b4f921b3ba38fbafb657f",
+      "ko": "자신에게 줄 꽃다발도 샀어! 쉿! 깜짝 선물이니까!"
+    },
+    {
+      "line": 497,
+      "event": "finalsuccess_none1",
+      "english_sha256": "a67c5d7685d7977af00faf0cbad38f749a021057fe6112278e60ded9229863ad",
+      "ko": "파티에서 정말 즐거웠어!"
+    },
+    {
+      "line": 498,
+      "event": "finalsuccess_none1",
+      "english_sha256": "6a7a899ccedf421c5762da4f3e856146ef9165a2a4c571c0cd3a1b854625bb33",
+      "ko": "느린 곡이 나올 때 함께 춤출 사람이 없어서 \"좆까\" 하고 브레이크댄스를 췄지."
+    },
+    {
+      "line": 499,
+      "event": "finalsuccess_none1",
+      "english_sha256": "cb6ad77b185e68656027a7795f64bdddadaa3c7983546ba19148608222afeb92",
+      "ko": "잘난 척하는 커플들 주위에는 사람들이 원을 만들고 \"%CURRENTPLAYERNAME%! %CURRENTPLAYERNAME%!\"을 외치지 않았다는 걸 믿어도 좋아."
+    },
+    {
+      "line": 500,
+      "event": "finalsuccess_none1",
+      "english_sha256": "2055b424b6af4d54684b48a36d75f1d965386fe66a10be0f698f0e0c47ab81d6",
+      "ko": "멋진 밤이야!"
+    },
+    {
+      "line": 507,
+      "event": "finalsuccess_none2",
+      "english_sha256": "3c405c711a1339c2927fe5c929a33cba43c82d662cddd99d6b93eea253068df2",
+      "ko": "파티에서 아주 즐거웠어!"
+    },
+    {
+      "line": 508,
+      "event": "finalsuccess_none2",
+      "english_sha256": "84b97fed13a0f8c20a60462c113a39d1a593c4e0016c12f69e430fbc2662e5e1",
+      "ko": "건물 뒤편 공터에서 비밀 팝업 바를 찾았어!"
+    },
+    {
+      "line": 509,
+      "event": "finalsuccess_none2",
+      "english_sha256": "d03d3a8286636c1d7cb746f633ada8c3bb736115effc05c8627c6600cd14fa70",
+      "ko": "\"여섯 주에서만 합법인 슈냅스\", \"내가 여기 있다는 걸 경비에게 말 안 하면 무료인 한 잔\" 같은 멋진 술이 많았어."
+    },
+    {
+      "line": 510,
+      "event": "finalsuccess_none2",
+      "english_sha256": "4841f8f3ce0e7d774dd405edfe85b6c7ca7b633f93e99acae8d7abc3cf2ea630",
+      "ko": "소상공인을 응원하자!"
+    },
+    {
+      "line": 517,
+      "event": "finalsuccess_none3",
+      "english_sha256": "ccc760f003fbf956a70dbf9d911850be7e3ec7e2f809bbf3f3fe050953175e02",
+      "ko": "파티에서 전설적인 시간을 보냈어!"
+    },
+    {
+      "line": 518,
+      "event": "finalsuccess_none3",
+      "english_sha256": "515bb46e7f7ba1349f240dcd681657a24a727231aae4e17a7a60fb5d8020ff10",
+      "ko": "댄스 플로어에 모든 걸 쏟았어. 네 동작은 지독했고, 더러웠고, 완전히 역겨웠어!"
+    },
+    {
+      "line": 519,
+      "event": "finalsuccess_none3",
+      "english_sha256": "949a87a9bd89c13044febbcb6c7d5e309a1bc9300b0e6dd3848057e3e0657ac7",
+      "ko": "물론 좋은 뜻이야. 심지어 힙한 뜻이지."
+    },
+    {
+      "line": 520,
+      "event": "finalsuccess_none3",
+      "english_sha256": "25bfb7cb71094fcda0711c7023bfd0277ce4cb5e22ad1890318a9f14c5c5cf01",
+      "ko": "역대 최고의 파티! 완전 쩔었다니까! 안녕하신가, 동년배 청소년들?"
+    },
+    {
+      "line": 527,
+      "event": "failure_doug1",
+      "english_sha256": "70820df3ccc0239785455e7a71ccc92f90f928a9d01c9fb61e705448d59c35d0",
+      "ko": "드디어 용기를 내서 더그에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 530,
+      "event": "failure_doug1",
+      "english_sha256": "094d5ac47b06032cb3791c50294d467b9f49e3799f4fd310d220400ce12fac69",
+      "ko": "아, 젠장... 그러니까... 젠장, 이런 건 처음이야! 뭐라고 말하지..."
+    },
+    {
+      "line": 531,
+      "event": "failure_doug1",
+      "english_sha256": "6cf979cc0049ba37a15b0be4380ad5d7f6400a99eb633aa2909793da691c75e6",
+      "ko": "네 문제가 아니라 내 문제야. 그래, 그거야. 널 안 좋아하는 건 나니까!"
+    },
+    {
+      "line": 532,
+      "event": "failure_doug1",
+      "english_sha256": "04fab06357c8fa4ee58f1a72d79c7498d83aae193751718ff0e7db776f184d0c",
+      "ko": "잠깐, 말이 이상하게 나왔네, 미안! 그냥 가고 싶지 않다는 거야..."
+    },
+    {
+      "line": 533,
+      "event": "failure_doug1",
+      "english_sha256": "2b66b7f278f2a9edf703fd74ec887c45c28e8018686c2b5e92b2c075c2c9289a",
+      "ko": "...너랑은. 젠장, 또 끔찍하게 들렸네. 입 다물어야겠다."
+    },
+    {
+      "line": 534,
+      "event": "failure_doug1",
+      "english_sha256": "d7bd5413d6e0859b6680d06afd6a4d5d6a10fcfa96876f9191c9f5ab631de47c",
+      "ko": "아무튼 재밌게 놀아! 나 없이라도!"
+    },
+    {
+      "line": 541,
+      "event": "failure_doug2",
+      "english_sha256": "70820df3ccc0239785455e7a71ccc92f90f928a9d01c9fb61e705448d59c35d0",
+      "ko": "드디어 용기를 내서 더그에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 544,
+      "event": "failure_doug2",
+      "english_sha256": "6520ac61d78d54605ae5aac1eea8e7535493dbf99a58bdb8cefb2b2ec9d0b169",
+      "ko": "나랑 파티에 가고 싶다고? 기쁘네!"
+    },
+    {
+      "line": 545,
+      "event": "failure_doug2",
+      "english_sha256": "dc93b954b00fd15f318fca4718b866f60f18e27490c92b7ac39b41fcd1e078e2",
+      "ko": "그런데... 있잖아, 이번 행사에서 많이 배웠어."
+    },
+    {
+      "line": 546,
+      "event": "failure_doug2",
+      "english_sha256": "39e387de9bf068d6f916877dd3b17cf80b864439a054d868fd9e7e482f825ee2",
+      "ko": "있는 그대로의 나를 사랑하고, 싫다고 말하는 법 같은 거."
+    },
+    {
+      "line": 547,
+      "event": "failure_doug2",
+      "english_sha256": "6879d258980eb14ace4e3acc6f47f1f7c725189364b55f85b466fff309323285",
+      "ko": "그래서... 자, 말했네! 싫어!"
+    },
+    {
+      "line": 548,
+      "event": "failure_doug2",
+      "english_sha256": "28fe6b9ed85382c7b3f2a5b059adf8b3ef0af6db6d15e21a1fa4c57377cb1829",
+      "ko": "어, 생각보다 쉽다! 아무튼 파티에서 재밌게 놀아!"
+    },
+    {
+      "line": 555,
+      "event": "failure_doug3",
+      "english_sha256": "70820df3ccc0239785455e7a71ccc92f90f928a9d01c9fb61e705448d59c35d0",
+      "ko": "드디어 용기를 내서 더그에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 558,
+      "event": "failure_doug3",
+      "english_sha256": "5d1983aa049284116911433197be719994059f33ef172cc76d9394fb8a0df9ba",
+      "ko": "아, 너무 기쁘다! 하지만 이미 같이 갈 사람이 있어..."
+    },
+    {
+      "line": 559,
+      "event": "failure_doug3",
+      "english_sha256": "32af2c41fbe32308e05f2b8741b09c61dee651329b9f554e828430537e00071b",
+      "ko": "진짜? 누구?"
+    },
+    {
+      "line": 560,
+      "event": "failure_doug3",
+      "english_sha256": "2a548a0f717207e8525c937e0bd9afb9f82b3e1433ca7f97eb76cfa622c3e4ff",
+      "ko": "아, 넌 몰라. 꽤 수줍은 애인데 서로 알아 가는 중이야..."
+    },
+    {
+      "line": 561,
+      "event": "failure_doug3",
+      "english_sha256": "e7afda3f4eb4eb02f05cd7c0fcb85535101ce643dabdb3631a655e0ea94b2a43",
+      "ko": "아무튼 가야겠다. 기다리고 있거든!"
+    },
+    {
+      "line": 562,
+      "event": "failure_doug3",
+      "english_sha256": "34d37e3b0ee60604f24fe9bfe0d3dacec712e37a5b38c15bc32540b24c84c52a",
+      "ko": "더그가 떠나. 창밖으로 보니... 다키마쿠라를 껴안고 있어."
+    },
+    {
+      "line": 569,
+      "event": "failure_nico1",
+      "english_sha256": "b8b5bbff5edfcb6cbb72b42ab48dab6811af1b7e9cb555353e5bf73d6e47db86",
+      "ko": "드디어 용기를 내서 니코에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 573,
+      "event": "failure_nico1",
+      "english_sha256": "890736bd7d52912fc24703476e2c2fbdab479704b4e8d15be3662a05300e98d0",
+      "ko": "나랑 데이트? 안 돼, 꼬마."
+    },
+    {
+      "line": 574,
+      "event": "failure_nico1",
+      "english_sha256": "71e6d1b5192d0232f773c239d46e19a38a988c21971c8dcaaeddceb8d7a17fd4",
+      "ko": "이 늙은 탐정은 너무 많이 배신당했어."
+    },
+    {
+      "line": 575,
+      "event": "failure_nico1",
+      "english_sha256": "6fb9e89c02486dfc24997dfca2a7839ceabcfdd675e2ceebeff2f547352737bb",
+      "ko": "이 트렌치코트 아래엔 더 이상 심장이 없어. 망가진 간과 빈 술병만 있지."
+    },
+    {
+      "line": 576,
+      "event": "failure_nico1",
+      "english_sha256": "8859e4dda023dc0b898c057cb6e0ff8e6342b201a7487695f3a88df85b4611e4",
+      "ko": "네 살인 사건을 수사할 사람이 필요하면 연락해."
+    },
+    {
+      "line": 583,
+      "event": "failure_nico2",
+      "english_sha256": "b8b5bbff5edfcb6cbb72b42ab48dab6811af1b7e9cb555353e5bf73d6e47db86",
+      "ko": "드디어 용기를 내서 니코에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 587,
+      "event": "failure_nico2",
+      "english_sha256": "d6beb1bda06468a90bac8380fd3e7ded4ef588d1f98f540b36122b838d41e192",
+      "ko": "좋겠네!"
+    },
+    {
+      "line": 588,
+      "event": "failure_nico2",
+      "english_sha256": "61d2fcc4be8cd018df10526ebb6d8f45c6c4272f3620ebb5fb719205e763ba3b",
+      "ko": "...다른 코스프레를 골랐다면 그렇게 말했겠지."
+    },
+    {
+      "line": 589,
+      "event": "failure_nico2",
+      "english_sha256": "6a6bcdcdb1fdfa2df1216fe77970a6b514c5d6d7f8987d73e51b0f2f7f1745a1",
+      "ko": "레인저는 \"우정의 힘\"이 핵심이야. \"몸도 나누는 우정의 힘\"이나 \"연애의 힘\"이 아니라."
+    },
+    {
+      "line": 590,
+      "event": "failure_nico2",
+      "english_sha256": "5c63de8777ffc84286a1a43ad29ab3eabd7284cdffcd02bad7448ba48eccedb2",
+      "ko": "미안하지만 캐릭터를 유지해야 해!"
+    },
+    {
+      "line": 597,
+      "event": "failure_nico3",
+      "english_sha256": "b8b5bbff5edfcb6cbb72b42ab48dab6811af1b7e9cb555353e5bf73d6e47db86",
+      "ko": "드디어 용기를 내서 니코에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 601,
+      "event": "failure_nico3",
+      "english_sha256": "28019ee3cca8f65457141ab03390a2ab359fb2936390fa0b5e7633c27697d5cc",
+      "ko": "나와... 낭만적 관계를 맺고 싶다고?"
+    },
+    {
+      "line": 602,
+      "event": "failure_nico3",
+      "english_sha256": "54b1a3626747aaac5024a451970bf32ff47a0ca9360d50fda7d730077ff2e2e9",
+      "ko": "하지만 난 벌칸인이야! 사랑은 모든 감정처럼 벌칸 철학과 잘 맞지 않아."
+    },
+    {
+      "line": 603,
+      "event": "failure_nico3",
+      "english_sha256": "47b2740bae6a441f49787ba2f160c467e739ee38ce501e8fe27c87ae1772cfcd",
+      "ko": "미안해, %CURRENTPLAYERNAME%. 잠깐, 아니지. 후회도 감정이니까 미안해할 수 없어!"
+    },
+    {
+      "line": 604,
+      "event": "failure_nico3",
+      "english_sha256": "635316e35f36bcdaba21d81b1018c929117c252531fcea44addbedd3cbeb8fa1",
+      "ko": "휴, 하마터면 캐릭터를 깰 뻔했네! 가야겠다."
+    },
+    {
+      "line": 605,
+      "event": "failure_nico3",
+      "english_sha256": "417f7580cdf4679280cb2922f9491921927bef0be8fdbfee7bafb20d90dcb313",
+      "ko": "다시 한번 미안해! 아니, 안 미안해!"
+    },
+    {
+      "line": 612,
+      "event": "failure_liam1",
+      "english_sha256": "2d1a98eab362a6361d80481d90e4c30d725d0232da8e9bed3be039f01de7c6f1",
+      "ko": "드디어 용기를 내서 리암에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 615,
+      "event": "failure_liam1",
+      "english_sha256": "c8ef63fd821f03e24334948b8994bbd42b06a71616b5e0389716fb7c053bb585",
+      "ko": "아, %CURRENTPLAYERNAME%. 네 좋은 취향은 칭찬하지."
+    },
+    {
+      "line": 617,
+      "event": "failure_liam1",
+      "english_sha256": "c9e6d88b735ac5697002af4982f4c71c8009016d43ef34f32d7452a300b5798a",
+      "ko": "하지만 이번 행사에서 배운 게 있다면 난 아직 젊다는 거야."
+    },
+    {
+      "line": 618,
+      "event": "failure_liam1",
+      "english_sha256": "4ebf196460aec1ecb81366cf70071bf4791dc93c177e90a5dc82cd821b09d394",
+      "ko": "수백 년을 살았어도 배울 게 너무 많고, 탐구할 삶의 방식도 많지!"
+    },
+    {
+      "line": 619,
+      "event": "failure_liam1",
+      "english_sha256": "2ac0cc1eb0660b89abce2d6209861310613a2eb6f6896a9d9781156f57116ea6",
+      "ko": "...그 삶의 방식 중에 나와 데이트하는 것도 있어?"
+    },
+    {
+      "line": 620,
+      "event": "failure_liam1",
+      "english_sha256": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f",
+      "ko": "아니."
+    },
+    {
+      "line": 627,
+      "event": "failure_liam2",
+      "english_sha256": "2d1a98eab362a6361d80481d90e4c30d725d0232da8e9bed3be039f01de7c6f1",
+      "ko": "드디어 용기를 내서 리암에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 630,
+      "event": "failure_liam2",
+      "english_sha256": "3973eba25bf54093740a9a6e82a0cfbdad5115e42d984109fb3aaf756a094a9c",
+      "ko": "으, 뒤풀이... 이 경험의 결말치곤 너무 독창적이지 않군!"
+    },
+    {
+      "line": 632,
+      "event": "failure_liam2",
+      "english_sha256": "b9e8b990c973ea8d036713a86514791c70986d94a9a19fe1038dc146c397e5d3",
+      "ko": "거기에 [i]커플[/i]로 참석하라고? 그보다 관습적일 순 없잖아!"
+    },
+    {
+      "line": 633,
+      "event": "failure_liam2",
+      "english_sha256": "ab3836fd64ab10860cf942cbfd9217646e016396a5fce9def18919b656ef693d",
+      "ko": "하지만... 하지만... 전채 요리가 있대!"
+    },
+    {
+      "line": 634,
+      "event": "failure_liam2",
+      "english_sha256": "4783ab78e12b15e4c080cbfacfa9af8e4bee0ea6ae1b9f6cfccad4df9a4523e2",
+      "ko": "흠... 비판하면 즐거울 것 같네. 참석할지도 모르겠어."
+    },
+    {
+      "line": 635,
+      "event": "failure_liam2",
+      "english_sha256": "bb28f96becf99df2b69ceae987ab50a9086de9e93e1f9b262efcaf48df6f354a",
+      "ko": "나랑?"
+    },
+    {
+      "line": 636,
+      "event": "failure_liam2",
+      "english_sha256": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f",
+      "ko": "아니."
+    },
+    {
+      "line": 643,
+      "event": "failure_liam3",
+      "english_sha256": "2d1a98eab362a6361d80481d90e4c30d725d0232da8e9bed3be039f01de7c6f1",
+      "ko": "드디어 용기를 내서 리암에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 646,
+      "event": "failure_liam3",
+      "english_sha256": "142ad3cead24dd3cc528991505ffd35adbddf09b635bac8e5f38d5921bb840b9",
+      "ko": "음, 좋은 취향은 칭찬하지. 하지만 못 가."
+    },
+    {
+      "line": 648,
+      "event": "failure_liam3",
+      "english_sha256": "f48f9257e4d15c7277b5ec55d4768d197f67a3fd3055d743af692684e655da6a",
+      "ko": "\"리암 프롬\" 이후로 이번 행사에서 좀 유명해졌거든."
+    },
+    {
+      "line": 649,
+      "event": "failure_liam3",
+      "english_sha256": "af2c7d82fbe685831ae4c04a1f5ab3b83555c1410b008df560334f9f2e51421d",
+      "ko": "대중의 눈을 피하려면 신분을 숨기고 참석해야 해."
+    },
+    {
+      "line": 650,
+      "event": "failure_liam3",
+      "english_sha256": "a5f4cf73dcdfe56f07a2a67f44cd841fa1bae757ea43ec1ad61e8c053da498d9",
+      "ko": "그래서? 같이 대중의 눈을 피하면 되잖아!"
+    },
+    {
+      "line": 651,
+      "event": "failure_liam3",
+      "english_sha256": "ab8de1e3907913fdba6195d7c71571fac08f8f8426d87f6a76b8786c38c37ce0",
+      "ko": "악의는 없지만 %CURRENTPLAYERNAME%, 넌 신중하기로 유명하진 않잖아."
+    },
+    {
+      "line": 652,
+      "event": "failure_liam3",
+      "english_sha256": "2943c31d5ecb742c18999e195a82f494486476d1a79fdfabb38e083315db79e4",
+      "ko": "뭐?! 나 신중할 수 있어! 세상에서 제일 신중할 거야!"
+    },
+    {
+      "line": 653,
+      "event": "failure_liam3",
+      "english_sha256": "17b1295d60f49428f28612b8ff718ad594d7294bf11f026f557b986d3740c177",
+      "ko": "...미안하지만 안 돼."
+    },
+    {
+      "line": 660,
+      "event": "failure_omen1",
+      "english_sha256": "478523f92240a97454d0769f91ad44ca09155071b06b1343fb3620cf0e5e6203",
+      "ko": "드디어 용기를 내서 오멘에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 663,
+      "event": "failure_omen1",
+      "english_sha256": "ef50f69fbd5bd41be8f1f17dc239b72726c5c8b3e18ef3bbd8006ef9401a25b7",
+      "ko": "데이트하고 싶다고? 하! 웃기는군!"
+    },
+    {
+      "line": 664,
+      "event": "failure_omen1",
+      "english_sha256": "e6e4690cdee078ca9645658a884cbbe2659a8899925afc25a84aaa99b122c823",
+      "ko": "아니, 단순히 웃긴 게 아니야. 익살의 절정이지! 하하!"
+    },
+    {
+      "line": 665,
+      "event": "failure_omen1",
+      "english_sha256": "8f1083e34e415e6111ec29ca0391b65b2ac8f01947246a6664d4d3aaac2d44ca",
+      "ko": "하하하! 참으로 우스꽝스러워! 너무 우스워! 하하하하!"
+    },
+    {
+      "line": 666,
+      "event": "failure_omen1",
+      "english_sha256": "046f31cdaa5a57389216315b1b2e1b714c3e6bf338e0d5c186a3b789be9a3e5b",
+      "ko": "고마워, %CURRENTPLAYERNAME%! 한 세기 넘게 이렇게 웃어 본 적 없어!"
+    },
+    {
+      "line": 673,
+      "event": "failure_omen2",
+      "english_sha256": "478523f92240a97454d0769f91ad44ca09155071b06b1343fb3620cf0e5e6203",
+      "ko": "드디어 용기를 내서 오멘에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 676,
+      "event": "failure_omen2",
+      "english_sha256": "ee1e565f8ccd005b62fe2ab71148276b2c7276560225ed518e82e2ec70e054fe",
+      "ko": "감히 의례적인 구애를 신청하는 건가?"
+    },
+    {
+      "line": 677,
+      "event": "failure_omen2",
+      "english_sha256": "9d32bbc0a0230a566065eb66f01604d97e699f610f032f05ded9c0de7e102c7c",
+      "ko": "하! 너 같은 하찮은 약골과 사귈 만큼 타락하진 않겠어!"
+    },
+    {
+      "line": 678,
+      "event": "failure_omen2",
+      "english_sha256": "7ee3616c05aeef9c7459ff49712e8e3697c556edc7bdece1c4f31cb367c6eab1",
+      "ko": "제안 자체가 모욕이야! 이 한 손으로 약한 척추를 부숴 버리지 않는 걸 감사히 여겨!"
+    },
+    {
+      "line": 679,
+      "event": "failure_omen2",
+      "english_sha256": "bc0ef51288b4ff3bc39f4b0966dd12b4169587defe3d6f938ac8b840e754409c",
+      "ko": "...잠깐, 이게 리암이 말하는 \"불필요한 잔인함\" 같군. \"눈치\"라는 걸 발휘해 표현해 볼게."
+    },
+    {
+      "line": 680,
+      "event": "failure_omen2",
+      "english_sha256": "091f32e8d9709924aa7d6ce7a13a871f5b846d5a09a9dde2a88de43f1fa544ef",
+      "ko": "미안하지만 관심 없어."
+    },
+    {
+      "line": 687,
+      "event": "failure_omen3",
+      "english_sha256": "478523f92240a97454d0769f91ad44ca09155071b06b1343fb3620cf0e5e6203",
+      "ko": "드디어 용기를 내서 오멘에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 690,
+      "event": "failure_omen3",
+      "english_sha256": "7b9abdd1c21b539098b6db12e51435dc4a201ce37a75c9728b972814bc9192d2",
+      "ko": "내게 구애 의식을 함께하자고 하는 건가?"
+    },
+    {
+      "line": 691,
+      "event": "failure_omen3",
+      "english_sha256": "d95e29fb2d7d986d00484752d6c7951f4ddb4816bfd0345712232eb49b2616d6",
+      "ko": "농담이겠지. 거의 한 세기 동안 갇혀 있다가 드디어 자유가 됐어!"
+    },
+    {
+      "line": 692,
+      "event": "failure_omen3",
+      "english_sha256": "18804fd94527014b44f68a09c46821bf928f47cbe20d251b3d4ab0d106dad548",
+      "ko": "이제 와서 현대 연애의 규칙과 관습에 기꺼이 굴복할 생각은 없어!"
+    },
+    {
+      "line": 693,
+      "event": "failure_omen3",
+      "english_sha256": "8703240e30a58840470d9b8029fe151ff8ac1f5d3221445ee25abb759971f73a",
+      "ko": "난 얽매이지 않겠어! 마음껏 떡칠 완전한 자유를 요구한다!"
+    },
+    {
+      "line": 694,
+      "event": "failure_omen3",
+      "english_sha256": "a90115310e28ccc8519fdc3498414b370553be7abf19cb0817d0abbb5b1308ab",
+      "ko": "그럼 오픈 릴레이션십은 어때?"
+    },
+    {
+      "line": 695,
+      "event": "failure_omen3",
+      "english_sha256": "9b559a4d45b6b63149ec5143739609ba02c96db2aeae885970e5da87c8547c9d",
+      "ko": "지금 너무 화나서 그 뜻을 물을 수도 없어! 꺼져!"
+    },
+    {
+      "line": 702,
+      "event": "failure_april1",
+      "english_sha256": "45564eaf2ed1b72834bfead2155bb151ec1685c40181eec20965c17993e5382d",
+      "ko": "드디어 용기를 내서 에이프릴에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 705,
+      "event": "failure_april1",
+      "english_sha256": "755c9db750bbb398062a0a7707d90ba6098c68816d232280a22d335ab23b8061",
+      "ko": "아... 어... 미안, 안 돼. 다른 할 일이 있어."
+    },
+    {
+      "line": 706,
+      "event": "failure_april1",
+      "english_sha256": "5e653887d0cc1741760cf8b648de98edd0261ed654fc187f34dca412b875ce48",
+      "ko": "아, 아쉽네. 뭐 하는데?"
+    },
+    {
+      "line": 708,
+      "event": "failure_april1",
+      "english_sha256": "357f2200888126e6ffbe3c828fb206861651c0e5bd89cf94dff843a704171173",
+      "ko": "너랑 하는 건 아니라는 건 확실해."
+    },
+    {
+      "line": 709,
+      "event": "failure_april1",
+      "english_sha256": "b81e7154625e3b45339b26c79e4974696c9e4271899f6b591c3ae2df9c8252fe",
+      "ko": "어... 빵빵?"
+    },
+    {
+      "line": 716,
+      "event": "failure_april2",
+      "english_sha256": "45564eaf2ed1b72834bfead2155bb151ec1685c40181eec20965c17993e5382d",
+      "ko": "드디어 용기를 내서 에이프릴에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 719,
+      "event": "failure_april2",
+      "english_sha256": "6c579b6b43597d7bf2af251ef734acf7c7f0b7e9a9237cb300fc94cf94ccb95a",
+      "ko": "아, %CURRENTPLAYERNAME%..."
+    },
+    {
+      "line": 721,
+      "event": "failure_april2",
+      "english_sha256": "8d8c6ef92745ea670086603e8f019485870823bcf7ffe0336d0c9fe18e98ae0f",
+      "ko": "세상에, 지금 %HIMHER% 쪽을 거절해야 해! 어떻게 하지?"
+    },
+    {
+      "line": 722,
+      "event": "failure_april2",
+      "english_sha256": "f99ccd2603c1d06c79a91f525719b600b8494cc5e80588cd3375bae051843478",
+      "ko": "끔찍해! %HESHE% %VERB_IS_ARE% 울기 시작하면 나도 울 거야!"
+    },
+    {
+      "line": 724,
+      "event": "failure_april2",
+      "english_sha256": "96e07b5cc828331a6addeee3a40fc792c12124cf8fdd6b2b1c375a0b582d0a4b",
+      "ko": "이런, %HESHE% %VERB_IS_ARE% 눈치챘어. 빨리 뭐라도 해야 해!"
+    },
+    {
+      "line": 725,
+      "event": "failure_april2",
+      "english_sha256": "f50fb4bffa588f806628a962910d2654d8d4f4debb5a93c91c72da6afee9fe3c",
+      "ko": "%HIMHER% 쪽을 죽여서 %HISHER% 고통을 끝내 주자!"
+    },
+    {
+      "line": 726,
+      "event": "failure_april2",
+      "english_sha256": "567a747dc4261bf020d31e3f8d5f51f72e21b56b31c24e544f9151884ee6b4e7",
+      "ko": "나... 어... 가야겠다!"
+    },
+    {
+      "line": 733,
+      "event": "failure_april3",
+      "english_sha256": "45564eaf2ed1b72834bfead2155bb151ec1685c40181eec20965c17993e5382d",
+      "ko": "드디어 용기를 내서 에이프릴에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 736,
+      "event": "failure_april3",
+      "english_sha256": "00b5c11d6d4eb8449e3d84df7ed66cd2cfaa9693fcba702b982a48b59b0cd392",
+      "ko": "나랑 파티에 가고 싶다고?"
+    },
+    {
+      "line": 737,
+      "event": "failure_april3",
+      "english_sha256": "5174c01595187f2ce24c054e5a011b5d39a05bb09062c1dc5146060a6a251e68",
+      "ko": "계약 때문에 연애 못 한다는 거 기억 안 나? 여러 번 말했잖아!"
+    },
+    {
+      "line": 738,
+      "event": "failure_april3",
+      "english_sha256": "23c7b720f5cd046eca6c01eba8891808a2a3f421af3b95b4e24b74b78a9ad854",
+      "ko": "모르겠어, 네가 신호를 준 줄 알았는데."
+    },
+    {
+      "line": 739,
+      "event": "failure_april3",
+      "english_sha256": "c76c34956e4af85fe742c3b8289dd066d211b53170891b857af49841df3a2c92",
+      "ko": "윙크했을 때 말이야? 농담이었어! 난 광대잖아!"
+    },
+    {
+      "line": 741,
+      "event": "failure_april3",
+      "english_sha256": "4b91e675699380034aaf3b547921cea60bafaf13efbdc425de6185bf87a5873a",
+      "ko": "잘됐네. 넌 내 말도 안 듣고 나를 이해하지도 못해. 또 뭘 실패할 수 있을까?"
+    },
+    {
+      "line": 742,
+      "event": "failure_april3",
+      "english_sha256": "62a4cb1748599725184883567f5921f65849414b01b83fb41fe3793224893e47",
+      "ko": "...이런."
+    },
+    {
+      "line": 749,
+      "event": "failure_zoe1",
+      "english_sha256": "534de14fadf50753c8c120d8180c3cd43f8f8fafa41cbcacb97249a892aa24b2",
+      "ko": "드디어 용기를 내서 조이에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 752,
+      "event": "failure_zoe1",
+      "english_sha256": "6292895fb8ef2aaae054126fa38d29ae9354174aeea0eedc246eb11ab250c696",
+      "ko": "나랑 파티에 가고 싶다고?"
+    },
+    {
+      "line": 753,
+      "event": "failure_zoe1",
+      "english_sha256": "b126dee53607dd12c1e01250481fdd16d10cd0eade63886d5774a95c46bf1f0e",
+      "ko": "멋지다! 새 찌통 팬픽에 쓸 진짜 거절 경험을 드디어 얻겠네!"
+    },
+    {
+      "line": 754,
+      "event": "failure_zoe1",
+      "english_sha256": "c2f0c9ac59a349e1ff3d8d6a4ee658d5be9b6819ef823149f04f34ad32343d92",
+      "ko": "영감이 뜨거울 때 적어 놔야겠어!"
+    },
+    {
+      "line": 756,
+      "event": "failure_zoe1",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "..."
+    },
+    {
+      "line": 758,
+      "event": "failure_zoe1",
+      "english_sha256": "fa5f8bc14f177d24ee1b5584347ef76e2c38692ec953844b1166825810f2187f",
+      "ko": "아차, 너 거절하는 걸 잊을 뻔했네. 하하! 응, 미안. 대답은 아니야."
+    },
+    {
+      "line": 765,
+      "event": "failure_zoe2",
+      "english_sha256": "534de14fadf50753c8c120d8180c3cd43f8f8fafa41cbcacb97249a892aa24b2",
+      "ko": "드디어 용기를 내서 조이에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 768,
+      "event": "failure_zoe2",
+      "english_sha256": "6292895fb8ef2aaae054126fa38d29ae9354174aeea0eedc246eb11ab250c696",
+      "ko": "나랑 파티에 가고 싶다고?"
+    },
+    {
+      "line": 769,
+      "event": "failure_zoe2",
+      "english_sha256": "cb76fc640d2ede2be006cc18dcd3c1f22febc0b826ff06a55bee9f7ad73ee5d2",
+      "ko": "음..."
+    },
+    {
+      "line": 770,
+      "event": "failure_zoe2",
+      "english_sha256": "4307bec7cddd2a65094a28a512b63b791606805c236879449187988faade058b",
+      "ko": "\"오후 6:52에 읽음\""
+    },
+    {
+      "line": 772,
+      "event": "failure_zoe2",
+      "english_sha256": "2061d04f1f2b74f7ab5d63a0ed0ebf1f1bc71e6a109c5f8ff89e05be96faf8b4",
+      "ko": "방금... 현실에서 읽씹당한 거야?"
+    },
+    {
+      "line": 779,
+      "event": "failure_zoe3",
+      "english_sha256": "534de14fadf50753c8c120d8180c3cd43f8f8fafa41cbcacb97249a892aa24b2",
+      "ko": "드디어 용기를 내서 조이에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 782,
+      "event": "failure_zoe3",
+      "english_sha256": "d3027f298b91ed0e9761c4cdcc94f7d76ddb7cfb0c1067e1cc7948bf8bb32262",
+      "ko": "음... 난... 아, 미안! 중요한 전화라 받아야 해."
+    },
+    {
+      "line": 783,
+      "event": "failure_zoe3",
+      "english_sha256": "30d037ecef35dc03fd8b53a2726b2bcd5d01f9a62bff2e200592725b2871bcde",
+      "ko": "그거 전화기 아니잖아... 그냥 손으로 전화기 모양 만들어서 얼굴에 대고 있잖아."
+    },
+    {
+      "line": 784,
+      "event": "failure_zoe3",
+      "english_sha256": "33f42d0b3e0aa8dc26b8c883c9ac52b2a872c06b4de59f5c4a0de27a69f351a4",
+      "ko": "알아. 그래도 진짜 통화인 척해 주면 안 돼? 대놓고 거절하는 것보단 덜 상처받을 거야."
+    },
+    {
+      "line": 785,
+      "event": "failure_zoe3",
+      "english_sha256": "0cc423f1f6d9eada26c7a55396e3134cc3d5cf7a47532c444359a34c2d04d30e",
+      "ko": "안녀어엉, 에리카! 정말 오랜만이야!"
+    },
+    {
+      "line": 787,
+      "event": "failure_zoe3",
+      "english_sha256": "4fffc11b0bd087c6e8ed9cd765414cf84e3d264f0bc2a1950239796499f63307",
+      "ko": "조이는 \"통화\"를 마치러 떠나고, 네 휴대폰은 조용한 채로 남아... 영원히."
+    },
+    {
+      "line": 794,
+      "event": "failure_none1",
+      "english_sha256": "5a62329f5512619484aa6acf1e398e130c3c80809db987241a9166ca41dcdb97",
+      "ko": "진짜야? 파티에 아무한테도 같이 가자고 안 한다고?"
+    },
+    {
+      "line": 795,
+      "event": "failure_none1",
+      "english_sha256": "b0e7f7ac7e6abcd8879029fe9547fc8d05e6aa28abe7a7f7fc5a9938c114a4be",
+      "ko": "\"평생의 인연을 만들지도 모름\"과 \"확실히 혼자 죽음\" 중 고를 수 있는데 두 번째를 고르겠다는 거야?"
+    },
+    {
+      "line": 796,
+      "event": "failure_none1",
+      "english_sha256": "044cadccb1345d3e4deda846fb502d92c1ca6fafb1d297b614a607f9d32b2c8b",
+      "ko": "좋아, 네 인생이겠지... 그래도 관점을 좀 넓혀 봐. 세상에."
+    },
+    {
+      "line": 803,
+      "event": "failure_none2",
+      "english_sha256": "b1dc678ce57490ade87d258bf605752db16d3dba92c918502fe2f9b4693205c9",
+      "ko": "아무에게도 행사 뒤풀이에 함께 가자고 하지 않았어."
+    },
+    {
+      "line": 804,
+      "event": "failure_none2",
+      "english_sha256": "e978fbe48b5121b80e5a3197a7abfead3344dd33c4a31bbf51b037ee02d49c62",
+      "ko": "너무 떨렸거든! 거절하면 어떡해? 모두가 널 비웃고 바지가 내려가면 어떡해?!"
+    },
+    {
+      "line": 805,
+      "event": "failure_none2",
+      "english_sha256": "f212943ccc124173618205f619ed149dda751b2bd913c9dde5be9d329544f542",
+      "ko": "아니, 거절당할 위험을 감수하는 것보다 지금 실망을 받아들이는 편이 훨씬 낫지... 그렇지?"
+    },
+    {
+      "line": 812,
+      "event": "failure_none3",
+      "english_sha256": "709e431bd76dad714d09a7a45450746b7e48de19b3b37dc4c446b57355508471",
+      "ko": "아무에게도 뒤풀이에 함께 가자고 하지 않았어."
+    },
+    {
+      "line": 813,
+      "event": "failure_none3",
+      "english_sha256": "9eb6ec9a5038351dbd1d6957c12e82a9c923ad9aeaf95ebcd2fe62e437e17cf8",
+      "ko": "네 번째 벽을 깨는 개발자로서, 이건 우리가 제시한 캐릭터가 아무도 마음에 안 들었다는 뜻으로 받아들일 수밖에 없고 난 불쾌해."
+    },
+    {
+      "line": 814,
+      "event": "failure_none3",
+      "english_sha256": "fc8b3ce46665233b1e9ee0ec04ea772064c74e7807c0d1d5b245e2a500807241",
+      "ko": "진짜 아무한테도 안 끌렸다고? 리암은 이해하겠는데 아무도???"
+    },
+    {
+      "line": 815,
+      "event": "failure_none3",
+      "english_sha256": "47c91e8e38a909acabf8d554ff79c0e6e5c44ea812aaa8d7ac3c9e9bb4c6f01f",
+      "ko": "흥. 좋아. 잘난 기준 잘 지켜라, 재수 없는 자식아."
+    },
+    {
+      "line": 821,
+      "event": "finalfail1",
+      "english_sha256": "2f08053e7406f4bbb3c1e575046a0f4f8efb6f682332bb87215ff31d198368c1",
+      "ko": "외로움의 고통은 너무 컸어. 스코틀랜드로 이사해 염소치기가 되기로 했지."
+    },
+    {
+      "line": 822,
+      "event": "finalfail1",
+      "english_sha256": "b52e6a73b000afe2238adc655c83b0bcadc82564d293606f7a22c93946261d02",
+      "ko": "사회에서 완전히 고립돼 직접 작물을 키우고, 염소 털로 만든 재사용 화장지로 엉덩이를 닦았어."
+    },
+    {
+      "line": 823,
+      "event": "finalfail1",
+      "english_sha256": "82cef10bdc30e09dfcf94513dd55b278e69e6e43faa0277390eb5b28846ea3a4",
+      "ko": "고독을 견딜 수 없을 때면 소나무로 나무 딜도를 깎아 할 일을 했지."
+    },
+    {
+      "line": 824,
+      "event": "finalfail1",
+      "english_sha256": "18aa34da2b86244bdc6662794435f0292b1baefb2af997b2a11a15b7d3f9fe91",
+      "ko": "아니, 슬픈 거 아니야! 다른 사람들이 염소도 못 치고 나무 딜도도 없어서 슬픈 거지... [sha]아아아악! 가시 박혔어![/sha]"
+    },
+    {
+      "line": 830,
+      "event": "finalfail2",
+      "english_sha256": "b65a447e2783dc623c3308e47096e01bf4b8d3c5a122d41250b70e145ed891c6",
+      "ko": "거절당하자 말 그대로 마음이 깨지는 걸 느껴. 심장이 산산조각 나서 파편이 가슴 안에서 달그락거린다는 뜻이야."
+    },
+    {
+      "line": 831,
+      "event": "finalfail2",
+      "english_sha256": "30e5f4fdf7220710d922ba319f6a95f43cc8ada3683bc61f745947cbcb8983f6",
+      "ko": "병원에 가니 아주 드물고 수술 불가능한 심장 질환이래. 이름은 \"%CURRENTPLAYERNAME% 심장\"이야."
+    },
+    {
+      "line": 832,
+      "event": "finalfail2",
+      "english_sha256": "14b22d189cf88a3900ceab8dec9435b60b2714cfec9191eda05e6ebd93fe3d70",
+      "ko": "평생 그 거슬리는 달그락 소리를 들으며 살아. 차이기 전에 유산소 운동을 더 했어야 하나 봐!"
+    },
+    {
+      "line": 838,
+      "event": "finalfail3",
+      "english_sha256": "c1f2c29018b9f8c78f1ad230b3978361f61436e58cd92f0a1bfd7a4bd6c30632",
+      "ko": "거절당했다는 걸 인정하지 못해 시간이 멈춘 척하기로 해."
+    },
+    {
+      "line": 839,
+      "event": "finalfail3",
+      "english_sha256": "0793dbb95bd5ca0d97becb599b01c6689fc3bc5d4583e238624de7823a236c72",
+      "ko": "행사가 철거되고 쇼핑몰이 들어선 지 한참 뒤까지 그 자리에 얼어붙어 있었어."
+    },
+    {
+      "line": 840,
+      "event": "finalfail3",
+      "english_sha256": "de5e2cb7b98b2c2a0970845d3de1095c9fdcaae1137419f1c1d754e1ae755562",
+      "ko": "건축가들이 네 둘레에 분수를 만들기로 해. 넌 \"거절의 분수\" 중심상이 됐지."
+    },
+    {
+      "line": 841,
+      "event": "finalfail3",
+      "english_sha256": "c147a81bd47f3558cc76d2046686496baa9daf2e324e3d0b00658bb752f16cf0",
+      "ko": "새 미신에 따라 손님들은 너와 같은 운명을 피하길 바라며 분수에 동전을 던지기 시작해."
+    },
+    {
+      "line": 847,
+      "event": "finalfail4",
+      "english_sha256": "045d1d4f30ea40dd068244e3210a815222208e8e14fc97b2d35455b03e210712",
+      "ko": "남들이 파티를 즐길 때 넌 우울하게 짐을 싸서 집으로 가는 버스에 탔어."
+    },
+    {
+      "line": 848,
+      "event": "finalfail4",
+      "english_sha256": "b23d680d11e5ebe2db0d3d008547abe4b2f27cd5561fb2f9c376ab774d8a0424",
+      "ko": "하지만 실수로 스와핑 파티 버스에 탔네. 모두 서로에게 뜨겁게 달아올라 있었지."
+    },
+    {
+      "line": 849,
+      "event": "finalfail4",
+      "english_sha256": "b1c1774e9b06883ee73e0c88f93367bc6b57d02dd0024a7eccb024d73db1b445",
+      "ko": "그런데 너한테 외로움과 거절의 냄새가 너무 지독하게 달라붙어 있어서 아무도 끼워 주지 않았어."
+    },
+    {
+      "line": 850,
+      "event": "finalfail4",
+      "english_sha256": "346c3887c084b60342bc9092e38e3597f181bd11611cbb2889b36c85a41c14ef",
+      "ko": "와, 하루에 여러 번 거절당하네! 네 신기록이겠어."
+    },
+    {
+      "line": 856,
+      "event": "finalfail5",
+      "english_sha256": "612247d05c993956ca5a87b375e26e53a8b5c003aeca68eb9c0f6a038c31b9ff",
+      "ko": "파티에 함께 갈 사람을 못 찾고 나서 친구들은 널 예전처럼 보지 않았어."
+    },
+    {
+      "line": 857,
+      "event": "finalfail5",
+      "english_sha256": "f2247e178b537bdef17efeddebbcb35e13051232c22f010e55e548012890541f",
+      "ko": "더그는 대놓고 아무 말도 안 했지만, 동정하는 눈빛이 견디기 힘들 정도였지."
+    },
+    {
+      "line": 858,
+      "event": "finalfail5",
+      "english_sha256": "5cbc761eb03dec196d045344946a33cb95d7bce853b806b1838ae7dd9a5ce750",
+      "ko": "조이는 \"영원히 혼자인 리암\"이라는 새 캐릭터를 만들었어. 머리 모양이 너랑 같아."
+    },
+    {
+      "line": 859,
+      "event": "finalfail5",
+      "english_sha256": "2dd59de83f12106aecc86c31765c21a70b9e8706887cda9889cec100c093e14e",
+      "ko": "오멘은 네 얼굴을 보며 웃고 말했지. \"파티에 함께 갈 사람도 못 찾았으니 다신 널 예전처럼 보지 않겠어!\""
+    },
+    {
+      "line": 860,
+      "event": "finalfail5",
+      "english_sha256": "c2efaca40e325fd3d883bba3e8cbdaad6bcdc844f8ca8c536b9e4f8b8abe5540",
+      "ko": "아야."
+    },
+    {
+      "line": 866,
+      "event": "finalfail6",
+      "english_sha256": "bcfcd3dabde64fe4325d428e2fb4934fdbf0be08356c2cf080f0900c1204ce28",
+      "ko": "그렇게 혼자 행사를 마쳤어."
+    },
+    {
+      "line": 867,
+      "event": "finalfail6",
+      "english_sha256": "ae93cf842c85f3f9629b91553e9232caa3e5ed6f9b406bd9336ce371f7fe2ef8",
+      "ko": "적어도 밤에 함께할 다키마쿠라는 샀지."
+    },
+    {
+      "line": 868,
+      "event": "finalfail6",
+      "english_sha256": "9ac01f52af7e71a361d316207191043c4225411eb34af7390070693e4648c061",
+      "ko": "그런데 베개 친구는 늘 멀게 느껴졌어... 따뜻하지도 다정하지도 않았지... 네가 찌질이라는 걸 아는 것처럼."
+    },
+    {
+      "line": 869,
+      "event": "finalfail6",
+      "english_sha256": "4c3900fd3d3c842718af6a1d68f4402a467e202d594759ec6b372d1e4a0814ee",
+      "ko": "\"군중 속의 고독\"이라는 말 알아? 넌 비좁은 자기 침대에서도 혼자야. 하아."
+    },
+    {
+      "line": 875,
+      "event": "finalfail7",
+      "english_sha256": "af70a66751f5be59308dab8b122ce1f66d3984eae00001321f9bb3473386c813",
+      "ko": "차이면 아프니까, 이 힘든 시간을 버티려고 자기 계발서를 샀어."
+    },
+    {
+      "line": 876,
+      "event": "finalfail7",
+      "english_sha256": "f15a429e1368e3cdceeb5654c1c4a90adbd2ce08269889a5f8a1809327779102",
+      "ko": "제목은 \"거절의 비탄 5단계: 혼자 죽는다는 사실을 받아들이는 법\"이야."
+    },
+    {
+      "line": 877,
+      "event": "finalfail7",
+      "english_sha256": "12f138def1f11e2f8a6107aeb38366ca3f77627753d8359c543652c117d2c890",
+      "ko": "처음 몇 장은 꽤 괜찮았는데, 갑자기 책이 \"제시카\"에게 \"제발 돌아와, 너 없이는 못 해, 제발 제발 제발\"이라고 빌기 시작했어."
+    },
+    {
+      "line": 878,
+      "event": "finalfail7",
+      "english_sha256": "2e3cd2420e9420924e8e6b1f0a60e143602912176407bf52b33f9ddafd36e556",
+      "ko": "수용은 헛된 꿈인가 봐. 적어도 저자와 함께 제시카를 생각하며 울 순 있지."
+    },
+    {
+      "line": 884,
+      "event": "finalfail8",
+      "english_sha256": "64226d3693e542c768faaa4f1901fd7fa64f249d8068b781022b1801bb0b2787",
+      "ko": "고통을 생산적인 것으로 승화시키고 검술을 배우기로 했어."
+    },
+    {
+      "line": 885,
+      "event": "finalfail8",
+      "english_sha256": "b652cc9821c712481ed2329c8d91ff1e99195264e7d60ed7e605b85e591de395",
+      "ko": "이제 사람들에게 \"네가 사랑을 찾느라 바쁠 때 난 검을 공부했다\"라고 말하면 일부러 그런 것처럼 들리겠지!"
+    },
+    {
+      "line": 886,
+      "event": "finalfail8",
+      "english_sha256": "09164807e907f6961274b9a7dceacacdae1c24408bd63ceea40a4291db394d5a",
+      "ko": "안타깝게도 파티 데이트 상대를 구하는 것보다 검술을 더 못해서 자기 귀를 잘라 버렸어."
+    },
+    {
+      "line": 887,
+      "event": "finalfail8",
+      "english_sha256": "9ecc4a85d109fac42970e27f9ae4cca488b43bd29db39a42d303e70bc987bd18",
+      "ko": "이제 혼자고, 검술도 못하고, 귀도 하나 없어. 한 번 값으로 세 번 실패!"
+    },
+    {
+      "line": 893,
+      "event": "finalfail9",
+      "english_sha256": "4243dfbe7a13bab2de1497c7a7c5f4c4eff8fc12a6f1413e87c1104b1c48287a",
+      "ko": "불행은 동반자를 원하니까 행사에서 좋아하던 상대에게 차인 사람들의 모임에 가입했어."
+    },
+    {
+      "line": 894,
+      "event": "finalfail9",
+      "english_sha256": "f1cc2015a90b94c186d645444e6e9e76ff34ae82e82c1086799a396da0caba55",
+      "ko": "친구를 사귈 기회가 되길 바랐지만, 다들 덕후 사랑을 찾을 기회를 놓친 얘기만 하고 싶어 했어."
+    },
+    {
+      "line": 895,
+      "event": "finalfail9",
+      "english_sha256": "fbcc56aecd2a17d2d3f6db1358dd1a8ad9b07c670ebe89c23faf31407021511c",
+      "ko": "상대가 전 애인 얘기만 하는 최악의 첫 데이트 같은데, 열 명이랑 하는 셈이야."
+    },
+    {
+      "line": 896,
+      "event": "finalfail9",
+      "english_sha256": "924660a8d65806335da1a543bf20aefae7fee755fcdce87f2532e345a1b7807e",
+      "ko": "그리고 너도 그중 하나네... 으악."
+    },
+    {
+      "line": 902,
+      "event": "finalfail10",
+      "english_sha256": "10436024f882530cb7412b509f52a490765cecf7e94f3fe2f1d37d4c3d6b6dae",
+      "ko": "외로운 슬픔을 병 바닥에 익사시켰어... 우유병 말이야!"
+    },
+    {
+      "line": 903,
+      "event": "finalfail10",
+      "english_sha256": "d94705d3b3194e67b7890e3e51af074bc94e86da9f077b15d7fab61b110af644",
+      "ko": "\"사랑 없는 래리의 거절 우유\"래. 깨진 마음을 못 고치면 환불 보장!"
+    },
+    {
+      "line": 904,
+      "event": "finalfail10",
+      "english_sha256": "b23cec176dcae007c2832ce66f80c6f227e628baf60267ec03c1132d12e9b404",
+      "ko": "유당불내증을 깨닫기엔 나쁜 방식이었네."
+    },
+    {
+      "line": 905,
+      "event": "finalfail10",
+      "english_sha256": "e91aab191028b9d5c9e2a02251ffd357feff69a11508be79bae7a081601077d2",
+      "ko": "환불도 못 받아. 사랑 없는 래리는 심장을 고친다고 했지 대장을 고친다고 안 했거든. 명복을 빌게."
+    },
+    {
+      "line": 911,
+      "event": "finalfail11",
+      "english_sha256": "77f60cbd7c603919cb139f814e94fc7e617b6f6f83075914617748eb444014d0",
+      "ko": "거절당한 기분을 털어내려고 누군가 받아 주길 바라며 눈에 보이는 모든 신청서를 쓰기 시작해."
+    },
+    {
+      "line": 912,
+      "event": "finalfail11",
+      "english_sha256": "8b870e95eff4deaefa410bbad90e9c6ab6c3e5fa57b3cef7c3aa67fd75b6ea50",
+      "ko": "주택 담보 대출, 박사 장학금, 벨기에 여권을 신청했어."
+    },
+    {
+      "line": 913,
+      "event": "finalfail11",
+      "english_sha256": "480458a704f0cb254c75d708e3e2876b6b877e06ed75c811c243342729c4ecd5",
+      "ko": "안타깝게도 돈이 없고, 대학 학위도 없고, 벨기에인도 아니라 세 번 더 거절당했지."
+    },
+    {
+      "line": 914,
+      "event": "finalfail11",
+      "english_sha256": "cb1764861808b0aa531c9c3fe7140dfa1e8561bb39bb73ec6789281837fb0d82",
+      "ko": "이제 집이나 대학 맨투맨, 와플을 볼 때마다 거절이 떠올라. 씨발, 와플 좋아했는데!"
+    },
+    {
+      "line": 920,
+      "event": "finalfail12",
+      "english_sha256": "355a307e146292c56bb640ed4094e03c52403886aa929827856fbcb63218e2d0",
+      "ko": "거절의 아픔이 너무 커서 없던 일인 척해."
+    },
+    {
+      "line": 921,
+      "event": "finalfail12",
+      "english_sha256": "7423a520e26fd9a203359d69a81553dcf3c62baca6e6d69ecda600667474bd7d",
+      "ko": "얼마나 진심인지 누가 행사 어땠냐고 물으면 \"무슨 행사? 난 행사에 가 본 적 없어!\"라고 하지."
+    },
+    {
+      "line": 922,
+      "event": "finalfail12",
+      "english_sha256": "6a1229179166154e7566f2095be95e22e3426d16d8b80240e722c700f7517d08",
+      "ko": "부정에 중독돼 모든 걸 부정하기 시작해. 행사도, 자동차 여행도, 여름 캠프도... 스푸키 아카데미까지."
+    },
+    {
+      "line": 923,
+      "event": "finalfail12",
+      "english_sha256": "af7b2233db8cf4a776c07798414a2844260c770ec3b73afdbb5542d9f07a4249",
+      "ko": "와, 앙심으로 우리 프랜차이즈 전체를 지워 버렸네. 고맙다."
+    },
+    {
+      "line": 929,
+      "event": "finalfail13",
+      "english_sha256": "18b1bdd90c4b61fa8f0a56e7b4664f9ac8a0da9352846f98466648971a672b58",
+      "ko": "네게 이런 일이 생겼다고 믿기 싫어서 예전 정체성을 버리기로 해."
+    },
+    {
+      "line": 930,
+      "event": "finalfail13",
+      "english_sha256": "5df0e982ce600cf2357afa400232526c68d97409534ebec2c6cab1efb2e31d6c",
+      "ko": "\"%CURRENTPLAYERNAME%\"이라는 이름에 답하지 않고 훨씬 멋진 \"파괴자 스크롱크\"가 돼."
+    },
+    {
+      "line": 931,
+      "event": "finalfail13",
+      "english_sha256": "6bc91ed231273a782a553765b44dac7e8c3fef6c67838882ba8a8c4e32de020d",
+      "ko": "하지만 멋진 이름에 만나는 사람마다 겁먹어서 사람 사귀기가 더 어려워져."
+    },
+    {
+      "line": 932,
+      "event": "finalfail13",
+      "english_sha256": "52ed864d2d9e09dbe040b3c420c24b7b88ac3b8bbd28bdb86438041626e15b3c",
+      "ko": "예전 신원으로 돌아가려 하자 차량관리국이 기록을 전부 지웠어. 그 무서운 신원으로 살아야겠네, 스크롱크!"
+    },
+    {
+      "line": 939,
+      "event": "finalfail_none1",
+      "english_sha256": "a6bd5a26154ec8c06c168c26c77a56083f88a0f4fcb3baff724e956ee89cba84",
+      "ko": "그게 행사장에 얼굴을 내밀 용기를 낸 마지막 순간이었어."
+    },
+    {
+      "line": 940,
+      "event": "finalfail_none1",
+      "english_sha256": "ef398989c2947b6be9195d4fc956f707f1fb2850a51216a54715170f3f5cf7ad",
+      "ko": "덕후 문화에서 얼마나 멀어졌는지, 결국 스포츠에 몰두하게 됐지."
+    },
+    {
+      "line": 941,
+      "event": "finalfail_none1",
+      "english_sha256": "95c3ac7786d620aa1fa0f8221454a4e344a07d9065d1ec05c955fd3157b482cb",
+      "ko": "슬프게도 혼자 뒤풀이에 가는 것만큼 스포츠도 못했어."
+    },
+    {
+      "line": 942,
+      "event": "finalfail_none1",
+      "english_sha256": "39a8bc2215c28e4d3b1a8fe31b2633fa5083b00e498a8649b24d097629bacd77",
+      "ko": "하아..."
+    },
+    {
+      "line": 949,
+      "event": "finalfail_none2",
+      "english_sha256": "bca30daf7300411671a6c569e491aaa8048481d9c87d13b2aec968577b0d1a5b",
+      "ko": "파티에 가는 대신 순정 애니를 틀어 마음속 외로운 빈자리를 채웠어."
+    },
+    {
+      "line": 950,
+      "event": "finalfail_none2",
+      "english_sha256": "64d4d5e3c26b0facd450286e59b25e5c8c6155235f5665e587b451c4813c20da",
+      "ko": "주인공도 거절을 두려워하지만, 실패도 인생의 일부이니 꿈을 쫓는 걸 멈추면 안 된다고 배워."
+    },
+    {
+      "line": 951,
+      "event": "finalfail_none2",
+      "english_sha256": "19425aac068d022f8087ddeff894cc05ab6cdb1ad7271b1b7f555dac2bbfbadc",
+      "ko": "젠장, 몇 시간 전에 그 교훈을 알았으면 좋았을 텐데."
+    },
+    {
+      "line": 958,
+      "event": "finalfail_none3",
+      "english_sha256": "515f4eefe684a536add4b505c1fba87714aea14826313fee284dab130fa36eaa",
+      "ko": "외로움을 개인 브랜드의 일부로 받아들였어."
+    },
+    {
+      "line": 959,
+      "event": "finalfail_none3",
+      "english_sha256": "c7a09740a577a8fb9f883aba02d866b5ce2051824ecd38e214266a0b54048785",
+      "ko": "호랑이의 길을 가려 했지. 홀로, 은밀하고, 위엄 있게..."
+    },
+    {
+      "line": 960,
+      "event": "finalfail_none3",
+      "english_sha256": "a28c33c5303825c1802b417661aedd5b5e55d4e20c0c9ca1a239f5a0fa381c32",
+      "ko": "안타깝게도 소화하지 못했고, 동물원 호랑이 우리에서도 쫓겨났어. 에헤라."
+    },
+    {
+      "line": 967,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 968,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "98b701bb5142a0298aa0fb3bb1a22c9c5ccd988f2a595ca0abb7ebef586b6550",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 이미 사랑스러운 인어에게 마음을 정했으니까!"
+    },
+    {
+      "line": 970,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "fe50cfb8b21776ee51eedcef846995525458b5cde4c14c54008b1965190c87b0",
+      "ko": "파티라고요? 기꺼이 참석하겠어요!"
+    },
+    {
+      "line": 971,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "a66423d1287e71b52aa91c66b59e6fe903fc722401d855e69da0bea932745fa8",
+      "ko": "어떤 파티죠? 대관식? 왕실의 출산?"
+    },
+    {
+      "line": 972,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "a96e4a08b0e6aa2b921d48599db415fe290e5adc9bb9372bc9991cc72ebf5eec",
+      "ko": "오, 처형인가요? 사혈용 빵칼을 쓸 구실을 찾고 있었거든요!"
+    },
+    {
+      "line": 973,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "fcbbd0e5b1078d637f2d6d3365b5768872c1e4a1f294be8e8cb2ca4c37e47c7e",
+      "ko": "어... 아니. 모든 행사 참가자를 위한 가볍고 부담 없는 파티야."
+    },
+    {
+      "line": 974,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "23b01414b8ae2b8418a281cad18f25e760a5f72d431444e828a878e1862b9dda",
+      "ko": "흠... 좋아요. 그래도 빵칼은 가져가도 되나요?"
+    },
+    {
+      "line": 975,
+      "event": "secretending_dates_miranda",
+      "english_sha256": "96fdbfb3e2416f7ffff89b662d350a55414109170458f11776d0bc26a21a5425",
+      "ko": "당연하지!"
+    },
+    {
+      "line": 982,
+      "event": "finalsuccess_miranda",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 983,
+      "event": "finalsuccess_miranda",
+      "english_sha256": "8a63ed4e9fdfb44e44c93fb60d8bbb90c70d241ff78ca48cfc5b2f9814af92f7",
+      "ko": "뒤풀이는 눈부시게 훌륭했어!"
+    },
+    {
+      "line": 984,
+      "event": "finalsuccess_miranda",
+      "english_sha256": "921f526b944ba9bfaada4b8b77e2db9c8574af6d6ae70a0ddb59980a965b6aac",
+      "ko": "너와 미란다는 댄스 플로어의 비천한 평민들에게 제대로 된 왈츠를 보여 주며 저녁을 보냈어."
+    },
+    {
+      "line": 985,
+      "event": "finalsuccess_miranda",
+      "english_sha256": "8f2072d4155d093e755b758ad6d39f1c3e768a49e53bb2dbbfd3029c9933a9f0",
+      "ko": "DJ의 EDM에 왈츠를 춰서 이상하게 봤지만, 교양 없는 그들 잘못이지."
+    },
+    {
+      "line": 986,
+      "event": "finalsuccess_miranda",
+      "english_sha256": "d84a7dadd8ff87f28bc07c2d09f5493ba93d8828276ecdc4e81b4758f1443c07",
+      "ko": "밤이 끝나갈 때 넌 미란다의 손등에 품격 있는 입맞춤을 했고, 그건 입술 위의 덜 품격 있는 입맞춤으로 발전했어. 만세!"
+    },
+    {
+      "line": 993,
+      "event": "secretending_dates_sawyer",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 994,
+      "event": "secretending_dates_sawyer",
+      "english_sha256": "c1dfd0f09fcff071333b5a55a17f4c081ed77dff29790433833c89cdfa27e298",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 소여가 이미 네 마음속으로 달려 들어왔거든!"
+    },
+    {
+      "line": 996,
+      "event": "secretending_dates_sawyer",
+      "english_sha256": "b8223c317a115d7116961c8f5c3d2a57ac6c4b552e792395a872f38293124498",
+      "ko": "파티? 글쎄..."
+    },
+    {
+      "line": 997,
+      "event": "secretending_dates_sawyer",
+      "english_sha256": "599bd1da18775095050944b3120b9562d72dd6221feabf7bbbad2971041a71dc",
+      "ko": "너랑 데이트는 하고 싶은데 파티는 딱히 내 취향이 아니야."
+    },
+    {
+      "line": 998,
+      "event": "secretending_dates_sawyer",
+      "english_sha256": "61695235793aff5c39b19d0afd45f4baeabcf75502fb44a69e2880317f4a6530",
+      "ko": "조용한 토끼인 내가 시끄럽고 취한 말 무리가 내 초원에서 뛰노는 걸 본다고 생각하면 되려나..."
+    },
+    {
+      "line": 999,
+      "event": "secretending_dates_sawyer",
+      "english_sha256": "df1ea5bd14b09af3b71ea4d48799bc5b39761a4cbc06651938620fe198d6cddc",
+      "ko": "그러면... 가고 싶어져?"
+    },
+    {
+      "line": 1000,
+      "event": "secretending_dates_sawyer",
+      "english_sha256": "26e3317981fd72e9e7b40900e8021165b906b326e0195e2e4a8f5859b1ffb50c",
+      "ko": "응, 안 될 게 뭐야?"
+    },
+    {
+      "line": 1007,
+      "event": "finalsuccess_sawyer",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1008,
+      "event": "finalsuccess_sawyer",
+      "english_sha256": "fb54370a99c33f53d48e4a0594ef2f81cf290d378807591d7d559926940f92a8",
+      "ko": "뒤풀이는 최고였어!"
+    },
+    {
+      "line": 1009,
+      "event": "finalsuccess_sawyer",
+      "english_sha256": "5ea0fa4b7bcc5dde7142aa3536e456348a8e1b2e954e302a068399c0101fb53b",
+      "ko": "너와 소여는 온갖 이야기를 나누며 저녁을 보냈어."
+    },
+    {
+      "line": 1010,
+      "event": "finalsuccess_sawyer",
+      "english_sha256": "48ecd6a75926a92a2c675e307beed921c6b8536277b319c2122e6d9bd39658c3",
+      "ko": "스푸키 콘 방문은 너무 정신없고 혼란스러워서, 소여의 조용하고 느긋한 분위기에 잠기는 게 좋았지."
+    },
+    {
+      "line": 1011,
+      "event": "finalsuccess_sawyer",
+      "english_sha256": "fcaa12066dda8fbe2002b7ab3364177159c062cce245f2e5649b1263500f5bdf",
+      "ko": "소여가 수줍게 네 손을 잡자 세상이 멈춘 것 같았고, 넌 드디어 평화를 알았어."
+    },
+    {
+      "line": 1018,
+      "event": "secretending_dates_freehugs",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1019,
+      "event": "secretending_dates_freehugs",
+      "english_sha256": "1fcf555c3cd13ba846e98a0bf1946c6ee53933d8ff355974fdf2bbe7c89d1839",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 이미 사랑스러운 사랑벌레에게 반했거든!"
+    },
+    {
+      "line": 1021,
+      "event": "secretending_dates_freehugs",
+      "english_sha256": "13ddf9a675e8e630d835d4472f37d55e9adbd4b4774ff815297b98b2d4dcbe24",
+      "ko": "아아, 좋아! 너랑 파티 가고 싶어!"
+    },
+    {
+      "line": 1022,
+      "event": "secretending_dates_freehugs",
+      "english_sha256": "48889cb764ba6ec8742b465901fd671e5063e7f8b12f2ed857e57b5434465aef",
+      "ko": "팻말을 가져갈까, 아니면 포옹은... 한 사람한테만 할까?"
+    },
+    {
+      "line": 1023,
+      "event": "secretending_dates_freehugs",
+      "english_sha256": "20228f1b9274e00b79a4304f198b1ecc9cce58c91df3fe91545d870e0bfe3967",
+      "ko": "팻말 가져와! 사랑을 나누자!"
+    },
+    {
+      "line": 1024,
+      "event": "secretending_dates_freehugs",
+      "english_sha256": "5585bbeffba3e4112a2d288870f5e38bdf0398761b4805435c781ccd410aeab6",
+      "ko": "야호오! 날 이해해 줘서 너무 기뻐! <3"
+    },
+    {
+      "line": 1031,
+      "event": "finalsuccess_freehugs",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1032,
+      "event": "finalsuccess_freehugs",
+      "english_sha256": "c8f79784f74bdef96cdc80a70fd5cde1bcaf2b9f391b635d50da8bc46637d309",
+      "ko": "뒤풀이는 근사했어!"
+    },
+    {
+      "line": 1033,
+      "event": "finalsuccess_freehugs",
+      "english_sha256": "6e137b91447e920c34085c1fa592e2d2696b378864c16ea34d208ad70776eef6",
+      "ko": "브루스 특유의 긍정적인 태도는 언제나처럼 전염성이 강했어. 모두의 기분을 좋게 했지!"
+    },
+    {
+      "line": 1034,
+      "event": "finalsuccess_freehugs",
+      "english_sha256": "7812e0571eef1891f4e6ea810f875bdefb84f70b47e743a413899b391c4b616f",
+      "ko": "포옹도 대인기였어. 한때는 파티 참석자 전원이 단체 포옹에 합류했던 게 분명해!"
+    },
+    {
+      "line": 1035,
+      "event": "finalsuccess_freehugs",
+      "english_sha256": "aa752277fff0ccd9852ce1106d359913a910049ad0c81f31a39f6b21013942fc",
+      "ko": "그래도 네게 해 준 달콤하고 특별한 포옹에는 비할 게 없었지... 다른 것들도. 윙크!"
+    },
+    {
+      "line": 1042,
+      "event": "secretending_dates_gerard",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1043,
+      "event": "secretending_dates_gerard",
+      "english_sha256": "4fc5c5a6d7c5df67e892c26b4d4b06bbab56364c035fcad32d8067ea0504944e",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 이미 심통 난 이모 소년에게 눈독 들이고 있었거든."
+    },
+    {
+      "line": 1045,
+      "event": "secretending_dates_gerard",
+      "english_sha256": "f91579658e32c4c8284953a8116f50bab64e5c15a3aed23ca9e40b3a0f451866",
+      "ko": "행사 뒤풀이? 진심이야?"
+    },
+    {
+      "line": 1046,
+      "event": "secretending_dates_gerard",
+      "english_sha256": "404e519f233d4cf05cd37e896b605fe0a18600959793369f4b083ea1df654690",
+      "ko": "왜 그래, 재밌을 거야!"
+    },
+    {
+      "line": 1047,
+      "event": "secretending_dates_gerard",
+      "english_sha256": "314e3c3c9f4fc77d49d2f10fdbe0784a1c57ece569764a15c57fdb42b203c24b",
+      "ko": "흥..."
+    },
+    {
+      "line": 1048,
+      "event": "secretending_dates_gerard",
+      "english_sha256": "bfec3457a705b487a3af8bfa5f342cced1f02115c430b704dce47d6847bd14b8",
+      "ko": "네가 가면 DJ한테 \"웰컴 투 더 블랙 퍼레이드\" 틀어 달라고 할게."
+    },
+    {
+      "line": 1049,
+      "event": "secretending_dates_gerard",
+      "english_sha256": "2891143acb85f54cf87e86ea6fcc0c5e8cb08f7083506806a122d8ebdaa9cca1",
+      "ko": "조건이 까다롭네, %CURRENTPLAYERNAME%... 그래도 좋아."
+    },
+    {
+      "line": 1056,
+      "event": "finalsuccess_gerard",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1057,
+      "event": "finalsuccess_gerard",
+      "english_sha256": "6d54002d724d7d9bab63410e3e55e84e2f2e3fdf6c23c274c038c22a734763c0",
+      "ko": "행사 뒤풀이는 그럭저럭이었던 것 같네..."
+    },
+    {
+      "line": 1058,
+      "event": "finalsuccess_gerard",
+      "english_sha256": "7e0868dbec07e718491d68b9037b074e4a32890112a2af2c4204f7e607c037c5",
+      "ko": "농담이야, 끝내줬어!"
+    },
+    {
+      "line": 1059,
+      "event": "finalsuccess_gerard",
+      "english_sha256": "a86dc972b37e20888d0b8de8de925bc278bede3c394818a106a0da05dba33509",
+      "ko": "너와 제라드는 술을 마시고, 그의 감정에 관해 엄청 많이 이야기하고, 댄스 플로어에서 어색하게 조금 들썩이게도 했어!"
+    },
+    {
+      "line": 1060,
+      "event": "finalsuccess_gerard",
+      "english_sha256": "1e4769a3a88430b6de467cf0b5948ae699d5759438f37fb24484f342f2efd2f0",
+      "ko": "밤이 끝나고 널 데려다주며 그는 파티가 \"생각보다 훨씬 덜 끔찍했다\"는 걸 인정할 수밖에 없었지."
+    },
+    {
+      "line": 1061,
+      "event": "finalsuccess_gerard",
+      "english_sha256": "ca1872498eb1994aedd82614f9536c4e436dab9d4b4faf5b8017ecd5c9492765",
+      "ko": "그러고는 키스했는데, 그건 하나도 끔찍하지 않았어. 심쿵!"
+    },
+    {
+      "line": 1068,
+      "event": "secretending_dates_kale",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1069,
+      "event": "secretending_dates_kale",
+      "english_sha256": "ba36a446e8900253717cdcad109cf1df4ef0416297a0ddd34f68fb6f79d91927",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 절친 케일과 가는 편이 훨씬 좋으니까!"
+    },
+    {
+      "line": 1071,
+      "event": "secretending_dates_kale",
+      "english_sha256": "5917c878c943928f3c38d8a2b9f1ba6574ac9b55f8948bbd31e7f023f2c21198",
+      "ko": "뒤풀이? 흠, 보통 파티는 별로 안 좋아하는데..."
+    },
+    {
+      "line": 1072,
+      "event": "secretending_dates_kale",
+      "english_sha256": "01a8bc2734075c5e00c667ae2d063ef09244b23a51558ce2949ab45cb44f65c8",
+      "ko": "포케만 코스어랑 대마초가 있을 거라고 거의 보장할 수 있어."
+    },
+    {
+      "line": 1073,
+      "event": "secretending_dates_kale",
+      "english_sha256": "0062610e0aa6c8ce507124cbca5be589219888a0ab3e32a6569628076502b78b",
+      "ko": "어쩌면 동시에 둘 다일지도."
+    },
+    {
+      "line": 1074,
+      "event": "secretending_dates_kale",
+      "english_sha256": "e4de183e9860360a51488b8e5858d01b20ef32a29dfa98125695198b0a278bef",
+      "ko": "더 말할 것 없어. 파티하자!"
+    },
+    {
+      "line": 1081,
+      "event": "finalsuccess_kale",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1082,
+      "event": "finalsuccess_kale",
+      "english_sha256": "c3aa413adbf43fcb3824c7053d44ca5487b8bd3c1015aa790bd26fa51e73bb19",
+      "ko": "뒤풀이는 멋졌어!"
+    },
+    {
+      "line": 1083,
+      "event": "finalsuccess_kale",
+      "english_sha256": "3e243ad46054ce50d5919e105ab5cb7473a68f90b82b8b30f23c349717276911",
+      "ko": "케일은 축제 분위기에 좀 압도됐지만, 좋은 풀 좀 피우면 해결 못 할 일은 아니었지."
+    },
+    {
+      "line": 1084,
+      "event": "finalsuccess_kale",
+      "english_sha256": "82f5115563f8983ef05a371e65a2b9b2177545c03793d8ab6d62939594b8ae2d",
+      "ko": "취하고 나서 춤 대신 포케만을 하기로 했어."
+    },
+    {
+      "line": 1085,
+      "event": "finalsuccess_kale",
+      "english_sha256": "373e28023e117e81ae5b4a952009c19ea049db72c4daba69161b4757954bf4e8",
+      "ko": "파티 참가자 몇 명이 합류하기까지 했어! 파티이긴 해도 덕후들로 가득한 행사 딸린 파티니까 말은 되지."
+    },
+    {
+      "line": 1086,
+      "event": "finalsuccess_kale",
+      "english_sha256": "6b4dba0c9f314e9416637e3fec5eb381abcb16e984280c73f93338f194669c3e",
+      "ko": "조촐한 포케만 시간은 케일의 속도에 훨씬 맞았어... 함께한 아주 멋진 저녁이었지."
+    },
+    {
+      "line": 1093,
+      "event": "secretending_dates_mamimi",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1094,
+      "event": "secretending_dates_mamimi",
+      "english_sha256": "9b4dd59b1fe3f5bd2282abdd698e73cfbc9f117329b4363a41058405a93cca18",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 네 유일무이한 오니는 마미미니까!"
+    },
+    {
+      "line": 1096,
+      "event": "secretending_dates_mamimi",
+      "english_sha256": "4b25894d6f678646b211568fdb4116c78117b76a2248f9bda34205dbdb5a5670",
+      "ko": "뒤풀이라..."
+    },
+    {
+      "line": 1097,
+      "event": "secretending_dates_mamimi",
+      "english_sha256": "c10c037156053bfe962132f8eb70e273899bcbf44d3db5e8d88a465a07e84d9e",
+      "ko": "좋아."
+    },
+    {
+      "line": 1098,
+      "event": "secretending_dates_mamimi",
+      "english_sha256": "f10449f9f95d459c57a1eaac9dbd64e89bd58fd77239db5f60134495033e3e8e",
+      "ko": "와... 승낙이야? 그냥 이렇게?"
+    },
+    {
+      "line": 1099,
+      "event": "secretending_dates_mamimi",
+      "english_sha256": "cef474b358bc02a44739de3604f37f3bf47758efab40ae9270fd814c3f8dde70",
+      "ko": "응."
+    },
+    {
+      "line": 1100,
+      "event": "secretending_dates_mamimi",
+      "english_sha256": "9ab6b08fb0a34ac66c225a80a2fa8937a02757d73a7aab5901917da1e329bd71",
+      "ko": "거기서 봐, 멋쟁이."
+    },
+    {
+      "line": 1107,
+      "event": "finalsuccess_mamimi",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1108,
+      "event": "finalsuccess_mamimi",
+      "english_sha256": "1ffcef46c658fcacb4001e834c61dbcf3e4a04fe2767a392e7197026ec44b40d",
+      "ko": "뒤풀이는 개쩔었어!"
+    },
+    {
+      "line": 1109,
+      "event": "finalsuccess_mamimi",
+      "english_sha256": "33be94bf3a11950ad18e6cc558aed240f11f9770c8ed452fcb67034ecdbda0a9",
+      "ko": "마미미는 감히 도전하는 누구와도 댄스 배틀을 했고, 매번 박살 냈어."
+    },
+    {
+      "line": 1110,
+      "event": "finalsuccess_mamimi",
+      "english_sha256": "d8307bd91c2705ce7aea4f17f8847b412998264fd5322ac54003e5ba8a82dadc",
+      "ko": "그 경쟁심은 정말 자연의 힘이야... 키스할 때도 진하게 입 맞추기 대회에서 우승하려는 것 같아."
+    },
+    {
+      "line": 1111,
+      "event": "finalsuccess_mamimi",
+      "english_sha256": "fe64ee8d8aded093869f12f6650c1a2625a3bde8fa85d0f715667addbd480699",
+      "ko": "불평한다는 건 아니고!"
+    },
+    {
+      "line": 1118,
+      "event": "secretending_dates_scott",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1119,
+      "event": "secretending_dates_scott",
+      "english_sha256": "4c5b3ab245be8693010ec9825882d541e2cace5442e23f1744b3c2706ac21e26",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 대신 꼭 초대하고 싶은 아주 착한 강아지가 있거든!"
+    },
+    {
+      "line": 1121,
+      "event": "secretending_dates_scott",
+      "english_sha256": "ceb6b16b1b45ec8beac51c7a24a958580ff862255b31da794d669304006da763",
+      "ko": "응, 너랑 파티 가고 싶어!"
+    },
+    {
+      "line": 1122,
+      "event": "secretending_dates_scott",
+      "english_sha256": "9743c2c6216f21e61c686fa1596dab2dace76c04dbf4eef85169e9f67b0a8038",
+      "ko": "신발 맞춰 신을까?"
+    },
+    {
+      "line": 1123,
+      "event": "secretending_dates_scott",
+      "english_sha256": "a0748618da2a8c462216cb7dccf3bcd9d86886e5d387cb0b63c02c5b03d2f396",
+      "ko": "어... 왜?"
+    },
+    {
+      "line": 1124,
+      "event": "secretending_dates_scott",
+      "english_sha256": "7812f7dbdc7def95fe76b38091fe7b53fc508af3e3a90e523296334e4c233110",
+      "ko": "당연히 우리가 절친인 걸 모두 알게 하려고! 절친만 신발을 맞춰 신잖아!"
+    },
+    {
+      "line": 1125,
+      "event": "secretending_dates_scott",
+      "english_sha256": "6f4cfef19ffd9072bbdd5ecb25ff436891a1e57fe29fc1119372a4402fdac067",
+      "ko": "좋아, 안 될 게 뭐야? 신발 가게 가자."
+    },
+    {
+      "line": 1126,
+      "event": "secretending_dates_scott",
+      "english_sha256": "183b43cf9bf2d90734d8a0d91e2850a84a6180994e4da0536f51645846979967",
+      "ko": "우후!"
+    },
+    {
+      "line": 1133,
+      "event": "finalsuccess_scott",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1134,
+      "event": "finalsuccess_scott",
+      "english_sha256": "0f6428435bc7f7d55d1919049f99917f4c098ebd23fe9238cc642005cd9edc7f",
+      "ko": "뒤풀이는 정말 재밌었어!"
+    },
+    {
+      "line": 1135,
+      "event": "finalsuccess_scott",
+      "english_sha256": "ebf3db4d805be617f099a9a80cca0cc465652a4f6c29916321502ee688a5ea54",
+      "ko": "너와 스콧은 맞춘 신발을 신고 죽여주게 멋졌어."
+    },
+    {
+      "line": 1136,
+      "event": "finalsuccess_scott",
+      "english_sha256": "e027b96cc82347fde448a39620a18b91cac0510fdd7db1612f78b507bbec2f3b",
+      "ko": "모두 \"신발 멋진데!\"라고 했고, 넌 \"고마워, 그런데 다른 친구 것도 봐야 해\"라고 했지."
+    },
+    {
+      "line": 1137,
+      "event": "finalsuccess_scott",
+      "english_sha256": "f0f291e25614e1d63a2b414739e98ca6c3db0307ea1b2ddfeecf815c02a8031d",
+      "ko": "그러면 스콧이 \"나야! 나라고! 내가 그 친구야! 내 신발 봐! 이걸로 얼마나 빨리 달리는지 볼래?!\"라고 했어."
+    },
+    {
+      "line": 1138,
+      "event": "finalsuccess_scott",
+      "english_sha256": "54517023d4bb82c48bd0300100f753372c041a027a769f51394ed41c52094df4",
+      "ko": "아, 스콧... 이보다 사랑스러운 얼뜨기가 있을까? 없을걸!"
+    },
+    {
+      "line": 1145,
+      "event": "secretending_dates_vera",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1146,
+      "event": "secretending_dates_vera",
+      "english_sha256": "31798dcfdf270b70f62da654a8456a57aa46987ad21f9e0bf9e1a68915fc4d7a",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 이미 어떤 고르곤 때문에 돌처럼 단단해졌거든. 무슨 말인지 알지."
+    },
+    {
+      "line": 1148,
+      "event": "secretending_dates_vera",
+      "english_sha256": "ee0cfd2c5cd04950df8306631ee491f4f0190ca6bf2219a2da4b351ab4b60771",
+      "ko": "행사 뒤풀이? 재밌을 것 같네."
+    },
+    {
+      "line": 1149,
+      "event": "secretending_dates_vera",
+      "english_sha256": "55df7902a0c476be31973a28d195fd3b0462fba897e9ff0df3dec96e14f73cc8",
+      "ko": "하지만 그걸 입고 가진 않을 거지?"
+    },
+    {
+      "line": 1150,
+      "event": "secretending_dates_vera",
+      "english_sha256": "3c75a9d7280ee3c8220010c6fa72a41df9b97a4cacbdb58b32c2d82da8275f95",
+      "ko": "십 점 만점에 십이 점도 안 되는 데이트 상대와 함께 있는 모습은 안 보여 줄 거야. 가자, 쇼핑몰에서 내가 입혀 줄게."
+    },
+    {
+      "line": 1151,
+      "event": "secretending_dates_vera",
+      "english_sha256": "83e196872e270a58a604ccb51c8bd1f2f3c23784c63058ecafb0dfb62d01d4de",
+      "ko": "수고비로 내 새 명품 핸드백도 사 줘야 해."
+    },
+    {
+      "line": 1152,
+      "event": "secretending_dates_vera",
+      "english_sha256": "e98c5143e14283ed412808ae1bbba8ea52b56a6712eaf3b2a342048b69a513f4",
+      "ko": "네, 주인님!"
+    },
+    {
+      "line": 1159,
+      "event": "finalsuccess_vera",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1160,
+      "event": "finalsuccess_vera",
+      "english_sha256": "a5a792ba44b114cf8ac2e395596b1ca91de2cb0adc7130e15d6f2b19468a751e",
+      "ko": "뒤풀이도 재밌었지만 네 밤은 더 좋았어!"
+    },
+    {
+      "line": 1161,
+      "event": "finalsuccess_vera",
+      "english_sha256": "1c7487aaf93f0b4e791535042a2f52a8fa8748aa8f4572b28a829dadbc97a84d",
+      "ko": "베라는 한 시간쯤 파티를 봐 주더니 \"덕후는 충분히 봤다\"며 널 고급 칵테일 라운지로 데려갔어."
+    },
+    {
+      "line": 1162,
+      "event": "finalsuccess_vera",
+      "english_sha256": "c001840084ae01984f6dcbb4e48496b8ce09bb587dba6d5ddd33f8ef4f6cb320",
+      "ko": "한 잔이 여러 잔이 되고, 그게 키스가 되고, 그게 화장실의 밀회가 되고..."
+    },
+    {
+      "line": 1163,
+      "event": "finalsuccess_vera",
+      "english_sha256": "d939603a31903ef7a02f6ea8a631afc6971b5a3ac779ba88cf09f89125eaa49b",
+      "ko": "뭐, 이건 말해 줄게. 그날 밤 두들겨진 화장실 칸막이 문은 아마 평생 회복 못 할 거야. 윙크!"
+    },
+    {
+      "line": 1170,
+      "event": "secretending_dates_veravalerie_hidden",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1171,
+      "event": "secretending_dates_veravalerie_hidden",
+      "english_sha256": "cc4e01950bc6643a3619feba58edbd7e14584a2a697476c71d7139d6494ce001",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 아무도 네 언니 베라만큼 멋지지 않거든!"
+    },
+    {
+      "line": 1173,
+      "event": "secretending_dates_veravalerie_hidden",
+      "english_sha256": "05299e9bf99461f10bbaddff9aafe10a236bee34cadb01edcd4f5032d7e9c4a6",
+      "ko": "나를 뒤풀이에 초대한다고?"
+    },
+    {
+      "line": 1174,
+      "event": "secretending_dates_veravalerie_hidden",
+      "english_sha256": "d3520bacd68273ee80b63fe0f2316e293d874a6de0931719a6d2c0b7532c35d4",
+      "ko": "가긴 할 건데, 데이트 상대를 데려가고 싶을 줄 알았어."
+    },
+    {
+      "line": 1175,
+      "event": "secretending_dates_veravalerie_hidden",
+      "english_sha256": "d42e5958dfdcc369548fb29b49ded022028971adb21f1ae6818fc138ef019865",
+      "ko": "에이, 데이트 상대는 오고 가지만 오벌린은 영원하잖아?"
+    },
+    {
+      "line": 1176,
+      "event": "secretending_dates_veravalerie_hidden",
+      "english_sha256": "ab6700cfb676fd35afbc0b36d4d08b672fb044b585b8cb17b5407705fa5e881b",
+      "ko": "하! 잘 아네, 기집애. 가자."
+    },
+    {
+      "line": 1183,
+      "event": "finalsuccess_veravalerie_hidden",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1184,
+      "event": "finalsuccess_veravalerie_hidden",
+      "english_sha256": "8e8fd72354ad224a0b9608dd157b50da8ac5a73486e0bb54844fbef252f9e173",
+      "ko": "뒤풀이는 끝내줬어!"
+    },
+    {
+      "line": 1185,
+      "event": "finalsuccess_veravalerie_hidden",
+      "english_sha256": "8624c3b570dfe0022c9606d0171ea1621912fcd833c6c68ac76e57fd7c8b6b1c",
+      "ko": "너와 베라는 행사 직원인 척하며 입구에서 입장료를 걷었어."
+    },
+    {
+      "line": 1186,
+      "event": "finalsuccess_veravalerie_hidden",
+      "english_sha256": "083b3d3deb1e7f5c878edbdc3a683cbcc7639a3cbfa6e8743df950604a5b0aa7",
+      "ko": "실제로는 무료입장이었지만, 둘 다 사람 속이는 법은 좀 알잖아."
+    },
+    {
+      "line": 1187,
+      "event": "finalsuccess_veravalerie_hidden",
+      "english_sha256": "4d2d87a43e814952e232cd955f59820d96e150a8e5a8b7c8144c1d514acee6a1",
+      "ko": "나중에는 화장실 문에서 같은 수법을 썼고, 새벽에 사람들이 나갈 때도 또 했어."
+    },
+    {
+      "line": 1188,
+      "event": "finalsuccess_veravalerie_hidden",
+      "english_sha256": "d8ab69c3b478c5e6a45064c0eca67cd99f1e40de491a7de672e88477b2af4ee8",
+      "ko": "함께 사기 치는 자매는 영원히 함께하지!"
+    },
+    {
+      "line": 1195,
+      "event": "secretending_dates_fanzine",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1196,
+      "event": "secretending_dates_fanzine",
+      "english_sha256": "4ff5c86defdd95206f8657d53ae7fabacf9e0e16668664ccdefee51e444c930c",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 양양이 이미 네 마음을 훔쳤거든!"
+    },
+    {
+      "line": 1198,
+      "event": "secretending_dates_fanzine",
+      "english_sha256": "8fc27864b0cde420ae44b09f4c2bdec445dfe7bd82569b089790b76ae095c608",
+      "ko": "오오, 행사 뒤풀이?"
+    },
+    {
+      "line": 1199,
+      "event": "secretending_dates_fanzine",
+      "english_sha256": "276a0d9a5fd5fcb5a6809ffc2e794137e4e0630cba43339a7ce424af56abaecf",
+      "ko": "가고 싶어!"
+    },
+    {
+      "line": 1200,
+      "event": "secretending_dates_fanzine",
+      "english_sha256": "2a89dd6c16178dce1ff43564a8827d5d423c1cd24c3ae9fc29a827b48bc19cd1",
+      "ko": "잡지 부스 예약은 안 받아 줬지만 주머니에서 꺼내 파는 것까진 못 막지!"
+    },
+    {
+      "line": 1207,
+      "event": "finalsuccess_fanzine",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1208,
+      "event": "finalsuccess_fanzine",
+      "english_sha256": "1f9b3f826e6b37181385824598990b328898c0cb31751529e5fd8778a3e96f73",
+      "ko": "뒤풀이는 끝내줬어!"
+    },
+    {
+      "line": 1209,
+      "event": "finalsuccess_fanzine",
+      "english_sha256": "4ed134bb8fddaeea00df41f0e6876a1b878e69916cbfd9c92015bcb0090a2b0d",
+      "ko": "네 도움으로 양양은 첫 한 시간에 잡지를 전부 팔았어. 주로 둘이 얼굴에 잡지를 들이미는 걸 그만하게 만들려는 사람들에게."
+    },
+    {
+      "line": 1210,
+      "event": "finalsuccess_fanzine",
+      "english_sha256": "e370c980bec49d115915105ead0e52d732b15e9dd51e87ea5457fc0f6d3d550b",
+      "ko": "남은 밤은 아주 기분 좋게 보냈고, 파티 뒤엔 널 자기 방으로 데려갔어. 그러다 보니 또 다음 일이 벌어지고..."
+    },
+    {
+      "line": 1211,
+      "event": "finalsuccess_fanzine",
+      "english_sha256": "29ce8af446ff3f6466eacf1a648a93b7a447caa82be596c4bc38d74415d873d5",
+      "ko": "DIY에 엄청 관심 있진 않을지 몰라도 DYYY는 좀 해 봤네. \"직접 양양을 해 보기\" 말이야!"
+    },
+    {
+      "line": 1218,
+      "event": "secretending_dates_puppet",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1219,
+      "event": "secretending_dates_puppet",
+      "english_sha256": "759f71d93851cc7977d6c87819521ac42b6cef217b5bd01a7f87a0aab5a2667d",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 어떤 인형이 이미 네 마음의 줄을 당겼거든."
+    },
+    {
+      "line": 1221,
+      "event": "secretending_dates_puppet",
+      "english_sha256": "fabeeff832d978680d7aa84d3f2a0d6b2dc51ef0c3aaa59234d769a2a42feadb",
+      "ko": "친구, 안녕! 반갑다."
+    },
+    {
+      "line": 1222,
+      "event": "secretending_dates_puppet",
+      "english_sha256": "5df734d130f4ee4bd88ec51ab50458636d89882e12b71621169bdd600bd1871c",
+      "ko": "뒤풀이? 완전 해 볼 만하지!"
+    },
+    {
+      "line": 1223,
+      "event": "secretending_dates_puppet",
+      "english_sha256": "7e9bcfbf5df0c212db6520a78c95a605a0852761b718ccb341f6c88bd4eaa71b",
+      "ko": "댄스 플로어에서 내가 널 압도해도 질투하지 마. 하하하!"
+    },
+    {
+      "line": 1230,
+      "event": "finalsuccess_puppet",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1231,
+      "event": "finalsuccess_puppet",
+      "english_sha256": "1f8d6ab83592e8ed42a0d67504e88f669c6671d5f71153c4ba847d00d9d38e14",
+      "ko": "뒤풀이는 엄청 재밌었어!"
+    },
+    {
+      "line": 1232,
+      "event": "finalsuccess_puppet",
+      "english_sha256": "9ea754188c140953cce05a702f559fcf8b00687b7a80270399fff021ab8f7760",
+      "ko": "웬디도 잠깐 함께 놀았지만 밤 10시쯤 빠졌고, 그 뒤 와이엇은 오롯이 네 차지였어."
+    },
+    {
+      "line": 1233,
+      "event": "finalsuccess_puppet",
+      "english_sha256": "88a7b98961fbd35255a6ccb1a8d055c716e9f158817e3f67320070b876e595bd",
+      "ko": "혼자 남아서 안심한 것 같아. 금방 뜨거워지고 손길이 분주해졌거든..."
+    },
+    {
+      "line": 1234,
+      "event": "finalsuccess_puppet",
+      "english_sha256": "d1f0a6d7986bf8a8c0c96c783b665f9aea44ba36863c0f879f887f9fde4aa5de",
+      "ko": "그날 밤 인형은 진짜 인형사가 됐어... 널 조종하는!"
+    },
+    {
+      "line": 1241,
+      "event": "secretending_dates_susanne",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1242,
+      "event": "secretending_dates_susanne",
+      "english_sha256": "3b9e83849b97ffd637b0db23d376661650d3aedf47987c5ab62c3cd0adfc501b",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 수잔이 이미 네 마음속으로 우르르 달려왔거든!"
+    },
+    {
+      "line": 1244,
+      "event": "secretending_dates_susanne",
+      "english_sha256": "1292502be5648795f4cfdf559ced5543df226b8f0f568589a8ce03fe23d124d2",
+      "ko": "씨발 좋지! 파티 가고 싶어!"
+    },
+    {
+      "line": 1245,
+      "event": "secretending_dates_susanne",
+      "english_sha256": "ee60af4c94223dd571c0cab5215d205d70c1b249e53a0bcf8a0be7e4f1023d6d",
+      "ko": "술은 얼마나 가져갈까?"
+    },
+    {
+      "line": 1246,
+      "event": "secretending_dates_susanne",
+      "english_sha256": "ddad3eec7f54ac54738d911cf8780fde19664b5f117d27424fae66e65c611975",
+      "ko": "아, 바가 있을 것 같은데..."
+    },
+    {
+      "line": 1247,
+      "event": "secretending_dates_susanne",
+      "english_sha256": "4626aedc758a15d4d21413448481d8b466dea85de0e478d87ba49dd43e077dbb",
+      "ko": "하지만 수잔 바는 공짜야, 자기야! 브래지어에 럼 몇 병을 숨겨 갈게."
+    },
+    {
+      "line": 1248,
+      "event": "secretending_dates_susanne",
+      "english_sha256": "72ffaf0d42ec1a0ee527665f2ffc8dcb999bff9af315d6d3f60ff20fa4f41824",
+      "ko": "이 파티를 폭풍처럼 휩쓸자!"
+    },
+    {
+      "line": 1255,
+      "event": "finalsuccess_susanne",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1256,
+      "event": "finalsuccess_susanne",
+      "english_sha256": "1623c2ac13ec73991f94d25f593eeff4dc1ca9a498160f3e45edcf0b7432b367",
+      "ko": "뒤풀이는 믿을 수 없었어!"
+    },
+    {
+      "line": 1257,
+      "event": "finalsuccess_susanne",
+      "english_sha256": "727cc77fee407bb77e36f445c5f1d2f0e71f85cc6b259b4cef453c3bb82a7783",
+      "ko": "수잔은 오토바이로 널 데리러 왔고, 혼다 시빅을 탄 다른 덕후들에게 제대로 인상을 남겼어."
+    },
+    {
+      "line": 1258,
+      "event": "finalsuccess_susanne",
+      "english_sha256": "c04ce8c0711a74d5b361bb749dcafcc1d5bb8738c0ba48357b5775b05284db73",
+      "ko": "끝난 뒤 수잔은 자기 호텔 방에서 쉬자고 했어... 하지만 그건 폭풍 전야의 고요였지."
+    },
+    {
+      "line": 1259,
+      "event": "finalsuccess_susanne",
+      "english_sha256": "8fb58cc95cb0878db0fc5b7d5ae84610b1a872d2f021e5ba2dc756b5da552340",
+      "ko": "수잔이 끝냈을 때 넌 카테고리-5 지진보다 단단하고 허리케인보다 축축했어!"
+    },
+    {
+      "line": 1260,
+      "event": "finalsuccess_susanne",
+      "english_sha256": "134d12fed375d658f3f73e3a3918e8b5ccd507300ec6a1a655697d721c0ffaf2",
+      "ko": "...날씨 비유는 충분한가? 알겠지. 둘이 떡쳤어. 우후!"
+    },
+    {
+      "line": 1267,
+      "event": "secretending_dates_zorrito",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1268,
+      "event": "secretending_dates_zorrito",
+      "english_sha256": "e0de539c205b1377e391785a4f876febb63998bddbeb729ec62a8eeae728c183",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 그 섹시한 꺽다리 이펑에게 걸어 보고 싶거든!"
+    },
+    {
+      "line": 1270,
+      "event": "secretending_dates_zorrito",
+      "english_sha256": "5d10cb3cd42036c8bd7ecd6bbb86d1c19fc91ff35b4698ddc783bccc284467e3",
+      "ko": "오오, 뒤풀이? 얼굴을 비출 수도 있겠네."
+    },
+    {
+      "line": 1271,
+      "event": "secretending_dates_zorrito",
+      "english_sha256": "d60fa20c75dab8a36e8f0b1e9558544be2b41fa45ff919adb123135aec3836fb",
+      "ko": "아니면 안 갈지도! 누가 알겠어...?"
+    },
+    {
+      "line": 1272,
+      "event": "secretending_dates_zorrito",
+      "english_sha256": "474246952e0d1e5099be8ed2036d69959b4d54211e8edcc6f9911c315f55a59a",
+      "ko": "아..."
+    },
+    {
+      "line": 1273,
+      "event": "secretending_dates_zorrito",
+      "english_sha256": "35bdbd4ce09515b6c1dbddcfb5840f9957243bce59f9db7957612f2af3c74024",
+      "ko": "놀리는 거야, 예쁜이. 내가 갈 거라는 데 걸어도 돼. 보장하지!"
+    },
+    {
+      "line": 1280,
+      "event": "finalsuccess_zorrito",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1281,
+      "event": "finalsuccess_zorrito",
+      "english_sha256": "7f32ce4d4a6547ddcccbd6e602537ff074d0b1dd9064ec830949a8ad9fb3dd5c",
+      "ko": "뒤풀이는 더없이 즐거웠어!"
+    },
+    {
+      "line": 1282,
+      "event": "finalsuccess_zorrito",
+      "english_sha256": "a0333daad8ee9a4b95a041d777e31a82b85bdd726b28a2843ab9c20f47f89172",
+      "ko": "이펑은 밤새 바텐더에게 둘을 위한 수수께끼 칵테일을 만들게 했어. 꽤 화끈하게 놀았다고만 해 두자."
+    },
+    {
+      "line": 1283,
+      "event": "finalsuccess_zorrito",
+      "english_sha256": "697c896c84980d56433d1d5d7da04d6ff8fa7a2473dace871561c79cc133d3fb",
+      "ko": "그런 다음 자기 방으로 초대해서 랜덤 박스를 열듯 네 다리를 벌렸지."
+    },
+    {
+      "line": 1284,
+      "event": "finalsuccess_zorrito",
+      "english_sha256": "3df2a725650e9d0e6e350a692e934aa14977bf5ad72d2d233309821465feeaf7",
+      "ko": "네 허리가 박살 났을 확률은 100%야. 잘됐네!"
+    },
+    {
+      "line": 1291,
+      "event": "secretending_dates_faith",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1292,
+      "event": "secretending_dates_faith",
+      "english_sha256": "31052d7daefa182f6b4b17fc29dbc7bcf3919507006643d94f4659bca468cce6",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 함께 시간을 보내고 싶은 흰머리 마녀가 있거든!"
+    },
+    {
+      "line": 1294,
+      "event": "secretending_dates_faith",
+      "english_sha256": "8196d53c6627b74d8bcfcf266337d2ff9d168c2c0b4a0f11d727a304d9742c0b",
+      "ko": "파티라고? 그런 데 간 지 꽤 오래됐는데..."
+    },
+    {
+      "line": 1295,
+      "event": "secretending_dates_faith",
+      "english_sha256": "e7ff536e176087fca5c1c2e0c438f6a6a7914a2cde15e9038f8b4107123a4237",
+      "ko": "걱정 마, 재밌을 거야! 밤새 너랑 있을게."
+    },
+    {
+      "line": 1296,
+      "event": "secretending_dates_faith",
+      "english_sha256": "7ed1b69398eadfd4d7651707cc0732559ec361254451a447e40f7d3f7a5449f7",
+      "ko": "좋아, 약속이야. 내 곁에서 떠나지 마."
+    },
+    {
+      "line": 1303,
+      "event": "finalsuccess_faith",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1304,
+      "event": "finalsuccess_faith",
+      "english_sha256": "9c88de6665ddd3bc017287fdc09f41eaa10b1e7f433a1a32d989c391504490bb",
+      "ko": "뒤풀이는 마법 같았어!"
+    },
+    {
+      "line": 1305,
+      "event": "finalsuccess_faith",
+      "english_sha256": "e715ac08bd1974bfb91ab6d1b174910efc2e09175d01eef6ffeac2bcbca86b53",
+      "ko": "너와 페이스는 밤새 수다 떨고, 웃고, 춤췄어."
+    },
+    {
+      "line": 1306,
+      "event": "finalsuccess_faith",
+      "english_sha256": "d50eaf493d395aec3c0d1227e90f9ceb2e44d32f58a4cfa45753caa5d0c0a5a4",
+      "ko": "페이스는 시끄럽거나 요란하지 않지만, 작은 미소를 보거나 드문 농담을 들으면 네가 운이 좋다는 걸 알게 돼."
+    },
+    {
+      "line": 1307,
+      "event": "finalsuccess_faith",
+      "english_sha256": "6c26c8ff078acfc0efd2183c48402943544153da93ed1cb88cd12e33b7ec3d99",
+      "ko": "넌 페이스 페르난데스의 친구니까. 그건 무엇과도 바꾸지 않을 거야."
+    },
+    {
+      "line": 1314,
+      "event": "secretending_dates_tengu",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1315,
+      "event": "secretending_dates_tengu",
+      "english_sha256": "be1af0681b8e05ccae28551acb494ad4db67c1890b107411a5bb247752b15e87",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... SF를 좋아하는 텐구가 이미 네 마음에 둥지를 틀었거든!"
+    },
+    {
+      "line": 1317,
+      "event": "secretending_dates_tengu",
+      "english_sha256": "83e28a0fbd4f24d5e84c22c6a240269342bf74cc33f9975784c7a87a31be0e2e",
+      "ko": "좋아, 너랑 뒤풀이에 갈게! 다른 파티들을 돌기 전에 한두 시간 들르면 되겠네."
+    },
+    {
+      "line": 1318,
+      "event": "secretending_dates_tengu",
+      "english_sha256": "03251d5ae193d475ea1fa9471c85fe1b8c6bd263f7583eb24b9f007c50313764",
+      "ko": "잠깐, 그날 밤 다른 파티도 있어?"
+    },
+    {
+      "line": 1319,
+      "event": "secretending_dates_tengu",
+      "english_sha256": "6217ca47737f56d957c9bc967a857466df9219d2a6e56d61915cff90356aec17",
+      "ko": "그렇지이, 넌 스푸키 콘에 참가자로만 와 봤지?"
+    },
+    {
+      "line": 1320,
+      "event": "secretending_dates_tengu",
+      "english_sha256": "ba0027988dee541b8a188ab840a25acf8ab231a5b61dcc0aba9202cb4b1a1426",
+      "ko": "작은 비밀을 알려 줄게. 우리 초청 창작자들은 행사장 문이 닫히면 온갖 말썽을 부리거든. 어떻게 하는지 보여 줄게."
+    },
+    {
+      "line": 1327,
+      "event": "finalsuccess_tengu",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1328,
+      "event": "finalsuccess_tengu",
+      "english_sha256": "e165ccd054edceb9f8c439be25de5298657dccc063bf89bee110d84c736dfda8",
+      "ko": "뒤풀이는 별처럼 빛났어!"
+    },
+    {
+      "line": 1329,
+      "event": "finalsuccess_tengu",
+      "english_sha256": "52082ef43a81021ddcfbb2ff6d065aa66bf87df833bb0e8917291652507f46a6",
+      "ko": "약속대로 나나세는 밤새 여러 창작자 파티와 칵테일 모임에 널 데려갔어."
+    },
+    {
+      "line": 1330,
+      "event": "finalsuccess_tengu",
+      "english_sha256": "d62c1cde0f4d10e34d07191a1a1083420ec633e5b8931ccdf212410d0be81251",
+      "ko": "만화가와 TV 작가들과 최고급 위스키를 마시며 새벽까지 놀았지."
+    },
+    {
+      "line": 1331,
+      "event": "finalsuccess_tengu",
+      "english_sha256": "9246926c9775162aa8b0fb7e41a90b0dc1e9e108ce5918ccdd074677202debea",
+      "ko": "나나세가 멋진 빈티지 차로 호텔까지 데려다주겠다고 했지만... 뒷좌석까지만 갔어."
+    },
+    {
+      "line": 1332,
+      "event": "finalsuccess_tengu",
+      "english_sha256": "d2f7d68d182369200af3e88bea065da9cf601d027d04deeb3d36520709652834",
+      "ko": "그 입술은 무슨 맛이었는지, 골반은 어떤 느낌이었는지, 그 긴 코가 뭘 할 수 있는지 말해 줄까?"
+    },
+    {
+      "line": 1333,
+      "event": "finalsuccess_tengu",
+      "english_sha256": "204e873984094605ff256f41df91fd364f78fdcf574b36c4cbd7ec0da4907254",
+      "ko": "아니. 훌륭한 작가라면 말하겠지. 설명보다 보여 주는 게 좋다고 ;)"
+    },
+    {
+      "line": 1339,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "010ed09ea16d13f707d4f0c2af23b33ed3c671ac50cadf9db242e80d18a88ee2",
+      "ko": "행사가 끝나서 슬프지만, 그 말은 셋이 함께하는 데이트 시간이라는 뜻이니... 행사 따위 엿 먹어."
+    },
+    {
+      "line": 1340,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "8e3b09f6575cdd127919d8dae560bdc1047d7ec156be192caf0578bdc52796e6",
+      "ko": "네가 먼저 도착했고, 얼마 안 돼 나나세가 나타나."
+    },
+    {
+      "line": 1342,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "8bcb1e15ff97978ed188939fb2807e5725ffa03ed19a877b4fc29c5fe40b894b",
+      "ko": "안녕, 멋쟁이."
+    },
+    {
+      "line": 1343,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "3501af3be23173d71ce5ff3dd8fd1335fcf8b84679d691607f8dd486dfaf2985",
+      "ko": "나 만날 생각에 너무 신나서 일찍 온 거야?"
+    },
+    {
+      "line": 1344,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "114122054c0acd48b3c17def2463d8733c0cf2fb25280a8b71b060d19b11875e",
+      "ko": "어... 아..."
+    },
+    {
+      "line": 1345,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "8779b8b02a16584ec3ec9627b900674d28ce210a4a9a7e636b1f978d5eab77dd",
+      "ko": "농담이야!"
+    },
+    {
+      "line": 1346,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "d8b73978135cba1bc90e1c2ad820014cf34e7cf5114c851c593e2959a37e2cd7",
+      "ko": "아, 응, 당연하지! 하하!"
+    },
+    {
+      "line": 1347,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "48e4c73c07bad4a960b090362bc6dbcc4890d69d86c50931a43211e937c49d52",
+      "ko": "넌 정말 천재야. 늘 일정표에 데이트를 넣기 힘들었는데..."
+    },
+    {
+      "line": 1348,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "0336dd4cb3a95fe3f01e1389ff1e4bfeae7831bb76d7d626a17a3b783d470b20",
+      "ko": "...데이트를 합치는 게 해결책일 줄 누가 알았겠어!"
+    },
+    {
+      "line": 1350,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "6ea663ce6d5c972c72fa2eb18a11cd1969aec165e786d3ed91dc4c05a59833ce",
+      "ko": "둘이 벌써 나 없이 재밌게 놀고 있네!"
+    },
+    {
+      "line": 1351,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "07d62e195237ba9efb287b3cc4e9eed0f2b1be7ec31866470035006c628c9842",
+      "ko": "걱정 마, 섹시한 열대 폭풍. 오늘 밤엔 모두에게 충분한 재미가 있을 거야."
+    },
+    {
+      "line": 1352,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "ed415d5979c2ff4977103c7e2dc8f8c7905854a9fa7d3d31a8123e079c40506b",
+      "ko": "하하! 스타일 마음에 드네!"
+    },
+    {
+      "line": 1354,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "f6dd250319c59aa46830393e58ced88413e971456055b489e794d0aa0b44aaaf",
+      "ko": "그렇게 지금까지 중 가장 북적이는 데이트를 시작해!"
+    },
+    {
+      "line": 1355,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "3a7b792ae630cdff1778ce96c9e0eeaf51b04eb973d1a6fc0ded7e61fb37f327",
+      "ko": "셋이 하는 데이트가 정확히 어떻게 돌아갈지 조금 걱정돼..."
+    },
+    {
+      "line": 1356,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "ce6124cc733bbe68814bb9ed3990f076c9d2246a4b676e141621c60168784e73",
+      "ko": "...하지만 막상 해 보니 얼마나 직관적인지 놀라게 돼."
+    },
+    {
+      "line": 1357,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "132232367eea4aa3206e43b1d1472d510b873bc332eb0fc8ab19a133cb5ed053",
+      "ko": "수잔과 나나세는 둘 다 대담하고 유혹을 즐겨서, 덩달아 너도 엄청 편안하고 자신감 있게 느껴져."
+    },
+    {
+      "line": 1358,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "5decf420db94767be5d5a1b9769c749e665458cf135187582758bd2f7e876047",
+      "ko": "저녁과 술을 즐긴 뒤 데이트는 호텔 방으로 이어져."
+    },
+    {
+      "line": 1360,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "e054cca7f4296ef38eacbdc8afaafb5bcf90b079ba51c9158c614ee93ee8c8df",
+      "ko": "그 밤엔 네 모든 기술과 창의력이 필요한 새롭고 도전적인 상황들이 기다리고 있어..."
+    },
+    {
+      "line": 1361,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "c2e3fbac588a7bd1ea2e6ddf9decbd13d89806b9e31b082e88652829a28213ef",
+      "ko": "하지만 결국 한 가지는 확실해."
+    },
+    {
+      "line": 1362,
+      "event": "secretending_tenguthreesome",
+      "english_sha256": "20aef632f3e430b433eb9c0aa18713f39f69c6063a3ae9da423ccf61d815dd84",
+      "ko": "많을수록 즐겁다는 것."
+    },
+    {
+      "line": 1369,
+      "event": "secretending_dates_cosplayfixer",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1370,
+      "event": "secretending_dates_cosplayfixer",
+      "english_sha256": "a0e72aae905a6d9109751c9bf038ae36469fc948cf3daf97890e076ffe099920",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 대신 초대하고 싶은 섹시한 거미가 있거든!"
+    },
+    {
+      "line": 1372,
+      "event": "secretending_dates_cosplayfixer",
+      "english_sha256": "a951e6d66eeae796ce76d190acb5eb5e502a003496ac999af4cc4d8ace6d1765",
+      "ko": "뒤풀이? 갈 계획은 없었는데... 마무리할 맞춤 주문이 몇 개 더 있어서."
+    },
+    {
+      "line": 1373,
+      "event": "secretending_dates_cosplayfixer",
+      "english_sha256": "7c033755846457544676c3ba8cb67f7e7393b8a491fcfbb80db364f9c8faa75d",
+      "ko": "왜 그래, 주말 내내 열심히 일했잖아. 좀 풀고 싶지 않아?"
+    },
+    {
+      "line": 1374,
+      "event": "secretending_dates_cosplayfixer",
+      "english_sha256": "3989866d0fc8e33303a69a13816371ab300a2b2d503d45296fa53754bfec448b",
+      "ko": "스트레스를 푼다고... 너랑? 음..."
+    },
+    {
+      "line": 1375,
+      "event": "secretending_dates_cosplayfixer",
+      "english_sha256": "b0637fd1322d5a9c1cb36ceaa1621697a703abcbfaa02f2ebc17c086530f86d7",
+      "ko": "좋아, 설득됐어. 파티하자."
+    },
+    {
+      "line": 1382,
+      "event": "finalsuccess_cosplayfixer",
+      "english_sha256": "f116efd3b4ab8dbc182c9f2f33996c4381c20d858f883d83293428fa083b11ff",
+      "ko": "뒤풀이"
+    },
+    {
+      "line": 1383,
+      "event": "finalsuccess_cosplayfixer",
+      "english_sha256": "e63f827913f22447967f10b9922fdd5cfa8367f6ca209a8bbde8c1d3c955227a",
+      "ko": "뒤풀이는 신났어!"
+    },
+    {
+      "line": 1384,
+      "event": "finalsuccess_cosplayfixer",
+      "english_sha256": "e846c276dcc439220ee58e1916ebee37a5f783274a6e2f4de54e8ec4bd73bd97",
+      "ko": "사샤는 모두의 화려한 파티 복장을 보며 덕질을 즐겼어."
+    },
+    {
+      "line": 1385,
+      "event": "finalsuccess_cosplayfixer",
+      "english_sha256": "f51ff1d3a3bc0eabb4e585f8f9c97cee4e31cee4fb31b9f770fec87c900ddea5",
+      "ko": "안전핀을 가져와 몇몇 사람의 심각한 의상 사고를 막아 줘서 인기까지 얻었지."
+    },
+    {
+      "line": 1386,
+      "event": "finalsuccess_cosplayfixer",
+      "english_sha256": "9ccf75096f7a66f9fe6bb7d20953c8ee46d4e5ff3a35807f285548671359a132",
+      "ko": "하지만 진짜 재능은 그날 밤 네 호텔 방에서 보여 줬어. 사람에게 옷을 입히는 것보다 더 잘하는 유일한 일은 벗기는 것 같아."
+    },
+    {
+      "line": 1387,
+      "event": "finalsuccess_cosplayfixer",
+      "english_sha256": "74a75f088834c5e232e916c524f2cf11cc8a62aff6d24ce896cfc4e6637460eb",
+      "ko": "그 여섯 손이 그날 밤 네게 한 일이라니... 꿈만 같네!"
+    },
+    {
+      "line": 1393,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "316d1607978ac59a90f26cfc97912b0bd6ddfb5a1692e6b1adbc15dee25b15cd",
+      "ko": "행사가 끝났고, 자칭 전문 중매쟁이인 넌 맺어 준 두 사랑꾼이 어떤지 확인하고 싶어."
+    },
+    {
+      "line": 1394,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "81835b28ec4116a550ec3f596f5fa00e6c66a210a712d01a8c48173dff080c9d",
+      "ko": "둘도 널 찾고 있어서 오래 찾을 필요는 없었어."
+    },
+    {
+      "line": 1396,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "f820b945b47aecfc90af25f831558c8ffcc9e438b9f3beee4b26693683903e6e",
+      "ko": "%CURRENTPLAYERNAME%, 안녕!"
+    },
+    {
+      "line": 1397,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "9b5103b21a078902667821a4c6a3ac9adc2cf7bc7d80367bd8e066062f544e01",
+      "ko": "아, 안녕!"
+    },
+    {
+      "line": 1398,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "dca6120b46bcd1b26980316aaeda2b7d4e7939814ed7b9490c3507e697aac362",
+      "ko": "고맙다고 하고 싶었어."
+    },
+    {
+      "line": 1399,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "54d9170a872b7e8556cfb8df59092c66676b0391075cd2a10629d5646a925e0c",
+      "ko": "함께 정말 즐겁게 지내고 있고, 어느 정도는 네 덕분이야."
+    },
+    {
+      "line": 1400,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "fb5c79c82000391e03677ad031f64ad81d3a397aa238b7dd164e698ef13a524e",
+      "ko": "당연하지! 나랑 사샤라니? 코앞에 있었는데도 몰랐어!"
+    },
+    {
+      "line": 1401,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "3c933a69c61a7bdae711bdb69ecc7c28273759ab0162c1a94cd054f9cea80173",
+      "ko": "그런데 너는? 선견지명이 있네!"
+    },
+    {
+      "line": 1402,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "0fe84a57e354fd1431e973b48fe02e3264f49c7fb5bd7c65e68599d645e2d84e",
+      "ko": "응... 가장 좋은 건 눈앞에 뻔히 있어도 안 보일 때가 있지, 그렇지?"
+    },
+    {
+      "line": 1403,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "a658a93094f19820b6fdb308061b084e1fccee6b2dde77d322d7591e2b21e269",
+      "ko": "아... 둘이 잘돼서 정말 기뻐."
+    },
+    {
+      "line": 1404,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "4c077bd8b3c47d1c1e151d77739a3bcfdfb3db8f205fdfadad1260a805fab931",
+      "ko": "맞아, 맞아... 그런데 또, 있잖아..."
+    },
+    {
+      "line": 1405,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "b1d98894537955a77f521b28d5d5358ffa97c129494daa103df79fb128e1b142",
+      "ko": "(어서, 니키. %HIMHER% 쪽에 말해.)"
+    },
+    {
+      "line": 1406,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "5cbf95ec86079394e14d2417b2c89001dd327e7597ae39aede1b87cf0ec4711f",
+      "ko": "응, 응... 그러니까 며칠 전에 얘기했는데... 네가 우리한테 끼겠다고 농담 비슷하게 한 게 생각나서?"
+    },
+    {
+      "line": 1407,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "7c8408044159dc02c652d729e24259e72e8d30b699addb35cda0ac119ee666aa",
+      "ko": "우린 \"%HESHE% 쪽은 분명 농담이었겠지\" 했는데..."
+    },
+    {
+      "line": 1408,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "2719075dd000fa3a1a5859e590c6ae54b7191405866ea95bb50896b348008104",
+      "ko": "진짜 제안은 아니었는지 확인하고 싶었어. 그랬다면 받아들이고 싶을지도 모르니까."
+    },
+    {
+      "line": 1409,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "e9d734fe78ecb459ce02cc17c49ca8594c4bb334a7c1bbbf7177e24d4ba04898",
+      "ko": "하지만 농담이어도 괜찮아! 그것도 괜찮거든!"
+    },
+    {
+      "line": 1410,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "4b8fc9b95c48e248b81a20964df33c17b56096728b80a72326feff9afa2ea969",
+      "ko": "아... 음... 반쯤 농담이었지? 있잖아, \"농담이야, 혹시 아니라면야...\" 같은 거."
+    },
+    {
+      "line": 1411,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "931e470fc408d69ff20e0d7ed3bb2eed5c36e432da15720e89e06ee8f0a1345f",
+      "ko": "하지만 둘 사이에 끼어들고 싶진 않아."
+    },
+    {
+      "line": 1412,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "d073e48caa0f75e776bd6d1dfb6f77e8dadbeda30c0efe7372c5b9519683c5cf",
+      "ko": "아, 푸흡! 끼어드는 거 아니야!"
+    },
+    {
+      "line": 1413,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "bcfc62d41d5159dc6ae65d546654db6aa4b25f4b39f1e95bfe23e7ed70e2523b",
+      "ko": "맞아. 둘이 얘기했는데 오히려 재밌을 것 같았어... 있잖아... 네가 우리 사이로 들어오는 거."
+    },
+    {
+      "line": 1415,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "fee4540bd433eb93e9bdea84f735ee8ac0ed8c912cbae97602c4eaf36692e042",
+      "ko": "어머!"
+    },
+    {
+      "line": 1416,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "a1dc77c9fbbddc4376f59eb2ea0ea9d66966675aa8c873b61c3f3fe0d0f40cea",
+      "ko": "그 주 나중에 셋이 만났어."
+    },
+    {
+      "line": 1417,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "ec8ca587feab96834a3b68db864b1cfc7a7700aa185a50de3247b683d71ee167",
+      "ko": "처음엔 어색할까 걱정했는데, 얼마나 자연스러운지 놀라게 돼!"
+    },
+    {
+      "line": 1418,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "87b369024e1372a5bc30d14864adb13ebedb8716ec9befc631a70a02d8975b89",
+      "ko": "친한 친구 니코와, 지난 며칠 동안 알아 가던 사샤와 즐거운 밤을 보내는 것뿐이야."
+    },
+    {
+      "line": 1419,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "ddc1692976c6fa5847d3af10d939c77a61114a081b6e87da0f8309040fff4d98",
+      "ko": "그러니 결국 좋은 친구 둘을 만나는 것과 같지!"
+    },
+    {
+      "line": 1420,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "e481cc94343e93e03c9f543b4a72bb436b7a9fdc5e930916a71b6d4f8387bed8",
+      "ko": "음, 한 가지만 빼면."
+    },
+    {
+      "line": 1423,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "4314b709d7465b1ae35cb672af4fd8eb0b4ce6db8060787b52c1db814c4b1667",
+      "ko": "밤이 끝나는 방식은... 친구보다 조금 더 가까운 느낌이야."
+    },
+    {
+      "line": 1424,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "0a43d058a1a59e0887ed98176e03f0e79b250367a582920a9fd0c68a68ea7db2",
+      "ko": "그냥... 황홀해. 두 사람의 케미는 부정할 수 없고, 침대에서도 확실히 이어져."
+    },
+    {
+      "line": 1425,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "555de3b423d6c4569292287180e10a2da42b304954a1b13c32080ba2dbf2f0f9",
+      "ko": "널 엄청 환영하기도 하고. 어느 순간엔 서로 다른 팔 여덟 개가 널 감싸는 게 느껴져!"
+    },
+    {
+      "line": 1426,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "3cb47d34e10783dd4d694037fe66d732ad838295eb6447803b40c5071100ec76",
+      "ko": "어디로 이어질지 궁금해. 한 번으로 끝날까? 둘의 공식 섹스 친구가 될까? 셋이 연애하게 될까?"
+    },
+    {
+      "line": 1427,
+      "event": "secretending_cosplayfixerthreesome",
+      "english_sha256": "a7e1b0eb4dba6f4f79a6f601888f18135e413be02300020aed15de99c26ae479",
+      "ko": "아, 그건 미래의 네가 생각할 일이야. 오늘 밤엔 흐름에 몸을 맡기고 쾌락에 뛰어들기로 해."
+    },
+    {
+      "line": 1433,
+      "event": "secretending_aprilegg",
+      "english_sha256": "f2853b0538c47ee749a0d53b51a5ee8fa248ba061f977c12b31c9ff9a6f06861",
+      "ko": "드디어 용기를 내서 가장 좋아하는 광대에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1435,
+      "event": "secretending_aprilegg",
+      "english_sha256": "4b25894d6f678646b211568fdb4116c78117b76a2248f9bda34205dbdb5a5670",
+      "ko": "뒤풀이라..."
+    },
+    {
+      "line": 1436,
+      "event": "secretending_aprilegg",
+      "english_sha256": "10e0d3a07091f93304fe9ae76bbf19556e31ce57ca9bc8dbf5af8542db37b2c9",
+      "ko": "\"작은 에이프릴\"을 초대하지 않아서 놀랐어."
+    },
+    {
+      "line": 1437,
+      "event": "secretending_aprilegg",
+      "english_sha256": "0c4845d3e477bed3076c3845f52d2155e1009ead0fd66bf72c8be371552eda6f",
+      "ko": "하하, 아니. 그 시기는 이제 졸업했어."
+    },
+    {
+      "line": 1438,
+      "event": "secretending_aprilegg",
+      "english_sha256": "a13e4c8f1d6e7d279d6f79566aa4d76318702db7424d3e769ebc29172bf8f61e",
+      "ko": "다행이네. 난 네가 정말 좋거든."
+    },
+    {
+      "line": 1439,
+      "event": "secretending_aprilegg",
+      "english_sha256": "10069c101bcc95c1e9d82d15bfa09c57f4d2d732534878c2195b5f3a83764abe",
+      "ko": "...!"
+    },
+    {
+      "line": 1440,
+      "event": "secretending_aprilegg",
+      "english_sha256": "2a7a0bdd0015ac675f9b3a681c0c2b3357cb75cb1b1067e5f55f320674542f36",
+      "ko": "그럼 여덟 시에 데리러 가면 어떨까? 빵빵!"
+    },
+    {
+      "line": 1442,
+      "event": "secretending_aprilegg",
+      "english_sha256": "ff0c70036e8a87482dba095ef61445d81f44d35fb5616ea06200fccf112bc2d1",
+      "ko": "좋아!!!"
+    },
+    {
+      "line": 1444,
+      "event": "secretending_aprilegg",
+      "english_sha256": "18d21556e639a5adf9aad928c7995388527168b17219f09cee238d0f7f9e1580",
+      "ko": "해냈어, 오랜 친구!"
+    },
+    {
+      "line": 1446,
+      "event": "secretending_aprilegg",
+      "english_sha256": "ff1fcda7336a91467070b3e44f33795d90b2263822751ad3dd6e4c07ccb274a3",
+      "ko": "뒤풀이도 좋았지만 밤의 마지막은 더 좋았어."
+    },
+    {
+      "line": 1449,
+      "event": "secretending_aprilegg",
+      "english_sha256": "eecdd2043238e9f3a08287d53bada3cf266da8ccc6629e3eabd659cd6764e6e1",
+      "ko": "에이프릴은 자기 방으로 데려가 \"풍선 방\"에서 좋은 시간을 선사했어. 장관이었지."
+    },
+    {
+      "line": 1450,
+      "event": "secretending_aprilegg",
+      "english_sha256": "39b38cfd1b840c822207f58ac306b895600c7285f236fac40fb422428485e798",
+      "ko": "따뜻하고 풍선 같은 행복의 밤으로 이어졌으니, 그녀와 사귀려고 그 많은 고비를 넘긴 게 어떤 의미에선 고마워."
+    },
+    {
+      "line": 1451,
+      "event": "secretending_aprilegg",
+      "english_sha256": "65b09f3ccff1cc2775fe81863eb90df4e9c3d356833eda2a454e7ca1e0f1646c",
+      "ko": "행사가 끝난 직후, 둘은 작은 에이프릴을 광대 알 등록소에 맡기러 갔어. 눈물 어린 이별이었지."
+    },
+    {
+      "line": 1452,
+      "event": "secretending_aprilegg",
+      "english_sha256": "ab5a7c3a052e66b7ba9d14c34f4d759e92a1102cfc3447d1c0ffb2f45ac47c75",
+      "ko": "빵빵!"
+    },
+    {
+      "line": 1458,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "d76d8f01dad988bea09f1d8e9861c1e403abdab6a31388fb191ffbcfe5c490f0",
+      "ko": "뒤풀이는 기다려도 돼. 에이프릴은 며칠 동안 정말 많은 일을 겪었어. 상태가 어떤지 안부를 묻기로 해."
+    },
+    {
+      "line": 1460,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "df0c1bd9e66c115f25a383f7b31faa9c0c35040f78b4a9edcc1ddc5f8b1a0dce",
+      "ko": "아아, 물어봐 줘서 고마워, 바보야. 괜찮은 것 같아."
+    },
+    {
+      "line": 1461,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "e11d1331d0052d6562b6ef90f501b1d5db8d733b448c9faff07cf0e596ea90c6",
+      "ko": "스타가 될 기회를 포기한 건 조금 달콤씁쓸해..."
+    },
+    {
+      "line": 1462,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "6125bb89c4b8f83ccbd1faa8c664faf5d988f2488d21821e73ecca7689505fbd",
+      "ko": "하지만 네가 옳았어. 그 계약과 제한들이 내 머리를 존나 망가뜨리고 있었어."
+    },
+    {
+      "line": 1463,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "6337f3166e566912397b10bf5735494fcb64aeaff7154005a14539f1b9719e2e",
+      "ko": "이야, 마스코트가 아니라 네 입에서 욕을 들으니 이상하네."
+    },
+    {
+      "line": 1464,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "47253247809e477a3b9f8939f687313f4f433e9012d31647780884e81509e2a7",
+      "ko": "그렇지?"
+    },
+    {
+      "line": 1468,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "1eb91828251e6d5603589d841361b5ffaeb3883f6760f96dcb08d7b25dfaef75",
+      "ko": "그날은 에이프릴에게 남은 인생의 첫날이었어."
+    },
+    {
+      "line": 1469,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "c0279ea5c03324ea95b8c27a90d1a559dbf34a8f81bb7cd0e1a5196d3a031590",
+      "ko": "처음부터 다시 시작하며 새 여정은 지난번보다 건강하도록 신경 썼지."
+    },
+    {
+      "line": 1470,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "e5a153761d8638271abaa50a89724572dee54067c5e9dfc8e3d399eb421dcebe",
+      "ko": "시간이 흐르자 새 협업과 계약도 생겼지만, 이번엔 최악이 되지 않도록 항상 자신을 우선했어."
+    },
+    {
+      "line": 1471,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "b05f86353456fc7a91e60d3a9ecf5f617a59be10ec75b47f4ee039c464c92b84",
+      "ko": "요즘엔 동네 바에서 공연하는 그녀를 볼 수 있고, 새 트와치 채널에는 작지만 진심 어린 팬층이 있어."
+    },
+    {
+      "line": 1472,
+      "event": "secretending_aprilfreedom",
+      "english_sha256": "080cf69a120de06c8d213ce61574ae8b3811e5df845815ddc07968d5d9fa57c1",
+      "ko": "한 가지는 확실해. 넌 언제나 \"에이프릴 퍼스트\"가 아니라 소중한 친구 에이프릴을 응원하며 곁에 있어."
+    },
+    {
+      "line": 1478,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "9a18f0143ea052c602032ce694c9cbcb03ccc146e07f4f3e64a4292fe1479307",
+      "ko": "드디어 용기를 내서 가장 좋아하는 초록 얼뜨기에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1480,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "f0c8ef186b463b43494708c192645eddf41eefd6a41cd4efa6cb5ce42f56d2c0",
+      "ko": "정말? 기쁘긴 한데, 나 같은 덕후랑 파티 가고 싶다니 놀라워..."
+    },
+    {
+      "line": 1481,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "a8733163d40cbbe2924e53da625da792002b7e88aa58c7828494c1812732cbcd",
+      "ko": "모르겠어, 더그? 난 네가 덕후라서 좋아하는 거야."
+    },
+    {
+      "line": 1482,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "293cc02d4fb6682037086f067c77cd04039d50bdd72a1b4ee25a03ceab1be93c",
+      "ko": "정말?"
+    },
+    {
+      "line": 1483,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "d3d1f30fe56cd6fe6a3846cd771d55a98d1120a894d44f4841f6401364b30355",
+      "ko": "당연하지! 남들의 관심을 받으려고 잘나가는 부메랑 남자가 될 필요 없어."
+    },
+    {
+      "line": 1484,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "3469132f753bbc1850dba1118355e5f3309c0ef5e3ee92d70fc752339ac532fc",
+      "ko": "사람들은 네가... 그냥 너라서 좋아해!"
+    },
+    {
+      "line": 1485,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "983aa71771c9aa8d57250e8911d168994c24944f5ff4363570c67ac02f32cf92",
+      "ko": "...고마워, %CURRENTPLAYERNAME%. 정말 듣고 싶었던 말이야."
+    },
+    {
+      "line": 1487,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "ea80e6b2eed4731189445578ad40df2cbd59799ddba69999330fd38b6f87ada6",
+      "ko": "그렇게 둘은 뒤풀이에 갔어."
+    },
+    {
+      "line": 1488,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "5f794f14d6e5c3760d69a7055c176ee83c7131740d2138f12b4cb0884320cc6e",
+      "ko": "더그는 아주 신나게 놀았고, 껍질을 깨고 나오는 모습을 보니 엄청 기뻤어."
+    },
+    {
+      "line": 1491,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "81ffdfcc0233ab61e62b7d95cbfd2c9fc8bdea6ad5cac4ae7c1ba1236a581348",
+      "ko": "그리고 호텔로 돌아와 옷을 벗고 나왔을 때는 더더욱 기뻤지!"
+    },
+    {
+      "line": 1492,
+      "event": "secretending_dougboomerang",
+      "english_sha256": "d3d26d27847b3ac6929065a48fa0966f4928ce3c3d080a4a52bf8c3b2dd0e4ca",
+      "ko": "더그는 내면만큼 겉모습도 매력적이었어. 정말 모든 걸 갖춘 사랑스러운 덕후야!"
+    },
+    {
+      "line": 1498,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "9cbbb87e27eba6ee0f663dfcf2a5411afdfc64217c0ea87407090a51fd75672c",
+      "ko": "뒤풀이에 초대하려고 더그를 찾다가 펑키 번치와 게임하는 걸 발견해."
+    },
+    {
+      "line": 1500,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "fe8b9c95416fe88b914f4b696f838d2dbbb550df3c75a94c6ea54935c0426ede",
+      "ko": "더그, 와이엇과 웬디의 후방을 지켜 줘. 저스틴과 내가 선두를 맡을게. 가자!"
+    },
+    {
+      "line": 1502,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "965c8ec4df91948fe302cc6c6ae2b26a81791974a7541d536497b9c84f2dee16",
+      "ko": "실망시키지 않겠습니다, 대장님!"
+    },
+    {
+      "line": 1504,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "ca3d3b787573cecda8a5a84fcb895e22bcaf152b4510c201d1aed6bbd35ad1a0",
+      "ko": "박살 내자!"
+    },
+    {
+      "line": 1506,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "6c94a1e7a5c9271e7a9f925d1aaf9e4f94075d39b3f8d589f75e22f0c9ca7891",
+      "ko": "다 죽으면 전리품은 내가 꼭 챙길게."
+    },
+    {
+      "line": 1508,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "f5d7d862deea3a89e280a12100dc5a4d879c9eacad3640b724bfea68167dfa33",
+      "ko": "아, %CURRENTPLAYERNAME% 왔다!"
+    },
+    {
+      "line": 1509,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "55b261e2f797541cc455c61dd6e1ee8755c254412e765005a19f507bf0a5eb29",
+      "ko": "응, 말해 볼게... 더그, 오늘 밤 뒤풀이에 내 데이트 상대로 가 줄래?"
+    },
+    {
+      "line": 1510,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "43e58d234a9cd0cc82f811bcbb5f95fb6f838a9990ce40119c0c5a37c82a376c",
+      "ko": "네가 나한테 데이트 신청을?!"
+    },
+    {
+      "line": 1511,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "5693ac0c1ac4ea7b45544bd4cf10c99a4e30ba48a28500f43ee48e2d314307fb",
+      "ko": "아, 세상에... 이런 날이 올 줄 몰랐어... 더 좋은 옷을 입고 있을 줄 알았는데...!"
+    },
+    {
+      "line": 1512,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "1aef693f9364f41024b3b074c7f2aaacae1ffacf66e09fcd6c10befde15b0f90",
+      "ko": "그냥 좋다고 해, 이 얼뜨기야! 네가 %HIMHER% 쪽을 얼마나 원하는지 다 알아."
+    },
+    {
+      "line": 1514,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "004a522f24a62cda6a5447890e692b09cc4dddad83e47f2e8ad7cac3c7a7cf5c",
+      "ko": "그래, %HIMHER% 쪽으로 가! 젊은 사랑보다 큰 기쁨은 없어. 즐길 수 있을 때 즐겨."
+    },
+    {
+      "line": 1515,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "e57be6fc4da1bbcaeebc659848fb2fb2d0a5ad153866faeeafb591616c7e3bdd",
+      "ko": "하지만 레이드는? 밤새 걸릴 거라고 생각했잖아..."
+    },
+    {
+      "line": 1516,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "78e207fdb6124a87e25f07539006e9d06a25a3a33ba4d033dd288ee136f7b0a1",
+      "ko": "걱정 마십시오, 대장님. 부재중엔 제가 용맹하게 전투를 이끌겠습니다. 오늘 밤 대장님의 퀘스트는 사랑입니다."
+    },
+    {
+      "line": 1517,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "09df4d04b6d57d07d3c3f615668baeb9fc503b2ded3b4bcb33ec31538f4567f2",
+      "ko": "아아, 다들 정말 고마워. %CURRENTPLAYERNAME%, 해 보자!"
+    },
+    {
+      "line": 1519,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "b7b4bfecc214f35b0eced8b23c969bcd3f66dcc698ad775ea38dfa2d1c5cca31",
+      "ko": "너와 더그는 행사 뒤풀이에서 환상적인 시간을 보냈어. 하지만 그보다 더, 행사에서 그의 길드를 만난 시간이 환상적이었지."
+    },
+    {
+      "line": 1522,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "6c151d38b9725fa514bbb85821c44042fd2e625c964b46ae0a86d3d32957796c",
+      "ko": "진정한 우정은 찾기 어려울 수 있고, 그래서 인터넷이 아름다운 거야."
+    },
+    {
+      "line": 1523,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "19f5c18a98a486684d248716ee883266a1f22e1829b57e25b03669bd4a5f5a33",
+      "ko": "현실에서 더그는 불안하고, 조심스럽고, 소심할 수 있어. 하지만 펑키 번치를 이끌 때는 두려움 없는 지도자로 빛나지."
+    },
+    {
+      "line": 1524,
+      "event": "secretending_dougmmorpg",
+      "english_sha256": "f4fc05d41559380f39ab7d8ea534e2bd6fdd004b251f3101467619a48463c9c2",
+      "ko": "친구들도 그를 받쳐 주며 자신들이 아는 모습, 최고의 더그가 되게 해 줘."
+    },
+    {
+      "line": 1530,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "50cf134f467e53be5eb6e6a122900ac9ad78bdf45c25b594d347d43da286f74c",
+      "ko": "드디어 용기를 내서 가장 좋아하는 뱀파이어 덕후에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1532,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "5effef0d5cd32e67d2f3327f8baef178c0dfd2aa36c761d483079f86b3fa50f2",
+      "ko": "미안하지만 거절해야겠어, %CURRENTPLAYERNAME%. 오늘 저녁은 바쁘거든."
+    },
+    {
+      "line": 1533,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "1a72e00d974813dd52f168edb5d318143b5bc19ac9c653e3723f6e47d719f4e7",
+      "ko": "W&W 모임 사람들이랑 짧은 단편을 주간 캠페인으로 만들기로 했어."
+    },
+    {
+      "line": 1534,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "fd1cf78964ed85dcdc2ded336356467e4300b50674153da03ed78e0d5508b9c6",
+      "ko": "관심 있으면 너도 함께해 줬으면 좋겠네."
+    },
+    {
+      "line": 1535,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "96fdbfb3e2416f7ffff89b662d350a55414109170458f11776d0bc26a21a5425",
+      "ko": "당연하지!"
+    },
+    {
+      "line": 1536,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "23169d912242125fc68f9bf146a080158510c70c402a243b9a89c670d3213551",
+      "ko": "좋아. 네 캐릭터는 모임의 빛이었어. 보통 소동은 질색이지만, 내 캠페인에서 네 소동은 어쩐지... 치유가 됐어."
+    },
+    {
+      "line": 1537,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "7d5a61d00807ed1761d5fc43abdd008ac7e11affd2215f6056ece6aac650c3f3",
+      "ko": "세션은 오늘 여섯 시 시작이야. 늦지 마."
+    },
+    {
+      "line": 1539,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "70243144ef1aa778272eac300474dbb528f3299efca78aee0d6efc40221aff63",
+      "ko": "그래서 뒤풀이를 버리고 리암과 보드게임을 했어. 정말 다른 방향으로 갈 줄 알았어?"
+    },
+    {
+      "line": 1540,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "9b0fa0897796a4423770a3ad427a1aecc925b65edd4ac5a5bb49246baa59ea6c",
+      "ko": "그런데 게임이 끝나고 [i]예상 못 한[/i] 일이 있었어... 리암이 너랑 섹스를 했다고?!"
+    },
+    {
+      "line": 1543,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "52d41b413bd42451cb76ea72553402afd68e04cff92e07772e94f7dd74965f29",
+      "ko": "맞아! GM인 자기에게 모두가 집중하는 게 잔뜩 흥분됐나 봐!"
+    },
+    {
+      "line": 1544,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "2a921f9810cf17621b1dae6d3cd1e5c41afc2921e36779921a565021ac8a0af5",
+      "ko": "게임하고, 주사위 굴리고, 테이블탑 RPG라는 껍데기를 통해 리암의 트라우마를 풀어내는 경험을 함께해서 기뻐..."
+    },
+    {
+      "line": 1545,
+      "event": "secretending_liamttrpg",
+      "english_sha256": "7bf1305272c462c2d8c53da55e545cee3fb64a4cbae8709103b3e9227dc5e5da",
+      "ko": "하지만 그보다 그 앙겔루스 의상 차림으로 떡칠 수 있어서 기뻐. 버킷 리스트에서 하나 지울 시간이야!"
+    },
+    {
+      "line": 1551,
+      "event": "secretending_liamjojo",
+      "english_sha256": "d9d398604f60cb5ee878abea6ea4c10dffb2444b0051b7980ba8187f45874acd",
+      "ko": "행사 뒤풀이에 함께 가자고 리암을 찾는데, 그도 널 찾고 있었나 봐..."
+    },
+    {
+      "line": 1553,
+      "event": "secretending_liamjojo",
+      "english_sha256": "8718573474312c926a546ef9cc61f746afd75b8f204bdd7a3232581d0b3bddbe",
+      "ko": "아, %CURRENTPLAYERNAME%, 여기 있었네."
+    },
+    {
+      "line": 1554,
+      "event": "secretending_liamjojo",
+      "english_sha256": "87a53e0a1ad78cb0c3aebca620c5f46daa4fe0e12b1101b786a5061102b790db",
+      "ko": "죠죠 얘기에 너무 과열된 건 사과하고 싶었어."
+    },
+    {
+      "line": 1555,
+      "event": "secretending_liamjojo",
+      "english_sha256": "1b7970a7572408265112b2d469a637609e22af217501de1313843788251e767e",
+      "ko": "알잖아, 난... 새로운 것에 빠지면 아주 열정적이 될 수 있어."
+    },
+    {
+      "line": 1556,
+      "event": "secretending_liamjojo",
+      "english_sha256": "b3470931c2515fc7ded053e38e043d64d7353a4aecebd6a118ed3e969b65130b",
+      "ko": "심지어 최악은 아니었어! 프루스트 덕질 시절을 봤어야 하는데..."
+    },
+    {
+      "line": 1557,
+      "event": "secretending_liamjojo",
+      "english_sha256": "4335afb52aac8c79ca0371049646c3842a68062e65d621fa3623d4c9663eb5c3",
+      "ko": "누가 \"잃어버린 시간을 찾아서\"를 조금이라도 건너뛸 생각만 해도 엄청 화가 났지."
+    },
+    {
+      "line": 1558,
+      "event": "secretending_liamjojo",
+      "english_sha256": "64ffb97ed22ad59d4d13011692e46cbb17ef39c88c4f7830bd56422d333ad162",
+      "ko": "괜찮아, 리암! 난 네 열정이 좋아."
+    },
+    {
+      "line": 1559,
+      "event": "secretending_liamjojo",
+      "english_sha256": "78108fbf537efd6c2ad95bd791c64a3131d43b27537c8b1427e6a4f252f36055",
+      "ko": "죠죠에 잔뜩 열 올릴 때는 좀 귀여워 보이기도 했어."
+    },
+    {
+      "line": 1560,
+      "event": "secretending_liamjojo",
+      "english_sha256": "32fc32e88aeec5552896a22dc4b30c29c5026891fb9b40eb3994e99a7a09e311",
+      "ko": "그냥 열정적인 것과 짜증 나게 구는 것 사이의 선은 넘지 마. 알겠지?"
+    },
+    {
+      "line": 1561,
+      "event": "secretending_liamjojo",
+      "english_sha256": "53ac6e1334ec09ff6fbaa811612b076ac5f39b3850488fc1e86627c078894dcb",
+      "ko": "하하, 응... 지적해 줘서 고마워."
+    },
+    {
+      "line": 1562,
+      "event": "secretending_liamjojo",
+      "english_sha256": "acfa5fe8113082ff74c6251204633bf44859347948bcedd4fa54d67b7c192b04",
+      "ko": "언제든지!"
+    },
+    {
+      "line": 1563,
+      "event": "secretending_liamjojo",
+      "english_sha256": "51a9d924aeccf7a75e7fc1fef39e27a613f8ec6c9a22c7e9c97a12f829a62339",
+      "ko": "그래서 생각했는데... 나랑 행사 뒤풀이에 갈래?"
+    },
+    {
+      "line": 1564,
+      "event": "secretending_liamjojo",
+      "english_sha256": "81caa01151a2f5bf209af339f4ff6dd6f3bbefef70056659912e23edc68c2723",
+      "ko": "나도 똑같이 물어보려던 참이야!"
+    },
+    {
+      "line": 1565,
+      "event": "secretending_liamjojo",
+      "english_sha256": "27ff2909313e7b8d06c3f544083cb1ecd642c6fbc6211f9449eaf3f255a6fc30",
+      "ko": "원한다면, 그 뒤에 호텔 방으로 가서..."
+    },
+    {
+      "line": 1566,
+      "event": "secretending_liamjojo",
+      "english_sha256": "ce1e413a61a66cb12e32b9096caf86c55f90155c000068f4a3019ad2a747a35d",
+      "ko": "...죠죠를 좀 보면 어떨까 했어."
+    },
+    {
+      "line": 1567,
+      "event": "secretending_liamjojo",
+      "english_sha256": "6c03ec24de02990e5cf4fb100254e09457a98a930287af40a904f4f58f7bc2cd",
+      "ko": "좋아! 좋아! 좋아! 좋아!"
+    },
+    {
+      "line": 1569,
+      "event": "secretending_liamjojo",
+      "english_sha256": "afadea64abc463655c9ce747ef60bd1d7a24f2c5f337dfbc5975d4e63a8245e0",
+      "ko": "뒤풀이는 정말 즐거워. 리암은 죠죠 인용도 한두 번밖에 안 해!"
+    },
+    {
+      "line": 1570,
+      "event": "secretending_liamjojo",
+      "english_sha256": "ae5f3065be7c2c5d2d663789f4cb65ef663bf43f58813fae58c11f8f1b67521f",
+      "ko": "뒤풀이의 뒤풀이는? 누군가는 죠죠롭게 맛있었다고 하겠네!"
+    },
+    {
+      "line": 1573,
+      "event": "secretending_liamjojo",
+      "english_sha256": "12cd459cbdbfa9a27fbf697edc15bf5b11c32eea31a0b86da0d3d89c85c26ecf",
+      "ko": "줄거리를 따라가기는 존나 어려워. 그래도 모든 게 너무 황당해서 꽤 재밌어!"
+    },
+    {
+      "line": 1574,
+      "event": "secretending_liamjojo",
+      "english_sha256": "6b9037e0029ec7c552b20e5ce801f67a9e0e494516683e2e7d70c28cfd141935",
+      "ko": "무엇보다 리암과 시간을 보내고 그의 열정을 나누는 게 좋아."
+    },
+    {
+      "line": 1575,
+      "event": "secretending_liamjojo",
+      "english_sha256": "4e2097b47a031166860dfd983a5cace22e427e709b01c2419bcd29ea0c8ff3ee",
+      "ko": "어느 순간 넌 화면 대신 리암을 바라봐. 아마 네 번쯤 봤을 에피소드에 푹 빠져 있어."
+    },
+    {
+      "line": 1576,
+      "event": "secretending_liamjojo",
+      "english_sha256": "33d39225443b3b7a9a9c1bd4087f7b2373ec80c689f92084e6b788042e07f94b",
+      "ko": "집중하는 잘생긴 모습을 보니 즐거워. 잠깐은 정말... 시간이 멈춘 것 같아."
+    },
+    {
+      "line": 1577,
+      "event": "secretending_liamjojo",
+      "english_sha256": "a69d074a9c8bdc4f5d66724ee89a85cf51384f6045b58f4a45e7adb5080fa433",
+      "ko": "더 월드!"
+    },
+    {
+      "line": 1583,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "8de65ed22ca59ce0f5078b96d9629433821352253c21d5422eef08466f04eb79",
+      "ko": "드디어 용기를 내서 가장 좋아하는 과도하게 성적 대상화된 미믹에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1585,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "2e82fd27d01b14b80ad328cc4a847839d4f9bc86701669ba4e1c88318692dc73",
+      "ko": "당연히 같이 파티에 가지! 그 정도는 해야지."
+    },
+    {
+      "line": 1586,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "435f65f0adefa5e25e2a82d46894974be3f517bbebc7b767c8d39373c9e18ad2",
+      "ko": "너 없이는 코스프레 그랑프리에서 절대 못 이겼을 거야!"
+    },
+    {
+      "line": 1587,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "acb35052ac7bc7ba1d5a00463b4a3b60958789745c0aacc368947de171e8ff0e",
+      "ko": "맞아, \"젖꼭지를 내놔\" 같은 꽤 좋은 아이디어가 있었지."
+    },
+    {
+      "line": 1588,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "9e2e5d1a2f6e0500248d48352a8076f49d8731c219b42553da9d3a474dc63f52",
+      "ko": "하하, 잘 알지!"
+    },
+    {
+      "line": 1589,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "a9bb3a6a646ed6d8511fb2c72721738115e8832025f05dc23cce02f49f5cd41c",
+      "ko": "그런데 내 젖꼭지가 그렇게 좋으면 나중에 보여 줄 수도 있어... 윙크!"
+    },
+    {
+      "line": 1590,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "16d14bee8d230e3e9e11d033868ba6518aa7192f6030961b384865dc7879cafe",
+      "ko": "지금도 분명 보이지만, 그 제안에 담긴 속뜻에는 절대 불평하지 않을 거야!"
+    },
+    {
+      "line": 1594,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "16bde2dbe675a7e556f69c922528de6b3ddf5ea89a761745dc57b458d649dd00",
+      "ko": "파티도 좋았지만 그 뒤 섹스는 더 좋았어."
+    },
+    {
+      "line": 1595,
+      "event": "secretending_nicocosplay_a",
+      "english_sha256": "8e677b71d9f7ec64ae152c116a4dd3d3b369f9c6f79e0cc9375322bbdd9f5914",
+      "ko": "알맞게 북돋아 주면 니코는 \"과도하게 성적 대상화된 캐릭터\"에 아주 쉽게 몰입하더라... 그리고 넌 확실히 북돋아 줬지!"
+    },
+    {
+      "line": 1601,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "40eb1b45200e5652448e1cafdc81214d301ac34599557cc16550cd2c10b7f37f",
+      "ko": "드디어 용기를 내서 가장 좋아하는 악당에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1603,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "2e82fd27d01b14b80ad328cc4a847839d4f9bc86701669ba4e1c88318692dc73",
+      "ko": "당연히 같이 파티에 가지! 그 정도는 해야지."
+    },
+    {
+      "line": 1604,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "435f65f0adefa5e25e2a82d46894974be3f517bbebc7b767c8d39373c9e18ad2",
+      "ko": "너 없이는 코스프레 그랑프리에서 절대 못 이겼을 거야!"
+    },
+    {
+      "line": 1605,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "9865eb8b669a0a20c12758482b62764eaef51f6eecc428774e6eb45b5358b8be",
+      "ko": "맞아! 악당 노릇 속성 강의가 정말 필요했지."
+    },
+    {
+      "line": 1606,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "4dcc7d625b0ec2dd1f876ee18db8a0c438380f3dfac87b09b23ca1eea8369cae",
+      "ko": "응. 사악한 니코가 내 정신을 영구적으로 바꾼 게 아니길 바랄 뿐이야..."
+    },
+    {
+      "line": 1607,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "46a78981a80efad8513c4593ec8791d4c5b8f36bdef296c17a05381d5e3abc25",
+      "ko": "뭐, 바꿨다고 해도... 꽤 섹시하던데."
+    },
+    {
+      "line": 1608,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "893cad38748af2817bc408ebb634173f624f0435ab1db7d2b9d4b7909d8da223",
+      "ko": "오? 그렇다면 악이 진짜 얼마나 뜨거울 수 있는지 보여 줄게!"
+    },
+    {
+      "line": 1612,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "16bde2dbe675a7e556f69c922528de6b3ddf5ea89a761745dc57b458d649dd00",
+      "ko": "파티도 좋았지만 그 뒤 섹스는 더 좋았어."
+    },
+    {
+      "line": 1613,
+      "event": "secretending_nicocosplay_b",
+      "english_sha256": "5e3a5d001dba5e31b8f16663456719b0a024d113c22247b81e48d43728ba49be",
+      "ko": "사악한 니코는 사악할지 몰라도 침대에선 확실히 훌륭해! 무하하하하!"
+    },
+    {
+      "line": 1619,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "d4530d4b4103406fc0d498586fb95f5ff0fc1f8c69096f989757b4c7a8b2d9b5",
+      "ko": "드디어 용기를 내서 행사장 최고의 김 나는 코스어에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1621,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "2e82fd27d01b14b80ad328cc4a847839d4f9bc86701669ba4e1c88318692dc73",
+      "ko": "당연히 같이 파티에 가지! 그 정도는 해야지."
+    },
+    {
+      "line": 1622,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "435f65f0adefa5e25e2a82d46894974be3f517bbebc7b767c8d39373c9e18ad2",
+      "ko": "너 없이는 코스프레 그랑프리에서 절대 못 이겼을 거야!"
+    },
+    {
+      "line": 1623,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "b08d883b4db8ee97789adb436edd377f258e9e4f5aee847976ff3615874b4df8",
+      "ko": "심지어 스팀펑크가 뭔지도 제대로 몰랐을 거고."
+    },
+    {
+      "line": 1624,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "f9209ef70b0a676c92075b9dca30bbd39dede1ad72ef362bb2a296731bad7fb0",
+      "ko": "...솔직히 아직도 완전히 이해한 것 같진 않아."
+    },
+    {
+      "line": 1625,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "dac3222d2ca32bd2e862ce7d950dbff96cedbeffd8a4ca1bfd4291e88d281d5c",
+      "ko": "뭐 어때? 중요한 건 내가 그 코르셋 입고 엄청 멋졌다는 거야."
+    },
+    {
+      "line": 1626,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "8786c585d387f7fb2efe5eecb59435f163b45617f1fe5e48621296df5935e13d",
+      "ko": "벗으면 더 멋질 것 같은데..."
+    },
+    {
+      "line": 1627,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "0639a81a45982ee3338cc2866d8736a1700f664edef96c9561f681d8992484e9",
+      "ko": "하하, 이 바람둥이!"
+    },
+    {
+      "line": 1631,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "16bde2dbe675a7e556f69c922528de6b3ddf5ea89a761745dc57b458d649dd00",
+      "ko": "파티도 좋았지만 그 뒤 섹스는 더 좋았어."
+    },
+    {
+      "line": 1632,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "b73c0d09367c8e23d7af783b9376180fb35b010384290664b74352f121f77427",
+      "ko": "니코의 톱니, 기어, 호루라기, 버슬, 단추를 전부 떼어 내는 것 자체가 일종의 전희였어."
+    },
+    {
+      "line": 1633,
+      "event": "secretending_nicocosplay_c",
+      "english_sha256": "901b47998a5c2bfda495ea3e92f81e5d8d511bb1eb2ea98d345c27111b2c3d1c",
+      "ko": "어쩌면 스팀펑크의 진짜 핵심은 그거겠네. 몬스터 역사상 가장 뜨겁고 복잡한 섹스를 하는 것!"
+    },
+    {
+      "line": 1639,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "2203d14aed02308fb2a7f60c9fa7afe2d0599081e81550f998d4a3a91687f42a",
+      "ko": "드디어 용기를 내서 아는 것 중 가장 맛있는 팬케이크에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1641,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "2e82fd27d01b14b80ad328cc4a847839d4f9bc86701669ba4e1c88318692dc73",
+      "ko": "당연히 같이 파티에 가지! 그 정도는 해야지."
+    },
+    {
+      "line": 1642,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "435f65f0adefa5e25e2a82d46894974be3f517bbebc7b767c8d39373c9e18ad2",
+      "ko": "너 없이는 코스프레 그랑프리에서 절대 못 이겼을 거야!"
+    },
+    {
+      "line": 1643,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "2e14157153409ee9d3d231514e9284d16a0f465c6e7eaf63616bf2fe16d43e95",
+      "ko": "부탁하면 DJ가 팬케이크 노래 10시간 버전을 틀어 줄까?"
+    },
+    {
+      "line": 1644,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "4f352cd6f8a97127544ed4eb0a1d2767fc8168392a986c5bf1b0d38c7e38e5d0",
+      "ko": "아마도. 하지만 댄스 플로어가 텅 비어도 기분 나빠하지 마."
+    },
+    {
+      "line": 1645,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "327edf2b2b8220c81d4357be236ec400020ee8076924d8e7dbe98ffd315561f3",
+      "ko": "괜찮아. 팬케이크 트월킹 할 공간이 더 생기잖아! 볼래?"
+    },
+    {
+      "line": 1646,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "64bd056d93776f769ecaad95a72564dc1f00e9719e0b7665ce1a0fa51031a7c0",
+      "ko": "응, 제발!"
+    },
+    {
+      "line": 1650,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "16bde2dbe675a7e556f69c922528de6b3ddf5ea89a761745dc57b458d649dd00",
+      "ko": "파티도 좋았지만 그 뒤 섹스는 더 좋았어."
+    },
+    {
+      "line": 1651,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "585f307c4d2394f525a733e3e56d59e557a4e2c20a64d0f2dffc7c8755d2d78b",
+      "ko": "달콤하고 끈적하고 끝나면 간식도 있어... 딱 네 취향이지."
+    },
+    {
+      "line": 1652,
+      "event": "secretending_nicocosplay_d",
+      "english_sha256": "aefa3f7b6e1d6e1bba99f7cf5981d3c00806c30335f1f509abb9dcb559e6c2f8",
+      "ko": "니코는 정말 하루 중 가장 중요한 식사야!"
+    },
+    {
+      "line": 1658,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "6ed8f79bfc435fdfa98e6d83ff141a110d717507c748075b57ccb37684880b72",
+      "ko": "니코를 찾아 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1661,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "ffcee3942fe7b7129050898b6c7a574f3d9d0782b9a9cbf42e2eaa54df206ab8",
+      "ko": "뒤풀이? 그러고 싶은데 %CURRENTPLAYERNAME%, 내일 사건 공부를 해야 해."
+    },
+    {
+      "line": 1662,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "ec50f7614039157a760b111f84a2d795558da001219a1f32bd9d590cfb4ea296",
+      "ko": "좋은 변호사는 언제나 준비돼 있지!"
+    },
+    {
+      "line": 1663,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "6cf6eddb3e8a726a94db1f430a4d1570511a8a637ebb3950144847cede7468e5",
+      "ko": "니코... 재밌었지만 너 진짜 변호사는 아닌 거 알지?"
+    },
+    {
+      "line": 1664,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "f7264c5e910c5d07118c216a06801bbfb6f39aab2a059bfac7bd3e4cfbf7369f",
+      "ko": "있잖아, \"법조 자격 학위\" 같은 번지르르한 건 없는 거 알아..."
+    },
+    {
+      "line": 1665,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "ffde35114b4f396e9257db2d5aa7e72deea8045bf17a20def8186c16e3c70a8e",
+      "ko": "하지만 더 좋은 게 있어. 무슨 수를 써서든 의뢰인을 지키려는 의지!"
+    },
+    {
+      "line": 1666,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "21974ee9a5ef97b833184b6e73b678fcf8c9402807314dcfe97120532d25172b",
+      "ko": "네가 믿음직한 법률 보조로 함께하면 우린 지지 않아!"
+    },
+    {
+      "line": 1667,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "0cdd20c922a1ea6a60c15dd3b3da8e8ddfc2e01a28e8a376916882f22df748bd",
+      "ko": "그러니 다음 사건도 함께하지 않을래? 몬스트로폴리스 시민들이 니코 샤프: 페이스 어토니를 믿고 있어!"
+    },
+    {
+      "line": 1668,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "a8f50558ff83cfdbf4678bf6529328c7f1c27b85b0e4d7fda8b88144a6ab8afc",
+      "ko": "뭐... 적어도 속편 두 개 정도 나올 여지는 있겠네."
+    },
+    {
+      "line": 1669,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "c847fdc1d94646d6d9aa4b238777993c716943a32cb36536aaa894ba511215af",
+      "ko": "누가 찾아 주면 좋잖아. 당장 체포될 것 같지도 않고... 그러니 변호사로 간다!"
+    },
+    {
+      "line": 1673,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "6067d9c697b28f8956654cd8cc9e6b12e95c400aa61652203ecf2982c6a3696f",
+      "ko": "니코는 그 뒤에도 법정에서 많은 소동을 겪었어."
+    },
+    {
+      "line": 1674,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "e1331419902716925f89ba7be93ccabb8c90e19fa0e2bdc33e6b8b24b77a1546",
+      "ko": "증거를 조작하고, 살인범을 무죄로 만들고, \"이의 있음!\"을 엄청 외쳤지..."
+    },
+    {
+      "line": 1675,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "32b6a18b1ad48615f92c960e1ad768f04ea856a704496506faaedcfb43e5db73",
+      "ko": "몬스트로폴리스 범죄계가 분명 더 나빠졌지만, 니코가 그렇게 행복한 걸 보려면 작은 대가야."
+    },
+    {
+      "line": 1676,
+      "event": "secretending_nicoattorney",
+      "english_sha256": "864adddf59cd1234767dda571ae508b9a490f9c0bfe57372bc453ca4f08ea384",
+      "ko": "사건 종결!"
+    },
+    {
+      "line": 1682,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "bbc98527e8a37b228fd58dffa83c71c592c0c9edc4b189c89507e405969e7f60",
+      "ko": "파티에 초대하려고 오멘을 찾지만, 오히려 오멘이 먼저 널 찾아."
+    },
+    {
+      "line": 1684,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "c262b3ddc236e6404d61ef330a96fbb0e575575c613edf6dc377f8b53c28a767",
+      "ko": "%CURRENTPLAYERNAMECAPS%!!! 믿기지 않을 거야!"
+    },
+    {
+      "line": 1685,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "bbd829bb1a505feed6248035975578ac7792d4aa2ce225851e031a52b6bb876e",
+      "ko": "리암이 진짜 마녀회를 설득해서 몇 시간 동안 망토를 벗어도 된대!"
+    },
+    {
+      "line": 1686,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "1abb2137daf21f1326a608ddd43b058a33a296aae88e599c202f79cb119adeec",
+      "ko": "그 지루한 새끼가 쓸모 있을 때도 있다니 누가 알았겠어?"
+    },
+    {
+      "line": 1687,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "a512967cbb66d2c3d0302e70657f5726cffcea39a013ffdaf0eb848b0af01910",
+      "ko": "이러면 힘의 일부라도 끌어낼 수 있겠지."
+    },
+    {
+      "line": 1688,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "db518e8baefdf874884c44d8e261bd08bd42c3a6e3e7e4053221eb2023587f01",
+      "ko": "대단해, 오멘! 무슨 주문부터 쓰고 싶어?"
+    },
+    {
+      "line": 1689,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "524155cfe764139ce573fc9e65a412e99c3919db9278b2ab6740a7a47c5c26f8",
+      "ko": "사실... 마법은 쓰지 않기로 했어."
+    },
+    {
+      "line": 1690,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "cb35d0e9065483bced188dd12c3c9953dfa3bf7494e6e3606aa545804e19614e",
+      "ko": "뭐? 망토를 벗고 싶은 이유가 그거 아니었어?"
+    },
+    {
+      "line": 1691,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "859e2a4c17d45905a817d3f93db433de672ff64664be32e832618333a8debecd",
+      "ko": "처음엔 그랬지. 하지만 이제 알겠어. 옷 없이 하고 싶은 [i]다른[/i] 일이 있더군."
+    },
+    {
+      "line": 1692,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "..."
+    },
+    {
+      "line": 1693,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "bf440fccbfb2a83b944626ee1a0d690b9485dcf7488ce15dfea017663d31ef13",
+      "ko": "섹스 얘기야."
+    },
+    {
+      "line": 1694,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "b40f700935850c5667a16c21bf657eb81e5951f07c1f0e13491b8a1c63688ba9",
+      "ko": "너랑."
+    },
+    {
+      "line": 1695,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "d637b340265fef7e0b0a3ea81dac2e74846e3644f4aabb21393c4eac1fee9a35",
+      "ko": "응, 알아들었어. 좋아!"
+    },
+    {
+      "line": 1696,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "05489e553a715bd27faca125abfbe5f3fb59afcd58458760642ddfe9496bba22",
+      "ko": "당연히 좋겠지! 무하하하!"
+    },
+    {
+      "line": 1700,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "503c0b35c4fcd567cd94a7694d3fee287f14b22d1765d482b57ae863ed919af7",
+      "ko": "100년 넘게 연습을 못 했다는 걸 생각하면 오멘은 놀랍도록 침대에서 훌륭해."
+    },
+    {
+      "line": 1701,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "c66491456e454055e640c31cb5109baf5aa954bc307ea59e9b1357dbadbdcdff",
+      "ko": "너랑 떡치려고 마법으로 사람 속을 뒤집을 기회를 포기했다니 믿기지 않아! 생각보다 갱생에 가까울지도?"
+    },
+    {
+      "line": 1702,
+      "event": "secretending_omenthwartedpower",
+      "english_sha256": "10c6b193c5833b4aaa02160e025f23c5ffcb62aaeb8699bc64a42dfa345398bb",
+      "ko": "아니면 사악함보다 발정이 더 강한 걸지도. 어느 쪽이든 승리야!"
+    },
+    {
+      "line": 1708,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "2ee6e95fe940d7c924af62024c874654eee618d0a38606888feae612fcf075da",
+      "ko": "오멘에게 안부를 물으러 가. 지난 며칠은 꽤 격렬했지!"
+    },
+    {
+      "line": 1710,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "3c5d384cb98289bb6f46edba31600874deb5a215663b98711cd26b1c62fdad8d",
+      "ko": "오멘, 안녕! 잘 지내?"
+    },
+    {
+      "line": 1711,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "e7bced1f7ec7857e48b5b3a7c0a5f1773800cc90e4dcd0b0038235a22378180f",
+      "ko": "안녕, %CURRENTPLAYERNAME%."
+    },
+    {
+      "line": 1712,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "3fc0591849604b9abe9e0a5450eb281d1a6ca0cef843130545766b1845c55fc0",
+      "ko": "난... 사실 꽤 잘 지내고 있어."
+    },
+    {
+      "line": 1713,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "05faf59cd6564bef62f180ad8dfde382fa8f81c21a03998cc2eb6429587b90cc",
+      "ko": "아, 정말?"
+    },
+    {
+      "line": 1714,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "cb7f5d68e2cc5f43b8de7cae03e26919c4f6d8401620b880ab29188758a22b49",
+      "ko": "응. 멍청한 리암 말이 틀리진 않았어. 과거와 마주하고 잘못을 고치려 하니 어쩐지 해방된 기분이더군."
+    },
+    {
+      "line": 1715,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "9f3dca079688fed6e781e89bc3129ae987f555ac2115fff82f9c1bc257014aaf",
+      "ko": "그렇다니 정말 좋네!"
+    },
+    {
+      "line": 1716,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "3d14800416231f8462dfd7b0b78b319cff0c878a9f50cc9751a1931ed41f5905",
+      "ko": "슬레이어들한테 연락 왔어?"
+    },
+    {
+      "line": 1717,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "60aaf6de12058035bd8b76411c6c3ca45b61dc5d082a932a6c55234d13801fb6",
+      "ko": "사실 왔어. 오늘 일찍 연락해서 면담을 했지."
+    },
+    {
+      "line": 1718,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "a1f1233f156433abc50a3b0c851ce8d6b9f269fd49171bf01bd8168b44f789ab",
+      "ko": "마녀회가 보증해 줬나 봐. 슬레이어들은 임무 몇 개에 동행하면 도움이 될 수 있겠다고 했어."
+    },
+    {
+      "line": 1719,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "3765ea16037b1bc3a463f8fe8b02e133ab6d3eb72d7cb4748dacec664684bc1f",
+      "ko": "좋다!"
+    },
+    {
+      "line": 1720,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "4a21fdb814cf70f7f3a4aafcabd9d74185df13830774735afb64d84bd900ae13",
+      "ko": "그리고 최근 몇 년 동안 독자적으로 활동한 이탈 슬레이어를 알게 된 모양이더군."
+    },
+    {
+      "line": 1721,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "f65b9d5e81d6118da44f228c289d49f39c6b74613c2513f9dfcc1f90c85cfc8a",
+      "ko": "독립적으로 활동하는 건 슬레이어 규율에 어긋나서 어떻게 해야 할지 망설이고 있어."
+    },
+    {
+      "line": 1722,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "6c7a88149588ffcbf5a32bc522a884adc6b02dd31433a32ea0f43de3b3e513e0",
+      "ko": "하지만 슬레이어의 방식이 중요한 걸 알고 나도 이탈했던 만큼, 내가 접촉할 수 있을 거라고 했지."
+    },
+    {
+      "line": 1723,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "c66d5c1e55d3a8a7b5c4b7fe47c2455d7353f815d1185f47151ccecf199747de",
+      "ko": "사실 물어보고 싶었는데... 대답하기 싫으면 안 해도 돼... 왜 이탈했어?"
+    },
+    {
+      "line": 1724,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "44fd85a04129a277a3d8c70bf22f9147df6e14bbd0553db7428eb4ccbd90df5c",
+      "ko": "아니, 괜찮아."
+    },
+    {
+      "line": 1725,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "2d802ad4cf139c2b03341382f71ad91e5857a73b654ba1ac40bf65d799f94e4c",
+      "ko": "난... 조급해졌어."
+    },
+    {
+      "line": 1726,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "f3372a61bc29817231f4d18ba26df068e8a7134b38b4c72189a562cc808a4b71",
+      "ko": "슬레이어의 방식은 집단을 향한 큰 신뢰와 아주 많은 인내심이 필요해."
+    },
+    {
+      "line": 1727,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "b392c64b5235bf72a2dbddb0244f39a67c6c78530c4ef789fb5271235c7db20d",
+      "ko": "때로는 평생의 일이 슬레이어의 사명이라는 거대한 기계의 작은 톱니일 뿐이라는 걸 받아들여야 하지."
+    },
+    {
+      "line": 1728,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "8c64f2a993ac2810278f6da8ee1b6eeb912feb1c105fbbf90a7032377df123c4",
+      "ko": "결과는 여러 세대가 지난 뒤에야 보일 수도 있어."
+    },
+    {
+      "line": 1729,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "29d087141875a35fd44f6e818f24f5f345720b5e33c8ccb81022a55c5191e76d",
+      "ko": "그래서 가끔, 대개 재능 있는 슬레이어가 자신은 다르다고, 더 빨리 해낼 수 있다고 믿게 돼."
+    },
+    {
+      "line": 1730,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "9e1dca9736c46a0e95055713e79c5fbe360448c04703316b53c9074501c59063",
+      "ko": "나도 그랬어. 나 혼자 몬스터 종족의 창이 될 수 있다고 믿었지."
+    },
+    {
+      "line": 1731,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "8fb8256f105fa3df227d83fefa5fdf8bd7988f9e942a1576a3426bfd50639fab",
+      "ko": "하지만 슬레이어의 방식을 믿는다면 누구도 혼자 그게 될 순 없어. 우리 모두가 함께 몬스터 종족의 창인 거야."
+    },
+    {
+      "line": 1732,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "420c703b11610f7b7a8e910dc406505b7bda360bb628955d4625a5a8d7c3005c",
+      "ko": "그렇구나."
+    },
+    {
+      "line": 1733,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "a187767c1b931ada60d33116636b0467102cd3e32ab8265ed4dfa8d464618855",
+      "ko": "그 야망을 이루려면 힘을 얻어야 하고... 힘은 타락시키기 쉽지."
+    },
+    {
+      "line": 1734,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "d787fe638ce112928a4d0a1b94031ab12ac3e890d4fff99d60fdf9a0a274274d",
+      "ko": "난 다르다고 생각했지만, 거의 모든 이탈 슬레이어와 같은 결말을 맞았어."
+    },
+    {
+      "line": 1735,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "47d1092aff399ab6df678c91491cc6ed6174153afcae8af1dab81ce1d7bae6af",
+      "ko": "아니, 오멘. 다른 이탈 슬레이어와 같은 결말은 아니야... 네 이야기는 아직 끝나지 않았으니까."
+    },
+    {
+      "line": 1736,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "081de49eccbe701001091e30d5617b4631cdb4a5508ee5fe8a84a04d4182ab09",
+      "ko": "잘못은 했지만, 바뀌려고 노력하는 걸 봤어."
+    },
+    {
+      "line": 1737,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "bc683e059beea479be2c1f201377672b662d52bb2daf46c88bfbf72904c02188",
+      "ko": "틀릴 수도 있지만, 난 네가 다가올 좋은 일의 징조라고 믿기로 했어."
+    },
+    {
+      "line": 1738,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "0d94ed3cc70dd2192f059028397b4ddc93587eb313fae7756728b8c02dc3d5d8",
+      "ko": "%CURRENTPLAYERNAME%..."
+    },
+    {
+      "line": 1739,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "8569efc4ed5a6273140c2b6ec0ab8d99f4398210808fbb7c0cbbae4fbcc21350",
+      "ko": "고마워."
+    },
+    {
+      "line": 1741,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "fee451dfd5c56f1eda3cfc0f15820396256dd488d138ee5f076a7e08a178f383",
+      "ko": "너와 오멘은 함께 시간을 보내. 오멘은... 평온해 보여."
+    },
+    {
+      "line": 1744,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "91f5907e4e1fa80dcd3d942f1da43f6b0c403d5349a0134160dc82de208095b2",
+      "ko": "마음을 열고 슬레이어 시절의 전쟁 이야기를 몇 가지 들려줘."
+    },
+    {
+      "line": 1745,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "1c8579115500c041d0da4655adfa433cd9be46280d50aa8cafccd4cc9177be66",
+      "ko": "얼마 지나지 않아 새로운 이야기도 생기지."
+    },
+    {
+      "line": 1746,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "1499a7d46de85038017b5ca62b6c9f278e37167a4c6746c0e56796effb9f52e7",
+      "ko": "오멘은 슬레이어들의 소중한 전력임을 증명하며, 느리지만 꾸준히 선의 세력 쪽으로 기울도록 도와."
+    },
+    {
+      "line": 1747,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "31904a36089f4eb113d99ae8dd633e19ac408d1055ab570baeaa22f949c03b41",
+      "ko": "무엇보다 중요한 건 갱생 서사 프로그램을 계속 따르며 다른 사람의 과정까지 돕는다는 거야."
+    },
+    {
+      "line": 1748,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "e7e36feb4fc9dfb8c29edb58a1e178ec7563ddb6b23c5335618fb203f6ae74bb",
+      "ko": "그건 리암이 옳았다고 대놓고 인정하지 않으면서도 고마움을 보여 주는 자기만의 방식이 돼."
+    },
+    {
+      "line": 1749,
+      "event": "secretending_omenredeemed",
+      "english_sha256": "ccba0a4435e1771f61195b7188a70a965a495fd791ddbd4b1334a67c7e456dff",
+      "ko": "넌 곁에서 그 성장을 지켜보며 행복해."
+    },
+    {
+      "line": 1755,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "d2012567056a75306e43ea60f191f531a5a82760642db00693c094d5d61ba9b6",
+      "ko": "드디어 용기를 내서 사랑하는 상대에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1757,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "8c2a443baa8da42cd81d25e2a79547588e299d76699dc0102ab62abf6ad123c8",
+      "ko": "뒤풀이가 오늘 밤이라고? 아, 젠장!"
+    },
+    {
+      "line": 1758,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "5b3c6146600295b16684204a900553d9330a99c621a1961c308dd641c1fc92a0",
+      "ko": "가고 싶은데 오늘 밤엔 곧 나올 \"리암 프롬\" 웹시리즈 공개 축하 파티가 있어!"
+    },
+    {
+      "line": 1759,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "226c499dcf09872a4b4bdfd48c1e1fc00775fd3b60f411cacf0cc96abdd707b4",
+      "ko": "원하면 거기로 와도 돼. 어쨌든 너 없이는 불가능했으니까."
+    },
+    {
+      "line": 1760,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "232f71fa10ba75245f5d84f1ab25d485916a70a8dbcb4837134ed4e14c100500",
+      "ko": "네가 내 꿈을 완전히 이뤄 줬어!"
+    },
+    {
+      "line": 1761,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "3e861f916ef43f7e28647ab5204158ee5976ed3c324a2c75851db3228491145c",
+      "ko": "아아! \"리암 프롬\"을 다음 단계로 올리도록 도와서 영광이야."
+    },
+    {
+      "line": 1762,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "c0aae3a41d20529747d6f95d2e44b64a00bfd6174d2f0528158e1ca469949ddb",
+      "ko": "뭐? 아, 응, 그것도 멋지지만 한정판 가필드 란제리를 갖는 꿈 얘기였어!"
+    },
+    {
+      "line": 1763,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "35cbdd029fc01cc1343ee25d5d2c73cc379a5e149563917884ac43fb6427a2b5",
+      "ko": "공개 파티 뒤에... 보여 줄까?"
+    },
+    {
+      "line": 1764,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "446a7b646ee46dc220eb4aebd6ab3439537ac999f4a9ff77784fed96dbbb1868",
+      "ko": "응, 제발!"
+    },
+    {
+      "line": 1768,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "f4817cbe7c2d299d62dfbd7558b742cc1a4c07307150373cb786bf8e08443828",
+      "ko": "아, 조이. 대단한 여자야."
+    },
+    {
+      "line": 1769,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "c2d5855393baed05beffdc1a9ef9becadf8ec42f1a6a4009961f964c43b4a0c3",
+      "ko": "덕후이자, 베스트셀러 작가이자, 가필드 광팬이자, 파괴와 절망의 전직 신이기도 하지..."
+    },
+    {
+      "line": 1770,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "8a151f26fb006a69da3f0db35aa39992fd850a071e3019478556a10656a5597d",
+      "ko": "시끄럽고, 자신감 있고, 이상하고 멋진 자기 자신을 거리낌 없이 드러내."
+    },
+    {
+      "line": 1771,
+      "event": "secretending_zoeliamprom",
+      "english_sha256": "8759c6a30406dd89e38842e27d6a950327c6145b75988bb884352089eb12d435",
+      "ko": "무엇보다 침대에선 괴물이야. 어허라!"
+    },
+    {
+      "line": 1777,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "cc461b6b5d6f419385395d065c5f39a9503615976dee7eb18ec8e9cc35df6e3a",
+      "ko": "친구들에게 안부를 물으러 가. 최근 인어 왕국에서 벌인 모험 때문에 아직 머리가 빙빙 돌아."
+    },
+    {
+      "line": 1779,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "1aeaedce3231e0ad9c691951a71eb51305fff2893e7cebcce90929a6b4ebd38b",
+      "ko": "그거... 굉장했지, 그렇지?"
+    },
+    {
+      "line": 1780,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "90376acf272e2ddc774e814a1ab0964f7adb38dc6ac625520b2a020fff75f718",
+      "ko": "너무 축소해서 말하는군."
+    },
+    {
+      "line": 1781,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "d5bdeecc7368ccde1da99638a613fe51dfd100dce858b2d1f545ac3a7b7c89a5",
+      "ko": "하지만 해냈잖아! 그 찌질이를 두들겨 패서 무의 세계로 돌려보냈어."
+    },
+    {
+      "line": 1782,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "1b5e9324ba6b892b9b2e004e0b234e4098ee34c8d88d1d1ceafec6bba6f48b6a",
+      "ko": "그래도... 아슬아슬했어. 더 강해져야 해."
+    },
+    {
+      "line": 1783,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "d124f71cb49acd5d31bc7b9ec462f928398d9dd02ac7ae57d5d117b2dc2a6d05",
+      "ko": "틀린 말은 아니야, 리암. 하지만 좋은 쪽을 보자. 갱생 서사 프로그램에 관한 네 직감이 옳았어!"
+    },
+    {
+      "line": 1784,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "d477ef18eb32cecf67eb253bce68dedc560a96eef9fee01f1e9764ef632b3fe0",
+      "ko": "우리가 없었다면 마녀회가 아드리앵에게 확인하러 갈 시간이 없었을지도 몰라... 그럼 어떻게 됐을까?"
+    },
+    {
+      "line": 1785,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "f5c5a9f53ba8103d23d755aa9f0f6b1b22f122fd9eea93fe593d490db42ecf09",
+      "ko": "제라드, 오멘, 누 같은 사람들이 합류할 준비가 됐을 때를 상상해 봐!"
+    },
+    {
+      "line": 1786,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "4270a50fc409b8208b9c871c517dc9864ce6915d68a301ea4e31a8fad2ed069d",
+      "ko": "흠... 그렇군."
+    },
+    {
+      "line": 1787,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "8d78456a14ec0c120511c0a232ab7399f1ddd1e25ac15d70e178c2d38cfadd05",
+      "ko": "지금은 %CURRENTPLAYERNAME%이 함께해서 운이 좋았다고 해야겠지?"
+    },
+    {
+      "line": 1788,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "f14796fee08ec7697945d6de12d554337cf49e6ad23fd6dd2c5d5245b7b27b47",
+      "ko": "음... 뭐, %HESHE% %VERB_WAS_WERE% 술 만드는 실력이 나쁘지 않았다는 건 인정해야겠네."
+    },
+    {
+      "line": 1789,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "ff055bd06ed3278c65b6d6b165608eae2fcfe5994b8fd93dd1cae0d8396bb32b",
+      "ko": "리암!"
+    },
+    {
+      "line": 1793,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "fcbdc9dc207a292e8ed0211d2e640178e2da56141e51dde994b23321e63e226d",
+      "ko": "셋은 임무의 명장면을 떠올리며 남은 저녁 동안 서로를 북돋아 줘."
+    },
+    {
+      "line": 1794,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "d7b8da4db491a08b0d564376b64f2dab3ed64d3c67c712090a97508cd6b65469",
+      "ko": "그런 다음 술을 만들고, 알딸딸해지면 이 새 안티히어로 모임의 멋진 이름을 구상하기로 해."
+    },
+    {
+      "line": 1795,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "b370bcca616740036fb7639f88eadfb1114d6ce90cee80ab07a744b4e0570680",
+      "ko": "방에는 폭풍 뒤의 고요에서 흔히 느끼는 홀가분함이 가득해."
+    },
+    {
+      "line": 1796,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "1d1385f483f75ce1b19171718b0093924634bb901774260802abe6d20d9271d9",
+      "ko": "이제 세상이 조금 더 잘 지켜진다는 생각이 좋아."
+    },
+    {
+      "line": 1797,
+      "event": "secretending_zoeoldones",
+      "english_sha256": "485feffe0cf1a7da6ab8991e4cf34b61e866cb155e0c0d27c7173a5301e3fb67",
+      "ko": "오늘 그걸 지키는 데 네가 한몫했다는 생각도."
+    },
+    {
+      "line": 1803,
+      "event": "secretending_furryadventure",
+      "english_sha256": "61f04d78398438ef38855dc2829be0ecf89d3f8130d2b2b9150cde7420b709d4",
+      "ko": "친구들에게 파티에 함께 가자고 하지 않았어... 새 친구 프란츠와 그 모든 걸 겪었는데 어떻게 다른 사람을 데려가겠어?"
+    },
+    {
+      "line": 1805,
+      "event": "secretending_furryadventure",
+      "english_sha256": "f8b50c3c792106eaeb2c983ad611d9091aca57282e8b2a16af1cfebe48285482",
+      "ko": "아아, 너랑 파티 가고 싶어!"
+    },
+    {
+      "line": 1806,
+      "event": "secretending_furryadventure",
+      "english_sha256": "c392521a7ad6b5b553f8a03c8a682cfed6c98b7aefc050268137ce1c563a53ef",
+      "ko": "초대해 줘서 기뻐. 작은 깜짝 선물이 있거든... 내가 뭘 샀는지 봐!"
+    },
+    {
+      "line": 1807,
+      "event": "secretending_furryadventure",
+      "english_sha256": "8c8d8b2500e9e3ecc439904c03dd92a5f3329940cc00971caac7d092b8b69f35",
+      "ko": "세상에!!! 프란츠, 설마!"
+    },
+    {
+      "line": 1808,
+      "event": "secretending_furryadventure",
+      "english_sha256": "c60c4148bdcc6cc67acba2c11a6b49a2155742351defff1e7fcb6260269f39ba",
+      "ko": "맞아! 매장에 마지막으로 남은 거였는데 네가 얼마나 원했는지 알고, 너한테 딱 맞잖아."
+    },
+    {
+      "line": 1809,
+      "event": "secretending_furryadventure",
+      "english_sha256": "d2da508dad8cc4e1b9af81991b952f752c9b391eb35873beddbe1a0285b7228f",
+      "ko": "하지만 엄청 비쌌는데!"
+    },
+    {
+      "line": 1810,
+      "event": "secretending_furryadventure",
+      "english_sha256": "0a64b986305a578c3cba60463aaddeda7e2579dee80b00fe09353c22b71d09c7",
+      "ko": "걱정 마, 친구. 난 로켓 과학자야. 쓸 돈은 많아."
+    },
+    {
+      "line": 1811,
+      "event": "secretending_furryadventure",
+      "english_sha256": "a104989961988a66adec8a59e482ebe28c30a3417f336947e083919e8a8be021",
+      "ko": "뭐라고?!"
+    },
+    {
+      "line": 1812,
+      "event": "secretending_furryadventure",
+      "english_sha256": "58887f3a36d08667fd4a63bac2258cc82ffcbdb853a24dfb04c71aee184fe2ff",
+      "ko": "퍼리와 기술자의 엄청난 중복을 몰랐어? 우리가 무슨 돈으로 퍼슈트를 사겠어, 바보야?"
+    },
+    {
+      "line": 1813,
+      "event": "secretending_furryadventure",
+      "english_sha256": "b865765cf6b4ab79b2fca19ca41fb169895b72d8f2535df0d645d0bde6c95e9b",
+      "ko": "아무튼 파티에 늦지 않으려면 가야겠어. 댄스 플로어에서 꼬리 흔들 준비 됐어!"
+    },
+    {
+      "line": 1817,
+      "event": "secretending_furryadventure",
+      "english_sha256": "cc8419ca852617210b112123ee1b143b43e3d2b0339674f97f03b78c2fe880cc",
+      "ko": "프란츠 퍼디난트... 참 훌륭한 여우야!"
+    },
+    {
+      "line": 1818,
+      "event": "secretending_furryadventure",
+      "english_sha256": "a7cfa627480b438d8bac7daf553f791a2586eb6eabbcfea507d400a4ac953d54",
+      "ko": "사랑을 쫓으러 행사에 온 줄 알았지만, 결국 쫓은 건 퍼슈트의 짜릿함이었네."
+    },
+    {
+      "line": 1819,
+      "event": "secretending_furryadventure",
+      "english_sha256": "e8d260c98ad1b9d5f43d17cbda4f39810d795c787df108949e721c21fb01b639",
+      "ko": "정식 퍼리가 될지는 더 생각해 봐야겠지만, 오늘 밤은 의상을 입고 이 이상하고 멋진 경험을 즐기기로 해."
+    },
+    {
+      "line": 1820,
+      "event": "secretending_furryadventure",
+      "english_sha256": "8443cd7d150af65ca114a31f28537cd63565fe74f5a14a1eb2042da534ae3d58",
+      "ko": "UwU!"
+    },
+    {
+      "line": 1826,
+      "event": "secretending_beachday",
+      "english_sha256": "40ad0f17874168d90e6452e56a04a2003f090279caf20d029869fbb9c214c37e",
+      "ko": "뒤풀이 따위를 누가 신경 써? 해변 가는 날이야!"
+    },
+    {
+      "line": 1831,
+      "event": "secretending_beachday",
+      "english_sha256": "7e291b457f42a90b868a06ee77253da3897de3c6c18586b73a700c6ed26879a2",
+      "ko": "%CURRENTPLAYERNAME%! 갈 준비 됐어?"
+    },
+    {
+      "line": 1832,
+      "event": "secretending_beachday",
+      "english_sha256": "5c3ecc2d8216d992489d0ee7e48b0a24304c7039d92a224f858eada29c0599bb",
+      "ko": "아직도 우리가 이걸 한다는 게 믿기지 않아."
+    },
+    {
+      "line": 1833,
+      "event": "secretending_beachday",
+      "english_sha256": "7612207613569ae1a2d23a4405fbc00d53ec7a735d444f02fe4d26100170d07a",
+      "ko": "믿으라고, 기집애. 엉덩이에 모래 낄 시간이니까!"
+    },
+    {
+      "line": 1834,
+      "event": "secretending_beachday",
+      "english_sha256": "88a75af44829e8056a739f09b7e61646e740ea901926747d5803f978d0db0853",
+      "ko": "그리고 비치발리볼도!"
+    },
+    {
+      "line": 1835,
+      "event": "secretending_beachday",
+      "english_sha256": "06a42605c6a7d6c38e9f6d6b126ffa9a126b50ba2b30700faeff0ddc5c93eabe",
+      "ko": "수박 깨기도!"
+    },
+    {
+      "line": 1836,
+      "event": "secretending_beachday",
+      "english_sha256": "1430ee78fba8bc0ef7cc4298c0372e3121a6faf65d8456ab9082928fe1ff85bd",
+      "ko": "끔찍하게 햇볕에 타기도..."
+    },
+    {
+      "line": 1837,
+      "event": "secretending_beachday",
+      "english_sha256": "ee1a127e87da49f3bc94f83c47b9eefad694ff42bfc53ec9975f5b1bf7e27700",
+      "ko": "그 자세야, 리암!"
+    },
+    {
+      "line": 1838,
+      "event": "secretending_beachday",
+      "english_sha256": "3f3d8bc93ae53cb7ed4fc0859988ecee2469f8bebe50c63e6616ac9e83028b86",
+      "ko": "해변 가는 나아아알!"
+    },
+    {
+      "line": 1842,
+      "event": "secretending_beachday",
+      "english_sha256": "27941562fc4d89f60ee6a8354cc745db3c059b825fbf4f962c0aa2f43223135b",
+      "ko": "진정 모든 해변 나들이의 종결자였어."
+    },
+    {
+      "line": 1843,
+      "event": "secretending_beachday",
+      "english_sha256": "391149f798de582186d3d67d571a7980044c9cc9bf764d95388019ebbcd41bc8",
+      "ko": "수영하고, 일광욕하고, 누구 못지않게 수박도 깼지..."
+    },
+    {
+      "line": 1844,
+      "event": "secretending_beachday",
+      "english_sha256": "55ad65b078d52ad774ce518bcd0372f7f71c54f78c378c204424f5e92d5c15ee",
+      "ko": "수영복 입은 친구들은 예상할 수 있는 것보다 훨씬 섹시했어."
+    },
+    {
+      "line": 1845,
+      "event": "secretending_beachday",
+      "english_sha256": "145e1225a08821c8dffa6e7de7e0de971404a66bdc53b0ea017d2f3247e2e7c9",
+      "ko": "행사는 오고 가지만 해변 에피소드는? 하나뿐인 특별한 것이지!"
+    },
+    {
+      "line": 1852,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "84a9fea60332f910f516055cde9c097cb5e003fa28d487a49f3d45b35ae25066",
+      "ko": "드디어 용기를 내서 \"리암 프롬\"에 접속하고 가장 좋아하는 리암에게 프롬에 함께 가자고 해!"
+    },
+    {
+      "line": 1854,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "800ae926e90044e7e344d293ec3417395e1d035a8a318b4fcfbae2629e9d58b8",
+      "ko": "나랑... 리암 프롬에 가고 싶다고? 리암들 중 제일 리암답지 않은 나랑?"
+    },
+    {
+      "line": 1855,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "1681c2ae5ddb5aef84a6a217003ebb2745298d6936d23d7e0711e4fd4b49b423",
+      "ko": "저 찌질이들에겐 제일 리암답지 않을지 몰라도, 넌 내 마음을 훔친 리암이야."
+    },
+    {
+      "line": 1856,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "19591dc66be626bf80a3c0a5df908270339192c2e07421230095154fa698a064",
+      "ko": "네 심장을 훔쳤다고? 어떻게?! 숨 쉬려면 필요하지 않아?!"
+    },
+    {
+      "line": 1857,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "61d59da82743d4cd2e4cdf8a19a17ae8e63bf4716a2cd98347477abd0bf26a72",
+      "ko": "어, 그냥 비유였어... 그리고 숨은 폐로 쉬잖아."
+    },
+    {
+      "line": 1858,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "0750b537bea2e38215071edf657084736ae2fde2d7e55d7f5917675b7d49206e",
+      "ko": "맞아, 맞아... 해부학은 잘 못하거든."
+    },
+    {
+      "line": 1859,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "5e4b87e75f834c848d6173369f6cf7feb7bf19e25ed330d00f36265e6f5348b0",
+      "ko": "그래도 네가 나중에 좀 더... [i]깊이 있는[/i] 해부학 수업을 해 줄 수 있겠지."
+    },
+    {
+      "line": 1860,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "aafa3a3cf7004cf2d6a8ddc5a2ae2a1395310daa066d05e527f975339575892e",
+      "ko": "[sin]오오오![/sin]"
+    },
+    {
+      "line": 1864,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "04aa194b476613238314e88396bbc07e090767f8d440b7fa112330121b6a3cb7",
+      "ko": "리암 프롬은 마법 같았어!"
+    },
+    {
+      "line": 1865,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "f08310fe37ac543adbb91203f9eab8ba016227cf8c54ace5a01fb05af19d7f93",
+      "ko": "근육질 리암은 춤은 별로지만 널 바벨로 삼아 댄스 플로어에서 벤치프레스를 했어. 어쩌면 훨씬 더 섹시하지."
+    },
+    {
+      "line": 1866,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "94c15e9bc0f299bd2c27f914abd11ed0c0a6caa0ddf2681538c1017533f86b6b",
+      "ko": "네게도 만족스러운 경험이었지만, 현실의 리암 드 리옹쿠르도 드디어 근육질이 되는 비밀 환상을 실현해서 만족했어."
+    },
+    {
+      "line": 1867,
+      "event": "secretending_liampromultimate_a",
+      "english_sha256": "6f5e73d4bb8674aee096671fa09c02b687fd6738bded8265427c8922d4f6700f",
+      "ko": "언젠가 내게 고마워할걸!"
+    },
+    {
+      "line": 1874,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "84a9fea60332f910f516055cde9c097cb5e003fa28d487a49f3d45b35ae25066",
+      "ko": "드디어 용기를 내서 \"리암 프롬\"에 접속하고 가장 좋아하는 리암에게 프롬에 함께 가자고 해!"
+    },
+    {
+      "line": 1876,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "307c6d3ee1dd55fd6b0f615039f1c4d82bfbe37bd9b6e486619cd1ff16ea205f",
+      "ko": "프롬이라고?"
+    },
+    {
+      "line": 1877,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "8aade3186db0fba9cc6c6838ab2cb9d042dcef50612d36bf43936bf052dfbb4b",
+      "ko": "이미 가서 모두에게 양파즙을 붓기로 했는데..."
+    },
+    {
+      "line": 1878,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "4ad9b13622696ff434f42254101a375a9c0a3f685cfa06bd76e711bae4bca215",
+      "ko": "원하면 도와줘도 돼!"
+    },
+    {
+      "line": 1879,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "322db23c6bbe86e920c88550e5897b352b4dd1895d5e01096b5a6b81005e0cac",
+      "ko": "데이트로 정했네!"
+    },
+    {
+      "line": 1883,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "22358bf351a5e4c45f466bb50fa6e4367b7698ccc637b0c0cff590496e146bd0",
+      "ko": "리암 프롬은 난리였어!"
+    },
+    {
+      "line": 1884,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "aff5ca1252d73f71de814077329adaf38e891278ecfef10a2c7dcdf082ecedcb",
+      "ko": "너와 작은 망나니 리암은 밤새 혼란과 소동을 일으켰어."
+    },
+    {
+      "line": 1885,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "e95c0f786ebe26357ebbb8f9e09a1af78b0be1f06e4dc7d1bcdf43328ff01fca",
+      "ko": "다른 리암들이 전부 질색하자 작은 망나니 리암은 일부러 더 많은 문제를 일으켰지."
+    },
+    {
+      "line": 1886,
+      "event": "secretending_liampromultimate_b",
+      "english_sha256": "bad827cfc3cc4f19eec9c4c4dabe10ec14068fa16fcd17c1fc9454521e77406b",
+      "ko": "범죄와 경범죄를 위해 건배!"
+    },
+    {
+      "line": 1893,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "84a9fea60332f910f516055cde9c097cb5e003fa28d487a49f3d45b35ae25066",
+      "ko": "드디어 용기를 내서 \"리암 프롬\"에 접속하고 가장 좋아하는 리암에게 프롬에 함께 가자고 해!"
+    },
+    {
+      "line": 1895,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "387e6179f0ed292e5f190b2b066317a175fba0be608752e856b55048cabbb74e",
+      "ko": "프롬? 너랑 나? 흐음..."
+    },
+    {
+      "line": 1896,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "10bb1c7f48daf2c883f7c33ac92cbe99b314e79362c9696115c007250c93aec0",
+      "ko": "답은 노래로 들려주지!"
+    },
+    {
+      "line": 1897,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "e1c238a0835430d87bf1f581e11d491ae21756d7ccc6aeb09a3d504af7fd5d03",
+      "ko": "그 뒤 십오 분 동안 가사 없는 키타 솔로가 이어져."
+    },
+    {
+      "line": 1898,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "8169830f63907329bbd1b0996f91032b9e9c08b44d0f6194fc3f224de7aa5b7e",
+      "ko": "...?"
+    },
+    {
+      "line": 1899,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "103788673f122746f88b89f0ecd67042cac9d4bcd115f5714d35405af7ddd7b0",
+      "ko": "아, 네가 음악의 언어를 모른다는 걸 잊었군."
+    },
+    {
+      "line": 1900,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "8acad756d4fa99579e172bffc40bace481feeae90386ac1e8da84e0e7e316413",
+      "ko": "좋다고 했어."
+    },
+    {
+      "line": 1904,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "ae4754f4da4081e9b22ac4a3d58da19faea5f5c2eaae7cd5ffae793e20ea37bb",
+      "ko": "리암 프롬은 화려했어!"
+    },
+    {
+      "line": 1905,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "974280d3ec3b305fc41ad178894f0ffaf42f26f29c9261164e96e98b29742259",
+      "ko": "글램 록 리암은 행사 메인 가수로 고용돼 신시사이저 가득한 아름다운 노래들을 불렀어."
+    },
+    {
+      "line": 1906,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "d7cf3345260567fc12635178cdddeac96ba6ae534b4c2014d93610348f76c8f8",
+      "ko": "하지만 최고의 순간은 미리 녹음한 곡을 틀고 댄스 플로어에서 너와 느리게 춤춘 때였지."
+    },
+    {
+      "line": 1907,
+      "event": "secretending_liampromultimate_c",
+      "english_sha256": "55b44f3e0eaed79f889de8cb8ab81826ca9ce61f9539d71b8f3543292d0bbaa5",
+      "ko": "글램 록 리암은 명성과 부는 싫어해도 적어도 널 싫어하진 않는 것 같아!"
+    },
+    {
+      "line": 1914,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "84a9fea60332f910f516055cde9c097cb5e003fa28d487a49f3d45b35ae25066",
+      "ko": "드디어 용기를 내서 \"리암 프롬\"에 접속하고 가장 좋아하는 리암에게 프롬에 함께 가자고 해!"
+    },
+    {
+      "line": 1916,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "562a3f16449725dad4bc72e6577f13493299b2e58d0227f9e6991b67c815b7dd",
+      "ko": "나한테 프롬에 가자고 하는 거야?"
+    },
+    {
+      "line": 1917,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "2dfe05235bd3cfa3208ffedf028c6ea70261f5985381ec02a84754038725bcf0",
+      "ko": "응! 뭐, 다른 사람들은 다 죽었으니 그래야겠지."
+    },
+    {
+      "line": 1918,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "656dca5dbbb4ea724f084bddce8bafdb38f9665be158904d2293be1a942ab2ab",
+      "ko": "흠, 일리 있네."
+    },
+    {
+      "line": 1919,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "daa12f868a5e462a01dccb8366a79f2017c607fe3e2a863f6ed7985ce5cf0d92",
+      "ko": "좋아. 세상 끝에서 리암과 함께 있어야 한다면 네가 그 리암이라 다행이군."
+    },
+    {
+      "line": 1923,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "6f9597a4ad052b9ab4e59a68d51e86232228531dfca24e690bce58a2df7d3166",
+      "ko": "리암 프롬은 근사했어!"
+    },
+    {
+      "line": 1924,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "d61208c5f79945fc0d0a4260ae51818616aea21375eb99acc0d70db35fe423b2",
+      "ko": "둘뿐이라 펀치를 전부 독차지했어!"
+    },
+    {
+      "line": 1925,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "4d4f8e52ad65fe5a24be8817c0c2a6e33e6e204065b1023b9dc77efb38ace30a",
+      "ko": "DJ 리암이 죽어서 음악은 없었어. 너와 우수에 잠긴 종말 이후의 리암은 수백 리암의 해골 사이로 휘파람처럼 부는 바람에 맞춰 느리게 춤췄지."
+    },
+    {
+      "line": 1926,
+      "event": "secretending_liampromultimate_d",
+      "english_sha256": "0b3073ddc845286adb026253193d9659fc2ece5ccde70a478c3b0419113ee3e3",
+      "ko": "세상 끝이 이렇게 낭만적일 줄 누가 알았겠어?"
+    },
+    {
+      "line": 1932,
+      "event": "secretending_carcinization",
+      "english_sha256": "ef6b8b160acadd04662ac5f0faf9260b9f6acc8906116c98ec0b46dadf4711c4",
+      "ko": "\"게화\"라는 일 때문에 행사 뒤풀이가 좀 김샜어... 그래도 너와 친구들은 여전히 즐길 수 있지!"
+    },
+    {
+      "line": 1934,
+      "event": "secretending_carcinization",
+      "english_sha256": "7986daf0b1379213e923d6841e414a69efb300147124f747a38806c79c8650f9",
+      "ko": "아직도 이해가 안 되는군. \"게 레이브\"가 뭐지?"
+    },
+    {
+      "line": 1935,
+      "event": "secretending_carcinization",
+      "english_sha256": "965236dd2d4edb7545607ca8628e19116b5e4ccb66453395931cdf6ba21c1e74",
+      "ko": "인터넷에서 대유행이야! 게들이 잔뜩 모여 들썩이고 리듬을 타는 거지..."
+    },
+    {
+      "line": 1936,
+      "event": "secretending_carcinization",
+      "english_sha256": "78710f8067399c6308598f73bcb765ea03ed117c2ee23ec08a377930caeb68b8",
+      "ko": "가필드 레이브 같은데 라자냐 대신 해산물이야."
+    },
+    {
+      "line": 1937,
+      "event": "secretending_carcinization",
+      "english_sha256": "969bc709ed48b16e7f8cd0afc67fd741188da7e98aebaadfe060879dd9ea2120",
+      "ko": "...그럼 가필드 레이브는 뭐지?"
+    },
+    {
+      "line": 1938,
+      "event": "secretending_carcinization",
+      "english_sha256": "7d8cf37ad9e8ee4b0a8e7074f8ff1a589df6a7dfe55b3cb4a996f195d071affe",
+      "ko": "오멘, 거래하자. 더는 질문 안 하면 레이브에서 사람들을 집게로 집어도 돼."
+    },
+    {
+      "line": 1939,
+      "event": "secretending_carcinization",
+      "english_sha256": "b51fb8e486ea2b0e78fe26410ee5ac8d792767aa8d7a508c1e8f0bc3ffc5f86f",
+      "ko": "좋아아아! 내 집게가 피를 갈망한다!"
+    },
+    {
+      "line": 1943,
+      "event": "secretending_carcinization",
+      "english_sha256": "e6fd8194a2bffc655158b35169c6a3f9aff97ace1cab00e34d0b72424f210cc0",
+      "ko": "씨발 좋지! 게 레이브!"
+    },
+    {
+      "line": 1944,
+      "event": "secretending_carcinization",
+      "english_sha256": "81a4b09646681f55941192859121aa96eecfbfefac91cd2ab7009a144c292e0a",
+      "ko": "친구들과 우스꽝스러운 춤을 봐!"
+    },
+    {
+      "line": 1945,
+      "event": "secretending_carcinization",
+      "english_sha256": "00068cbc03cf3098231cd80be90aa6069759d13d0515d1fa08487346c7101515",
+      "ko": "게화가 그들의 삶을 영원히 바꿨을지도 모른다는 걸 깨달아... 더 나쁘게."
+    },
+    {
+      "line": 1946,
+      "event": "secretending_carcinization",
+      "english_sha256": "0d9e9db0e9333750f5b92582082e4fc97fd821b49006c8ec925a2890642b77c5",
+      "ko": "미래 계획 대부분은 아마 산산조각 났겠지. 갑각류가 아니어야 가능했으니까."
+    },
+    {
+      "line": 1947,
+      "event": "secretending_carcinization",
+      "english_sha256": "a2edb90c77f041e4288000fc575b658786492d85e2a8e7ff244c44b37c2a0585",
+      "ko": "하지만 뭐 어때, 생각하지 말자! 게 레이이이이이브!"
+    },
+    {
+      "line": 1953,
+      "event": "secretending_carcinization_truefail_hidden",
+      "english_sha256": "b1a27aec988bb58a2f17ff1d6141868298cba8d8149ceafabc1f1c65eee9a6a8",
+      "ko": "누굴 속여? 게로 살 운명으로 만들어 놓고 누가 너랑 뒤풀이에 가고 싶겠어!"
+    },
+    {
+      "line": 1954,
+      "event": "secretending_carcinization_truefail_hidden",
+      "english_sha256": "d3417307d47be3a9ed266b152ab5ed8820ee4b64e89d25daca06ddff7def96b3",
+      "ko": "사실 게가 된 건 정말 네 잘못은 아니었어... 오히려 여러 번 게화의 위험을 경고하려 했지..."
+    },
+    {
+      "line": 1955,
+      "event": "secretending_carcinization_truefail_hidden",
+      "english_sha256": "f783971dedd0a5bca8209a05e2a7fb49208b4b502f1a1411f69b608a19d9d9c1",
+      "ko": "그래도 어째선지 다들 널 원망하니 게 데이트는 없어. 야유."
+    },
+    {
+      "line": 1961,
+      "event": "secretending_carcinization_fail_april_hidden",
+      "english_sha256": "f2853b0538c47ee749a0d53b51a5ee8fa248ba061f977c12b31c9ff9a6f06861",
+      "ko": "드디어 용기를 내서 가장 좋아하는 광대에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1963,
+      "event": "secretending_carcinization_fail_april_hidden",
+      "english_sha256": "d48c5f5f2e20768dfb2ec87ee200f29a638daa3a9bc39c14aeabcd92f833d22d",
+      "ko": "제안은 고마운데... 나 게인 거 안 보여?"
+    },
+    {
+      "line": 1964,
+      "event": "secretending_carcinization_fail_april_hidden",
+      "english_sha256": "a6331aecb91dffb835ece1fc7607a72fbcea6eca2e88b4328ab9d95b24ab546f",
+      "ko": "뭔가 달라 보인다 했지!"
+    },
+    {
+      "line": 1965,
+      "event": "secretending_carcinization_fail_april_hidden",
+      "english_sha256": "d5dd4cc486c758539011d774ba13a945ffcf6eb2a766a7e2dbfa9b6b8f670a92",
+      "ko": "그래서 갈 거야, 말 거야?"
+    },
+    {
+      "line": 1966,
+      "event": "secretending_carcinization_fail_april_hidden",
+      "english_sha256": "7f6fd85ff138fdbb8b11967740e020a90b986eec04a208f235baf163d4198781",
+      "ko": "음... 아니. 손가락 없이 마인크래프트 방송하는 법을 알아보러 가야 해. 남은 인생 잘 살아!"
+    },
+    {
+      "line": 1972,
+      "event": "secretending_carcinization_fail_doug_hidden",
+      "english_sha256": "9a18f0143ea052c602032ce694c9cbcb03ccc146e07f4f3e64a4292fe1479307",
+      "ko": "드디어 용기를 내서 가장 좋아하는 초록 얼뜨기에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1974,
+      "event": "secretending_carcinization_fail_doug_hidden",
+      "english_sha256": "d680c78525e15e3c61d8f6f89e3e102f8b06733f4d9d340f3b02d0dca5b7a123",
+      "ko": "아... 기쁘긴 한데, %CURRENTPLAYERNAME%, 이런 상태로 너랑 사귀는 건 옳지 않을 것 같아."
+    },
+    {
+      "line": 1975,
+      "event": "secretending_carcinization_fail_doug_hidden",
+      "english_sha256": "6d4bbd6e6a59d11c0f440edef75adc65f9cda4e660cc12bc869e02b9d67eb9b4",
+      "ko": "이 \"게화\"가 전염되는지 모르잖아. 널 감염시키고 싶진 않아!"
+    },
+    {
+      "line": 1976,
+      "event": "secretending_carcinization_fail_doug_hidden",
+      "english_sha256": "4522e16fb8e2a9ef9d3801a61d2ff92065b20f38a0dbb0517f43a56c4d5fb7fd",
+      "ko": "그런 식으로 되는 건 아닌 것 같은데..."
+    },
+    {
+      "line": 1977,
+      "event": "secretending_carcinization_fail_doug_hidden",
+      "english_sha256": "591e98123345e385e84a19f4326bace72d4c801697712b9f3900eac196a57aa9",
+      "ko": "그러니까 이게 전부 게화의 원리와는 안 맞는 것 같지만, 이렇게 됐네."
+    },
+    {
+      "line": 1978,
+      "event": "secretending_carcinization_fail_doug_hidden",
+      "english_sha256": "3aca424c5e989198e686e7c0c5cdd3a4753bfcbfcef9397d4350185a5313247a",
+      "ko": "그래도 나랑 멀리 떨어져서 파티 재밌게 즐겨!"
+    },
+    {
+      "line": 1984,
+      "event": "secretending_carcinization_fail_liam_hidden",
+      "english_sha256": "073207e276398a47de82918e66437636b96e264193cfbc6fbfb60cbb218cff0a",
+      "ko": "드디어 용기를 내서 가장 좋아하는 뱀파이어에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1986,
+      "event": "secretending_carcinization_fail_liam_hidden",
+      "english_sha256": "6fa1d61cb6238d85e8d1fbfc5b8deb14f568e23991f0cb5830b3f6e87879e8dd",
+      "ko": "미안, 못 가. 친구들에게 게화는 영향을 줄 수 없다고 설득하느라 바빠."
+    },
+    {
+      "line": 1987,
+      "event": "secretending_carcinization_fail_liam_hidden",
+      "english_sha256": "1def0da3c93ba7e37fbcb60b2f7a1d123c6324d074e2ac287386ca6a4b250abd",
+      "ko": "어... 다들 게가 됐다는 걸 생각하면 꽤 어렵겠는데."
+    },
+    {
+      "line": 1988,
+      "event": "secretending_carcinization_fail_liam_hidden",
+      "english_sha256": "a91cbf6c92dce017532d23f6a3cd6154d8a94cef19facdad841d6f0ba7e2a7af",
+      "ko": "난 어려운 논쟁을 피한 적 없고, 지금 시작할 생각도 없어!"
+    },
+    {
+      "line": 1994,
+      "event": "secretending_carcinization_fail_nico_hidden",
+      "english_sha256": "0d4c6125412080fd16aa25aaa8ddb6aff904816e826b2949a70336da9ea9fd2b",
+      "ko": "드디어 용기를 내서 가장 좋아하는 미믹에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 1996,
+      "event": "secretending_carcinization_fail_nico_hidden",
+      "english_sha256": "8ae471ade089e60abfa79d93560e4bae8b495fb2fe2898c625e04036084ad770",
+      "ko": "지금은 안 돼, %CURRENTPLAYERNAME%. 소라게 코스프레에 몰입 중이야!"
+    },
+    {
+      "line": 1997,
+      "event": "secretending_carcinization_fail_nico_hidden",
+      "english_sha256": "e24cea446cb535c05ffb110de50feb28a3350c2f10eb82da334e8633c45940db",
+      "ko": "하지만... 넌 소라게잖아."
+    },
+    {
+      "line": 1998,
+      "event": "secretending_carcinization_fail_nico_hidden",
+      "english_sha256": "f1b93897e499420a54cb870ca8fcf994146efbbd2d7111d26e5630c4f5aaa17c",
+      "ko": "정말? 메소드 연기가 통하고 있나 봐!"
+    },
+    {
+      "line": 2004,
+      "event": "secretending_carcinization_fail_omen_hidden",
+      "english_sha256": "c8a860cbea605be559d009301b1804ffbfbcb63b581b30542689a26ed1c6333b",
+      "ko": "드디어 용기를 내서 가장 좋아하는 지배자에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2006,
+      "event": "secretending_carcinization_fail_omen_hidden",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "..."
+    },
+    {
+      "line": 2007,
+      "event": "secretending_carcinization_fail_omen_hidden",
+      "english_sha256": "475d353f5859392bcf17e97a3c1873ff69546a0453b537f62fb909b90f5327b1",
+      "ko": "[sha]꼬집기![/sha]"
+    },
+    {
+      "line": 2008,
+      "event": "secretending_carcinization_fail_omen_hidden",
+      "english_sha256": "d2046bcc8c6f1539c8c646dcc59d906fe1172891801b5c0636fa448cdac4e1db",
+      "ko": "아야!!!"
+    },
+    {
+      "line": 2009,
+      "event": "secretending_carcinization_fail_omen_hidden",
+      "english_sha256": "254dc2801332bc12cb6c9af5e8e3bc7cc7209943eb8aa9949028f18693ba9a19",
+      "ko": "무하하하하!"
+    },
+    {
+      "line": 2011,
+      "event": "secretending_carcinization_fail_omen_hidden",
+      "english_sha256": "711959cb556aa16ec3a6a9c58ea921eb3626ce341b1d6df79e28150bf6af51c7",
+      "ko": "오멘이 옆으로 종종거리며 떠나... 거절인가 봐."
+    },
+    {
+      "line": 2017,
+      "event": "secretending_carcinization_fail_zoe_hidden",
+      "english_sha256": "b7be376d20c58c4b9782caebc7690e42d8d72660d3e6b5c7e1049842cbf8ba4e",
+      "ko": "드디어 용기를 내서 가장 좋아하는 고대의 귀염둥이에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2019,
+      "event": "secretending_carcinization_fail_zoe_hidden",
+      "english_sha256": "2dec00b4cf994d31d8b78aa7c12967568d5d66207fab5114cedb538e29d7d691",
+      "ko": "미안하지만 %CURRENTPLAYERNAME%, 더는 사랑을 찾거나 파티에 가는 데 관심 없어."
+    },
+    {
+      "line": 2020,
+      "event": "secretending_carcinization_fail_zoe_hidden",
+      "english_sha256": "ece5f07ec176e6a0167c49e262259e774d937229308998450bf620465e1f237a",
+      "ko": "난 #게인생을 완전히 받아들였어!"
+    },
+    {
+      "line": 2021,
+      "event": "secretending_carcinization_fail_zoe_hidden",
+      "english_sha256": "2fbac3955f0f8215c2a0ae9f8e8e3f1f86bb94d2ede35c7b687a64e115a56c89",
+      "ko": "그럼 실례할게. 내 은신처 옆에 사는 피라미와 연체동물에 관한 팬픽을 마저 쓰러 가야 하거든."
+    },
+    {
+      "line": 2027,
+      "event": "secretending_carcinization_fail_none_hidden",
+      "english_sha256": "4c01bd56aaf7101d606bbfa2d5e4c7e224ea53693c9cd730b7e48318b7a8424b",
+      "ko": "아무에게도 뒤풀이에 가자고 안 하지만... 혼자서도 즐기지 못해."
+    },
+    {
+      "line": 2028,
+      "event": "secretending_carcinization_fail_none_hidden",
+      "english_sha256": "bcd54f0e5286395c9a91f8031c9e7464d7350082c122a2473b3db2704f1aeda0",
+      "ko": "밤새 게화가 언제 널 찾아올지 궁금해해."
+    },
+    {
+      "line": 2029,
+      "event": "secretending_carcinization_fail_none_hidden",
+      "english_sha256": "14cbfca96cb33df137e35d8114627cbb72564d43501351032c43f41d7a154d68",
+      "ko": "정말 갑각류의 삶을 살 준비가 됐어?"
+    },
+    {
+      "line": 2030,
+      "event": "secretending_carcinization_fail_none_hidden",
+      "english_sha256": "700bdfba564803b2778b340c2e6b018ccea751fbf98cf8b6c9b95045d62f4d8f",
+      "ko": "갑각류가 아닌 삶을 이제야 좋아하기 시작했는데... 젠장."
+    },
+    {
+      "line": 2036,
+      "event": "secretending_beachday_fail_april_hidden",
+      "english_sha256": "f2853b0538c47ee749a0d53b51a5ee8fa248ba061f977c12b31c9ff9a6f06861",
+      "ko": "드디어 용기를 내서 가장 좋아하는 광대에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2038,
+      "event": "secretending_beachday_fail_april_hidden",
+      "english_sha256": "4e89a2977c0ec1e0dbd46be6533a5692177324777453c29dc6ae82fa369dbfaa",
+      "ko": "아, 미안... 못 가... 이미 계획이 있어."
+    },
+    {
+      "line": 2039,
+      "event": "secretending_beachday_fail_april_hidden",
+      "english_sha256": "3f92da68756e1f9deace6613b067cddcf5a6549f3cd64cb9527ef92ef7755a8d",
+      "ko": "중요한 계획이기도 하고... 완전 지루해... 정말 미안..."
+    },
+    {
+      "line": 2040,
+      "event": "secretending_beachday_fail_april_hidden",
+      "english_sha256": "0e290382f918b687fdcf48d2d4cf1f256eb90010339f58f52e5c282329780940",
+      "ko": "왜 비치 타월이랑 선크림을 들고 있어?"
+    },
+    {
+      "line": 2041,
+      "event": "secretending_beachday_fail_april_hidden",
+      "english_sha256": "870cf9edf8e81a265fa4528f51eb0d8f64ce680fe6a699ac5aef5c1c1cc73e51",
+      "ko": "너어어무 지루해... 넌 가고 싶지 않을 거야... 정말 미아안..."
+    },
+    {
+      "line": 2043,
+      "event": "secretending_beachday_fail_april_hidden",
+      "english_sha256": "6a13712628e17448d6f0851fea45c80b3f06e5e2593fce5b362313b09a694827",
+      "ko": "그 말을 반복하며 행사장을 뒷걸음질로 나가더니, 해변을 향해 전속력으로 달려."
+    },
+    {
+      "line": 2044,
+      "event": "secretending_beachday_fail_april_hidden",
+      "english_sha256": "39a8bc2215c28e4d3b1a8fe31b2633fa5083b00e498a8649b24d097629bacd77",
+      "ko": "하아..."
+    },
+    {
+      "line": 2050,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "9a18f0143ea052c602032ce694c9cbcb03ccc146e07f4f3e64a4292fe1479307",
+      "ko": "드디어 용기를 내서 가장 좋아하는 초록 얼뜨기에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2052,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "d9eb09633abd8247cd81be95cfb7853bd14fed14798e74365ab2098a4a175677",
+      "ko": "못 들었어? 아무도 뒤풀이 안 가. 대신 해변 가!"
+    },
+    {
+      "line": 2053,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "fa33f53505e7bd5c8456b3f69ba18dd86d18015f4194edeb87cac2ca894b5f0a",
+      "ko": "뭐?! 언제 정했어?"
+    },
+    {
+      "line": 2054,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "47f2a4b565d3b6feb84c86b175ab27766abb3acd17fe506b2e8a4b89641b142f",
+      "ko": "단체 채팅에서, 바보야! \"해변 가는 날 (%CURRENTPLAYERNAMECAPS%에게 말하지 마)\"라는 방 알지?"
+    },
+    {
+      "line": 2055,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "e91ac85e889fadfd37813c09fbecdb8218c1751661f7068e75e8a68901b10cf6",
+      "ko": "...이런."
+    },
+    {
+      "line": 2056,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "ko": "..."
+    },
+    {
+      "line": 2057,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "ada9b7c9c997a9b0434cca6926bc18b19b18171c63a330092523574e5af8f567",
+      "ko": "그럼 안녕!"
+    },
+    {
+      "line": 2059,
+      "event": "secretending_beachday_fail_doug_hidden",
+      "english_sha256": "0ef9a38eb9be80a79ef8d7538b43c40fb10bd229da4b12b3bed83a13c128cdd5",
+      "ko": "아마 해변을 향해 전속력으로 떠나. 더그가 그렇게 빨리 달리는 줄 몰랐네... 네 심장이 이렇게까지 깨질 수 있는 줄도 몰랐듯이."
+    },
+    {
+      "line": 2065,
+      "event": "secretending_beachday_fail_liam_hidden",
+      "english_sha256": "073207e276398a47de82918e66437636b96e264193cfbc6fbfb60cbb218cff0a",
+      "ko": "드디어 용기를 내서 가장 좋아하는 뱀파이어에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2067,
+      "event": "secretending_beachday_fail_liam_hidden",
+      "english_sha256": "d86fc9d8b2f5b9596827061b95ff35775c62f0f01963db6c2b0a82336a7d6006",
+      "ko": "아, 맞다... 넌 해변 나들이에 초대 안 됐지."
+    },
+    {
+      "line": 2068,
+      "event": "secretending_beachday_fail_liam_hidden",
+      "english_sha256": "580fe5c02bde97fcd812715d107b706557177daa5fb64602b6a85039d2083525",
+      "ko": "해변 나들이? 행사에 왔는데 왜 해변에 가?"
+    },
+    {
+      "line": 2069,
+      "event": "secretending_beachday_fail_liam_hidden",
+      "english_sha256": "06e45c2f7ae4b692bee41b40f3c021c769d712f157b6a894516df5a6ed304cd5",
+      "ko": "나도 여러 번 물어봤다는 걸 믿어 줘."
+    },
+    {
+      "line": 2070,
+      "event": "secretending_beachday_fail_liam_hidden",
+      "english_sha256": "fb0f4bdbc39f392e1351d318f12f17713d55eb078643d7a152fa9e46f990ed91",
+      "ko": "하지만 웬일로 모두가 한다면 리암 드 리옹쿠르도 해야 하는 모양이야."
+    },
+    {
+      "line": 2071,
+      "event": "secretending_beachday_fail_liam_hidden",
+      "english_sha256": "95e84579d350e429265f456173471dbb45ff76032ffcd26ddd6bbdbe3842cdb3",
+      "ko": "...뭐, 모두는 아니지. 물론 넌 제외야. 기분 나쁘게 생각하지 마."
+    },
+    {
+      "line": 2077,
+      "event": "secretending_beachday_fail_nico_hidden",
+      "english_sha256": "8232e9ab99c5348f45a0579c2bd770fb55023aa5053fafac6901f056fefe69c1",
+      "ko": "드디어 용기를 내서 가장 좋아하는 코스어에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2079,
+      "event": "secretending_beachday_fail_nico_hidden",
+      "english_sha256": "1f3d486cdc135ab64c6fa96035b5c093d2ec5fa1c68caff379d815da79920de2",
+      "ko": "미안, %CURRENTPLAYERNAME%, 안 돼. 해변에 갈 구조요원 코스프레를 연습해야 해!"
+    },
+    {
+      "line": 2080,
+      "event": "secretending_beachday_fail_nico_hidden",
+      "english_sha256": "59676b1d1746ee4d1b5fa5ae3a3446760e44aa56c0a117975061faf486909097",
+      "ko": "뭐? 해변에 왜 가는데?"
+    },
+    {
+      "line": 2081,
+      "event": "secretending_beachday_fail_nico_hidden",
+      "english_sha256": "fb4d6bfbb5d05eb8812c09b713c160e657e1bcf1fb51b2cd3de142926295c62e",
+      "ko": "해변 나들이잖아, 바보야! 있잖아, 네가 초대 못 받은 거!"
+    },
+    {
+      "line": 2082,
+      "event": "secretending_beachday_fail_nico_hidden",
+      "english_sha256": "f7f80c5b2a07a273d2ad9dec49da4b55e7251d16e4bfbc49309275f54e383641",
+      "ko": "아쉽지만 어쩔 수 없지. 그래도 소속감을 느끼고 싶으면 연습을 도와줘도 돼."
+    },
+    {
+      "line": 2083,
+      "event": "secretending_beachday_fail_nico_hidden",
+      "english_sha256": "21662b5c13c6c30e59ff1cfb184436bec3ba8de02f27e3c9ba328cfd435fbfcf",
+      "ko": "욕조에 엎드려서 익사하기 시작해. 구해 주는 연습 할게!"
+    },
+    {
+      "line": 2084,
+      "event": "secretending_beachday_fail_nico_hidden",
+      "english_sha256": "7d1033a9b23383624ec3bf40c2a2c7361616461d293ef7e1c363da545aab0243",
+      "ko": "너무 슬퍼서 돕지 못해. 우울하게 니코를 남겨 두고 해변 준비에서 떠나."
+    },
+    {
+      "line": 2090,
+      "event": "secretending_beachday_fail_omen_hidden",
+      "english_sha256": "478523f92240a97454d0769f91ad44ca09155071b06b1343fb3620cf0e5e6203",
+      "ko": "드디어 용기를 내서 오멘에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2092,
+      "event": "secretending_beachday_fail_omen_hidden",
+      "english_sha256": "9e10ffd7d03c21a0dd86718993ebd479d4b370437838075422fa8b90fdc713d8",
+      "ko": "뒤풀이? 아, 신이시여 다행이군. 해변에 같이 가자고 할 줄 알았어."
+    },
+    {
+      "line": 2093,
+      "event": "secretending_beachday_fail_omen_hidden",
+      "english_sha256": "9274cb6faedacbe024f46bda37160d5a6ec26d215af62c6898da22d08f2349af",
+      "ko": "응? 내가 왜?"
+    },
+    {
+      "line": 2094,
+      "event": "secretending_beachday_fail_omen_hidden",
+      "english_sha256": "d9738ca62007303a25bfd8d4b178151bb44872ac601c6c39eb697f60aeccd88c",
+      "ko": "나와 다른 이들은 해변에 가거든. 네가 합류하지 않기를 간절히 바랐어."
+    },
+    {
+      "line": 2095,
+      "event": "secretending_beachday_fail_omen_hidden",
+      "english_sha256": "4542a4f37283a12ef2180f1ea055042f82d22b376c89a835cc6055652ea13944",
+      "ko": "소원이 이루어진 모양이네!"
+    },
+    {
+      "line": 2097,
+      "event": "secretending_beachday_fail_omen_hidden",
+      "english_sha256": "b5b16adef0df1e27d1f8859061eb30dda2484d1a38292da587eebdb144ccf788",
+      "ko": "오멘이 웃으며 떠나자 넌 뒤풀이에도... 해변에도 데이트 상대 없이 남아."
+    },
+    {
+      "line": 2103,
+      "event": "secretending_beachday_fail_zoe_hidden",
+      "english_sha256": "534de14fadf50753c8c120d8180c3cd43f8f8fafa41cbcacb97249a892aa24b2",
+      "ko": "드디어 용기를 내서 조이에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2105,
+      "event": "secretending_beachday_fail_zoe_hidden",
+      "english_sha256": "6e6e6fc07e4fc2d0ecb3ed5bba8d3c28ceb8fdcfaf6ad7b87d0a1883c7b75519",
+      "ko": "아, 이런. 난 안 돼. 몇몇이 오늘 해변에 가기로 했어."
+    },
+    {
+      "line": 2106,
+      "event": "secretending_beachday_fail_zoe_hidden",
+      "english_sha256": "87ab021a72a88e6c7239df50bd7c52e4c7c097ca4b26e7742dd785eed86e663d",
+      "ko": "나도 가도 돼?"
+    },
+    {
+      "line": 2107,
+      "event": "secretending_beachday_fail_zoe_hidden",
+      "english_sha256": "d1ac04f9c465e620835d534c6f001c4228e5ece8ee8bda93ba91520e7d65d122",
+      "ko": "으으음... 넌 초대받지 않았으니 오면 좀 어색할 것 같아."
+    },
+    {
+      "line": 2108,
+      "event": "secretending_beachday_fail_zoe_hidden",
+      "english_sha256": "ee95c658f04d5b5b91cd72986116008c8d1f3b5e1e63848554e6a700272b6cc4",
+      "ko": "미안, 그냥 널 데려가서 모두의 재미를 망치고 싶진 않아. 이해할 거라고 믿어."
+    },
+    {
+      "line": 2114,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "d4530d4b4103406fc0d498586fb95f5ff0fc1f8c69096f989757b4c7a8b2d9b5",
+      "ko": "드디어 용기를 내서 행사장 최고의 김 나는 코스어에게 행사 뒤풀이에 함께 가자고 해..."
+    },
+    {
+      "line": 2117,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "2e82fd27d01b14b80ad328cc4a847839d4f9bc86701669ba4e1c88318692dc73",
+      "ko": "당연히 같이 파티에 가지! 그 정도는 해야지."
+    },
+    {
+      "line": 2118,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "435f65f0adefa5e25e2a82d46894974be3f517bbebc7b767c8d39373c9e18ad2",
+      "ko": "너 없이는 코스프레 그랑프리에서 절대 못 이겼을 거야!"
+    },
+    {
+      "line": 2119,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "5c3525e90284aa9c223c2d6ba1ba293a8ce3d3746cdf291db919cdbb27d57a01",
+      "ko": "그런데 서로 그렇게 많이 죽이지 않아도 됐으면 좋았을 텐데."
+    },
+    {
+      "line": 2120,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "2f058761c6042ce8494d700598cc08a83cf8fc94edd6f378014140f94c2ee3fb",
+      "ko": "괜찮아. 사실... 마지막엔 좀 즐기게 됐어."
+    },
+    {
+      "line": 2121,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "40cb38ddb05261c364cf9cecbe3afa7c7c4d2093ee8f30e7bf1903b5f27df469",
+      "ko": "정말? 나... 사실 나도! 그런 거친 놀이를 좋아할 줄 몰랐어."
+    },
+    {
+      "line": 2122,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "b4b5b7f8c2e147a35609d893f18e8f941234f4f2da517d0d14afa2103cd72763",
+      "ko": "뭐, 너랑 게임 루프 몇 번 더 돌려도 좋겠는데..."
+    },
+    {
+      "line": 2123,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "0639a81a45982ee3338cc2866d8736a1700f664edef96c9561f681d8992484e9",
+      "ko": "하하, 이 바람둥이!"
+    },
+    {
+      "line": 2127,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "16bde2dbe675a7e556f69c922528de6b3ddf5ea89a761745dc57b458d649dd00",
+      "ko": "파티도 좋았지만 그 뒤 섹스는 더 좋았어."
+    },
+    {
+      "line": 2128,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "c24570448612dd1dea6da175ec323d1dabee35f691d518a23e0e1ada218b72f8",
+      "ko": "서로 죽이며 끝난 장면이 너무 많아서, 서로 찌르지 않는 신체 접촉은 기분 좋았어."
+    },
+    {
+      "line": 2129,
+      "event": "secretending_nicocosplay_e",
+      "english_sha256": "ea03109f2a59dd1ab58f9adea91330bc014a0beb1f4eb70fcb30e187e73cf673",
+      "ko": "드디어 게임 루프의 비밀 엔딩을 찾았네. \"공주와 떡치기\"!"
+    }
+  ],
+  "authoring_notes": [
+    {
+      "lines": [
+        721,
+        722,
+        724,
+        725,
+        1405,
+        1407,
+        1512,
+        1514,
+        1788
+      ],
+      "note": "English pronoun/conjugation macros retained as assigned; exact Korean grammar cleanup deferred until full-text QA."
+    },
+    {
+      "lines": [
+        1820
+      ],
+      "note": "UwU! is intentional literal reaction in source, not an untranslated sentence."
     }
   ]
 }
