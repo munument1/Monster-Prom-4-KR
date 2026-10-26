@@ -1,0 +1,57 @@
+{
+  "status": "targeted_terminology_fixes_applied",
+  "scope": {
+    "translation_assets": 17,
+    "fields_searched": 23986,
+    "method": "전체 번역 문자열 자동 검색 및 원문 이름 언급 대조로 후보를 찾고, 후보 문장과 UI 이름표를 수동 검토. 23,986개 문장의 오역·문체 인간 전수 교정은 아님."
+  },
+  "canonical_terms": {
+    "Monster Con": "몬스터 콘",
+    "April": "에이프릴",
+    "Zoe": "조이",
+    "Doug": "더그",
+    "Nico": "니코",
+    "Omen": "오멘",
+    "Sawyer": "소여",
+    "Liam": "리암",
+    "Miranda": "미란다",
+    "Polly": "폴리",
+    "Scott": "스콧",
+    "Damien": "데미안",
+    "Valerie": "발레리",
+    "Adrien": "아드리앙",
+    "Takeyama": "타케야마",
+    "Joy Johnson-Johjima": "조이 존슨-조지마",
+    "Coven organization": "마녀회",
+    "The Coven quoted screen title": "더 코븐",
+    "Merkingdom": "인어 왕국"
+  },
+  "findings": {
+    "incorrect_game_title_occurrences": 0,
+    "core_character_alternative_spellings": 0,
+    "additional_character_name_fixes": 4,
+    "joy_full_name_fixes": 4,
+    "organization_term_fixes": 15,
+    "kingdom_spacing_fixes": 14,
+    "proposed_changed_fields": 36
+  },
+  "preserved_cases": [
+    "April을 길게 외치는 에이프리이일 등은 원문 감탄 표현으로 보존.",
+    "u/DougCampbellThrowaway는 온라인 계정명으로 보존.",
+    "크레딧의 실명·닉네임에서 나타나는 영문 캐릭터 이름 조각은 번역하지 않음.",
+    "주어가 자연스럽게 생략된 한국어 문장에서 원문 이름이 없다는 이유만으로 오류 처리하지 않음.",
+    "일반명사 omen/joy/hope와 이름 Omen/Joy/Hope는 문맥으로 구별.",
+    "에이프릴스 풀은 팬클럽 April's Fools의 명칭이며 캐릭터 이름 오류로 취급하지 않음.",
+    "세이디와 새디어스는 다른 인물/마스코트 이름이므로 혼동하지 않음."
+  ],
+  "notes": [
+    "Zoe와 Joy는 현재 모두 조이로 번역되므로 Joy의 전체 이름이 필요한 문장은 존슨-조지마를 유지.",
+    "인용된 TV 작품명 더 코븐 4개는 조직명 마녀회와 구별하여 기존 3개는 보존하고 16282 시즌 감상회의 작품명도 동일 표기로 통일.",
+    "Coven·Merkingdom 변경은 철자 오류보다 용어·띄어쓰기 통일 제안에 해당."
+  ],
+  "second_review": {
+    "all_36_proposed_fields_reread": true,
+    "particle_corrections": "마녀회와/마녀회를/마녀회는/마녀회가 등 명칭 받침 변경에 따른 조사를 재검토·교정",
+    "screen_title_context": "maingame:16282 원문 The Coven Seasons 1-6 watch parties 및 주변16275~16305를 확인. 기존17764/17780/17798의 더 코븐과 동일 작품을 지칭하므로 더 코븐 시즌 1~6으로 제안."
+  }
+}

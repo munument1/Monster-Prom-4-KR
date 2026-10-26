@@ -1,0 +1,1292 @@
+{
+  "english_events_chibidates:519": {
+    "english_sha256": "4ad536b9ce4ac788c93e45fb5ad1e279efe4ba12f261aafe8e98f72091666e2e",
+    "korean_sha256": "b58919e40743dd3183029c2d5462aae58aa9f10abcbbef958e00a970d7e7c7a6",
+    "allow_number_localization": true,
+    "reason": "edgy phase를 관용적인 중2병 시절로 번역한 숫자 추가이며 나이/학년 설정을 뜻하지 않음."
+  },
+  "english_events_maingame:577": {
+    "english_sha256": "337196e1643850ac9aa5b1908b845fbea38d5d81044970214a95703241c4d886",
+    "korean_sha256": "90fef5a3188a3f8d97b0ab1b382751bdc406087c3d92a838b19f370983cbc7f9",
+    "allow_number_localization": true,
+    "reason": "October=10월."
+  },
+  "english_events_maingame:1585": {
+    "english_sha256": "c438f2e58c92ef49f845544edaec5bbd75fad88cdd969f8be8a9cc84cbaa9393",
+    "korean_sha256": "e3d67f3f7f83557fab08989e88b33ea77b4bd25e04a320c4cf8e89a9eb7dc7e9",
+    "allow_number_localization": true,
+    "reason": "category-5의 하이픈은 음수 부호가 아니며 5등급으로 의미 보존."
+  },
+  "english_events_maingame:3356": {
+    "english_sha256": "23cf996d1869a117a4c0ca25eb2aed8affee2d40c49e820ecf401856f6c94317",
+    "korean_sha256": "920ed1dd791d02e5d7662fe26514c191f475564fed6d8f93112a5b0166b81a0e",
+    "allow_number_localization": true,
+    "reason": "4=넷."
+  },
+  "english_events_maingame:4223": {
+    "english_sha256": "4bc954b19d58c94f477b689613e8b60b0e7f9c0055889831660705e474f9bf4e",
+    "korean_sha256": "a7fc94558e843641a6cc2c1894ec1b126d25b8be2d2742d4583bc5267563dc97",
+    "allow_number_localization": true,
+    "reason": "Nine of Wands=완드 9."
+  },
+  "english_events_maingame:4251": {
+    "english_sha256": "5540faaf5c3497a3f308c90cde9b93cb629d2f64db9c8148eda2fb28bc8e4a04",
+    "korean_sha256": "3446e3647bc653f0f49a578c8eb28a89d8e0747bb241ddf713c68dbd4cc51588",
+    "allow_number_localization": true,
+    "reason": "Nine of Wands=완드 9."
+  },
+  "english_events_maingame:4273": {
+    "english_sha256": "3cd5e07396e2132fb880f99dcf4542f016d6e895ee404d8947253d7fb2155732",
+    "korean_sha256": "5c05acb329f993a23d527d06a75e67f1f85b7488da58e17138c2e815a2de38a0",
+    "allow_number_localization": true,
+    "reason": "Nine of Wands=완드 9."
+  },
+  "english_events_maingame:5414": {
+    "english_sha256": "3c3b7cd465897dff9db49827a08c360fe26ee98b4db80d8c953d14875ac27f36",
+    "korean_sha256": "dc49d76d8bd4878b3c17415d3995047e4e1439bb5a643313d4c066e36f537000",
+    "allow_number_localization": true,
+    "reason": "Three hours=3시간."
+  },
+  "english_events_maingame:5423": {
+    "english_sha256": "274b8830c0e1f163e22ec8ec92e27ab4b6ea03ea1bf69fa24315811d07a9bf73",
+    "korean_sha256": "9b3dbb5cf29189777b4bccac00bb95a9f52f89cd1c166eb00b0cda3cfafbe3f0",
+    "allow_number_localization": true,
+    "reason": "Thirty minutes=30분."
+  },
+  "english_events_maingame:5553": {
+    "english_sha256": "cfdf90191d05d828f75d4e3f3cf84cdde191c0503ffa4f477757c7e508561918",
+    "korean_sha256": "09d2332e5c664262155a598a51ec3805fa13e35174219d72fc0d15b73c723a12",
+    "allow_number_localization": true,
+    "reason": "five dollars and twenty-two cents=5달러 22센트."
+  },
+  "english_events_maingame:5684": {
+    "english_sha256": "053d9fdc76ffdf49efa5cb2bd98059382d7e50f9243c2e68c1024039ba42294e",
+    "korean_sha256": "a57317084ef87135e10885537aca9bdee9a92601e309d2ea530ed7369403efdf",
+    "allow_number_localization": true,
+    "reason": "50/50=반반."
+  },
+  "english_events_maingame:5686": {
+    "english_sha256": "142262755cb67d7a14465c61cddb765ed9ce483656341e49a540ecb5e95b5a1d",
+    "korean_sha256": "ac8300065dc6ef08b6a52cb061884eef91b5b39a2d2da4c4fdcfe40408885fb6",
+    "allow_number_localization": true,
+    "reason": "one-in-a-million=100만분의 1; 50/50 보존."
+  },
+  "english_events_maingame:5704": {
+    "english_sha256": "61470dca8255d31e30aa0078be502676d9ce0450e1f3aaf5436783a0a75ff4ba",
+    "korean_sha256": "29a6e79dd5ee967a4f8839aa324310f5b0d4d5aaebe98d278ae932bb73435938",
+    "allow_number_localization": true,
+    "reason": "other는 나머지 50을 가리키므로 다른 50으로 풀어씀. 동일한 두 50 확률을 비교하는 대사."
+  },
+  "english_events_maingame:5709": {
+    "english_sha256": "32e620f69b08e079cf91e7dfb83f1206e8f385fef4fd8e119a2e2d2d1a9e7260",
+    "korean_sha256": "78592b0f46e7fce54761fe15dce36f3c22be47f26de62a64cd34e71fd6241f49",
+    "allow_number_localization": true,
+    "reason": "four=4; ON THE DOUBLE은 속도를 재촉하는 관용구."
+  },
+  "english_events_maingame:5713": {
+    "english_sha256": "0497704c8bda039d8df4d4334d73c45effddae93d2b22353755d0d7cb4292a85",
+    "korean_sha256": "902fdb1f852757cc68ee2ad13d620df76aad6ff9f8e4babe312b3855e32a2b0d",
+    "allow_number_localization": true,
+    "reason": "duo=2인조."
+  },
+  "english_events_maingame:5866": {
+    "english_sha256": "9d2cd9e182db6f8ad08bd944bf158ade3d8cdf2ae34a2470db5b2527b4a4b981",
+    "korean_sha256": "c31f9d03b1f7dc1448c4e28e9bf24f5eb109b711ce0a922953c42b2b89bcb12c",
+    "allow_number_localization": true,
+    "reason": "fourth-best=4위."
+  },
+  "english_events_maingame:5954": {
+    "english_sha256": "6ece69da8fa8c21b7ef2e5bf6eda6d1840986968b056b2d66fe900a5739e6438",
+    "korean_sha256": "79f44c27670a9692a2a7a28d52c25a72f3e80655cda4d146ea802de8e5abf06e",
+    "allow_number_localization": true,
+    "reason": "four=4명; +2 SMARTS/-2 FUN 보존."
+  },
+  "english_events_maingame:6001": {
+    "english_sha256": "80e5f5a973bab0a3137c9206c66cee1f735a482bb1bc948df84ecfa4a233a414",
+    "korean_sha256": "21731c93f63cc24a69f406609a815cb6aed881c2ac4c8c2d90efff339c9bb066",
+    "allow_number_localization": true,
+    "reason": "two hours=2시간."
+  },
+  "english_events_maingame:6002": {
+    "english_sha256": "e50318b063997fdcbfca4c093e6354d9e64f6f509032ed0a41fe5df5d86afa6c",
+    "korean_sha256": "80e5d22c86e5d38bf80c5e331ebd2affdfaa03e6b6f49d9bcc34f9f5f935efb3",
+    "allow_number_localization": true,
+    "reason": "9-to-5=9시부터 5시까지; 하이픈은 음수 아님."
+  },
+  "english_events_maingame:6016": {
+    "english_sha256": "af9830bf74f0e48ab336c300baa7b6820254aaed15282305d768f796a99357bc",
+    "korean_sha256": "0bceb824dfbedb27e8a3273df5d7ac0e0f56051669e35b00b8a3844389e34e7b",
+    "allow_number_localization": true,
+    "reason": "two hours 두 번=2시간 두 번; second-best=두 번째; 스탯 보존."
+  },
+  "english_events_maingame:6288": {
+    "english_sha256": "d2fcd297c9420ac4d39b12a22432cf81d7a230a48ea3bce0902b516e4b59199e",
+    "korean_sha256": "760d57a253fbc4fbcd76bb2592576e4656eb652bd3204ecea5e480c0ce557a6f",
+    "allow_number_localization": true,
+    "reason": "three Aprils=에이프릴 3명."
+  },
+  "english_events_maingame:6339": {
+    "english_sha256": "ae6c7226e9068fc9c9e6ad562d7bd47f65148dcfbc9925d9436c6f719534c00c",
+    "korean_sha256": "e6052ab063f466b1f3ee5ccd5b98e9d805d014f6a426c1de26b112089505618c",
+    "allow_number_localization": true,
+    "reason": "three=3명; 스탯 보존."
+  },
+  "english_events_maingame:6422": {
+    "english_sha256": "e58cfd18ae5dac6260edacd532fd3d306d6ea20d8b9492815e3c538ca0086898",
+    "korean_sha256": "dd1a1cd41e0cf9ff20c8739184d3a8e6296d85fc6388227bfe5c5bf7c58a2ed1",
+    "allow_number_localization": true,
+    "reason": "Two=2명."
+  },
+  "english_events_maingame:6503": {
+    "english_sha256": "4a2581652fab57166ea7a81e5c8e02eb0a3971d58bc39b1036c814fcbcac9f54",
+    "korean_sha256": "405d6cc2fbdee9357dc40cb8ee114503d2e57c92c5dd762e7424d69f55a019b6",
+    "allow_number_localization": true,
+    "reason": "pentameter=5보격."
+  },
+  "english_events_maingame:6517": {
+    "english_sha256": "865f4f3bd693b13223a2a45c2162c6c431be78a60ab628d9c0899dc278c1e404",
+    "korean_sha256": "8b5f60b52ba084cad44f481274c47462a152d1e40a1c33b56d4f456b5eb3d892",
+    "allow_number_localization": true,
+    "reason": "Eight inches/Nine=8인치/9인치."
+  },
+  "english_events_maingame:6525": {
+    "english_sha256": "cc1710f2198e146fb42ce98486ace8b38667361217adc48664a0a52c122bf8be",
+    "korean_sha256": "b62159b8a1f5c91b9a364725694f2ad3a6df6614d66d091e7c47aa2401dc8ea0",
+    "allow_number_localization": true,
+    "reason": "half an hour=30분."
+  },
+  "english_events_maingame:6643": {
+    "english_sha256": "a2c00aebf1fc19661a5236ed957673390fe00762be45604ee61c6387e8cd8126",
+    "korean_sha256": "4a5653f1b10870b5223a8025ee266a48ee707b0814dd2bdd458bd85b0deff4f2",
+    "allow_number_localization": true,
+    "reason": "fifty=50, 100 보존."
+  },
+  "english_events_maingame:6659": {
+    "english_sha256": "ed291e4666ab701d45f039dde09d552d5b4e151cf16d7f8c3ae1cd4a8f8052db",
+    "korean_sha256": "75a699593bbbec08cfe7d86663d9626224629eced6b6a5dbc4e9761d837972c1",
+    "allow_number_localization": true,
+    "reason": "EIGHT TIMES=8배."
+  },
+  "english_events_maingame:6718": {
+    "english_sha256": "81b4d16273fd99f93a2cf574a95130742a659d71951dd3a15b366168d73bda2a",
+    "korean_sha256": "07c6c68d8edc1a821acec2cbe4a437145aa6431efdc7ab3682e34f2219f9e7ef",
+    "allow_number_localization": true,
+    "reason": "two=2명."
+  },
+  "english_events_maingame:6734": {
+    "english_sha256": "ad4f6c3ca4c37374ddca146bbb602ca1c1958fe58d09a6f5a2a04f1e6602863f",
+    "korean_sha256": "fc63d090b2add25405d95d00bd81d00064849644fc7da75d44f4ec5e26e6dd05",
+    "allow_number_localization": true,
+    "reason": "four=4명; TWICE=2번."
+  },
+  "english_events_maingame:6782": {
+    "english_sha256": "e63589dbf1e9e93ecdef6e8ca909d893f267088a6df1923d9c705675102eb90b",
+    "korean_sha256": "f73b689c17a9584a60a69f57ebd052072510b0667cb882ca20af841ad6a69d13",
+    "allow_number_localization": true,
+    "reason": "two types=2종류."
+  },
+  "english_events_maingame:6820": {
+    "english_sha256": "a87ade45470196e856de2bd30ea571c97664f42830aac33f990ed1ba43610986",
+    "korean_sha256": "aa31d6419cefac12b641f1a3e825d79107b219dff61c5ecc2f7a5863d812a302",
+    "allow_number_localization": true,
+    "reason": "two reasons=2가지."
+  },
+  "english_events_maingame:6851": {
+    "english_sha256": "2f9712b1f30e0415848fbc9717d1a9d73171f48d36067b9fdfa6b4667e71e8e2",
+    "korean_sha256": "978555351033c5428ff1dad4e29c41ba359252cdc161ac9c4f1e3d6c6f9d7e5b",
+    "allow_number_localization": true,
+    "reason": "EIGHT HOURS/eight hours=8시간 두 번."
+  },
+  "english_events_maingame:6869": {
+    "english_sha256": "9e7279ebe0bdb08b893f59b6692fbe3ff839fc8967d8dcdb520e3ffc9c594fa1",
+    "korean_sha256": "eaf457d778f2cc22d7ec1addf957fdd8d6b529780a56926b9e630c935c91fedb",
+    "allow_number_localization": true,
+    "reason": "an hour=1시간."
+  },
+  "english_events_maingame:6871": {
+    "english_sha256": "59689137d1ce2a714c747af8de948cd172ef086edc6c7ee8f64e99a01263b212",
+    "korean_sha256": "f3dd19355e95c1a70a72af4ec5f5a344320384e7fc8c15561a9eb43cae70e2d9",
+    "allow_number_localization": true,
+    "reason": "three=3명."
+  },
+  "english_events_maingame:6873": {
+    "english_sha256": "5d95920856f40e2833c2c34eebd6c1b9e5c4e02790d12731d6706284c7ca16ae",
+    "korean_sha256": "dacc054c0bed3efb6c3cdfeca7166044ea2a620e528d18435b53df2e8b6553c6",
+    "allow_number_localization": true,
+    "reason": "third movie=3편."
+  },
+  "english_events_maingame:6957": {
+    "english_sha256": "3adbe3d06c0e0fd83e19ed1b09b82f0f0544f45e47558121e5bb9eee326fc8b5",
+    "korean_sha256": "0e09df53ecca2d262d06425f214392c9b8b9808353da57b6e0899b7eaf691550",
+    "allow_number_localization": true,
+    "reason": "six months=6개월."
+  },
+  "english_events_maingame:7015": {
+    "english_sha256": "195aeff759abe67ba38bc84bc168f658558132857590a89ccf9d05b071e08446",
+    "korean_sha256": "db94c27a45d28e16c57ec0961d7c84f2cc6d5347603a94339f80e9145567747a",
+    "allow_number_localization": true,
+    "reason": "two arms=팔 2개."
+  },
+  "english_events_maingame:7027": {
+    "english_sha256": "1cacfb3913316c6d72a17dfb8947af6a85b06682b1d601e942ed3caea99c8e4a",
+    "korean_sha256": "0fc09d128c9f4f8d3166bea74deee01e1028180470c9095d9ff157ead9c29671",
+    "allow_number_localization": true,
+    "reason": "two hundred bucks=200달러."
+  },
+  "english_events_maingame:7074": {
+    "english_sha256": "5b74d222925faeb329177cd53537bb62cdc893dd9315f97ecbbe40a75e7498d5",
+    "korean_sha256": "11faf3a328911279620636c4d8835ebdfd2944f12cd846720cf6c6985ed56fd8",
+    "allow_number_localization": true,
+    "reason": "THREE=3개."
+  },
+  "english_events_maingame:7087": {
+    "english_sha256": "3c75efca4a875a4dcdb3da80ae2a87cf5844dc48a7fe658cbfddfb4150bb0ae1",
+    "korean_sha256": "40da7765349f85b76a77bc2c9610465c4ce49946139096147b9d7b44b807c28e",
+    "allow_number_localization": true,
+    "reason": "two=2명; 바로 전 두 사람을 때린 장면과 일치."
+  },
+  "english_events_maingame:7172": {
+    "english_sha256": "c09004b38f46dee3095d36eb9ddcb42b2e872ed0bfc11ddebb3181acb63465b2",
+    "korean_sha256": "653aeab33965d6c7f39a061e21a8790e28d12f73735e6daf0467a021b73f94c3",
+    "allow_number_localization": true,
+    "reason": "four=4명."
+  },
+  "english_events_maingame:7192": {
+    "english_sha256": "161133cddc7535bcef2d6eca3b732e64249ba0410e55be74916c62277cd099ab",
+    "korean_sha256": "1b202a1908fa56520bffb11d40710e5607b1bc8e9b3c9149261d6a408164d3e8",
+    "allow_number_localization": true,
+    "reason": "ten=10권."
+  },
+  "english_events_maingame:7196": {
+    "english_sha256": "d5bdb36e63c2a83f9fb263cf7937d8aa6374d048f696df8a7a69597836e94640",
+    "korean_sha256": "933544160b537b360a937ed8374560a5e0c78b44c5c69ada89f8943f28c5cb3e",
+    "allow_number_localization": true,
+    "reason": "twenty=20권."
+  },
+  "english_events_maingame:7204": {
+    "english_sha256": "f70a99a62f73456e72f53c2909d9acf5e1178ae0f1cda045f2e16ffb00bcc8bc",
+    "korean_sha256": "b5348707a30243540ed7abe8e9b7e30d09d683687438d279b73cd9b1b1c56efd",
+    "allow_number_localization": true,
+    "reason": "fifth base=진도 5단계."
+  },
+  "english_events_maingame:7221": {
+    "english_sha256": "10d1f079ed3a3bf3e69474ccd4f09f6dbe3a5cc773943d030deaf31af7afda98",
+    "korean_sha256": "da78de7cf275b00bdd51d043e5cfb049f360569cc1275288cf4ee18751401cb3",
+    "allow_number_localization": true,
+    "reason": "ninth-inning=9회."
+  },
+  "english_events_maingame:7354": {
+    "english_sha256": "21923efa8a23170108e8f7a70831a35c4d5c98fbcc9b6151fab57a121e6ab59a",
+    "korean_sha256": "869e7d47b97610b073da4ddd9da5cc75abc28a358cd4c4d1718609c4e8513f88",
+    "allow_number_localization": true,
+    "reason": "two promotions=프로모션 2개."
+  },
+  "english_events_maingame:7358": {
+    "english_sha256": "d6617086a114c1915a40c074b1f42d0a7a963d7aa2431d9d7213fa5ee687c21e",
+    "korean_sha256": "0cd3f10a56b2f42b05f04f4425816c63ab7ca649339d514b09e4304925a083d0",
+    "allow_number_localization": true,
+    "reason": "five=5건."
+  },
+  "english_events_maingame:7364": {
+    "english_sha256": "aedb6bffe46e5d33083397eea9fb40ed5f6afe40a849a07b0d607ac1d761fc37",
+    "korean_sha256": "33acd48bdcd552430f07d5cba764c51549341ef12adc90875d0abfe755638c37",
+    "allow_number_localization": true,
+    "reason": "five crimes/four of us=범죄 5건/우리 4명."
+  },
+  "english_events_maingame:7365": {
+    "english_sha256": "8484a7be04a9f6ec4f43c8f8846da7e8d1bb4c6e04fc9f488e97f3f0d0fc41ec",
+    "korean_sha256": "5d85b8b309e98dc8951ca48f16cfde8a48e4632c2bf91a07cb0def32e7131dc4",
+    "allow_number_localization": true,
+    "reason": "Five=5건."
+  },
+  "english_events_maingame:7366": {
+    "english_sha256": "382ff5428edbe78da02c4ae28cb9cbb2f3f39c1cdbd483723b2e43b8a987e20f",
+    "korean_sha256": "d2485adc7db2e77f75a61fe79856e065f1d41a31a87f99cbcc4c37236635aa1d",
+    "allow_number_localization": true,
+    "reason": "Twelve=12건."
+  },
+  "english_events_maingame:7375": {
+    "english_sha256": "3fa1eeb7a9676073f5199c05d81c80e08168bce191e671bd4325cb0d638d6cb1",
+    "korean_sha256": "52579dc83c541619fefe86f6d5866f8dddd83059013b9a1ccfdc165b0613edab",
+    "allow_number_localization": true,
+    "reason": "triple murder=3인 살인."
+  },
+  "english_events_maingame:7377": {
+    "english_sha256": "591565d767781442b87a8d2f6e0577a2fb31553812a6e5607f68af5cb3ead90f",
+    "korean_sha256": "160894022623f870cf1db7eedc3a5294718666c5cc0641ee24103d075421d809",
+    "allow_number_localization": true,
+    "reason": "Four counts=4건."
+  },
+  "english_events_maingame:7381": {
+    "english_sha256": "4ee7acbdb9807adfaadce716e2e1aa1d89364710835b2430be0039a80129ad7d",
+    "korean_sha256": "ff1fcb11a161be369f518e99ade534f4fb3c83e36f0772af4b27a9f51b4b9266",
+    "allow_number_localization": true,
+    "reason": "two extra murders=추가 살인 2건."
+  },
+  "english_events_maingame:7457": {
+    "english_sha256": "b4dbff3adf14ca92af99f5e061632c4f06f3020a155ae2c61085464543d88626",
+    "korean_sha256": "481ec93e5470d806b39690311098a004870b1c05983afb875246488b094cb34b",
+    "allow_number_localization": true,
+    "reason": "three=3명."
+  },
+  "english_events_maingame:7464": {
+    "english_sha256": "b70d8127b00edcfa07ee2540538320d25e6d81864d0963e87613b0d7d5ef1fd8",
+    "korean_sha256": "09561c175af195d1fd02b59d82d5b8dfaeb873dde466f058ecfba9c27fd56839",
+    "allow_number_localization": true,
+    "reason": "four=4개; 79 보존."
+  },
+  "english_events_maingame:7478": {
+    "english_sha256": "08d8d65b36993d5a9c8ade92d987e6c72a8e15cbd56b70fc85756a2b47da1872",
+    "korean_sha256": "11d4a1b7392a03c88415cc82d06acf02b9513d1ee5f9180c00ac39fa1bf642d5",
+    "allow_number_localization": true,
+    "reason": "Fifteen=15분."
+  },
+  "english_events_maingame:7513": {
+    "english_sha256": "52d7da6b02504222e6e7f0b5c6c7153e0f232bac247bacae866433f3ab5ae197",
+    "korean_sha256": "840dfc1cb66f81f52a5c1be0587979167403db70ea3ba8134c07b87fbd7cd6a0",
+    "allow_number_localization": true,
+    "reason": "Fifty-six=56분."
+  },
+  "english_events_maingame:7517": {
+    "english_sha256": "61dfbe4fa7350735456cf904cb18ef6eee23b2b0a451e0a85072575e401730c7",
+    "korean_sha256": "61815fd8b1c446179c3b6107559a9dc74ceaf2b75af6b3b9fa49fd8c146a4ceb",
+    "allow_number_localization": true,
+    "reason": "six hours=6시간."
+  },
+  "english_events_maingame:7576": {
+    "english_sha256": "2a1a52778810cfaf23152798b8c4a2d888fbaafdc27939c98678ef47298b0c48",
+    "korean_sha256": "50326249b11d54e70dec7ba9251cf87fa4fffef9bb1cb53202ab22e00a245ba8",
+    "allow_number_localization": true,
+    "reason": "an hour and forty-five minutes=1시간 45분."
+  },
+  "english_events_maingame:7600": {
+    "english_sha256": "3a622855301eb084b948611ebc18b28321b9ba77a00db951f1396e9fa1e9b8bd",
+    "korean_sha256": "efc90e74fc6f20726a0efa5b8ff9568542ca8804c8c8e262578cd4e4378bd97f",
+    "allow_number_localization": true,
+    "reason": "four=4명."
+  },
+  "english_events_maingame:7622": {
+    "english_sha256": "95d1a4bde809c073e31591cf79d1381827070fe5e83d712d83974d4ce1c328b0",
+    "korean_sha256": "50155abf578cc8fd898b2fd17e3c690c399242592223929130200ddd64daff4c",
+    "allow_number_localization": true,
+    "reason": "twenty=20달러."
+  },
+  "english_events_maingame:7635": {
+    "english_sha256": "99a01dd2caebf93b1f16ab7aabf8f77a8ce20c5ef2ef96e547397f1e2dad719c",
+    "korean_sha256": "a789880366aa78e18e0f5217b4b1f4d231cdce1bfcc3267112deef590409c46d",
+    "allow_number_localization": true,
+    "reason": "four=4명."
+  },
+  "english_events_maingame:7660": {
+    "english_sha256": "9b5f77c0cc6cb2972eca0bc4770ee433f50c039f607c10c67b639e169200de90",
+    "korean_sha256": "b8aaad8aefaf265573e037211679c4d2a88c9d4314619d4799b309389e429ffc",
+    "allow_number_localization": true,
+    "reason": "four=4개."
+  },
+  "english_events_maingame:7677": {
+    "english_sha256": "9af0df50f7e23fca0aa36ce4227579dace9e1e5e133db217801a9ee0af974127",
+    "korean_sha256": "b19fedd7ad42fa89905443fa89b431ce9df84a6960b688841bacb1d8809e0eec",
+    "allow_number_localization": true,
+    "reason": "two=2개."
+  },
+  "english_events_maingame:7816": {
+    "english_sha256": "199fcda112c12ecbf996ea6fcdf82a49e9bdb2aa00515289fdf70224568ad93e",
+    "korean_sha256": "c42a586cfca37bd55ca7c5bf7a4e2ea91328ab6f078466fcd33e88c726b7109e",
+    "allow_number_localization": true,
+    "reason": "a month=1달."
+  },
+  "english_events_maingame:7822": {
+    "english_sha256": "b0b1d94a63fac6a6a8034fc35f84bdd8df5157b805c6da693b5902892ff4288a",
+    "korean_sha256": "23c059c0667c35c9c671ec9602521fe47efb025e84e45cc9fb9a8902159d0741",
+    "allow_number_localization": true,
+    "reason": "one/two/one/one/one/one=1/2/1/1/1/1개."
+  },
+  "english_events_maingame:7829": {
+    "english_sha256": "db5bc910faedbaf12a5fa8811a7bb2c71735c147d221229b1e208c8563e0fc00",
+    "korean_sha256": "40ffd3106a96a9025f650334cecd82fdef932f6b4379dc536a8a1304f1bef708",
+    "allow_number_localization": true,
+    "reason": "two feet=2피트."
+  },
+  "english_events_maingame:7847": {
+    "english_sha256": "139a21ebcd1d77c9e3ddacc1d29917f356bc75761d6b2656d9d3496a5ced84d8",
+    "korean_sha256": "d6174997bb6d21301c272c2fb06c3ebd68a4c1ce8a2cf552854f3f58761a41c1",
+    "allow_number_localization": true,
+    "reason": "tens=10점 만점; Tennessee와 ten의 말장난 설명."
+  },
+  "english_events_maingame:7888": {
+    "english_sha256": "7660dac4a74b6a2c344498bc3d59609047d4c05bbb932d1298386d8dd16d8965",
+    "korean_sha256": "0148357f539066fc5fd81f8e32e9cf4d05c1fa3ecf301f07a85344cd8c98f861",
+    "allow_number_localization": true,
+    "reason": "TWENTY=20번."
+  },
+  "english_events_maingame:7895": {
+    "english_sha256": "11515de42c823ed0723a1bf995bcc46183ac7ee00cca361e2f9fe99c75036bfa",
+    "korean_sha256": "abef83f2f4b4c10119b40fd76a97bde7d1f5b3e6712b2962dc78d5e883935adc",
+    "allow_number_localization": true,
+    "reason": "FOUR=4번."
+  },
+  "english_events_maingame:7898": {
+    "english_sha256": "b256782df877e5c12ab8c733f6130759bbc33dc556abe8eb700b590927acb61c",
+    "korean_sha256": "f3d5cefa497087a8e5bd4136cc3c281e10cbc458c8e77ea2b5538dc824990d6e",
+    "allow_number_localization": true,
+    "reason": "TWENTY=20번."
+  },
+  "english_events_maingame:7900": {
+    "english_sha256": "2f921a129937f513658033b7a8fea49ae6208e255a38d5f1a55bf3febc6f6018",
+    "korean_sha256": "665ffba359a62c78e6174b18cea99a07df85828b288fbaaeea22b94c912d2c0e",
+    "allow_number_localization": true,
+    "reason": "IAMBIC PENTAMETERS=약강 5보격."
+  },
+  "english_events_maingame:7901": {
+    "english_sha256": "c3277564f38dd74153b7543805347021d31e08ee20842d79b5948b54cc5d98dc",
+    "korean_sha256": "1ff874de1fd405607709dbcfda8899e27ed061d9a940c9368562857a30a77ce2",
+    "allow_number_localization": true,
+    "reason": "Thirty=30분."
+  },
+  "english_events_maingame:7918": {
+    "english_sha256": "5a9114f1bfa9c51658ebccf8aba9894a14cc6d3401c0d53f23a078902843f341",
+    "korean_sha256": "d06309b12f5c1fffbe91b97dc3865ce62e72d9c4175ad687e528089e3d860fd7",
+    "allow_number_localization": true,
+    "reason": "a minute=1분."
+  },
+  "english_events_maingame:7964": {
+    "english_sha256": "1841effb2cb419fca204b8551834e35e4af76555052ad465a252ec69348e74d7",
+    "korean_sha256": "6b3a43f11e740e5c8a637c8a30f23e5f0dd80d4e618402a569f264ca11533c53",
+    "allow_number_localization": true,
+    "reason": "24/7=24시간 내내라는 관용구. 일주일 7일의 상시성은 내내로 표현."
+  },
+  "english_events_maingame:8011": {
+    "english_sha256": "a17fa64587685991b376d0c9699fd259fcc71822524b5a5c7a9d775a4ad1c127",
+    "korean_sha256": "ec4dc56e5f6f0cc0c1c2d41acdce24b743aa76aed423d243a633d469696b7c5f",
+    "allow_number_localization": true,
+    "reason": "$12k=$12,000."
+  },
+  "english_events_maingame:8030": {
+    "english_sha256": "ede26c9967630cfe18adadf8b68c861f5c188dda5fea506fe5b95c30c74a9ca2",
+    "korean_sha256": "14b3f231a1cb5e19257f07e833025817fecd519487af28473f7b71210043c499",
+    "allow_number_localization": true,
+    "reason": "a bottle/two helpings/four=1병/2인분/4마리."
+  },
+  "english_events_maingame:8032": {
+    "english_sha256": "55aee9ea84b9633b170566612f1fbc1a82c12c0fe4604d61ea159f923878e172",
+    "korean_sha256": "cb28573c078d6a3cd99fa7824d0f4e5537471abf2e4e3864428dbd26c5d6d076",
+    "allow_number_localization": true,
+    "reason": "thirty=30분."
+  },
+  "english_events_maingame:8054": {
+    "english_sha256": "d7176dfb8fa98c426ed980cee1f3fa6abd063a69fd5f61c0ca3acf4175e3d6e6",
+    "korean_sha256": "9044358586467e2ea243508f20b8b8c6d36202e265c9a9e655852870ef853bd1",
+    "allow_number_localization": true,
+    "reason": "six months=6개월."
+  },
+  "english_events_maingame:8100": {
+    "english_sha256": "9abf4d7543ec4d513a9e5cad3c68c69c0326ea7f13fe3d24ae2e974f1031ef63",
+    "korean_sha256": "68b5bf041f52b59701c96d4544fe1617dd7812f187e8695ad6e3df6898ce3bc6",
+    "allow_number_localization": true,
+    "reason": "a page=1장."
+  },
+  "english_events_maingame:8119": {
+    "english_sha256": "e4d4ed310c7a65974cad9031b828749515cb9b6a7f8e94f2a7e7616bfb67d705",
+    "korean_sha256": "ad4ebc172b716e19dd32298d6b5410bbbd9b13be38843d2a2a3c995e405db591",
+    "allow_number_localization": true,
+    "reason": "Two weeks=2주."
+  },
+  "english_events_maingame:8148": {
+    "english_sha256": "e7b16343e66f6935d5eff9d21eb37b124cb149d28e0d5d518c413d791385a348",
+    "korean_sha256": "8c195115327e2354ea5cda59f998442b83686cd97fc9738c32f0c1c396778a21",
+    "allow_number_localization": true,
+    "reason": "two bags=2봉지."
+  },
+  "english_events_maingame:8195": {
+    "english_sha256": "ac1f8970ab643bf93b40afac867dfec23c17de05d31293468b772d9a4481800f",
+    "korean_sha256": "3fc841a8286d06366ea5877de78177d029cba63b5de6c086682daa5f24ab9cef",
+    "allow_number_localization": true,
+    "reason": "triple-check=3번쯤 확인."
+  },
+  "english_events_maingame:8203": {
+    "english_sha256": "bc34097f6a56f2272f5514452ffed33b84ab85cfa13b185cea724df98525a046",
+    "korean_sha256": "b67c8f9f51a114010bb074e941a7d731d21b01183cdac8401e87c6dfe64be705",
+    "allow_number_localization": true,
+    "reason": "One hour=1시간; 4th-grade=4학년."
+  },
+  "english_events_maingame:13858": {
+    "english_sha256": "e7c1803a7306b083539f069f454c946c9efece61d24d5cd6e174ff544fb16005",
+    "korean_sha256": "32dfbbbd58a969fc64f1d4bcc750e4f8c815a862886e4665da759211d89ebc37",
+    "allow_number_localization": true,
+    "reason": "five hours=5시간."
+  },
+  "english_events_maingame:13881": {
+    "english_sha256": "070a71d65f4f4418ac3744551b602ff3b5ba02c667d54b9019f633ac6504a532",
+    "korean_sha256": "3d0093439f07d128d04ccdae4672feb30f5ba72bc1d9bf14b0bbec8d3fd3af98",
+    "allow_number_localization": true,
+    "reason": "ninety seconds=90초."
+  },
+  "english_events_maingame:13900": {
+    "english_sha256": "072a162508ea20b76e9b019df6206f52419e410edc1b30458d2b52c8e037b3a9",
+    "korean_sha256": "d59f482ccf00e8aa31b739e6a8b7ea7a71467bf35763c665f2d9afc8f9777e75",
+    "allow_number_localization": true,
+    "reason": "Half an hour=30분."
+  },
+  "english_events_maingame:13958": {
+    "english_sha256": "2297854ee39c9d65191458245c2481fddb18a875b8db81224ecd12ada4ed3cce",
+    "korean_sha256": "4fcf796a61f465dbcbadd322e3f358c51b6f473e3eaaf7b557893b8f6f7f20be",
+    "allow_number_localization": true,
+    "reason": "9-to-5=9시 출근 5시 퇴근; 하이픈 음수 오탐."
+  },
+  "english_events_maingame:13991": {
+    "english_sha256": "b6955f0f8e98fb799e1737debbe9af3b24aecbbd75b58e710aa8a2699d8824c9",
+    "korean_sha256": "87a0bc2511170e4c9e4b1916dc7034ab779bf4e5636dac65ebf0521f9a97211e",
+    "allow_number_localization": true,
+    "reason": "six/TWO=6명/2명."
+  },
+  "english_events_maingame:14284": {
+    "english_sha256": "27376f33bb5a8b48ca66f777126c95ad19dd3367a1283355a636821548fef251",
+    "korean_sha256": "1d4f702655b0921f79e75febbe2d58185e03ce2724bcd4dd1b67aa193621d72b",
+    "allow_number_localization": true,
+    "reason": "a century=100년."
+  },
+  "english_events_maingame:14408": {
+    "english_sha256": "2bb688f29219fb7b53c24661d4aa9b4f88d4911ae9c85625571d39f9b999dd75",
+    "korean_sha256": "347eeb1c28b59d9b06493516f702d2c60ea0cd2e848c2218ef6114900a253bb6",
+    "allow_number_localization": true,
+    "reason": "at least one=1개 이상; One good review=호평 한 번."
+  },
+  "english_events_maingame:14409": {
+    "english_sha256": "5272713b28a989c0519dae30b0993867638667f4c1bcd90dcc4a0f51817b8094",
+    "korean_sha256": "7e532d96f412d7a5b14d79b6428ad8bd2aeb9292d48d92a20ba1652dbe3034cc",
+    "allow_number_localization": true,
+    "reason": "ONE=1개."
+  },
+  "english_events_maingame:14472": {
+    "english_sha256": "236720213f0e1bc97bdbffd1dadbe50ca60bc473700033fd5065a270987c13d3",
+    "korean_sha256": "b8e22ebed3836097e615f506e69384920f8999ed209d971d6f3e94d973d07a50",
+    "allow_number_localization": true,
+    "reason": "twenty=20달러."
+  },
+  "english_events_maingame:14490": {
+    "english_sha256": "05831c082f57debee6fdce2c66b9e4fdc04c794bd5a02f6cd3fafcaf88158e99",
+    "korean_sha256": "767d3ddabf628b0785352dea9bd6550d51ba0c8ecdd8a8e5e67e41b2ff6fd3aa",
+    "allow_number_localization": true,
+    "reason": "third dimension=3차원."
+  },
+  "english_events_maingame:14493": {
+    "english_sha256": "b8fa70fd82d4effdc42f719427836d94ef7c20d1f069fa4be09cb4b6274bf469",
+    "korean_sha256": "a8571014253d32a33d5ff1ae55745bc492bd9c1f26cda797d2be3fa3d5103f84",
+    "allow_number_localization": true,
+    "reason": "One hour=1시간."
+  },
+  "english_events_maingame:14537": {
+    "english_sha256": "ea9fc999c838e8d56557c17d4a50e139e1906ee1f558666570a57e78b0ac5e6e",
+    "korean_sha256": "fec3993effdb9856f9da322c86d2757685d371c12122a64fc4d2cc498511b49f",
+    "allow_number_localization": true,
+    "reason": "century-long=100년."
+  },
+  "english_events_maingame:14559": {
+    "english_sha256": "754f13e102d8af66882a570f5ddd586c1d213d9484339b84d367f1c2c39c22d9",
+    "korean_sha256": "9db2dca2765c15e8e57a01a333bfa98e8992f5364f1802afb5f6faa2fd5e6776",
+    "allow_number_localization": true,
+    "reason": "ten=10편."
+  },
+  "english_events_maingame:14589": {
+    "english_sha256": "26536000be003c1fb0d0dc9aabc54578847666ca356d203cc449ef678d1e8ebf",
+    "korean_sha256": "4e8c858744957f85f82f0fa10a672e951095c588aa6cb2811ec6bbc3524689ba",
+    "allow_number_localization": true,
+    "reason": "two moves=2수."
+  },
+  "english_events_maingame:14629": {
+    "english_sha256": "3f48151155519078f595486a1e032b7c4dccb722467a7ff04699d6bb078b97b2",
+    "korean_sha256": "0d120512f4045f91d7852a99a809859a3363763ebb313c2eaf6227cf7504e115",
+    "allow_number_localization": true,
+    "reason": "ONE shift=딱 1번 빠짐."
+  },
+  "english_events_maingame:14663": {
+    "english_sha256": "253f654e4b40b941da25cb47bc23939c1839ef06a0805579745ca620f7a8fb1d",
+    "korean_sha256": "057f94abafcff5a318d915ffb78ae1c804edc2e501692240fdbc362dd5cd617b",
+    "allow_number_localization": true,
+    "reason": "a thousand=1000편."
+  },
+  "english_events_maingame:14735": {
+    "english_sha256": "7f4cc9178ff94ac92c3665d7525a6203c4597e4ab7f94ef10d84f206983c90c8",
+    "korean_sha256": "11085c38393ebfb641e64e4dcc0a2ee92378dd05e58401bca68706d911b9e6fc",
+    "allow_number_localization": true,
+    "reason": "tandem bicycle=2인승 자전거."
+  },
+  "english_events_maingame:14740": {
+    "english_sha256": "dd2e10a5afa4908c426dba1a5ecd7d782e1c49a21caf099705f3b2aa10cb6201",
+    "korean_sha256": "932d27c2d84e8f493609256a2db18ac0fb9197febe2d4fa4380995ec06ca9392",
+    "allow_number_localization": true,
+    "reason": "tandem bicycle=2인승 자전거."
+  },
+  "english_events_maingame:14788": {
+    "english_sha256": "d7739930aeaabc93834be6b2baef640ca8fb3d43b8a89b599fcfffcbccaa9ded",
+    "korean_sha256": "2c28072d5f72f6f5ec96ffd20312948e55dbb4762cbc5b9de020977b8f3b8380",
+    "allow_number_localization": true,
+    "reason": "스페인어 cuatro/dos=4/2."
+  },
+  "english_events_maingame:14819": {
+    "english_sha256": "3dc975de141e212b931432764dd163a350e9282b75a346e88a411b0f28b77e5f",
+    "korean_sha256": "aebc2b6fb67b099642e1ade7354d3b771bcb29c505fb02d6b51cf9d9dccddb25",
+    "allow_number_localization": true,
+    "reason": "three confession points=고백 포인트 3점; 수치 일치. 문장 주체 교정 제안은 별도 메모."
+  },
+  "english_events_maingame:14832": {
+    "english_sha256": "febd43f4c86146478bbd2877099f7449e7be290de72ea3ae9e0b29c10f54f468",
+    "korean_sha256": "9a233c74ac1a4a219ae266471165c3c673630c1023efa04eb4a76a5f800402e2",
+    "allow_number_localization": true,
+    "reason": "two=2개."
+  },
+  "english_events_maingame:14854": {
+    "english_sha256": "5ac6b31c116000e642925a46ec328ec057815a1b99beaa200bf2493c20556c0a",
+    "korean_sha256": "6aeaf0613d46867464f4a69a8dba6ccf22b29c86cd842acd6044cd36d36c1d49",
+    "allow_number_localization": true,
+    "reason": "two turns=2턴."
+  },
+  "english_events_maingame:14907": {
+    "english_sha256": "a516ba81365af163c8f34f71eefd9a13feef9bbed304b11b08fd916c1dbf7f9a",
+    "korean_sha256": "c87d7323f5391b34f1afcbd4e0d424e0452f1bea5b708c6668b28375c09088ea",
+    "allow_number_localization": true,
+    "reason": "at least one=최소 1번; 5시즌 유지; love triangle=삼각관계."
+  },
+  "english_events_maingame:14908": {
+    "english_sha256": "ecfe5f161de29fb3adcfc318fb71aa5961246ccd0b1895947141721dcf784810",
+    "korean_sha256": "7488e44de3b6425905b19ef8cac1c7e8a6c8f5597ec18a5a3b79f66dbce7e45d",
+    "allow_number_localization": true,
+    "reason": "four bases=4단계."
+  },
+  "english_events_maingame:14912": {
+    "english_sha256": "b61c4299a93b7a5144777711d3b8388de171a5f3745beb6c2c048ebfd67ba502",
+    "korean_sha256": "dcb0333a4f0e0ff34aea662cc14d703e3d4cce8df921793bef072ea162ab3255",
+    "allow_number_localization": true,
+    "reason": "Two hours=2시간."
+  },
+  "english_events_maingame:14930": {
+    "english_sha256": "df247c4da13cbc62ca011356d7a98648179d6a30ccd510eccab77320064041bb",
+    "korean_sha256": "da7b2c23c54583b6db55d03e933aced47e06149dc590c74aa336e7aff9d1df7b",
+    "allow_number_localization": true,
+    "reason": "less than a minute=1분도 안 됨."
+  },
+  "english_events_maingame:14940": {
+    "english_sha256": "1807dfa20914efd52bb6097d754438e9f5466aa7d02406d2593b8a52cc0c7e48",
+    "korean_sha256": "166e0808eeec942131e6a2de9080474cd66f6ff8dc0865d69e5c23a28061e1fb",
+    "allow_number_localization": true,
+    "reason": "step four=4단계."
+  },
+  "english_events_maingame:14985": {
+    "english_sha256": "9a5153072d5caac53326761a969bbac48dff9ff2845e8782320ab83cc353f95f",
+    "korean_sha256": "59b8767a594ad921cc75320cbae7d7dc452882bafc1f73768f546ba600d9545f",
+    "allow_number_localization": true,
+    "reason": "more than a century=100년 넘게."
+  },
+  "english_events_maingame:14993": {
+    "english_sha256": "1b49c04b5c0317fc36d469ad1e20617f0bf9a9e74f0a14a4cfc27ba2ceede124",
+    "korean_sha256": "1cfcbe1465478789b7689c11dfe9292c9c6ad4ef318303ffc3fbb59290300589",
+    "allow_number_localization": true,
+    "reason": "a thousand=1000마리."
+  },
+  "english_events_maingame:15016": {
+    "english_sha256": "fe42e4e1d346c8d74218a2253a02d1c15c422a7d680a12778e76a370de24dd65",
+    "korean_sha256": "f3ac3a37b5d3c37bb0d67ec2d4ef631b9853128e45d66daf663b7b3bd14ed0be",
+    "allow_number_localization": true,
+    "reason": "an hour=1시간."
+  },
+  "english_events_maingame:15018": {
+    "english_sha256": "60ddb589a61482d8938127767592ba9c1bc1543a31ff317fbaae36896b0f945f",
+    "korean_sha256": "acdaf40aca3696a4037ead0a582324eeb0358b486e9588e4cd1eadfce5bd8bf1",
+    "allow_number_localization": true,
+    "reason": "Three hours=3시간; 6feet 보존."
+  },
+  "english_events_maingame:15048": {
+    "english_sha256": "f4d9695aafde2432c91e35896d400eb5dbf42c8b8af44abf485e0fe526752098",
+    "korean_sha256": "bf39283a18dd48bfd737ec8d7cacb551457b9e8865afac5f8c12e6a4890d2685",
+    "allow_number_localization": true,
+    "reason": "two straws=빨대 2개."
+  },
+  "english_events_maingame:15143": {
+    "english_sha256": "08d8d65b36993d5a9c8ade92d987e6c72a8e15cbd56b70fc85756a2b47da1872",
+    "korean_sha256": "11d4a1b7392a03c88415cc82d06acf02b9513d1ee5f9180c00ac39fa1bf642d5",
+    "allow_number_localization": true,
+    "reason": "Fifteen=15분."
+  },
+  "english_events_maingame:15237": {
+    "english_sha256": "9edc70ce68065565d49b286c2ff4b07dc1e59f2c297d0dffff9e67aac674f390",
+    "korean_sha256": "d7fe2a7922105e3529d6bc54289d89d9b49e25f3ceec59d3b14fb403d2489b2f",
+    "allow_number_localization": true,
+    "reason": "two=2개."
+  },
+  "english_events_maingame:15245": {
+    "english_sha256": "66f99846bb9631cb2fc37cce446f772dcf4a39350bd878a44997fb8e6fce070b",
+    "korean_sha256": "3eb4530e81a998c1e6cbb6fcfab2e8ce95350ecc8bb73310512b22340f345a3a",
+    "allow_number_localization": true,
+    "reason": "two=2개."
+  },
+  "english_events_maingame:15302": {
+    "english_sha256": "33e84e5ca591ec766a0cf0253e8879d429d5fbf3c3d15ae2e25cbadd99dce0c5",
+    "korean_sha256": "fb86b03ea442b4a0e6d02286ed8f0f6b2ed21400a63fa510ced767626b61b3b1",
+    "allow_number_localization": true,
+    "reason": "ten=10명."
+  },
+  "english_events_maingame:15408": {
+    "english_sha256": "b9367636e39e03f0c79dbd72d8e405867c3feeb20bee25dda8f899291f776302",
+    "korean_sha256": "7b4da87e2c033b2a5f17088f8679fd024e4bd5ef90e8adcad9e48feff78db046",
+    "allow_number_localization": true,
+    "reason": "a thousand=1000번; 스탯 보존."
+  },
+  "english_events_maingame:15475": {
+    "english_sha256": "7af7044eb9c52e8831005857d7beb1b19e8e28bd4e0bb68ce6fe88167c6f094b",
+    "korean_sha256": "78dc8bc76765b0692a8b191c835678b8df7649be4d7e73d9575b16de81cbbb7a",
+    "allow_number_localization": true,
+    "reason": "two fingers=손가락 2개."
+  },
+  "english_events_maingame:15599": {
+    "english_sha256": "68f273c666fe7ef35a23dbdccef4b5d3adc43d2168b31c729e5aafaa773d104b",
+    "korean_sha256": "f21b505d11ca288720285a917d03dcafbc0c249c186a0102c06372b0c3309ec0",
+    "allow_number_localization": true,
+    "reason": "three months=3개월; 20K=2만."
+  },
+  "english_events_maingame:15619": {
+    "english_sha256": "b5f4107833e36764d71ae1778644a5386c073537510b98de6b1a1f9c7ad471f7",
+    "korean_sha256": "51595a5ce849f0c87816a145833e6edbb7e97516c55563378b51365236b16d81",
+    "allow_number_localization": true,
+    "reason": "20K=2만."
+  },
+  "english_events_maingame:15743": {
+    "english_sha256": "08b2c873990efe9446cb8e3e5380566c11649131886cab67f3df056c3e741cdc",
+    "korean_sha256": "fee95aab880bf7e70eb292bee9a85be2e08c583709f164e63a9f7d507b88e3c5",
+    "allow_number_localization": true,
+    "reason": "for the night=1박."
+  },
+  "english_events_maingame:15842": {
+    "english_sha256": "3956c90dfb7651f7ce91e94ebf722064244fccd467deba4e1ec27f52dcdf7b94",
+    "korean_sha256": "d6beeb7cad99d15570ad8b6cb59f462ae22c9dfd0d18deffda188ed525ffebce",
+    "allow_number_localization": true,
+    "reason": "hour-long=1시간짜리."
+  },
+  "english_events_maingame:15847": {
+    "english_sha256": "2d9d92e4ff7e009c2ed315a1cd18ad7b5b56bb2612c29ad5f013e60a5d786f51",
+    "korean_sha256": "664bf5e9af21c2bfcec9cee17d7c08a5fb29eb7af8f61e0d43ef1381dbc36c3e",
+    "allow_number_localization": true,
+    "reason": "six months=6개월."
+  },
+  "english_events_maingame:16057": {
+    "english_sha256": "a9e29be9fad3b045a540c0837653ae662606795191329e9ec436822027e579aa",
+    "korean_sha256": "4a0c36d02cfb405f426fe68fd2282a85157171c5bed1b9b32b205e95f115f488",
+    "allow_number_localization": true,
+    "reason": "Five=5분."
+  },
+  "english_events_maingame:16070": {
+    "english_sha256": "b397e259aec19f03080f822ec8ef4cb1bef0c9eb589b03f3cf729e5bb3019dd1",
+    "korean_sha256": "0ae02f3f2b62359075fee54eab3f84e9cc94195247a6112f31139f36a85045b3",
+    "allow_number_localization": true,
+    "reason": "twenty=20; 100 보존."
+  },
+  "english_events_maingame:16071": {
+    "english_sha256": "789fc24ddae8e5b98eda06290021462c2b3a84713cce403f7b77e368076342c6",
+    "korean_sha256": "e03bdfbfc11d6c8dba34aa9613c9db6856b0894f42a5141c55be69260257b67b",
+    "allow_number_localization": true,
+    "reason": "eighty=80."
+  },
+  "english_events_maingame:16072": {
+    "english_sha256": "60142a4ff5d3b493d00359c3fb4f21e523793729f9ffd65f813325d86672aec6",
+    "korean_sha256": "5b507b636a7e6276b603114d1ccec38f944600c8c800350c0366a219dca60d8b",
+    "allow_number_localization": true,
+    "reason": "second=2번째."
+  },
+  "english_events_maingame:16076": {
+    "english_sha256": "88fd93b1cecad06c6f82250805b0e1b4bdd830548c33d983903292791d79d1a4",
+    "korean_sha256": "50ef7ed27b5382ea67309178ae9db45aa3882feadf0ce1e32924ea18f46456ee",
+    "allow_number_localization": true,
+    "reason": "one box=1상자; 100%/0% 보존."
+  },
+  "english_events_maingame:16174": {
+    "english_sha256": "cadda2d9e34cad29ff7faab855e5652f5c5a8e193ecdf8623ebe31e13bda9d28",
+    "korean_sha256": "a2ba738938be62a72be498a452a1604400b5dd494bbf37d635d322545aed9b01",
+    "allow_number_localization": true,
+    "reason": "two=2가지."
+  },
+  "english_events_maingame:16315": {
+    "english_sha256": "48e241750551f97e890c8f7d378323fe33e7a3df5a213582d08a46c4edee1f7a",
+    "korean_sha256": "b03078c52b88d5cffc24a321d8c5438ab51b763e0caad7b94d9c241991d3d3b5",
+    "allow_number_localization": true,
+    "reason": "once a month=1달에 1번; #1 보존."
+  },
+  "english_events_maingame:16329": {
+    "english_sha256": "987b78764c80fa96327cdd8f87136af6aba8a230c545bcedaf798357c487fca0",
+    "korean_sha256": "645f804b68395ecaa8abb711806870aaa3041d9cb498e2cbedfb39bd4972f694",
+    "allow_number_localization": true,
+    "reason": "six=6분."
+  },
+  "english_events_maingame:16330": {
+    "english_sha256": "938f582d0721974bb6e366f93ac3a5f70b4f89fa085c7bd0e80ffc93fde813aa",
+    "korean_sha256": "566b4b578b572051bd5d1a88d19c687c9650884e44a752c04c63da0d2dec8989",
+    "allow_number_localization": true,
+    "reason": "five=5가지."
+  },
+  "english_events_maingame:16333": {
+    "english_sha256": "9903b1972f068146bd07c681c301a78fa20172595ab925afb56c70c0beb37719",
+    "korean_sha256": "529cb8aaed1016bb9a351794ded39fa8efb71327f0a7ea4a9bbc5c8718f9bb7e",
+    "allow_number_localization": true,
+    "reason": "five=5가지; #1 보존."
+  },
+  "english_events_maingame:16344": {
+    "english_sha256": "3f9a8b432d30faae1d93d9be0c5f09f79434335c11cc3a1cc5e452fd94302ef4",
+    "korean_sha256": "9a3c26e7a5fb7958e17e5aca99bef145085c9919df47097f705aa68172c2406d",
+    "allow_number_localization": true,
+    "reason": "two=2명."
+  },
+  "english_events_maingame:16385": {
+    "english_sha256": "2b23b5ca21170944c674ad80b23939d57cdbfa6e0a82ae2b6d3e914b91d6f712",
+    "korean_sha256": "0220038cd763114ab0d782303e1bcefa7f15c3ff4989eb35bb66d705f526fb80",
+    "allow_number_localization": true,
+    "reason": "one hour=1시간."
+  },
+  "english_events_maingame:16416": {
+    "english_sha256": "cde3ffb0978b0c7b4274e8e41600600bfa3d364b44a6f5b6fe7d67469f08f465",
+    "korean_sha256": "aaa4986e924ee1b5ebdaf20926f0c7313cc940dc6c1acc0de7ea5459279b97c4",
+    "allow_number_localization": true,
+    "reason": "Thirty=30분; a tab=1장; one hour=1시간."
+  },
+  "english_events_maingame:19040": {
+    "english_sha256": "52790583b0d801505da0f43900e627724550f10e9dfa02b2a92eab089dc33f40",
+    "korean_sha256": "3b5b662b1aee9a7b1d54641f2020e21e4088504687ad93d205357915b4b47700",
+    "allow_number_localization": true,
+    "reason": "edgy를 관용적 중2병으로 번역; 실제 학년 수치 아님."
+  },
+  "english_events_maingame:19156": {
+    "english_sha256": "52790583b0d801505da0f43900e627724550f10e9dfa02b2a92eab089dc33f40",
+    "korean_sha256": "3b5b662b1aee9a7b1d54641f2020e21e4088504687ad93d205357915b4b47700",
+    "allow_number_localization": true,
+    "reason": "edgy를 관용적 중2병으로 번역; 실제 학년 수치 아님."
+  },
+  "english_events_maingame:19339": {
+    "english_sha256": "2c4785a29455652076bae1e97595cc9b7f1d6fcda3579c52cfb8cf2cf36c1369",
+    "korean_sha256": "11a49d9185a12cc4028db5f8e827657f4036f79f39a84073fae5a335cab48ed9",
+    "allow_number_localization": true,
+    "reason": "5-to-8=5~8 범위; 24시간 보존."
+  },
+  "english_events_maingame:19788": {
+    "english_sha256": "48253a91fa725677e411655500d827f3d8c0e8100de7ea463f74f06d12f53a57",
+    "korean_sha256": "fd06bec9a805f39441ed9f8131f30baaa0c565233b0d1b0f8a3261fc50bf159b",
+    "allow_number_localization": true,
+    "reason": "fourth wall=제4의 벽."
+  },
+  "english_events_maingame:20688": {
+    "english_sha256": "d14485b4214b8c4f4e99b62f76a6ac433ed475e97a4d3ac3654386037ee43bf9",
+    "korean_sha256": "066fca234941d07092e850ec79ff93addd4f9d2cf4e7e3b954afc97203650e2d",
+    "allow_number_localization": true,
+    "reason": "Ten=10분; three=셋."
+  },
+  "english_events_maingame:20711": {
+    "english_sha256": "6d41897550221e5c3109c9d21463df4f01623825662a62fca817dda6f4af310e",
+    "korean_sha256": "dd2de87606f052514995fae57c6d21eba28e82691871817fab85e635488ea1e9",
+    "allow_number_localization": true,
+    "reason": "Ten=10분."
+  },
+  "english_events_maingame:20718": {
+    "english_sha256": "ffc2d418a822743f7d8d6c00cae2183c28740583c4f3409493873558c978f041",
+    "korean_sha256": "aaf4361d9a0d428cad2a4d20477fa2c45752ae8921a5659e2fe6048027313f5b",
+    "allow_number_localization": true,
+    "reason": "a dollar=1달러."
+  },
+  "english_events_maingame:21148": {
+    "english_sha256": "6ab37f7e43b72dcff6bd7e39c4d4bd31264969195e7657276c598a2ba5356e00",
+    "korean_sha256": "17781735c50e17f60d2394cc0ae9f8d790741ea8135659c1737e837eb12d900a",
+    "allow_number_localization": true,
+    "reason": "top three=3대 원인."
+  },
+  "english_events_maingame:21218": {
+    "english_sha256": "171c7efb144c91129b7e35817b6c44041ebe459ac749e62437dad77c1feb02e6",
+    "korean_sha256": "4ed967c26317684f689955c3748f3702cf6545252bf8a99556ea6ecfb87afa13",
+    "allow_number_localization": true,
+    "reason": "forty=40분."
+  },
+  "english_events_maingame:21334": {
+    "english_sha256": "4e24c40badb0f959cac827895ac0466aa1185b32da23dcfcfd7cf6b579d95020",
+    "korean_sha256": "16accb8978c7e79417257b871ef484f7fe8362abfaab7032f3db191a7eb56662",
+    "allow_number_localization": true,
+    "reason": "twenty years=20년."
+  },
+  "english_events_maingame:21360": {
+    "english_sha256": "cda7293f26aef4c8b347b2eb4aa58077618924c99fa85350cb8a36b45f1664bb",
+    "korean_sha256": "845fe5b76b096dc21554e9a764d5dce267231533dd4990a4f701dc65edd89ee2",
+    "allow_number_localization": true,
+    "reason": "Two shots=총 2발."
+  },
+  "english_events_maingame:21433": {
+    "english_sha256": "60cf71918d9ee30a547769a8427c089d46c4cf748d7413a1a7f47ba292f57898",
+    "korean_sha256": "01e08ba6bf8de18d7269000c736cc58095856b4eb63652db0c0188ed53c297d6",
+    "allow_number_localization": true,
+    "reason": "Five counts=살인 5건."
+  },
+  "english_events_maingame:21449": {
+    "english_sha256": "c7c3aecd8196f0fa253a216f5260734e90b436d119f3b5608f9f58ef41c2764a",
+    "korean_sha256": "532da8772ab1343d831a011af7d3235b67c892201b3e2f2b38c0860a3d8ea637",
+    "allow_number_localization": true,
+    "reason": "five murders=살인 5건."
+  },
+  "english_events_maingame:21561": {
+    "english_sha256": "84ca29fa8c3eca3d7b6ea05940c02da12d41d21db8c5ca273fab87d6a85b2c4c",
+    "korean_sha256": "b366fc293891e8742204b41669e27257bdd998e807bf35cb805c6ea68f4d7309",
+    "allow_number_localization": true,
+    "reason": "Fifteen=15분."
+  },
+  "english_events_maingame:21590": {
+    "english_sha256": "79bd8a40c21ff4ab1c357c59e27a508da0c9929c528c26554823ad037df17ae1",
+    "korean_sha256": "9d4d6b5f225fb877029f84df32a7968ff0778e76b4d2abfbbf31b4d4a0079cc3",
+    "allow_number_localization": true,
+    "reason": "four-car pileup=차량 4중 추돌."
+  },
+  "english_events_maingame:22338": {
+    "english_sha256": "29c82eaae077ebce0b701b0cacf26c9bd0ba8b31428259fa1b545c8323cfc6e2",
+    "korean_sha256": "348f5baa9c61e7f4c5b504f5f6e6d248eea37312f11750e6fc1a6c55a21dadf2",
+    "allow_number_localization": true,
+    "reason": "hundred years=100년."
+  },
+  "english_events_maingame:22348": {
+    "english_sha256": "7c6b97023c59fc0f5253e493e8ee8d9667d7856ce4f49903f8eeb70e94c5aa76",
+    "korean_sha256": "810cc64e649fcbd0b7f28161f90ee709efe274465a3505f6afdf1d0e095e1a16",
+    "allow_number_localization": true,
+    "reason": "two dollars=2달러."
+  },
+  "english_events_maingame:22351": {
+    "english_sha256": "6f78626adbd99a1c12877d96d69227851f79ebe65f3beda2c99327402a9540a9",
+    "korean_sha256": "92cce2b8ade276273bd8ae9f502f824b1f829c6274e05114d88324c2dc30f5d8",
+    "allow_number_localization": true,
+    "reason": "two dollars=2달러."
+  },
+  "english_events_maingame:22355": {
+    "english_sha256": "55bec4a9561619d8bb36c6c7fdd2a7ea4c8e63727bdd16c1d69a86be825cfa21",
+    "korean_sha256": "f15724741104928b8d6e6dc40cb98eb662c033490c567573695742de19bebf14",
+    "allow_number_localization": true,
+    "reason": "two dollars=2달러."
+  },
+  "english_events_maingame:22357": {
+    "english_sha256": "6d2eae5562518f93221119c85cc1baadac50aa187fdf10697908fd9d12956ce1",
+    "korean_sha256": "6d6b6d0c0f8772da1520830fb83c9e2903b26b8f8fa24b5791164b77e5cdb551",
+    "allow_number_localization": true,
+    "reason": "two dollars=2달러."
+  },
+  "english_events_maingame:22359": {
+    "english_sha256": "65acf989744dcb8dfce7b53b529440a2f04a570dc6535d9638639132cd17c202",
+    "korean_sha256": "967091691c3d38fabba43dc42e6f0015272d119871c13f50840adf6f242626f5",
+    "allow_number_localization": true,
+    "reason": "two dollars=2달러."
+  },
+  "english_events_maingame:22390": {
+    "english_sha256": "6f78626adbd99a1c12877d96d69227851f79ebe65f3beda2c99327402a9540a9",
+    "korean_sha256": "92cce2b8ade276273bd8ae9f502f824b1f829c6274e05114d88324c2dc30f5d8",
+    "allow_number_localization": true,
+    "reason": "two dollars=2달러."
+  },
+  "english_events_maingame:22394": {
+    "english_sha256": "55bec4a9561619d8bb36c6c7fdd2a7ea4c8e63727bdd16c1d69a86be825cfa21",
+    "korean_sha256": "f15724741104928b8d6e6dc40cb98eb662c033490c567573695742de19bebf14",
+    "allow_number_localization": true,
+    "reason": "two dollars=2달러."
+  },
+  "english_events_maingame:22476": {
+    "english_sha256": "0d83bbc28e2a2f507ce7627119ab3a8462b39d41720078d25be69c9b738a9463",
+    "korean_sha256": "0f3851ff2587eadff2b7f6ebf2c351f461164d4bbdf9d8983b43ffba43fd9848",
+    "allow_number_localization": true,
+    "reason": "three-letter=영어 3글자; -2 SMARTS 보존."
+  },
+  "english_events_maingame:22627": {
+    "english_sha256": "a7816bfea08af947b2a39ff01cf695df8558a88901a0ca9408fe10d8eaf33f39",
+    "korean_sha256": "fcee0fb8218aada078dd572871452ea9b546024b721fa1303025ef7b1d80e5e3",
+    "allow_number_localization": true,
+    "reason": "two-thirds=3분의 2."
+  },
+  "english_events_maingame:22630": {
+    "english_sha256": "30f857658d323a3b223d4ccefe8ec84af03b88fb813143c57f82b3b1a0357561",
+    "korean_sha256": "34187360be4509d2d2ec7f4e3607c4ce3586e95af5fc134cbc147944d7224d28",
+    "allow_number_localization": true,
+    "reason": "two-thirds=3분의 2."
+  },
+  "english_events_maingame:22639": {
+    "english_sha256": "398ce24f579096f373af5dae649a3dc976a1afa0d8985ba5830791a1eddd6cab",
+    "korean_sha256": "0b42fb00d415172972c29801652781d9ceeaa3f90758dc8432591f17ba465955",
+    "allow_number_localization": true,
+    "reason": "two-thirds=3분의 2."
+  },
+  "english_events_maingame:22726": {
+    "english_sha256": "32ed154cc3032876375167a4029060f518bb98d7dcc129e95529ddf55396a26e",
+    "korean_sha256": "178aff98485ea4b55c041fa6433cdf6cb67f3e929b8814ef185e72547c257175",
+    "allow_number_localization": true,
+    "reason": "a couple weeks=2주."
+  },
+  "english_events_maingame:23397": {
+    "english_sha256": "c8577d66464619d3f741ac58c8a44bcdec33c6579d727193c32f5ebf15c35642",
+    "korean_sha256": "a49317ad32e367b6305e8443717370d0fc64a64547736898b670a6e8d67d1cde",
+    "allow_number_localization": true,
+    "reason": "five minutes=5분."
+  },
+  "english_events_maingame:23418": {
+    "english_sha256": "3c514ee2446d3221251ea6307cf4bf732030670d3ec098cd880a7b909998301a",
+    "korean_sha256": "64c4bad6e1e63894d7ffb53561bb545a82bc898ae63c0fa21680b29b8b2fd106",
+    "allow_number_localization": true,
+    "reason": "eleven=11개; DOZENS=몇십 개."
+  },
+  "english_events_maingame:23505": {
+    "english_sha256": "f95bcfe27b6d8e234ac12877f1e8c05c2af45aacdfb58f1d07115c5067bc8ebb",
+    "korean_sha256": "b9855f3246d009df0facc7cb746e7ffd092eb4a9ee4b5a30775f23e041a8efc5",
+    "allow_number_localization": true,
+    "reason": "phase two=2단계."
+  },
+  "english_events_maingame:23655": {
+    "english_sha256": "48c9b580060e2063ca6fb9bcd3843d09cd064ca7daba3f89a1ae67d9a2ca7105",
+    "korean_sha256": "35a5303d3afa1e54e675fa3bfb90e9332a82567fa8cbcc3da6c012967f73d7c4",
+    "allow_number_localization": true,
+    "reason": "five more=5개 더; Monster Prom 5=몬스터 프롬 5."
+  },
+  "english_events_maingame:23658": {
+    "english_sha256": "96643a1426b57092238444981082271b294a426d2153a08f89fb62403869626e",
+    "korean_sha256": "dbb3855c8e70bff47b0268caf519b7823f83805408e6dcb8bb5c954ad5e55f8c",
+    "allow_number_localization": true,
+    "reason": "four games=4편째."
+  },
+  "english_events_maingame:23678": {
+    "english_sha256": "99d5c9996e241ad3b37792709da73798482a5a4fd8ed86540363fa1beb11851b",
+    "korean_sha256": "b513e3d27a0f14f0b8706762a0d02c3fc5329d2e2957b03bf54a7bc3c036eecd",
+    "allow_number_localization": true,
+    "reason": "four games=4편째."
+  },
+  "english_events_maingame:23722": {
+    "english_sha256": "f0aa92013cc440dfcda100282390496a64ad1424ae26e48bcf078138b3cdd923",
+    "korean_sha256": "d4df0aac545f81e3851c1224a1d27428dd05b9499102885e3c9fb1e9baca9dd6",
+    "allow_number_localization": true,
+    "reason": "a year later=1년쯤 뒤."
+  },
+  "english_events_maingame:24111": {
+    "english_sha256": "82a8c2a3f89d66cdcbd7328e9e30529260bd4515798824ad7719da69196e2287",
+    "korean_sha256": "576f5dcb8b31f41f1477fc25a67887894ac9f441eb47121afb6f70767262a37f",
+    "allow_number_localization": true,
+    "reason": "Twenty=20분."
+  },
+  "english_events_maingame:24489": {
+    "english_sha256": "a5535ba64a5dea1b0d1a05c637fe587aed71b6476389046d2ca4e432e08f6485",
+    "korean_sha256": "0c7b5f948e0cee8605968bca179da2ba2ad4b978cc94e728aea6196f07b442f0",
+    "allow_number_localization": true,
+    "reason": "edgelord를 관용적인 중2병 환자로 번역; 실제 나이/학년 아님."
+  },
+  "english_events_maingame:24636": {
+    "english_sha256": "be6ffbe3ea6c688c3bc88eb7c5f5efaa2e4ba01677733ff0bfe0249ae37b75a8",
+    "korean_sha256": "6b83187d89fa0101a22790adc42a4b2550e4d2aef70d9022b70cd79f08c37a64",
+    "allow_number_localization": true,
+    "reason": "Thirty=30분."
+  },
+  "english_events_maingame:24652": {
+    "english_sha256": "be6ffbe3ea6c688c3bc88eb7c5f5efaa2e4ba01677733ff0bfe0249ae37b75a8",
+    "korean_sha256": "6b83187d89fa0101a22790adc42a4b2550e4d2aef70d9022b70cd79f08c37a64",
+    "allow_number_localization": true,
+    "reason": "Thirty=30분."
+  },
+  "english_events_maingame:24805": {
+    "english_sha256": "9e0268f533b8b8f6e01f87adf17996fdc9faff3c1759a3c6847ebc11a7d31963",
+    "korean_sha256": "9340fb8050f043202410b4ef99a71159b9f24afe704264d80cf6c073d012d4e9",
+    "allow_number_localization": true,
+    "reason": "six weeks=6주."
+  },
+  "english_events_maingame:24911": {
+    "english_sha256": "fdeb13dbe35a8464c4d6767a7654cb959f043e74f7365a383f73282a8b34ff31",
+    "korean_sha256": "8d0af511f4c956a26b1fdc3ac80f5ef2a992703bb6cc0d38d60a8d6170e61f35",
+    "allow_number_localization": true,
+    "reason": "two minutes=2분."
+  },
+  "GLR_ECK_ROMANTICWIZARD": {
+    "english_sha256": "2c00989f370dafe80f6088eb04ecb5b12089a6ffe2c980c4c18f3a17d2583baa",
+    "korean_sha256": "1ba03af913df3f4e6dcb39a99fec3b9476da72d695d2e7009d90a1039a756c79",
+    "allow_number_localization": true,
+    "reason": "Dating 101은 입문 강좌라는 관용적 제목이며 입문으로 의미 보존."
+  },
+  "english_events_convos:584": {
+    "english_sha256": "5a1505075ba8bb4f2b3c00fbf58a37e9871188da6d9948d49cabd5c930e64cda",
+    "korean_sha256": "ae9d94cee17fa1fd013776ef816caefa758cee45ec4b5a7958fe0da179f8516c",
+    "allow_number_localization": true,
+    "reason": "2-in-1=2가지 충격을 1번에; 하이픈 음수 오탐."
+  },
+  "english_events_maingame:14989": {
+    "english_sha256": "3ee2b5cb386200acad0711af736c2ddb0d1228a07c03543a1f12a8f56debc560",
+    "korean_sha256": "fb6c6f9424c1be28343faa175a3ff7bb52dca39b6ac65e348ffd90d8221d2ff6",
+    "allow_number_localization": true,
+    "reason": "Three-word joke localized as three Korean words; numeric value preserved."
+  },
+  "english_events_maingame:4615": {
+    "english_sha256": "7041d583c157ef340da73abf39b3d9c1b2a3a182e7a2d60b9beb0533cceb8d38",
+    "korean_sha256": "ce7b1282aa1841a70121ea644e42d960f1902e53020ec59e9c4538ebd9bdf1e1",
+    "omitted_tokens": [
+      "[TWENTY STRAIGHT MINUTES OF WHAT WE ALL KNOW AS \"LIAM NOISES\" LATER...]"
+    ],
+    "added_tokens": [
+      "[다들 아는 그 「리암 소리」가 이십 분 연속 이어진 뒤...]"
+    ],
+    "reason": "Reviewed literal stage direction in visible text, not executable markup."
+  },
+  "english_events_maingame:4620": {
+    "english_sha256": "d460e637a6cf698c1c19437813ca9d20889307f3b07b296ddef467dff7e35123",
+    "korean_sha256": "27f58f9c750a2f45549d0422dd8fb1703208046b772c6d9017524f692fe6b763",
+    "omitted_tokens": [
+      "[LOUD, UPSET LIAM NOISES]"
+    ],
+    "added_tokens": [
+      "[크고 언짢은 리암 소리]"
+    ],
+    "reason": "Reviewed literal stage direction in visible text, not executable markup."
+  },
+  "english_events_maingame:7870": {
+    "english_sha256": "cf1fa1e8036361ba4bbdfb068341c35bbe88ae970d5f62160c894563ad733724",
+    "korean_sha256": "079e8b9a9c43074b589130b21afafbde9bc7b3794841588d2a536c6676f1e052",
+    "omitted_tokens": [
+      "[UNTRANSCRIBABLE ELDRITCH NOISES]"
+    ],
+    "added_tokens": [
+      "[글로 옮길 수 없는 고대신의 소리]"
+    ],
+    "reason": "Reviewed literal stage direction in visible text, not executable markup."
+  },
+  "english_events_maingame:15511": {
+    "english_sha256": "90a36afa289545ceae18554c01dc463f1e12a6495ce15302c4e4044ac865fa5a",
+    "korean_sha256": "ce4b3e4e278007d8832170cf9a9bc82c86048448c96ceb905da1fe6d28b5f176",
+    "omitted_tokens": [
+      "[HORRIFYING ELDRITCH SCREECHING]"
+    ],
+    "added_tokens": [
+      "[끔찍한 고대신의 비명]"
+    ],
+    "reason": "Reviewed literal stage direction in visible text, not executable markup."
+  },
+  "english_events_maingame:19706": {
+    "english_sha256": "58db2482c51319afafedf678d14c509c05de2f79d0e0deafc5840eb530a16231",
+    "korean_sha256": "fd14f035d22a08b02a15900a3bd4958e79c6b8d170b093e9d3d9bca25387c383",
+    "omitted_tokens": [
+      "[LOW-PITCHED GROWLING]"
+    ],
+    "added_tokens": [
+      "[낮게 으르렁거리는 소리]"
+    ],
+    "reason": "Reviewed literal stage direction in visible text, not executable markup."
+  },
+  "english_events_maingame:20274": {
+    "english_sha256": "7bd4be7ad8b3bb32937adbd53e6c04ed07f8654a60bfa82077e880c01b1bce69",
+    "korean_sha256": "b9345eae3dd3b6948493b92fb5994d935c5b7206f2a44aebe50e587e6c623161",
+    "omitted_tokens": [
+      "[AFFRONTED, ANNOYING LIAM NOISES]"
+    ],
+    "added_tokens": [
+      "[모욕당한 리암이 내는 짜증스러운 소리]"
+    ],
+    "reason": "Reviewed literal stage direction in visible text, not executable markup."
+  },
+  "english_events_maingame:21294": {
+    "english_sha256": "53351683c4f17c8a4de856b9b5b333e24448e4ed9b5a8f825a73bf29e976a6f8",
+    "korean_sha256": "dc94bddf1a27ec2cfac00bd3308ed1a1b593701cc8a231a0dfa5b9d20ac507fe",
+    "omitted_tokens": [
+      "[LOUD JOJO NOISES]"
+    ],
+    "added_tokens": [
+      "[요란한 죠죠 소리]"
+    ],
+    "reason": "Reviewed literal stage direction in visible text, not executable markup."
+  },
+  "PLY_NAM_CUSTOMNAME": {
+    "english_sha256": "fa6bc5b50b86efe87eaa7735f81a7a77022c6d0a48aa96c117fd9fedde5037e3",
+    "korean_sha256": "161fe7b3cfa1f49039b10cde7bd35ee7307770d60220525773ad0bea13590c89",
+    "omitted_tokens": [
+      "[Custom name]"
+    ],
+    "added_tokens": [
+      "[직접 입력한 이름]"
+    ],
+    "reason": "Literal custom-name caption, not a positional placeholder."
+  },
+  "english_events_maingame:9701": {
+    "english_sha256": "c52cc8fa72d515fd3bd4c8ca18c9f2acfb610ba111a04fcc58ef7896d8e4099f",
+    "korean_sha256": "c52cc8fa72d515fd3bd4c8ca18c9f2acfb610ba111a04fcc58ef7896d8e4099f",
+    "allow_literal": true,
+    "reason": "Reviewed unchanged chat handle/emoticon, fictional code gag or UwU reaction."
+  },
+  "english_events_maingame:24749": {
+    "english_sha256": "c6ebed37b03f935b647a45f356b0e137f101d6146bdb9489e391bb27a279cdc5",
+    "korean_sha256": "c6ebed37b03f935b647a45f356b0e137f101d6146bdb9489e391bb27a279cdc5",
+    "allow_literal": true,
+    "reason": "Reviewed unchanged chat handle/emoticon, fictional code gag or UwU reaction."
+  },
+  "english_events_endings:1820": {
+    "english_sha256": "8443cd7d150af65ca114a31f28537cd63565fe74f5a14a1eb2042da534ae3d58",
+    "korean_sha256": "8443cd7d150af65ca114a31f28537cd63565fe74f5a14a1eb2042da534ae3d58",
+    "allow_literal": true,
+    "reason": "Reviewed unchanged chat handle/emoticon, fictional code gag or UwU reaction."
+  },
+  "english_events_endings:107": {
+    "english_sha256": "d3f515989fabdd9166f326116bf6d1f1c19664b9af1d67a0476cc96d60531367",
+    "korean_sha256": "5f57f53ee29c2ad0a041020fa4e5081c2ff02f73a5535bd859fb72983458ccff",
+    "omitted_tokens": [
+      "[WORKING TITLE]"
+    ],
+    "added_tokens": [
+      "[가제]"
+    ],
+    "reason": "Reviewed literal sound cue, working-title caption or censorship gag; actual engine placeholders preserved."
+  },
+  "english_events_maingame:6200": {
+    "english_sha256": "0afd744868d38c18926e960155b23c8d1907e704c34ac306931202dd1b1db09f",
+    "korean_sha256": "88f7bcff34ff337c58c4470c9ce90d48c3146b2023e43c0b704a90261c4a6a45",
+    "omitted_tokens": [
+      "[AIRHORN SOUND EFFECTS]"
+    ],
+    "added_tokens": [
+      "[에어혼 효과음]"
+    ],
+    "reason": "Reviewed literal sound cue, working-title caption or censorship gag; actual engine placeholders preserved."
+  },
+  "english_events_maingame:7433": {
+    "english_sha256": "3e7270201b96a4e690da1061bc188dc660cc3a877e4d0c3dead342116d57116e",
+    "korean_sha256": "a5a9d49769ab4366bdd03423a319767460ba77b084ed6c21e04b9813bea22208",
+    "omitted_tokens": [
+      "[WORKING TITLE]"
+    ],
+    "added_tokens": [
+      "[가제]"
+    ],
+    "reason": "Reviewed literal sound cue, working-title caption or censorship gag; actual engine placeholders preserved."
+  },
+  "english_events_maingame:8612": {
+    "english_sha256": "840656374de369a1e400ffc555a359f21a866b5121fe5941a426bdbc8f88c127",
+    "korean_sha256": "11987454e0f04f6bfd836b18694a87c0a3391ec1606895d8f38d012052a82d0e",
+    "omitted_tokens": [
+      "[CENSORED]"
+    ],
+    "added_tokens": [
+      "[검열됨]"
+    ],
+    "reason": "Reviewed literal sound cue, working-title caption or censorship gag; actual engine placeholders preserved."
+  },
+  "english_events_maingame:8613": {
+    "english_sha256": "bdeec2758ee775f9550cd10b28c95d4b7d83e6ceb1734b5e8dc8b69055bb8851",
+    "korean_sha256": "20e651d23497340d4cfbbb4871deb0fd7c98a6e43a5c17749a57485a92fc25e9",
+    "omitted_tokens": [
+      "[CENSORED]",
+      "[CENSORED]"
+    ],
+    "added_tokens": [
+      "[검열됨]",
+      "[검열됨]"
+    ],
+    "reason": "Reviewed literal sound cue, working-title caption or censorship gag; actual engine placeholders preserved."
+  },
+  "english_events_maingame:8614": {
+    "english_sha256": "0b5b401055c193510109480331d926d7303dd476a0fe8615f44139ba91f49a97",
+    "korean_sha256": "40a01ece4f6666c7bfe62621a095bf318fda1a4de71232687a13a2dee52f6361",
+    "omitted_tokens": [
+      "[CENSORED]",
+      "[CENSORED]",
+      "[CENSORED]",
+      "[CENSORED]"
+    ],
+    "added_tokens": [
+      "[검열됨]",
+      "[검열됨]",
+      "[검열됨]",
+      "[검열됨]"
+    ],
+    "reason": "Reviewed literal sound cue, working-title caption or censorship gag; actual engine placeholders preserved."
+  }
+}

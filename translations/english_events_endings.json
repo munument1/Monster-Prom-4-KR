@@ -257,7 +257,7 @@
       "line": 107,
       "event": "success_liam2",
       "english_sha256": "d3f515989fabdd9166f326116bf6d1f1c19664b9af1d67a0476cc96d60531367",
-      "ko": "\"6:00: 우수에 잠기기. 7:00: 비판하기. 8:30: 간식 시간. 9:00: 회고록 제목 구상, [i]리암 [WORKING TITLE][/i]....\" 미안, 꽉 찼네."
+      "ko": "\"6:00: 우수에 잠기기. 7:00: 비판하기. 8:30: 간식 시간. 9:00: 회고록 제목 구상, [i]리암 [가제][/i]....\" 미안, 꽉 찼네."
     },
     {
       "line": 108,
@@ -1865,25 +1865,25 @@
       "line": 721,
       "event": "failure_april2",
       "english_sha256": "8d8c6ef92745ea670086603e8f019485870823bcf7ffe0336d0c9fe18e98ae0f",
-      "ko": "세상에, 지금 %HIMHER% 쪽을 거절해야 해! 어떻게 하지?"
+      "ko": "세상에, 이제 거절해야 하잖아! 어떻게 하지?"
     },
     {
       "line": 722,
       "event": "failure_april2",
       "english_sha256": "f99ccd2603c1d06c79a91f525719b600b8494cc5e80588cd3375bae051843478",
-      "ko": "끔찍해! %HESHE% %VERB_IS_ARE% 울기 시작하면 나도 울 거야!"
+      "ko": "끔찍해! 저쪽이 울기 시작하면 나도 울 거야!"
     },
     {
       "line": 724,
       "event": "failure_april2",
       "english_sha256": "96e07b5cc828331a6addeee3a40fc792c12124cf8fdd6b2b1c375a0b582d0a4b",
-      "ko": "이런, %HESHE% %VERB_IS_ARE% 눈치챘어. 빨리 뭐라도 해야 해!"
+      "ko": "이런, 눈치챘어. 빨리 뭐라도 해야 해!"
     },
     {
       "line": 725,
       "event": "failure_april2",
       "english_sha256": "f50fb4bffa588f806628a962910d2654d8d4f4debb5a93c91c72da6afee9fe3c",
-      "ko": "%HIMHER% 쪽을 죽여서 %HISHER% 고통을 끝내 주자!"
+      "ko": "죽여서 고통을 끝내 주자!"
     },
     {
       "line": 726,
@@ -3797,7 +3797,7 @@
       "line": 1405,
       "event": "secretending_cosplayfixerthreesome",
       "english_sha256": "b1d98894537955a77f521b28d5d5358ffa97c129494daa103df79fb128e1b142",
-      "ko": "(어서, 니키. %HIMHER% 쪽에 말해.)"
+      "ko": "(어서, 니키. 말해.)"
     },
     {
       "line": 1406,
@@ -3809,7 +3809,7 @@
       "line": 1407,
       "event": "secretending_cosplayfixerthreesome",
       "english_sha256": "7c8408044159dc02c652d729e24259e72e8d30b699addb35cda0ac119ee666aa",
-      "ko": "우린 \"%HESHE% 쪽은 분명 농담이었겠지\" 했는데..."
+      "ko": "우린 \"분명 그냥 농담이었겠지\" 했는데..."
     },
     {
       "line": 1408,
@@ -4187,13 +4187,13 @@
       "line": 1512,
       "event": "secretending_dougmmorpg",
       "english_sha256": "1aef693f9364f41024b3b074c7f2aaacae1ffacf66e09fcd6c10befde15b0f90",
-      "ko": "그냥 좋다고 해, 이 얼뜨기야! 네가 %HIMHER% 쪽을 얼마나 원하는지 다 알아."
+      "ko": "그냥 좋다고 해, 이 얼뜨기야! 네가 얼마나 원하는지 다 알아."
     },
     {
       "line": 1514,
       "event": "secretending_dougmmorpg",
       "english_sha256": "004a522f24a62cda6a5447890e692b09cc4dddad83e47f2e8ad7cac3c7a7cf5c",
-      "ko": "그래, %HIMHER% 쪽으로 가! 젊은 사랑보다 큰 기쁨은 없어. 즐길 수 있을 때 즐겨."
+      "ko": "그래, 가 봐! 젊은 사랑보다 큰 기쁨은 없어. 즐길 수 있을 때 즐겨."
     },
     {
       "line": 1515,
@@ -5213,7 +5213,7 @@
       "line": 1784,
       "event": "secretending_zoeoldones",
       "english_sha256": "d477ef18eb32cecf67eb253bce68dedc560a96eef9fee01f1e9764ef632b3fe0",
-      "ko": "우리가 없었다면 마녀회가 아드리앵에게 확인하러 갈 시간이 없었을지도 몰라... 그럼 어떻게 됐을까?"
+      "ko": "우리가 없었다면 마녀회가 아드리앙에게 확인하러 갈 시간이 없었을지도 몰라... 그럼 어떻게 됐을까?"
     },
     {
       "line": 1785,
@@ -5237,7 +5237,7 @@
       "line": 1788,
       "event": "secretending_zoeoldones",
       "english_sha256": "f14796fee08ec7697945d6de12d554337cf49e6ad23fd6dd2c5d5245b7b27b47",
-      "ko": "음... 뭐, %HESHE% %VERB_WAS_WERE% 술 만드는 실력이 나쁘지 않았다는 건 인정해야겠네."
+      "ko": "음... 뭐, 술 만드는 실력이 나쁘지 않았다는 건 인정해야겠네."
     },
     {
       "line": 1789,

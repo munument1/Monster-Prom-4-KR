@@ -1,6 +1,6 @@
 {
-  "status": "text_draft_complete",
-  "workflow": "Finish text translation first; defer comprehensive QA, font checks, game installation and visual testing until translation is complete.",
+  "status": "static_qa_passed_combined_playtest_ready",
+  "workflow": "Text drafts complete; static QA and targeted language review passed. Combined local test package prepared; user controls game testing.",
   "catalog_candidates": 23986,
   "ui_written": 2502,
   "event_fields_written": 21484,
@@ -29,12 +29,19 @@
   },
   "next_assets": [],
   "notes": [
-    "All 23,986 fields of the extracted initial English catalog now have authored draft entries.",
-    "Authoring inventory: 17 assets; zero missing or extra field identifiers.",
-    "Comprehensive tags/numbers/grammar/font/runtime QA is still pending, as requested after draft completion.",
-    "Installed preview remains 652 translated fields and bridge0.1.3; the completed draft was not installed.",
-    "In-game test control remains with the user.",
-    "Known authoring notes are in docs/AUTHORING_NOTES_FOR_QA.json."
+    "All 23,986 extracted fields pass source identity, coverage, tokens, formatting, reviewed numbers and stat-effect checks.",
+    "Installed original English TextAssets were read-only compared with all 17 extracted source assets.",
+    "Targeted grammar, gender terms, sound cues, numeric wordplay and terminology fixes modified 245 fields.",
+    "12 tests passed, including reversible package installation and rollback using temporary fixture files; no game execution.",
+    "49 image/manual texture names (51 occurrences in 6 assets) match the final PNG pixels.",
+    "Installed preview remains 652 translated fields with bridge 0.1.3; full-text package was not installed.",
+    "Full literary proofreading, special glyph visual checks, layout and full-branch gameplay QA remain pending.",
+    "Reports and usage: docs/TEXT_QA_REPORT.json, docs/IMAGE_QA_REPORT.json, docs/PLAYTEST_QA.md."
   ],
-  "authored_date": "2026-10-26"
+  "authored_date": "2026-10-26",
+  "static_qa_passed": true,
+  "image_textures_verified": 49,
+  "unit_tests_passed": 12,
+  "changed_translation_fields": 245,
+  "playtest_package": "build/releases/MonsterCon-KR-test-20261026-QA1"
 }

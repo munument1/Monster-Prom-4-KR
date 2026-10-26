@@ -17,5 +17,1837 @@
       "%VERB_IS_ARE%"
     ],
     "reason": "Remove redundant English pronoun/copula expansion for natural Korean; identity and gameplay controls remain unchanged."
+  },
+  "english_events_endings:721": {
+    "english_sha256": "8d8c6ef92745ea670086603e8f019485870823bcf7ffe0336d0c9fe18e98ae0f",
+    "korean_sha256": "265bcf983f0a67d1582fc09afff9ee4c18deced44b91084ef1573791a1309dc1",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:722": {
+    "english_sha256": "f99ccd2603c1d06c79a91f525719b600b8494cc5e80588cd3375bae051843478",
+    "korean_sha256": "6a1a0ae7c5ab158d540a2ea1b73edb61c96aad825f9dc2815af0d9f7ec719934",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:724": {
+    "english_sha256": "96e07b5cc828331a6addeee3a40fc792c12124cf8fdd6b2b1c375a0b582d0a4b",
+    "korean_sha256": "c9539f2cfdc196cc7fc34b6dc5780281b5f5540521bf1a18165edf5f763ff47a",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:725": {
+    "english_sha256": "f50fb4bffa588f806628a962910d2654d8d4f4debb5a93c91c72da6afee9fe3c",
+    "korean_sha256": "40fd8ae1906aba5e1b9aff540fa813ec5435417f0edb1aeddaa1f900d05b4f4e",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:1405": {
+    "english_sha256": "b1d98894537955a77f521b28d5d5358ffa97c129494daa103df79fb128e1b142",
+    "korean_sha256": "7b2b9c70555b08fafe702c2774cccd81847906335bf3543ced258315480de4a4",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:1407": {
+    "english_sha256": "7c8408044159dc02c652d729e24259e72e8d30b699addb35cda0ac119ee666aa",
+    "korean_sha256": "4351eddb8236a6b884481cee10cd9d05be87640633c7371e397b960a56d0c980",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:1512": {
+    "english_sha256": "1aef693f9364f41024b3b074c7f2aaacae1ffacf66e09fcd6c10befde15b0f90",
+    "korean_sha256": "0114ffdaa2650e90a9ce260a164fc026a2b181d1276381ee46d80c6378e23b0c",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:1514": {
+    "english_sha256": "004a522f24a62cda6a5447890e692b09cc4dddad83e47f2e8ad7cac3c7a7cf5c",
+    "korean_sha256": "7a35458576574382bd4729e3bf39745c916719aea6b016aef11071fb3c74021b",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_endings:1788": {
+    "english_sha256": "f14796fee08ec7697945d6de12d554337cf49e6ad23fd6dd2c5d5245b7b27b47",
+    "korean_sha256": "03ade9ba0f461cf5eedf460a985e73656deeebd8e12234177496f7d197d7d286",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WAS_WERE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:393": {
+    "english_sha256": "add06ff4b837770146ea7bdeecbd080cd3280aef196a4298cb7924ed4da3916d",
+    "korean_sha256": "d12f491cd5a685d2980ffa195a815612d3f52c322d52940632bd7cdf3c121b41",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:404": {
+    "english_sha256": "22e42acb13a8d7fd8a6fd8af53be8bdd22ae900f84e5eace64b0d360ff9ad01b",
+    "korean_sha256": "bedb21f694fd462b70458b58604fc1bbe59cb26c6e49ae1fddad601fcb5ac052",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:417": {
+    "english_sha256": "392eee6d9071e56a7590ca179f1b9b93b0cf9881264db6555c34b7d1420c43ac",
+    "korean_sha256": "151fbdc130dc555b9df2224c30a33d77370d53190f78c951005767956c4b8fe4",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:550": {
+    "english_sha256": "c46cc5d9e270b110b0bf5e005b092418df01ff6779d6c33ec6e02f30db8dd50d",
+    "korean_sha256": "96fc78c7d54fc7a1fca5759ed681c72dd366ae2fc5b7861f247ce89434a8e2a1",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WAS_WERE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:873": {
+    "english_sha256": "2e51ff4646dbe6236790d053de85dda90a31eff1d047190c3a185921ebb8098f",
+    "korean_sha256": "d5b289cd4cf102e1248564f465828b92c7935a818076c27a5cf5090ac98cd6f5",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:874": {
+    "english_sha256": "77ff53c9dde1a0910ba98968d14f3bc1fb152bf79c1110390b4b4eb1071c9952",
+    "korean_sha256": "bdb993afd1cdcb9c29fbeb13df59d8b9a83f4eb0fd3fb7a7b6ad6935e3cfbec9",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1021": {
+    "english_sha256": "e0f4f03c2398a734b4ecea0895a7947f0e9f398523aad9eda747fa105c2f71fe",
+    "korean_sha256": "318b48c906046719be2eddccda67c03d6a272ea95a84c6fd9904949b3f600c08",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1116": {
+    "english_sha256": "5cfc20996699781d98e25d20f49e5d1cdef881341f706cb27fcdd6cd0e221918",
+    "korean_sha256": "0180242cc9de6940fad2d4f984f64903c335710e1f2634a25b81a43ea77c7833",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1198": {
+    "english_sha256": "aa1f589d2536e14b94c20c13dbe2ee096adf32e954af3b936829d9f9a44fdc6e",
+    "korean_sha256": "987d04df41271864b393d601d649e72184943589e73a6245ef4a7d2e743583b1",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1642": {
+    "english_sha256": "c1cbb1b52c699f70cef761493e649be375b24915b3db5aa4d486c28d94b1bc9b",
+    "korean_sha256": "68a4353996e1b72faaccb49f6cdae926e8d742de3360b4ec0c0d1336a74588bf",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1680": {
+    "english_sha256": "057cb58fe2a73debba6cc11ea3d811b4e78f5c6481085c2f529e7f27570ae968",
+    "korean_sha256": "e18ed322303ddbb759679251c11e210e32615432965b0dc9f8757df0737a3b59",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1682": {
+    "english_sha256": "06fd978103d192eaf35781560964c1a13440c6f2e02a92a597d458f891a38851",
+    "korean_sha256": "7294b7d6244c9f8a4ad60451554a916eb330ec0ccb0c68327d9c850a0d0eadac",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1684": {
+    "english_sha256": "325eeda488568026cb9d5429dd7ca55c58f638aa12df4512a9a605f0cf35ab00",
+    "korean_sha256": "90812d4319c3023a619aa52de464a6c8a1d2dbdf4741747c76150203bacefb80",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1685": {
+    "english_sha256": "86c017f1ddd5bd464a52ef5beb7c552b3379f949e662b25f6ec10bba9afbf5c8",
+    "korean_sha256": "eacf0ff7c3c59d5b71577e382110dcb593d13489f9e2e480e0f0d4aaae759a4b",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1697": {
+    "english_sha256": "4fb4ad895c723781d25194d0c2788fb71d259c3c8013174c92461f9b52c7be2f",
+    "korean_sha256": "a77be43b012cb72377f0575ef2c04c302fa96a37156bc31a16c96696c850b56c",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1730": {
+    "english_sha256": "4b658030004682eca94f8acaa995249407acff18a464e0edf623f128b0ef534c",
+    "korean_sha256": "8240e188653683709fb9c91cc739e49bb5b0528329a05be6b6ddec17798738ec",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:1747": {
+    "english_sha256": "fd7673c5236fcd8b73dfdd028bca42b58227ab48de5b5c555c3fdfb4694b016d",
+    "korean_sha256": "9ef34eeb60f17f07e57fbc72d449642a526b9e97f656aed512c165593dc95a04",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2248": {
+    "english_sha256": "11c4430a08b2d4661c849bc61fdadbc617eebb0f1aa423a1381803dc032f877e",
+    "korean_sha256": "865691bf5d9a5814b4ece9b4682fca8a85cce5038ade7b0a8b65c771f525064b",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2259": {
+    "english_sha256": "c1fdefd365e5142469968f3c493a89947ce8e239466d5d51afa200f452ba5831",
+    "korean_sha256": "5a603df0f4632445dd28d15032dade0fae8448d3c67800484946b1331b8e5add",
+    "omitted_tokens": [
+      "%HISHER%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2271": {
+    "english_sha256": "1f62637205ef1e904fa09d21efea5e2886a854f41b219d311068931e9b0d3a5e",
+    "korean_sha256": "ab1cddc705aeb81bb3c8d02f5c2db7e92995f6274bd4601276c434af266197d9",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2279": {
+    "english_sha256": "343bd53ffa1e8a7d00d2c9d9b8786a0f41ba8d9fadeb2fae0a5aea6321d1cdd6",
+    "korean_sha256": "fc9620f4e7144309b71aec4a3b7ef1355f02fa60f962f1dc3bc3e6ceb0b7ff1e",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2755": {
+    "english_sha256": "d4d2650d87da7a4abc8363f5e6afeab4ce06fb05386df1b713aefba7a910f612",
+    "korean_sha256": "093b2e0813aee122a5117a60cb257b9998be7412523459a61c7bab3307a076f8",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2891": {
+    "english_sha256": "db0c774b86ba051038e8efcbd704e877aa4e8c8f8278382a8518c4226995a829",
+    "korean_sha256": "069428cfd7829b7d044a5473d3cda6fa133978eeeaa5033d245e4dd6244c22dd",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_LOVES_LOVE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2898": {
+    "english_sha256": "133bf33887587c181830fac60917c0341cb3a723cd05bafa8b94cf3f0c6bf841",
+    "korean_sha256": "ffcfcae4b63d5066746f7d7c26113a63858e75b7f33de7872ec734136d7d113b",
+    "omitted_tokens": [
+      "%VERB_IS_ARE%",
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2919": {
+    "english_sha256": "eddadcd2b15e88937b887df33d2c7306c3c5dc2d569715e17888ae4b471c1521",
+    "korean_sha256": "43d775c86277c4b62c3e817291a2941c6d019d1e24b8baf02f3214e99e7099eb",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_DOES_DO%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:2990": {
+    "english_sha256": "617bb230606adbc3f373f3fb3d5fd326429e9bc130df90d31b3f7c878fac68bd",
+    "korean_sha256": "6f306246c5bb778bfc2bc5cfceb07cc58651c662af3148e631c1f6ab80913557",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:3004": {
+    "english_sha256": "21b5d363a94681b7076e0f56f4c8245b1c799f35d57f58e48933f9bb9c4582af",
+    "korean_sha256": "829b9af7799106ac3472fc03377377484f8441e88c32183000e56a90086a0901",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:3008": {
+    "english_sha256": "8276597113480fcd054611ff1d2adc4ce3c916e533f47d796bbcabf59d7278da",
+    "korean_sha256": "aad363a8967ca205d3e3298142d0fb3487d3f79d5f5ae80a9dbd020dfd49a03f",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:3082": {
+    "english_sha256": "70f1654177a4f261724ef478fa3238e5a31f271a404a86beba09098531fa27a3",
+    "korean_sha256": "2100c2958016f0b8f56473e485ca1efa4a4065d6b865ee789a4eba4c56cc9efb",
+    "omitted_tokens": [
+      "%GUYGIRL%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:3083": {
+    "english_sha256": "5b25239d70cc326d472e41145e2eded1ec659c947cd9d98a21415f00faae73d4",
+    "korean_sha256": "5de791832143cfef6e79c4de0bbbef9ee8f208ee9db9ec8b95bb87d14feda17d",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:4751": {
+    "english_sha256": "da544c357d5b4ca7784f5aa53a2e503bf60b349892a6402b941a8469d8e265d5",
+    "korean_sha256": "20719694340e1dd32ca97201109a22264a74904e669e4a06ea66f64739a272ae",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_HAS_HAVE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:4900": {
+    "english_sha256": "85200461fe0b77e8e05fd7d7cb27ca701c0fd1e895db0201a00ae1c33b74ecaf",
+    "korean_sha256": "d7d3cb54cc2ce40c42a11a6f63316bb9ec2e42a6e55067c77c17032b8634e5af",
+    "omitted_tokens": [
+      "%HISHER%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5059": {
+    "english_sha256": "b83e2489101f1194f83b5b412f4984d44af05f0186f166facba99b8b47d1b3be",
+    "korean_sha256": "7b72f997cca58ae6c096fdaf482c6fb2310c347996417b93cb4368723c192f41",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5075": {
+    "english_sha256": "801ff7fdb4933ea9e68160953c019588518e859ad27e632fb51ac0affb50dd2e",
+    "korean_sha256": "ec46539a9da583718effffc07e721c48947513842d8b5a992da3336bf1411357",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5078": {
+    "english_sha256": "66a628992dcbacb8d8702936dcba69b43b375e10a8c3a99f0370fdf7f3dc015e",
+    "korean_sha256": "6e9b0b2c0fb08bb2a5f530f624c90c7fe615318637a6cf005a6b261e97b5efe5",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5079": {
+    "english_sha256": "fb920ebce64691a534522e1c7d2e4f8d0175ab5b8ff20622db28f544c4ed1e9c",
+    "korean_sha256": "4361ed315190b9f3594d4c0531c861c808f27bfce847ff0197c93e2389d752aa",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5207": {
+    "english_sha256": "745020bfd330e21bbe8c61f431860b8a79938f56aabcb15a68fcbf6f7c12fd2a",
+    "korean_sha256": "36ade273ee841bc3364330903747fa764f3adc4041e6625ac2f20b384e95cf54",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_ISN'T_AREN'T%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5216": {
+    "english_sha256": "35690a1e671403aeea6482b6505aee0695f4cd49d03b5e4ca96ac8fc51487aa9",
+    "korean_sha256": "d03e1eb25cdd713d541af35e69011cb15c29fd7081a5e55106fcd73d31292f63",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%",
+      "%VERB_STABS_STAB%",
+      "%VERB_SEEMS_SEEM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5307": {
+    "english_sha256": "267d7481b7187ca5b352709b5f4ff76340daebc2104e971ad1b1eb51e49de582",
+    "korean_sha256": "14a17ebabacab81123cb4fb3b45328cc779cac0619ddf534aa5ff900f85da1bb",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WANTS_WANT%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5316": {
+    "english_sha256": "c96cc04eec6164966b949922682985ecbddf197b3f64d7aa45ac847dd0efa2ae",
+    "korean_sha256": "ce44040c2947d28475a6528d036a08d3902200cf0fa4ddc713fa783361509760",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5810": {
+    "english_sha256": "06f0f602ded110bedc278b3b0b68ddb1b2af52676f1957beab66e6a02bdd1210",
+    "korean_sha256": "f93572d353579716a21a672149d7dbe83993d162fb69f4cc2d986e49718ec072",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5815": {
+    "english_sha256": "f3fff17e9fa510b8e49509809bc045571986c6fea453be8e80a078fb9a61d446",
+    "korean_sha256": "a4b42c99891ce731b6e1801308841770fea856ab0708fbef3aa3823e79b15db0",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_DOES_DO%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:5850": {
+    "english_sha256": "0efc2258bd3e006995d11f93be0531f7899523d0db64f6feb4418fba237addc6",
+    "korean_sha256": "3049fbbf1b86e6dc3e140cb07dc785f3bc804110a82a5905198dca6d604e7a62",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:6171": {
+    "english_sha256": "acd3c7c32383556eadb7d8cc6b182b10bf42c66b78dc33a7aaa38e2104a86c0e",
+    "korean_sha256": "734041a563b0b77d81d8a7d123b73571e2023a33045ed97bf1dcc4ccb44e6657",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:6541": {
+    "english_sha256": "a94ccfdec6f72c353b7c54c49e82768e6bd0b56bb2a8e3a68a886e72d7b2f1dd",
+    "korean_sha256": "3af06e1cceb64e14c834997d8f330602e93b4347e680c002240c3064e527bc6b",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:6720": {
+    "english_sha256": "9c33d6b7988d4df69c7f1b289ec6f63f10c1566d3bb411b2db88067da70a183c",
+    "korean_sha256": "c68a658cc8da081a3b759cc4c3c137803b75daded05893a05f5ea979d29a9353",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:6733": {
+    "english_sha256": "13286944c309bc4b3a09e8e4204dde5a7a09957a9777920a4f25538f5d925833",
+    "korean_sha256": "035407178f0b25b19523660dfab533380130303b5ca6610e56a045be01fd00bf",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:6884": {
+    "english_sha256": "5a667a94fece4088f869f065af070d7ee965f976394e7db9d00e2d1e463205fc",
+    "korean_sha256": "be3917b13288e452a50cb03b696909f664fca23964849e703a4cf975c5d79658",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:6901": {
+    "english_sha256": "cfc90ebad1b9cd04110e7388b8b8719e3bd0b5ca52aa56243c0187accb99c9c6",
+    "korean_sha256": "7771435dbac5a2dfe38602ce6ef8ccebfa9cc183c9e17472b5590544b3b7d833",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7004": {
+    "english_sha256": "bf5d07c769124155c667a6f415407310d2c5ec61802f5d47db0d9af58758fab2",
+    "korean_sha256": "8d6e655d5fbebc4efe60c7f915898d75c09ec3e89228d52fb219add3c1c5d300",
+    "omitted_tokens": [
+      "%HISHER%",
+      "%VERB_IS_ARE%",
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7005": {
+    "english_sha256": "0983f9f6c3e40fddc0fc4466bb4976db24c7b6ecc280d8346727cedf5591297a",
+    "korean_sha256": "f57f10af3f3fdfc4209253217c7d7aa118ca8de6964880fcef0c122342a2b3c5",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7013": {
+    "english_sha256": "ca56d0376f640cda0df3220590bad6b4f9846496a68b93976ee54f1190bac1bb",
+    "korean_sha256": "e02cdcc0c2bc044020e1ada43c5859c0fdaeca0dcb3a730aeefc8028eac577e3",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7293": {
+    "english_sha256": "e5e4d1cb52af6198fce3b19a1a59fac2839771a64b10054ecaab0c13befd28ab",
+    "korean_sha256": "a90631fef61e48c0ab082dd175150f5b0591897cc8f18120af82bbcc9d805fca",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7294": {
+    "english_sha256": "1a450f7a063c40701239fe6d47be610f4726c21c563e4b5b62e4bdd4e07cc357",
+    "korean_sha256": "7ddfe0dbe084d97c4a01964cebfdd463c6297f361c1aff1c66ae173a79d1c27a",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7296": {
+    "english_sha256": "92f9acd3eacbc24258366b5018f23123958f9a077522cb8e559178f67c5a3086",
+    "korean_sha256": "140f95348e7b608940c380b1fa6eaf78c457139c5d64692f1d7be7c13983f311",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7300": {
+    "english_sha256": "f0d6c09e98c4d8afa66d1f2ec6df94650cd9d2806e007386716c7b005e4065ab",
+    "korean_sha256": "a2033c307d1b24d545ee112c7eabd354501ffb327f9cc0c72e5b3a2b67ba2314",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7301": {
+    "english_sha256": "3b4661526baa367fff08c0937075bcdd1032bedde19414fabb356bdb234c41bb",
+    "korean_sha256": "e2a864f90f1bc29ea3c5d050ef394c06a649b35a6004f2b11b1fe4234126e556",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WAS_WERE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7760": {
+    "english_sha256": "4d6ea4ad9d6d11029a52ee5f13a792d70e7d298b7db9e99878e7e6ea81d132b7",
+    "korean_sha256": "95ad66f65c42e28bcfc9530ce52205fe68e91f5f53e38e5ee6a9dafb3335e21d",
+    "omitted_tokens": [
+      "%HISHER%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7768": {
+    "english_sha256": "22ce8989bafacf6549eb0967f5bd226dd0e2576bd84971116ad85895b71a5cf9",
+    "korean_sha256": "9daef64ae0ec9a2eecb07b34b6f5a323e4733699cee404b9528d2943771e6874",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:7986": {
+    "english_sha256": "e7bdd758a123a34fdb9e3ad22474ced5d4ff10dd872bf47c99d625b90ff516e2",
+    "korean_sha256": "5d13b7d68d2f1eb3fd8a98faec1466e800f67dfcb2274346d341787f4ae117df",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:8898": {
+    "english_sha256": "29f68bcd26cb6a159f7b5f5a6e00538b748babe9b29bfa5eda6e2d1d4a934a0e",
+    "korean_sha256": "d586cad424fd96f9e5ef948f62552449f3070a3c380ef56b9f06ccf555ee8bc0",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:9074": {
+    "english_sha256": "31058221b61f882e737e6f5cbed5d364879b3bd25c53ed522c72662562f767f7",
+    "korean_sha256": "36c29c6d47ec84ef597131378908bca2642a4e4fcfb21b7c3bf7d46110f3f42a",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:9076": {
+    "english_sha256": "ddfe083cc23a46c05ec5dce1ce4f453c58deac3b19b7af59dc7d644a2d8d96d2",
+    "korean_sha256": "81b125bc2a6d2ed1497cd10941e64b08425b031051e9aebed7debf2c18db3e2c",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_GETS_GET%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:9080": {
+    "english_sha256": "7761f3c456583083186938bb2fbed78dd847aa44e0518af271ec8273333e8a92",
+    "korean_sha256": "3472246885df8957d0f0c4a264f61bbecdecf672ac84f87e806ca19fc4d002f8",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:9082": {
+    "english_sha256": "6da0f9d76c002cf2454c61748192653e30ee50d776a7b3a05ca463770e44d57b",
+    "korean_sha256": "e5615e736fec7b9d6d5fe5e430dcb607546f46a802039ceeea627f2bbfb84d03",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_HAS_HAVE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:9453": {
+    "english_sha256": "a2f0e6338046c6911e97bff3faeb5bdf397741f21d6e6459b63281c978298b99",
+    "korean_sha256": "2b4815935b9aafe01f0c0b7d5bcc757e13816aab0c6b52b4137794136063f89d",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:9603": {
+    "english_sha256": "c2fdbc904256bec66230e231ffbf53bd49b781536bd7d04e1f56cc0fd5ef3700",
+    "korean_sha256": "f1d28afa6a50f65a41dc319fe41f44de37a1d2fb184ad00f8633e4728f5e66dd",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:9604": {
+    "english_sha256": "4c5707403057cc6c5ab84cf7230040d99f1a175c6f10fff1dddea737d27265d9",
+    "korean_sha256": "c120e3f5233f48559d461b9364a7334777b900b70561d0af71a8dcabcb478ed6",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_DOES_DO%",
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:10200": {
+    "english_sha256": "d291890c17ef495da99294cba10cb81e0c7a52bc13b79b959a29928541ee1794",
+    "korean_sha256": "97840234c54e20732b871192af6ba5d130f6bb2d651741408ef1061a2d109d63",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:11099": {
+    "english_sha256": "3039321c2bfcca75d31848ed279f9ce4c5bf0ba15b2e808237933e512480493f",
+    "korean_sha256": "9da434626a3c9f2a1c34417043ddbe728c049adb97c40176af73571df0bd89a9",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:11758": {
+    "english_sha256": "76e973cb3b3dd95be321ad11c6c15578547c16755700f0c8cf2a584a49ed2802",
+    "korean_sha256": "c1400c08baa35781ff9eeb9b97928e97be8e44e01a8f3343aac4781dd658035d",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:12112": {
+    "english_sha256": "03a89ad43138ce7c63a9da9ca730706b539fd348a18e67f2c41a38f28f734554",
+    "korean_sha256": "3eceb61f71c85fdc46e0a85c80d57e0c00978750c866970cdff73167c561d59f",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:12113": {
+    "english_sha256": "dec32dabe3dc8f1ff5fef17569c44a4f1db42b5642eb5df981deccd34de9791d",
+    "korean_sha256": "53dfe7ba1aa5566990f0172d17e1cd4544f62a8e2909fd5bbb740e261f3c116a",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_LIKES_LIKE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:12114": {
+    "english_sha256": "168306df986700e5b5715acd5b8b90f523b9f33e6b4934ab1ead5a86de34edf6",
+    "korean_sha256": "58953e9bf2d5a033e56c2faa8954ae3d9196baa594968a47c37f2ec926e81bb3",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:12844": {
+    "english_sha256": "7de559c20da9fa66278c9dd25fef176c3a6a88d88771d4d4fa9dbafdf2b27508",
+    "korean_sha256": "5a2294958f95e1f3fc610168e3f869ae20c311384354a9a6bee057451d418431",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_REALIZES_REALIZE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:13238": {
+    "english_sha256": "819f5dff37170838599036ba753b04b5c2dee6ee28ebf0718186b90f50072f0f",
+    "korean_sha256": "f92740fa9143b87bae0f3216d29a7c0bd884e17586b10283b0444a6be814cf75",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:13248": {
+    "english_sha256": "93b99119c6616fb08156671b9bf19d38d92c27b5792e5751e7658f48d7811ba5",
+    "korean_sha256": "1446c669446bf3a10754f1f65a8d26fca8c3a6ef1460c57e0acb8ad17912f78c",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:13827": {
+    "english_sha256": "0c39f6d2daadea710adde8dc5c91114ba12b3ef3ac55789bad5dbaf2d8d186c6",
+    "korean_sha256": "e20e627d21d7609ac5525aff54ac2dc0c8de29c2b2d55683cc95625ebefc8bf1",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:13964": {
+    "english_sha256": "411d712e0c7aa849b321aef2035189de05c7a2287699c6a43902c1d16f56056a",
+    "korean_sha256": "0d7191e58a8443f37c1a2c33a01c8b1b98f9287fe5173408db8163241988bc00",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:14262": {
+    "english_sha256": "1834b0d1adfa1ca5fd95c0b10f1d81e785224a5502d7fded59ed38836d5959bf",
+    "korean_sha256": "7a61986b7c411b796d6447cb94769a6a7424c1cee0c83c9b94e738a1bb0919b3",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_HAS_HAVE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:14345": {
+    "english_sha256": "c99cf4034ebf33b47957053f31e7e4144edd41ee3c159de510a0a376cded1880",
+    "korean_sha256": "cdf6220e2e3f67c3870f6354520381a6d7b434b6e16ce702f454754c8789ddca",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:14366": {
+    "english_sha256": "537756917da64bd68f417f2dc31025c41a3ea077bb2c8cd39d21db93ab143eee",
+    "korean_sha256": "c067a1128a4cd863fb52d426113f9882f92f7ac7ab246c309058dec4f7cb8f24",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:14501": {
+    "english_sha256": "7c2f0332e68db3cc5e94c2c3f16d5f3291121895226730c860a805b8e9949994",
+    "korean_sha256": "768117e7dded7ae64dc4871dfbd74ef05c245d22c53d289f5a1b0078c3e36043",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:14511": {
+    "english_sha256": "b8767dd912099fcf7ad3923ad6c5afd2808387b8c5b801a5174457fe0a263baa",
+    "korean_sha256": "d2ae799d81c513bae0b92352afdc4150088285c7ace1541e7b6805f3c934b926",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WAS_WERE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:14519": {
+    "english_sha256": "302614cc4bdc1e0d624f08417d12688106425837ceb6c66dd6ae39fffe7ec8fe",
+    "korean_sha256": "7929c423b88ab279dfbcd04e7d487ff433379e7344be49fe4973b852d85efcd4",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:14540": {
+    "english_sha256": "cee2ad9288f7d85d1cee553a601f37a34da16cffa51367daafe2922865bb8797",
+    "korean_sha256": "04306e04933d2add81e6e332db460842025e0f4c9488a45d46006e35f3d07497",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:15389": {
+    "english_sha256": "c0ab0155ec88de45535d928823db87c447d5e3fcc032ea1594ec92eaa581ecbd",
+    "korean_sha256": "92a6855d71dd394fe302e9db584e01d916d69d02bd1bed4b102b83ad0e634600",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:15625": {
+    "english_sha256": "6696eddf7358d405dc09a189a57b43e2534ec5215290758881b92a00e17a6edb",
+    "korean_sha256": "e45cfee858697cd286d4fd09dcbaf3b3ead1d1df95d2b67f857c7902d8d67004",
+    "omitted_tokens": [
+      "%VERB_IS_ARE%",
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:15994": {
+    "english_sha256": "a4adfb159118a576c59d3aea21488de431c366ba42569c4f058e5f7ba35db647",
+    "korean_sha256": "68dc37efc7d06658e6f87c90f158fd599a209b6d04bcd2713d028e2b33b3e635",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:15995": {
+    "english_sha256": "b4063119f0004fb319c9d24123bfb606a96b9716984d4e2f980021c2b6b18078",
+    "korean_sha256": "c42276907e9874bc1b7cb57189e499173223a9d0637438c6be24097547d23fc6",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:15999": {
+    "english_sha256": "fee8c88835c1d26320d9bc1abb00daf9ae3b758646331a5b12184f87c2340a5f",
+    "korean_sha256": "7a0b17fe1c7198a2390b03bf53473160e9a2eda97d4938e97c5aaf004e7ab6e6",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:16224": {
+    "english_sha256": "b934829a5bbc7dc995423e2fb2472a9d6111b25806fc7e84ae71ce1596c352e8",
+    "korean_sha256": "f93e5186fe631165199f7254d6940215793e7e73ba2521564d0e155c13e9a0dd",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:16234": {
+    "english_sha256": "701c650fa7443a8ad49ddec20b81120f67eccdc608b912fb1f175e2a4f362c17",
+    "korean_sha256": "e6c48c8460e99554ac2edccf96baf9809433750a21e0016363e09e4428c8c84f",
+    "omitted_tokens": [
+      "%MANWOMAN%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:16235": {
+    "english_sha256": "17c6ee993f6ba78ea59faf7ef9f42450eb41435f01c20188662fed0ce5bc50f3",
+    "korean_sha256": "8364e0e837e1ec771fc61618d9f16f9d452da96b275b21840485e4eeda7172fa",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:16712": {
+    "english_sha256": "5c912c546a8eea3f36894c1846215ae4d5c72be5fd913f23ba775237923b2cdf",
+    "korean_sha256": "1dc7ccee02b0a315b891e82a86da8b39a695db911d2ec3f0072fc748f7583d1b",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:17263": {
+    "english_sha256": "ad7c10ef1d5f91e95d1f171309a49342c0c48c1624dd093c4279df7bc7cd47be",
+    "korean_sha256": "e422553a41c2717cd3cf53238478b973f7cbcd36fe953c7e3fdefb1a1d14f36a",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:17265": {
+    "english_sha256": "11326bf8a1ec8774b316c2a09a2e2c14f1d1649b9ce2f55dbcdd384f95f6908c",
+    "korean_sha256": "f35be52ca0a896ec5f9d2dc2a17b78a5de9cb484dfbbd33ed3af18c7b1b1d3df",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:17394": {
+    "english_sha256": "5c822a1cd8dab229699feb3514dbdb6d4558f7909900dedf1967c06b86648dad",
+    "korean_sha256": "18c927c2c48febfdff04e66c6a93558aa49425ebf3b8b41056894e817763d793",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:17882": {
+    "english_sha256": "dd80a595b6f5be56c1e867dd05d830166a13d5aeaf82b8e2627a094c9d231044",
+    "korean_sha256": "dd1eced42ebf6623c855eb443a70b0250981ead4aacf66f35966fc634ebec2f1",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:17959": {
+    "english_sha256": "13136784e7f0ef1ad6387842208141d00b7425669e04f496ec7ee7465ef283a6",
+    "korean_sha256": "15303c67f1ed4115a357f3a4b52f33351de040297bb1faa4474f48070a835018",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18079": {
+    "english_sha256": "befb44ced4049962466bb724af457fee9880e3b0fc53e4c5bb9f167ed1c4493d",
+    "korean_sha256": "54888448018350ec3d10f53522bcbea4cd4a369c4a887b0312257aa243e45018",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18081": {
+    "english_sha256": "2c1d92f2f1bb0c9f46a28b4aec9ad49c65176709646d18829945985d5c770612",
+    "korean_sha256": "8de08bf00343dc0898b5007ac4587aabb7a6e08cd37f21f0af792a025f72bde4",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18082": {
+    "english_sha256": "3455fa09b9b66ebc9387f00671044353da360989dc15e46ca7911eb3a2ee09b7",
+    "korean_sha256": "86798127d191df7486127b3257493313d16d3f146c594084f0278330dd5d9910",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18116": {
+    "english_sha256": "f03cff8bbc736b9bfcdfdb4336ea1a11a0514d1146232069a43d00e609a9125e",
+    "korean_sha256": "a16eb01ae8dad3387ade42e692326c424b9c6f20da80fb61e840120b7ffe473d",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18486": {
+    "english_sha256": "491d751a01b27d91e0a84c1915f6ddf8fa8d12ec780ff35289c9fc7d71358b67",
+    "korean_sha256": "b3e37237b032306947d31e2bc64378bd123346bb99716c3c116fe5e9cf1ad0bd",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18616": {
+    "english_sha256": "f581d6154354a05a7bcec8706ff6998b3b9fe71601d7025ccc514b0b524e53ab",
+    "korean_sha256": "05dcae76532dda435b059c3052584dfe0dd9b787a302397c2e4f64b954df6465",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18757": {
+    "english_sha256": "617ce6334bb0b79ac98addc02ee5d62ffdb22fb032a0f72eba99998e66cffa9d",
+    "korean_sha256": "8c9545e220573cfb7f1e9bd7b7225af19509b6e7b9ae2c4926ce48e0dbe8a1fc",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:18834": {
+    "english_sha256": "cdefdd3dc0e7793f5ab2c083180ce999e52fa0b750e60f600c137a867f28dd44",
+    "korean_sha256": "296930a02072707acf582e78a5d1cbb83eb88603bc5dd516701c0c3676ba5dba",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:20368": {
+    "english_sha256": "988dd13d1dd50be28d98bfde61f2c606ad15edb2a73c78c6bc7d81cc41f683d2",
+    "korean_sha256": "5155f75ac1245402f99edbd0911a6420944b5b0a0e386af74d96587335ca19da",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:20920": {
+    "english_sha256": "89404adc7e0f31753354a1cd88d1eca5292734bea0c816b7487d1dac00d0c5fd",
+    "korean_sha256": "c334c9afdb308087a64449eaa418e37e415e091747b8706532006c5421fc5a82",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21000": {
+    "english_sha256": "24e63265fc84050ef6ac6d4a4d602cb12a14459359b94de44546114d130927e9",
+    "korean_sha256": "8a367d426fc50f8bf8aa40596c08dc822e36a0893f4d28a29be6801b6a240952",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21022": {
+    "english_sha256": "fc9b9b2b427917685cc624b4d2f96215683eaa1808df02d4b8477ab5adefe06b",
+    "korean_sha256": "698f689d478d024390fc9a66c5356c7cb58b595acc8ec2f55d448b5935c2c654",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21133": {
+    "english_sha256": "db0d4586ab655902ebda91e032a12683ae4ffd21804d35fc6368ca5f5e55da32",
+    "korean_sha256": "0f1d616cecd8be8fd510c7013d4ed0e9e092b38e037fe63ac002fff450148499",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21155": {
+    "english_sha256": "427ff4213aa11a2bbd8a497b0971e4bbbe34a23648533cd869c776be4eaa05d3",
+    "korean_sha256": "4c93530ef775e118685ef82f0da41156a6e31802a1288b6d1dd493d2722a1e65",
+    "omitted_tokens": [
+      "%HIMHER%",
+      "%HESHE%",
+      "%VERB_SEEMS_SEEM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21180": {
+    "english_sha256": "f19c71fa968dcef4f88095515761016795f788eb5434f63e1b6621924a6ed54a",
+    "korean_sha256": "f3541af474e9f0d1b4261dd68199646263e701700248b0dfc971288d339988d8",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21230": {
+    "english_sha256": "319863d59c0524337c6fa86a39d832173ab88bf23f119497b0046b0690120d56",
+    "korean_sha256": "50a134d706e332c241a476efd400ccace1b72785cb501fa19a701592e4401dd5",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21379": {
+    "english_sha256": "d8429e1bd531f1dba7486e7494e691c65c2962e452ed9c77518d812b14d74bc0",
+    "korean_sha256": "d0e77366c65d5a1a2bb830dd73ac0f8c77cd6c4d31811fbb86766b972fdcd2c1",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21380": {
+    "english_sha256": "bf47592be2f7866e4648604c9e68961193180db6f803da106c460f8858db5168",
+    "korean_sha256": "cd30c7daff30d51a3d3085cc151d5fc88c83be069014b2394cbf01d4f8f51e5b",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WASN'T_WEREN'T%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21381": {
+    "english_sha256": "9e9ca994c82196b27af8da7c36e01b88290688db5eca6246c6c511192e0e38f8",
+    "korean_sha256": "0ffa2a67dd2694347aae79a1a1f8309c315d93124e039533ff3204f60aee21c1",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WASN'T_WEREN'T%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21383": {
+    "english_sha256": "9ac6944e7bde3a1ab10d548e49a96e832fe113e1de8fb99331662e82733da1df",
+    "korean_sha256": "0a2cad8fdeafecd28a71dad5bf3c2bf8944e3c5cbfbff3597953ee0c521cac9d",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%",
+      "%VERB_WAS_WERE%",
+      "%VERB_WAS_WERE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21760": {
+    "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
+    "korean_sha256": "35d235a57b8d7d6e6b5dcbc3bf86da6162ffe23d5ac63f4f8625a7a2bf25fd38",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21775": {
+    "english_sha256": "22e22bd82a2a1653641622b7c0164b4bc206b4fdbafc0a6dd27c14bfb9e79a8f",
+    "korean_sha256": "76977095b687b208c96be864b71ff1eeb347f556ded767e3844b7cb25b6f8a1c",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_'S_'VE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21813": {
+    "english_sha256": "6a831fc5dc75a1185083da6e6cb6c8a690ff87f375ea7887f526dba3a0d94d2e",
+    "korean_sha256": "b479e67b5f463c4b268311ab64967615cb16c708e8466f0f5324221b4606b43c",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21822": {
+    "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
+    "korean_sha256": "35d235a57b8d7d6e6b5dcbc3bf86da6162ffe23d5ac63f4f8625a7a2bf25fd38",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21937": {
+    "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
+    "korean_sha256": "35d235a57b8d7d6e6b5dcbc3bf86da6162ffe23d5ac63f4f8625a7a2bf25fd38",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21952": {
+    "english_sha256": "22e22bd82a2a1653641622b7c0164b4bc206b4fdbafc0a6dd27c14bfb9e79a8f",
+    "korean_sha256": "76977095b687b208c96be864b71ff1eeb347f556ded767e3844b7cb25b6f8a1c",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_'S_'VE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21990": {
+    "english_sha256": "6a831fc5dc75a1185083da6e6cb6c8a690ff87f375ea7887f526dba3a0d94d2e",
+    "korean_sha256": "b479e67b5f463c4b268311ab64967615cb16c708e8466f0f5324221b4606b43c",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:21999": {
+    "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
+    "korean_sha256": "35d235a57b8d7d6e6b5dcbc3bf86da6162ffe23d5ac63f4f8625a7a2bf25fd38",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:22506": {
+    "english_sha256": "b4a0a6658f6c526b2d2a2880b77461777af65245a607ff89a6574ad7c02bb669",
+    "korean_sha256": "b759d7b7ef39e733971fbbd4e4f1c12e7c9b12df924c1b589a89c7da2f88406c",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:22605": {
+    "english_sha256": "fb6724362e64dc964faec2b0a196a1a79c9a41b4572010925ba7019baa587095",
+    "korean_sha256": "71389cbf54883a9736e9d75f7044e4406a0cde8568b59c749c0e38cf8e36bf30",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23025": {
+    "english_sha256": "73c7c8d887505ba511dd15e64ae940b079be795c97e8a30ad079e7ba63ddcc08",
+    "korean_sha256": "cad16ea45696032737d88f35639325a99013d95fa810196a3dd17a2acd051390",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23027": {
+    "english_sha256": "cf8cb083749dabd0cdb9ab682c64782f3ad4f082df36f38c16b0d60e5b367fbd",
+    "korean_sha256": "37262fddd39edcaa4ee88655d354412db194ac618ce338cfec0929fdf83540aa",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_HAS_HAVE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23042": {
+    "english_sha256": "73c7c8d887505ba511dd15e64ae940b079be795c97e8a30ad079e7ba63ddcc08",
+    "korean_sha256": "cad16ea45696032737d88f35639325a99013d95fa810196a3dd17a2acd051390",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23147": {
+    "english_sha256": "c48a7d0282e35d8c5ef6704c8381a82e78102ac347c18ee77554fe3fabc17569",
+    "korean_sha256": "2f43851e7394bf8c08374e95357ad7cdc4532ae975f30d9f3f2b475f1133da24",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_IS_ARE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23212": {
+    "english_sha256": "d2ca62caae0d1636d7aee3090c941e2b5c216a5d9771837df5b3ff2fe7fe2d17",
+    "korean_sha256": "18039f7e0d275e1dda6a6ecef922cf2356fc0fcd1dfd2a92832a4cd1749e1a83",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23443": {
+    "english_sha256": "375a851aaabd8fa18e686819c8d548a8f5580447eff7042b24fdfe4771fc4824",
+    "korean_sha256": "75b6dcf844c2acef2dde4969f78bf410fc3a3bccafc888a157907bb722f0a338",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23644": {
+    "english_sha256": "7965778cdfbd6569dfb5626773b773e79d3ea0cbaddcee78cfe7bf096fe54c61",
+    "korean_sha256": "c5c3127ab3d44768c4e7c4f9b8597f49feb428640fc476f29cf9d51264c44ec3",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_WAS_WERE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23883": {
+    "english_sha256": "333f114b3f371b59d31cda8f57e00ad9aac973959e0b4b52b8417bafeede8abc",
+    "korean_sha256": "95651c5c02ad176f393f3292f5bb987d68d101965ca99128af0bb4d07c6991c5",
+    "omitted_tokens": [
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23885": {
+    "english_sha256": "2bc0de17074621ce367668e3030e7b8a2d068103ea94b7c20b06ec3351b6d959",
+    "korean_sha256": "857fa6d36d0976aaff1016d3ae6bc201341504afa0d653410c39e930e63b2af0",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:23973": {
+    "english_sha256": "ddf84b59ea69276a4ba4a91416bfc567b4bddf2b29449743ba14c3292207f8a6",
+    "korean_sha256": "f898b10e70b795fb01c7d2ba94ebb1320f427cb19760d2f0ae1a2c71fd7de13f",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%VERB_ISN'T_AREN'T%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24197": {
+    "english_sha256": "d2a4d6d3d673ba7c564ef766694db491983e565f82186f96fa32625ac8a03e4e",
+    "korean_sha256": "35d918a3926e79d8eb17b311dd17f38ac487f350d18743e8953b79ace2f01430",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24216": {
+    "english_sha256": "6ecfd68faa6534c7dbf3b87c0f35d71e0cfa49a791c575dd7d6864503071c027",
+    "korean_sha256": "7f7caa806e8dd92944f42dc8e54ceb74e8937e9e84ebdf7ea592a9439fbdce02",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24231": {
+    "english_sha256": "6868d04b9863a36c1922050803b5351499c876363f36b44afa473f05d9fbe66d",
+    "korean_sha256": "ae80e8647b307272f555a839e3239b569aa90f8e9b6543d6bbef672368fb0f3d",
+    "omitted_tokens": [
+      "%GUYGIRL%",
+      "%HESHE%",
+      "%VERB_ISN'T_AREN'T%",
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:24232": {
+    "english_sha256": "c8909b3d175c9a51ff1f5379654bf8feb7672d9730e4bbed4e44db8f585be128",
+    "korean_sha256": "716deccdf7a34beb582b8269df936bb35ffefa00b33e2718cc4a8ddf2230e9ab",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24276": {
+    "english_sha256": "8f2eade5915b24407b3bdee1b986261dbb758a5a562398546de18d0f65f50bf4",
+    "korean_sha256": "b4f7d9fe1172cfa27c5088885e0f7ab6b09817c29c9501c315eb9bc664637e85",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24277": {
+    "english_sha256": "207a856f369b5f819997a1d6d17bd4dccafb22d68f3c0c249b4cdd5528840467",
+    "korean_sha256": "b574de648383a36d58409133f0aea591780f99a791f834557b0eabdb98675eaa",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24284": {
+    "english_sha256": "b60e4d19241014895526462740a79d8f0e2bb8b2df9b091c6d7d3746950e4143",
+    "korean_sha256": "abd205ff16088761d547ff997cf1af86fe41e6d7b7206890ea420d486e661278",
+    "omitted_tokens": [
+      "%HESHE%",
+      "%HISHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24285": {
+    "english_sha256": "a22c3e3b50c3c5eea04fd11d692578e2251853553fef180cd309246d8b3fa87f",
+    "korean_sha256": "d17deb57e2b04a8ab843b58e446d7cc296a74ce4e1d3b641de5e0dad61afb2a1",
+    "omitted_tokens": [
+      "%HESHE%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_maingame:24292": {
+    "english_sha256": "7f77e80a309038d94b9b11a88e8ffeb0d9e5bb22d1b5088c6eab9843d0392803",
+    "korean_sha256": "23e3d8aec2b0bab522f6887cce475df19fe8dc2efe850cef9018745ee126714d",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed Korean subject/possessive ellipsis and verb conjugation; English pronoun/copula macros are redundant in this exact Korean sentence."
+  },
+  "english_events_conshop:31": {
+    "english_sha256": "70cbc6a1b369e2e7c1533fffa4f3f179029211a5ec9c91a14301f82642c56f8d",
+    "korean_sha256": "d07f48910322f589bf1c96aaf1fc0e03582f2aa96f9a61e648504f97cef8a7fe",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_standard:537": {
+    "english_sha256": "ca14a7b512c3101ed7d3a3a422066c83ec0c9cd3ed75db8dc128b896caf86095",
+    "korean_sha256": "27bcedda9fb2be87bd08796927dfb1b63f89bb0d80b34c6e285af5d161d06433",
+    "omitted_tokens": [
+      "%SIRMAAM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:3080": {
+    "english_sha256": "f37148809f692b8d09b93ac65a97f3df46cf3125ad645ae2b56348dc07f8c4a3",
+    "korean_sha256": "ad726e2b52b8ac9a08bba42ab864dc9983c8dbedfd2bc57e410b5ae4a0f253b0",
+    "omitted_tokens": [
+      "%GUYGIRL%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:3306": {
+    "english_sha256": "f337a0a82ea4cf7e0a9b1e0f211cabe24cd46bd856c1a20b47a6899f66ae46e9",
+    "korean_sha256": "6cba23e7cd7b0ceeffe2adabed783dfc0c8f64fc39b0cbf0b22c09fdcbbaa0a5",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:3809": {
+    "english_sha256": "218a810b5ef777773b9675800d46f26e3ff45993fd6937bbd27f150ac41a3d59",
+    "korean_sha256": "80f4a58d10ab94aa486ba7a92775645bae842bbe209a73a571a905347b62185c",
+    "omitted_tokens": [
+      "%GUYGIRL%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:4074": {
+    "english_sha256": "990001f69f619bd8aa86e425fcd4904306950ace60dead8e8948201ec44aa92b",
+    "korean_sha256": "246000778ff330e4d9c05dd9a2cf25edca5c1a2b47d9e69534305f11f9d05277",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:6814": {
+    "english_sha256": "10bfa0d7e304dafea1ffdbdaecee9774acb727873b1c7dd4b4aa26d9ec092477",
+    "korean_sha256": "20c4166c2546b5e905549ba4a5d3f8e3fcebfcfb52c9dc870434772aaf1a0298",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:7560": {
+    "english_sha256": "e87a577436e410e6e93d3b5beb62780606f3628421714052a0a15550ea842610",
+    "korean_sha256": "f09951207f5b8c82fb84fed8c726c1f7c182577a18632c281366a01b7aafbb5e",
+    "omitted_tokens": [
+      "%GUYGIRL%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:7983": {
+    "english_sha256": "38c37b3ed1c4b8298f3389d1dd1d6d5fe614e46cd355fe5dd17cbb719ed28ffc",
+    "korean_sha256": "d947c39a3f19f45a4090ba12e2d8e7e73665ad5c996b5975987ae959d0c6634d",
+    "omitted_tokens": [
+      "%MRMRS%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:8346": {
+    "english_sha256": "5f88b0fab28b70f1d77b67291599941f57ed9a3ba18061ad1c7bdf2353b14d98",
+    "korean_sha256": "77d9cefd4a7ccae72c197f03cf4a0f3c638a5a05c8af9154dbdcbe87fe4c823b",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:9491": {
+    "english_sha256": "3cdb0c08ca4ecd51638c7d03a0311deab7445038418a9b20f5e2d6bbbe7663fb",
+    "korean_sha256": "939270e8f46cdfd103d47ea701ccab52113bd258761db868cb561748e7a7e499",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:9605": {
+    "english_sha256": "821462e5408488be37e894f2fe07178a745891259452b73f56a7c7c1d6fb7765",
+    "korean_sha256": "72ad8b2cf169dd2c66909be19074521826ee9011d0babd88956d37620c66d425",
+    "omitted_tokens": [
+      "%GUYGIRL%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:9624": {
+    "english_sha256": "1b43d1adcc1aac44b72ce17669cdb01aaeca60861938422a6fb6e379b5ec3c5e",
+    "korean_sha256": "cae628948fc22fac871240af399806ed3339e7a05aef5ea936dbffde7a51ffd8",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:9710": {
+    "english_sha256": "4da5e6d97e78539d205ef24324cfeefad037a639943bbe918afdec5dcdc17d57",
+    "korean_sha256": "e9c765b39a00d6b9cffb519e27d7796b8aee206ffe32f0921997e43c360a36d2",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:10203": {
+    "english_sha256": "45154cf4e4a159bed8b0977a33f90e3817301e6ec34d576862dfa862ffe67717",
+    "korean_sha256": "6709cd5049ba9300f0bfaa0f42342d09119b05bba8a505ff8a0b11fd173c6b23",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:12081": {
+    "english_sha256": "73a5dbdc9d049a29284b469f8b528b1a48054dd0c1b455248d0fb9cfd333b3d3",
+    "korean_sha256": "4e19a7d44512f5cd802ff33d5d0de04580f08afe71ae1b698427b91961a0f284",
+    "omitted_tokens": [
+      "%SIRMAAM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:12082": {
+    "english_sha256": "3580a8669443a9b6585ca2de11e609b99d796b72b0de49fdf21174b85c4a52f3",
+    "korean_sha256": "75d1e4020ece942962794ca1acaacd04ff48c81b849c1aed04e6fc701458d728",
+    "omitted_tokens": [
+      "%GUYGIRL%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:12089": {
+    "english_sha256": "df95ae6be6cdc7092d7cdb8de3ddb0e5217f23e5f8197a4970030e6abb7c073c",
+    "korean_sha256": "848c9398aa1ea7a8cc6c24d5119d0217e96402314599a9d74add83dd3dd41262",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:12101": {
+    "english_sha256": "bea807659547cbb0f3e34d548ab0d22be67448b0ffbf63285be07d77b28a9b11",
+    "korean_sha256": "b00c179e034c37a3db5806cd08ef01bcf6277955b602b5fa41775479fdf2168d",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:14517": {
+    "english_sha256": "725aac244e74c3109fcd0bead55686d1a992c3936f11459fc9c3d7af06491711",
+    "korean_sha256": "91077f658e4295d42c80c1801c6c5bdb1bc6904db10e1b8a8d8cde99b38216fb",
+    "omitted_tokens": [
+      "%BOYGIRL%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:15320": {
+    "english_sha256": "7292f201e8ce36fc12485dd2885f2648a67077df72f5701e663bf97823da7adc",
+    "korean_sha256": "e7573ca0f07e1b34b377e1d14207a268559e40da8bb5ba1e16c92a6965aef02e",
+    "omitted_tokens": [
+      "%FATHERMOTHER%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:15659": {
+    "english_sha256": "e5b7e8f2f6bdd5ccb4c6baf3333385c653bc7fcc161284ef590ab30b72ee87d9",
+    "korean_sha256": "3b573b590eee22a5ad8be12aef45f9f8dbd0dcae395237db1e0443df4cf18978",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:16219": {
+    "english_sha256": "2d29b8412f126d700cc7951bf257f900ce12fcb7027151f85cd94b0826b5d4b6",
+    "korean_sha256": "c7d3e877917d74b203a230044ba4781e00525d3f00b3aa6ceaa3a48c15daff5a",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:16451": {
+    "english_sha256": "718448d508892317ead668eb40f30ece7566b869e18bdbf5806b010cd220d315",
+    "korean_sha256": "0e4b90b32bc8456117d1be5dfaae7a63f7e523983bf50c4d83ad49c44157b79b",
+    "omitted_tokens": [
+      "%MRMRS%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:17049": {
+    "english_sha256": "4f4bc5ec86f66986a0446f471f499d06a30368966b574b97eb1ca057185d6248",
+    "korean_sha256": "6cdf2d328859e3db4d32a0ecd1540ec8ed8447eca7a1c49ed500302332d32368",
+    "omitted_tokens": [
+      "%SIRMAAM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:17197": {
+    "english_sha256": "464af8374df2a43bde5e68fd46dd4f76334ed119766fc49161e5055b27b3b57f",
+    "korean_sha256": "704628200cc99fd2ec12b32cc96706694e00da9058050324393b1f6ae9cb42c8",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:20394": {
+    "english_sha256": "0d304cb145abdf2d41cb25e040276db2c42b705f1ed7cf8f513fabbb57133a66",
+    "korean_sha256": "51de2e627449a707b99e3befa7cf3144dfc10d5a2e3612cf27b8889aefa5cb5b",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:21751": {
+    "english_sha256": "590a2a2679a1f306d900a4fb06edbe52475ed50310933864ac7ffc75d9340ff3",
+    "korean_sha256": "337247c2708f66f615d9d8e24f9e49039dabddb6e7d1f264f6a607aa5a732535",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:21928": {
+    "english_sha256": "590a2a2679a1f306d900a4fb06edbe52475ed50310933864ac7ffc75d9340ff3",
+    "korean_sha256": "337247c2708f66f615d9d8e24f9e49039dabddb6e7d1f264f6a607aa5a732535",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:22134": {
+    "english_sha256": "ef0f8e19672d438c621be6c8ac3e555d246d623857430aa6c4726abe4084b860",
+    "korean_sha256": "ad12843635a421d36fa2d8a759d269178c76fea659fb921dfe3da3e87ac442a9",
+    "omitted_tokens": [
+      "%SIRMAAM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:23201": {
+    "english_sha256": "20251e79f6ddac09d9048977da8278c11132ce18ba89435a9daa9f91e2420b6f",
+    "korean_sha256": "2512486c2f27bbfe11a956040bfe357195d689ebcfa514a4007d72312bcb8ada",
+    "omitted_tokens": [
+      "%GUYGIRL%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:23365": {
+    "english_sha256": "306329edb0f5d45a48ee1e6781e689e9c5d9e1e0689a44ae52db2f190f330a01",
+    "korean_sha256": "93b34740df080d37276263a421c83c6bc2cb6273b1c8b182c98ed4c5bc6e3f00",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:23878": {
+    "english_sha256": "fc10699b7bb64cd7b63a9b56dbfd05767973e6fcd111bc4deaaa5351efc26199",
+    "korean_sha256": "46946065c5a51c676d97b6d38d8ded80aa841a7c230ecb037014af6dc667c494",
+    "omitted_tokens": [
+      "%MANWOMAN%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:24263": {
+    "english_sha256": "a7098cf40e65e28b914ed5bd9a22375c760eeb8420d6f6d07199f5a7a3a4b59d",
+    "korean_sha256": "1bc0f41cf9a8a74ddea8cdf5c434b700471c00e9f4e887a6161dee73b2a94b85",
+    "omitted_tokens": [
+      "%SIRMAAM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:24299": {
+    "english_sha256": "415f16a1368e7841fb13303414595a18d2087fdee854afa9c399a07fcf039ea8",
+    "korean_sha256": "b66bfbf09fe56e70617a57468b05627fe0096e7adadb9fb9d8498631243701af",
+    "omitted_tokens": [
+      "%SIRMAAM%"
+    ],
+    "added_tokens": [],
+    "reason": "Reviewed gender-neutral Korean role, address, or subject ellipsis replaces English gender macro in this exact sentence."
+  },
+  "english_events_maingame:6885": {
+    "english_sha256": "b432cca493b4d4cdad8449d60e8e41088e016d19f7be29a7fd5f72876150d2be",
+    "korean_sha256": "2d3b4b3686351caabd8e9a0468af798a44b76f1aca912ac61efe33babbcb252b",
+    "omitted_tokens": [
+      "%HIMHER%"
+    ],
+    "reason": "Reviewed implicit subject in Korean rhetorical question."
   }
 }

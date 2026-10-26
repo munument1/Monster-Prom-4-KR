@@ -35,6 +35,7 @@ GAME_STAT_BOUNDARY = "\u200b"
 # Exact reviewed source/translation pairs may omit redundant English pronoun
 # and copula macros. Other placeholders still have to match exactly.
 GRAMMAR_EXCEPTIONS = json.loads((ROOT / "translations/grammar_exceptions.json").read_text(encoding="utf-8"))
+CONTRACT_EXCEPTIONS = json.loads((ROOT / "translations/contract_exceptions.json").read_text(encoding="utf-8"))
 
 
 
@@ -53,20 +54,27 @@ def game_safe_stat_effects(korean: str) -> str:
 def verify_line(english: str, korean: str, ident: str) -> None:
     if not korean or any(c in korean for c in "\t\r\n\ufffd"):
         raise ValueError(f"invalid translated field: {ident}")
-    punctuation_only = bool(re.fullmatch(r"[.?!…]+", english.strip())) and bool(re.fullmatch(r"[.?!…]+", korean.strip()))
-    if not re.search("[가-힣]", korean) and not punctuation_only and (ident, english, korean) != ("RES_NEX", "[0] of [1]", "[0] / [1]"):
+    reviewed = CONTRACT_EXCEPTIONS.get(ident, {})
+    for exception in (GRAMMAR_EXCEPTIONS.get(ident), reviewed):
+        if exception and (hashlib.sha256(english.encode("utf-8")).hexdigest() != exception["english_sha256"] or
+                          hashlib.sha256(korean.encode("utf-8")).hexdigest() != exception["korean_sha256"]):
+            raise ValueError(f"reviewed exception source/translation changed: {ident}")
+    # Unchanged names expanded by the engine and punctuation need no Hangul.
+    # Square-bracket prose is deliberately excluded: sound cues must translate.
+    unchanged_control = english == korean and bool(re.fullmatch(r"(?:%[A-Za-z0-9_']+%|[\s.?!…\"']+)+", english))
+    punctuation_only = bool(re.fullmatch(r"[\s.?!…\"']+", english)) and bool(re.fullmatch(r"[\s.?!…\"']+", korean))
+    if not re.search("[가-힣]", korean) and not punctuation_only and not unchanged_control and not reviewed.get("allow_literal") and (ident, english, korean) != ("RES_NEX", "[0] of [1]", "[0] / [1]"):
         raise ValueError(f"translation missing Hangul: {ident}")
     expected_tokens = Counter(TOKEN.findall(english))
-    exception = GRAMMAR_EXCEPTIONS.get(ident)
-    if exception:
-        if (hashlib.sha256(english.encode("utf-8")).hexdigest() != exception["english_sha256"] or
-                hashlib.sha256(korean.encode("utf-8")).hexdigest() != exception["korean_sha256"]):
-            raise ValueError(f"grammar exception source/translation changed: {ident}")
-        expected_tokens.subtract(exception["omitted_tokens"])
-        expected_tokens = +expected_tokens
+    for exception in (GRAMMAR_EXCEPTIONS.get(ident, {}), reviewed):
+        expected_tokens.subtract(exception.get("omitted_tokens", []))
+        expected_tokens.update(exception.get("added_tokens", []))
+    if any(n < 0 for n in expected_tokens.values()):
+        raise ValueError(f"invalid reviewed token exception: {ident}")
+    expected_tokens = +expected_tokens
     if Counter(TOKEN.findall(korean)) != expected_tokens:
         raise ValueError(f"control token mismatch: {ident}")
-    if Counter(NUMBER.findall(korean)) != Counter(NUMBER.findall(english)):
+    if Counter(NUMBER.findall(korean)) != Counter(NUMBER.findall(english)) and not reviewed.get("allow_number_localization"):
         raise ValueError(f"number mismatch: {ident}")
     if Counter(STAT_EFFECT.findall(korean)) != Counter(STAT_EFFECT.findall(english)):
         raise ValueError(f"stat effect mismatch: {ident}")

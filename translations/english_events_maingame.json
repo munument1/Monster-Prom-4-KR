@@ -1751,7 +1751,7 @@
       "line": 393,
       "event": "volunteerswildanimal",
       "english_sha256": "add06ff4b837770146ea7bdeecbd080cd3280aef196a4298cb7924ed4da3916d",
-      "ko": "뭘 틀든 빨리 틀어라. 호랑이가 %CURRENTPLAYERNAME%에게 다가가고 있다. 난 %HISHER% 내장을 바닥에서 닦고 싶지 않군."
+      "ko": "뭘 틀든 빨리 틀어라. 호랑이가 %CURRENTPLAYERNAME%에게 다가가고 있다. 난 바닥에 쏟아진 내장을 닦고 싶지 않군."
     },
     {
       "line": 395,
@@ -1793,7 +1793,7 @@
       "line": 404,
       "event": "volunteerswildanimal",
       "english_sha256": "22e42acb13a8d7fd8a6fd8af53be8bdd22ae900f84e5eace64b0d360ff9ad01b",
-      "ko": "%HESHE% 원래는 어린 소년의 엄청난 상상력 덕분에 살아난 호랑이 장난감이었다면 어떨까..."
+      "ko": "원래는 어린 소년의 엄청난 상상력 덕분에 살아난 호랑이 장난감이었다면 어떨까..."
     },
     {
       "line": 405,
@@ -1853,7 +1853,7 @@
       "line": 417,
       "event": "volunteerswildanimal",
       "english_sha256": "392eee6d9071e56a7590ca179f1b9b93b0cf9881264db6555c34b7d1420c43ac",
-      "ko": "아니야, 더그. 통했어. 다정한 애정을 담아 %HIMHER% 물어뜯고 있잖아? 폭력은 호랑이의 사랑 언어야!"
+      "ko": "아니야, 더그. 통했어. 다정한 애정을 담아 물어뜯고 있잖아? 폭력은 호랑이의 사랑 언어야!"
     },
     {
       "line": 418,
@@ -2447,7 +2447,7 @@
       "line": 550,
       "event": "lostkeyswizard",
       "english_sha256": "c46cc5d9e270b110b0bf5e005b092418df01ff6779d6c33ec6e02f30db8dd50d",
-      "ko": "사실 어제 %HESHE% %VERB_WAS_WERE% 자는 동안 내가 %CURRENTPLAYERNAME%에게 열쇠를 삼키게 했거든. 이제 누가 멍청하지?"
+      "ko": "사실 어제 %CURRENTPLAYERNAME%이 자는 동안 내가 열쇠를 삼키게 했거든. 이제 누가 멍청하지?"
     },
     {
       "line": 551,
@@ -3863,13 +3863,13 @@
       "line": 873,
       "event": "feethowtodraw",
       "english_sha256": "2e51ff4646dbe6236790d053de85dda90a31eff1d047190c3a185921ebb8098f",
-      "ko": "자, 리암. %HIMHER% 멍청하다고 하면 안 되지. %HESHE% 어떤 지적 어려움을 겪는지는 모르잖아."
+      "ko": "자, 리암. 멍청하다고 하면 안 되지. 어떤 지적 어려움을 겪는지는 모르잖아."
     },
     {
       "line": 874,
       "event": "feethowtodraw",
       "english_sha256": "77ff53c9dde1a0910ba98968d14f3bc1fb152bf79c1110390b4b4eb1071c9952",
-      "ko": "에라 모르겠다. 난 %HISHER% 방법이라도 시도할 만큼 절실해."
+      "ko": "에라 모르겠다. 난 그 방법이라도 시도할 만큼 절실해."
     },
     {
       "line": 875,
@@ -4469,7 +4469,7 @@
       "line": 1021,
       "event": "werewolveslivewolf",
       "english_sha256": "e0f4f03c2398a734b4ecea0895a7947f0e9f398523aad9eda747fa105c2f71fe",
-      "ko": "오, 똑똑하네! 오멘은 %CURRENTPLAYERNAME%이 그렇게 가까이 다가간 게 %HESHE% %VERB_IS_ARE% 바로 그— 때문인 줄은 절대 모르겠지."
+      "ko": "오, 똑똑하네! 오멘은 %CURRENTPLAYERNAME%이 그렇게 가까이 다가간 게 바로 그—이기 때문인 줄은 절대 모르겠지."
     },
     {
       "line": 1022,
@@ -4925,7 +4925,7 @@
       "line": 1116,
       "event": "werewolveslivevillager",
       "english_sha256": "5cfc20996699781d98e25d20f49e5d1cdef881341f706cb27fcdd6cd0e221918",
-      "ko": "난 %HESHE% 코카인을 뜻하는 \"불로우\"를 말한 줄 알았어. 험난한 거리의 삶 때문에 익숙해서 그런가..."
+      "ko": "난 코카인을 뜻하는 \"블로우\"를 말한 줄 알았어. 험난한 거리의 삶 때문에 익숙해서 그런가..."
     },
     {
       "line": 1118,
@@ -5255,7 +5255,7 @@
       "line": 1198,
       "event": "gameshowtrolleyproblem",
       "english_sha256": "aa1f589d2536e14b94c20c13dbe2ee096adf32e954af3b936829d9f9a44fdc6e",
-      "ko": "%CURRENTPLAYERNAME%은 이 딜레마와 일어날 수 있었던 모든 딜레마에서 사람들을 구했으니까 승자지! %HESHE% %VERB_IS_ARE% 영웅이야!"
+      "ko": "%CURRENTPLAYERNAME%은 이 딜레마와 일어날 수 있었던 모든 딜레마에서 사람들을 구했으니까 승자지! 영웅이야!"
     },
     {
       "line": 1199,
@@ -7169,7 +7169,7 @@
       "line": 1642,
       "event": "samefandom",
       "english_sha256": "c1cbb1b52c699f70cef761493e649be375b24915b3db5aa4d486c28d94b1bc9b",
-      "ko": "휴... %CURRENTPLAYERNAME%이 해결했네. %HISHER% 계획이 주제에 좀 더 잘 맞았으면 좋았겠지만, 이 정도면 됐지."
+      "ko": "휴... %CURRENTPLAYERNAME%이 해결했네. 계획이 주제에 좀 더 잘 맞았으면 좋았겠지만, 이 정도면 됐지."
     },
     {
       "line": 1643,
@@ -7319,7 +7319,7 @@
       "line": 1680,
       "event": "kidneytransplant",
       "english_sha256": "057cb58fe2a73debba6cc11ea3d811b4e78f5c6481085c2f529e7f27570ae968",
-      "ko": "왜 그래, %CURRENTPLAYERNAME%은 우리 친구잖아. 우리가 자기 몸을 찌르면 %HESHE% 여분 신장을 줄 거라고 믿어."
+      "ko": "왜 그래, %CURRENTPLAYERNAME%은 우리 친구잖아. 우리가 자기 몸을 찌르면 여분 신장을 줄 거라고 믿어."
     },
     {
       "line": 1681,
@@ -7331,7 +7331,7 @@
       "line": 1682,
       "event": "kidneytransplant",
       "english_sha256": "06fd978103d192eaf35781560964c1a13440c6f2e02a92a597d458f891a38851",
-      "ko": "어쩌면 %CURRENTPLAYERNAME%은 %HIMHER% 자신을 찔러 낯선 사람 중 누가 신장을 받을지 고르는 고통에서 우릴 구하려 했을지도 모르지."
+      "ko": "어쩌면 %CURRENTPLAYERNAME%은 자기 몸을 찔러 낯선 사람 중 누가 신장을 받을지 고르는 고통에서 우릴 구하려 했을지도 모르지."
     },
     {
       "line": 1683,
@@ -7343,13 +7343,13 @@
       "line": 1684,
       "event": "kidneytransplant",
       "english_sha256": "325eeda488568026cb9d5429dd7ca55c58f638aa12df4512a9a605f0cf35ab00",
-      "ko": "그렇다면 %CURRENTPLAYERNAME%은 분명 바보네... 하지만 %HESHE% %VERB_IS_ARE% 좋은 친구이기도 하고."
+      "ko": "그렇다면 %CURRENTPLAYERNAME%은 분명 바보네... 하지만 좋은 친구이기도 하고."
     },
     {
       "line": 1685,
       "event": "kidneytransplant",
       "english_sha256": "86c017f1ddd5bd464a52ef5beb7c552b3379f949e662b25f6ec10bba9afbf5c8",
-      "ko": "%HESHE% 둘 다일 수 있지 않을까? 바보이자 좋은 친구."
+      "ko": "둘 다일 수 있지 않을까? 바보이자 좋은 친구."
     },
     {
       "line": 1686,
@@ -7415,7 +7415,7 @@
       "line": 1697,
       "event": "kidneytransplant",
       "english_sha256": "4fb4ad895c723781d25194d0c2788fb71d259c3c8013174c92461f9b52c7be2f",
-      "ko": "아아, 알겠다! %CURRENTPLAYERNAME%이 진짜 엄마를 밝히려고 %HESHE% 아기를 반으로 자르겠다고 한 솔로몬 방식이었네! 똑똑했어."
+      "ko": "아아, 알겠다! %CURRENTPLAYERNAME%이 진짜 엄마를 밝히려고 아기를 반으로 자르겠다고 한 솔로몬 방식이었네! 똑똑했어."
     },
     {
       "line": 1698,
@@ -7547,7 +7547,7 @@
       "line": 1730,
       "event": "raidsoldoutevent",
       "english_sha256": "4b658030004682eca94f8acaa995249407acff18a464e0edf623f128b0ef534c",
-      "ko": "...좋아. %CURRENTPLAYERNAME%, 들어갈 방법이라도 생각해서 %HIMHER% 자신이 쓸모 있음을 보여 주면 되겠군."
+      "ko": "...좋아. %CURRENTPLAYERNAME%이 들어갈 방법이라도 생각해서 쓸모를 보여 주면 되겠군."
     },
     {
       "line": 1731,
@@ -7643,7 +7643,7 @@
       "line": 1747,
       "event": "raidsoldoutevent",
       "english_sha256": "fd7673c5236fcd8b73dfdd028bca42b58227ab48de5b5c555c3fdfb4694b016d",
-      "ko": "젠장... 저 자식이 우리보다 한 수 위였어... 피 안 흘리려고 집중하는 동안 %HIMHER% 전기충격기로 쏠 수가 없네..."
+      "ko": "젠장... 저 자식이 우리보다 한 수 위였어... 과다출혈로 죽지 않으려고 애쓰는 동안엔 전기충격기를 쏠 수가 없네..."
     },
     {
       "line": 1748,
@@ -9803,7 +9803,7 @@
       "line": 2248,
       "event": "fanzinevendorgetrid",
       "english_sha256": "11c4430a08b2d4661c849bc61fdadbc617eebb0f1aa423a1381803dc032f877e",
-      "ko": "(이런. %CURRENTPLAYERNAME%은 진짜 %HISHER% 눈에 뭐가 들어간 것 같아.)"
+      "ko": "(이런. %CURRENTPLAYERNAME%은 진짜 눈에 뭐가 들어간 것 같아.)"
     },
     {
       "line": 2249,
@@ -9863,7 +9863,7 @@
       "line": 2259,
       "event": "fanzinevendorgetrid",
       "english_sha256": "c1fdefd365e5142469968f3c493a89947ce8e239466d5d51afa200f452ba5831",
-      "ko": "%CURRENTPLAYERNAME%과 난 강력한 유대가 있거든. %HISHER% 눈을 보면 %HISHER% 생각을 읽는 것 같아."
+      "ko": "%CURRENTPLAYERNAME%과 난 강력한 유대가 있거든. 눈을 보면 생각을 읽는 것 같아."
     },
     {
       "line": 2260,
@@ -9917,7 +9917,7 @@
       "line": 2271,
       "event": "fanzinevendorgetrid",
       "english_sha256": "1f62637205ef1e904fa09d21efea5e2886a854f41b219d311068931e9b0d3a5e",
-      "ko": "좋아. 물론 %CURRENTPLAYERNAME%이 우리가 %HIMHER% 안에 들어가도 괜찮다면."
+      "ko": "좋아. 물론 %CURRENTPLAYERNAME%이 우리가 몸 안에 들어가도 괜찮다면."
     },
     {
       "line": 2272,
@@ -9947,7 +9947,7 @@
       "line": 2279,
       "event": "fanzinevendorgetrid",
       "english_sha256": "343bd53ffa1e8a7d00d2c9d9b8786a0f41ba8d9fadeb2fae0a5aea6321d1cdd6",
-      "ko": "맞아, 인정할게. 하루 종일 %HIMHER% 안에 있을 수도 있겠어."
+      "ko": "맞아, 인정할게. 하루 종일 그 안에 있을 수도 있겠어."
     },
     {
       "line": 2280,
@@ -11927,7 +11927,7 @@
       "line": 2755,
       "event": "yaoistanddevil",
       "english_sha256": "d4d2650d87da7a4abc8363f5e6afeab4ce06fb05386df1b713aefba7a910f612",
-      "ko": "그랬어? %HIMHER% 친구로 삼기 전에 알았다면 좋았을 텐데!"
+      "ko": "그랬어? 친구로 삼기 전에 알았다면 좋았을 텐데!"
     },
     {
       "line": 2756,
@@ -12539,7 +12539,7 @@
       "line": 2891,
       "event": "aprilconcertc",
       "english_sha256": "db0c774b86ba051038e8efcbd704e877aa4e8c8f8278382a8518c4226995a829",
-      "ko": "난 %CURRENTPLAYERNAME%을 종종 따라다니지. %HESHE% %VERB_LOVES_LOVE% 거래니까. 어젠 핫도그 하나로 %HISHER% 수명 삼 년을 얻었어."
+      "ko": "난 %CURRENTPLAYERNAME%을 종종 따라다니지. 거래를 좋아하거든. 어젠 핫도그 하나로 수명 삼 년을 얻었어."
     },
     {
       "line": 2892,
@@ -12581,7 +12581,7 @@
       "line": 2898,
       "event": "aprilconcertc",
       "english_sha256": "133bf33887587c181830fac60917c0341cb3a723cd05bafa8b94cf3f0c6bf841",
-      "ko": "...%VERB_IS_ARE% %HESHE%, 정말 그런가?"
+      "ko": "...정말 잘하는 거 맞아?"
     },
     {
       "line": 2899,
@@ -12665,7 +12665,7 @@
       "line": 2919,
       "event": "aprilconcertc",
       "english_sha256": "eddadcd2b15e88937b887df33d2c7306c3c5dc2d569715e17888ae4b471c1521",
-      "ko": "뭐?! 젠장! %HESHE% %VERB_DOES_DO% 이런 짓 하는 거 질색이야!"
+      "ko": "뭐?! 젠장! 저렇게 구는 거 질색이야!"
     },
     {
       "line": 2920,
@@ -12935,7 +12935,7 @@
       "line": 2990,
       "event": "avoidtheplop",
       "english_sha256": "617bb230606adbc3f373f3fb3d5fd326429e9bc130df90d31b3f7c878fac68bd",
-      "ko": "뭐? %HESHE% 왜 그런 짓을 해?"
+      "ko": "뭐? 왜 그런 짓을 해?"
     },
     {
       "line": 2991,
@@ -13013,7 +13013,7 @@
       "line": 3004,
       "event": "avoidtheplop",
       "english_sha256": "21b5d363a94681b7076e0f56f4c8245b1c799f35d57f58e48933f9bb9c4582af",
-      "ko": "못 들었어? %HESHE% 말하기를 %HESHE% %VERB_IS_ARE% 그것만큼은 안 한다고 했잖아."
+      "ko": "못 들었어? 그것만큼은 안 하고 있다고 했잖아."
     },
     {
       "line": 3005,
@@ -13037,7 +13037,7 @@
       "line": 3008,
       "event": "avoidtheplop",
       "english_sha256": "8276597113480fcd054611ff1d2adc4ce3c916e533f47d796bbcabf59d7278da",
-      "ko": "%HESHE% %VERB_IS_ARE% 우리한테 깜짝 케이크를 구워 주는 걸걸!"
+      "ko": "우리한테 깜짝 케이크를 구워 주는 걸걸!"
     },
     {
       "line": 3009,
@@ -13355,7 +13355,7 @@
       "line": 3080,
       "event": "fanzinevendorcountdown",
       "english_sha256": "f37148809f692b8d09b93ac65a97f3df46cf3125ad645ae2b56348dc07f8c4a3",
-      "ko": "넌 멍청한 생각의 %GUYGIRL%, %CURRENTPLAYERNAME%이잖아! 이제 와서 나쁜 생각에 부끄러워하면 네가 누구겠어?"
+      "ko": "넌 멍청한 생각의 달인, %CURRENTPLAYERNAME%이잖아! 이제 와서 나쁜 생각에 부끄러워하면 네가 누구겠어?"
     },
     {
       "line": 3081,
@@ -13367,13 +13367,13 @@
       "line": 3082,
       "event": "fanzinevendorcountdown",
       "english_sha256": "70f1654177a4f261724ef478fa3238e5a31f271a404a86beba09098531fa27a3",
-      "ko": "와... 저기 %HISHER% 머리에 잡지를 얹은 %GUYGIRL% 봐. 멋진 스타일이네!"
+      "ko": "와... 저기 머리에 잡지를 얹은 사람 봐. 멋진 스타일이네!"
     },
     {
       "line": 3083,
       "event": "fanzinevendorcountdown",
       "english_sha256": "5b25239d70cc326d472e41145e2eded1ec659c947cd9d98a21415f00faae73d4",
-      "ko": "%HESHE% %HISHER% 머리에 하나만 얹었을 땐 멍청한 실수인 줄 알았는데, 3부라니? 대담한 표현이야!"
+      "ko": "머리에 하나만 얹었을 땐 멍청한 실수인 줄 알았는데, 3부라니? 대담한 표현이야!"
     },
     {
       "line": 3084,
@@ -14267,7 +14267,7 @@
       "line": 3306,
       "event": "yaoistandchoose",
       "english_sha256": "f337a0a82ea4cf7e0a9b1e0f211cabe24cd46bd856c1a20b47a6899f66ae46e9",
-      "ko": "아! 교양 있는 %MANWOMAN%이군."
+      "ko": "아! 교양 있는 분이군."
     },
     {
       "line": 3307,
@@ -16451,7 +16451,7 @@
       "line": 3809,
       "event": "fantasyauthordelay",
       "english_sha256": "218a810b5ef777773b9675800d46f26e3ff45993fd6937bbd27f150ac41a3d59",
-      "ko": "파트너, 저 %GUYGIRL% 칼 들고 있어! 개입해야 할까?"
+      "ko": "파트너, 저 사람 칼 들고 있어! 개입해야 할까?"
     },
     {
       "line": 3810,
@@ -17585,7 +17585,7 @@
       "line": 4074,
       "event": "kickedfromgame",
       "english_sha256": "990001f69f619bd8aa86e425fcd4904306950ace60dead8e8948201ec44aa92b",
-      "ko": "기적이 필요하겠네. 그러니까 %CURRENTPLAYERNAME%야말로 이 일에 딱 맞는 %MANWOMAN%이지!"
+      "ko": "기적이 필요하겠네. 그러니까 %CURRENTPLAYERNAME%야말로 이 일에 딱 맞는 인물이지!"
     },
     {
       "line": 4075,
@@ -20441,7 +20441,7 @@
       "line": 4751,
       "event": "weirdjobquestion",
       "english_sha256": "da544c357d5b4ca7784f5aa53a2e503bf60b349892a6402b941a8469d8e265d5",
-      "ko": "제 친한 친구 %CURRENTPLAYERNAME%에게 차례를 넘길게요. %HESHE%도 소화 관련 질문이 분명 %VERB_HAS_HAVE% 있겠죠."
+      "ko": "제 친한 친구 %CURRENTPLAYERNAME%에게 차례를 넘길게요. 소화 관련 질문이 분명 있겠죠."
     },
     {
       "line": 4752,
@@ -21113,7 +21113,7 @@
       "line": 4900,
       "event": "vtuberchoose",
       "english_sha256": "85200461fe0b77e8e05fd7d7cb27ca701c0fd1e895db0201a00ae1c33b74ecaf",
-      "ko": "%HISHER%의 뻔한 약점을 이용하는 게 아니라, %HISHER%의 잠재력을 북돋는 거지. 우리 즐거움을 위해서."
+      "ko": "뻔한 약점을 이용하는 게 아니라, 잠재력을 북돋는 거지. 우리 즐거움을 위해서."
     },
     {
       "line": 4901,
@@ -21797,7 +21797,7 @@
       "line": 5059,
       "event": "eurogame",
       "english_sha256": "b83e2489101f1194f83b5b412f4984d44af05f0186f166facba99b8b47d1b3be",
-      "ko": "뭐?! 난 안 쐈어! %HIMHER%라고! 모두 %HIMHER% 총 든 걸 봤잖아!"
+      "ko": "뭐?! 난 안 쐈어! 저쪽이라고! 모두 총 든 걸 봤잖아!"
     },
     {
       "line": 5060,
@@ -21875,7 +21875,7 @@
       "line": 5075,
       "event": "eurogame",
       "english_sha256": "801ff7fdb4933ea9e68160953c019588518e859ad27e632fb51ac0affb50dd2e",
-      "ko": "모르겠어. %HESHE% 이겼을지도? %CURRENTPLAYERNAME%한텐 플라스마 큐브가 열다섯 개나 있잖아... 그 정도면 많은 거지?"
+      "ko": "모르겠어. 이겼을지도? %CURRENTPLAYERNAME%한텐 플라스마 큐브가 열다섯 개나 있잖아... 그 정도면 많은 거지?"
     },
     {
       "line": 5076,
@@ -21893,13 +21893,13 @@
       "line": 5078,
       "event": "eurogame",
       "english_sha256": "66a628992dcbacb8d8702936dcba69b43b375e10a8c3a99f0370fdf7f3dc015e",
-      "ko": "%HESHE% 안 이긴 게 꽤 확실한데."
+      "ko": "안 이긴 게 꽤 확실한데."
     },
     {
       "line": 5079,
       "event": "eurogame",
       "english_sha256": "fb920ebce64691a534522e1c7d2e4f8d0175ab5b8ff20622db28f544c4ed1e9c",
-      "ko": "하지만 난 %HESHE% 이겼다는 게 [sha]훨씬. 더. 확실해![/sha]"
+      "ko": "하지만 난 이겼다는 게 [sha]훨씬. 더. 확실해![/sha]"
     },
     {
       "line": 5080,
@@ -22493,7 +22493,7 @@
       "line": 5207,
       "event": "fanzinevendormugged",
       "english_sha256": "745020bfd330e21bbe8c61f431860b8a79938f56aabcb15a68fcbf6f7c12fd2a",
-      "ko": "허, %CURRENTPLAYERNAME%는 갱생 중이 %VERB_ISN'T_AREN'T%니까 %HESHE% 사람을 찔러도 되는군. 이해한 것 같아."
+      "ko": "허, %CURRENTPLAYERNAME%는 갱생 중이 아니니까 사람을 찔러도 되는군. 이해한 것 같아."
     },
     {
       "line": 5208,
@@ -22529,7 +22529,7 @@
       "line": 5213,
       "event": "fanzinevendormugged",
       "english_sha256": "3bc15234477f7f1766297bc269f149c5aea4f489447fb189bb8132b20eeb7b93",
-      "ko": "내가 본 것만 해도 온갖 범죄를 저지르고 무사했으니, 아닐걸."
+      "ko": "%CURRENTPLAYERNAME%이 온갖 범죄를 저지르고도 무사한 걸 내가 얼마나 많이 봤는데. 아닐걸."
     },
     {
       "line": 5214,
@@ -22547,7 +22547,7 @@
       "line": 5216,
       "event": "fanzinevendormugged",
       "english_sha256": "35690a1e671403aeea6482b6505aee0695f4cd49d03b5e4ca96ac8fc51487aa9",
-      "ko": "뭐, %HESHE% 사람을 %VERB_STABS_STAB% 때는 %HESHE% 그냥 너무 엉뚱하고 귀엽게 %VERB_SEEMS_SEEM% 하잖아!"
+      "ko": "뭐, 사람을 찌를 때 너무 엉뚱하고 귀여워 보인다는 건 인정해야지!"
     },
     {
       "line": 5217,
@@ -22949,7 +22949,7 @@
       "line": 5307,
       "event": "fanzinevendorchoose",
       "english_sha256": "267d7481b7187ca5b352709b5f4ff76340daebc2104e971ad1b1eb51e49de582",
-      "ko": "뒤의 조용한 친구는요? %HESHE% 분명 팬진을 %VERB_WANTS_WANT% 거예요!"
+      "ko": "뒤의 조용한 친구는요? 분명 팬진을 원할 거예요!"
     },
     {
       "line": 5308,
@@ -22997,7 +22997,7 @@
       "line": 5316,
       "event": "fanzinevendorchoose",
       "english_sha256": "c96cc04eec6164966b949922682985ecbddf197b3f64d7aa45ac847dd0efa2ae",
-      "ko": "난 대놓고 %HIMHER% 평가하려고 했는데."
+      "ko": "난 대놓고 평가하려고 했는데."
     },
     {
       "line": 5317,
@@ -25019,7 +25019,7 @@
       "line": 5810,
       "event": "karaokebeast",
       "english_sha256": "06f0f602ded110bedc278b3b0b68ddb1b2af52676f1957beab66e6a02bdd1210",
-      "ko": "뭐? %HISHER% 공연이 진짜 좋았다고! 둘 다 사실일 수 있잖아!"
+      "ko": "뭐? 공연이 진짜 좋았다고! 둘 다 사실일 수 있잖아!"
     },
     {
       "line": 5811,
@@ -25043,7 +25043,7 @@
       "line": 5815,
       "event": "karaokebeast",
       "english_sha256": "f3fff17e9fa510b8e49509809bc045571986c6fea453be8e80a078fb9a61d446",
-      "ko": "아니, %HESHE% %VERB_DOES_DO% 확실히 있거든! 니코한테 하나 보여 줘, %CURRENTPLAYERNAME%!"
+      "ko": "아니, 확실히 있거든! 니코한테 하나 보여 줘, %CURRENTPLAYERNAME%!"
     },
     {
       "line": 5816,
@@ -25163,7 +25163,7 @@
       "line": 5850,
       "event": "invadecelebroom",
       "english_sha256": "0efc2258bd3e006995d11f93be0531f7899523d0db64f6feb4418fba237addc6",
-      "ko": "앗, %CURRENTPLAYERNAME%한테 들켰어. 이제 %HESHE% %VERB_IS_ARE% 한패가 된 셈이네. 따라와!"
+      "ko": "앗, %CURRENTPLAYERNAME%한테 들켰어. 이제 한패가 된 셈이네. 따라와!"
     },
     {
       "line": 5851,
@@ -26561,7 +26561,7 @@
       "line": 6171,
       "event": "trashtalking",
       "english_sha256": "acd3c7c32383556eadb7d8cc6b182b10bf42c66b78dc33a7aaa38e2104a86c0e",
-      "ko": "라쿤은 엄청 유용하니까! %HIMHER% 남의 영혼을 거기 수확하는 거 못 봤어? 웃기잖아!"
+      "ko": "라쿤은 엄청 유용하니까! 남의 영혼을 거기에 거둬들이는 거 못 봤어? 웃기잖아!"
     },
     {
       "line": 6173,
@@ -26651,7 +26651,7 @@
       "line": 6200,
       "event": "annoyingstreamercrimeoncamera",
       "english_sha256": "0afd744868d38c18926e960155b23c8d1907e704c34ac306931202dd1b1db09f",
-      "ko": "요 요 요, 너희 형 리즈다! 오늘은 무한 빵빵 슴가를 자랑하는 인터넷의 연인, 에이프릴 퍼스트와 함께한다! [AIRHORN SOUND EFFECTS]"
+      "ko": "요 요 요, 너희 형 리즈다! 오늘은 무한 빵빵 슴가를 자랑하는 인터넷의 연인, 에이프릴 퍼스트와 함께한다! [에어혼 효과음]"
     },
     {
       "line": 6201,
@@ -27947,7 +27947,7 @@
       "line": 6505,
       "event": "liampromfandomactivity",
       "english_sha256": "c0059d55b522b84ac3d5ca6144bab1a774d726ca8e9cfc55cc08f83586456c7b",
-      "ko": "'니코'가 누구지? 난 리암이다, 이 촌뜨기야! 나도 약한 5개 보석으로 시를 쓰자고 제안하지!"
+      "ko": "어디서 '니코'를 찾는 거지? 난 리암이다, 이 촌뜨기야! 나도 고구마만 한 펜트하우스에서 시를 쓰자고 제안하지!"
     },
     {
       "line": 6506,
@@ -28145,7 +28145,7 @@
       "line": 6541,
       "event": "liampromfandomactivity",
       "english_sha256": "a94ccfdec6f72c353b7c54c49e82768e6bd0b56bb2a8e3a68a886e72d7b2f1dd",
-      "ko": "사실 %CURRENTPLAYERNAME% 탓이지. 정말 %HIMHER% 도움을 구하면 원숭이 손에 소원 비는 기분이야."
+      "ko": "사실 %CURRENTPLAYERNAME% 탓이지. 정말 도움을 구하면 원숭이 손에 소원 비는 기분이야."
     },
     {
       "line": 6542,
@@ -28925,7 +28925,7 @@
       "line": 6720,
       "event": "rivalstands",
       "english_sha256": "9c33d6b7988d4df69c7f1b289ec6f63f10c1566d3bb411b2db88067da70a183c",
-      "ko": "%HESHE% 두 사람한테 커플 댄스 대회 나가면 $50,000 준다고 했어요? %HISHER% 거짓말 믿지 마요!"
+      "ko": "두 사람한테 커플 댄스 대회 나가면 $50,000 준다고 했어요? 그 거짓말 믿지 마요!"
     },
     {
       "line": 6721,
@@ -29003,7 +29003,7 @@
       "line": 6733,
       "event": "rivalstands",
       "english_sha256": "13286944c309bc4b3a09e8e4204dde5a7a09957a9777920a4f25538f5d925833",
-      "ko": "나랑 내 라이벌을 속이고 무사할 순 없지! %HIMHER% 잡아!"
+      "ko": "나랑 내 라이벌을 속이고 무사할 순 없지! 잡아!"
     },
     {
       "line": 6734,
@@ -29327,7 +29327,7 @@
       "line": 6814,
       "event": "magicalgirldisruption",
       "english_sha256": "10bfa0d7e304dafea1ffdbdaecee9774acb727873b1c7dd4b4aa26d9ec092477",
-      "ko": "바지?! 넌 미친 %MANWOMAN%이야, %CURRENTPLAYERNAME%!"
+      "ko": "바지?! 넌 미쳤어, %CURRENTPLAYERNAME%!"
     },
     {
       "line": 6815,
@@ -29669,7 +29669,7 @@
       "line": 6884,
       "event": "oldmovieretrospective",
       "english_sha256": "5a667a94fece4088f869f065af070d7ee965f976394e7db9d00e2d1e463205fc",
-      "ko": "우와, %CURRENTPLAYERNAME% 진짜 집중한다. %HESHE% %VERB_IS_ARE% 눈도 안 깜빡이는 것 같아."
+      "ko": "우와, %CURRENTPLAYERNAME% 진짜 집중한다. 눈도 안 깜빡이는 것 같아."
     },
     {
       "line": 6885,
@@ -29723,7 +29723,7 @@
       "line": 6901,
       "event": "oldmovieretrospective",
       "english_sha256": "cfc90ebad1b9cd04110e7388b8b8719e3bd0b5ca52aa56243c0187accb99c9c6",
-      "ko": "이봐, 바텐더! 여기 내 친구 술 한 잔 줘. %HESHE% %VERB_IS_ARE% 범생이 짓 좀 피하려는 중이거든!"
+      "ko": "이봐, 바텐더! 여기 내 친구 술 한 잔 줘. 범생이 짓 좀 피하려는 중이거든!"
     },
     {
       "line": 6904,
@@ -30197,13 +30197,13 @@
       "line": 7004,
       "event": "kintsugiworkshop",
       "english_sha256": "bf5d07c769124155c667a6f415407310d2c5ec61802f5d47db0d9af58758fab2",
-      "ko": "하지만 %CURRENTPLAYERNAME%의 부러진 뼈는 아직 %HISHER% 몸속에 있잖아. %VERB_IS_ARE% %HESHE% 그걸 어떻게 킨츠기 해?"
+      "ko": "하지만 %CURRENTPLAYERNAME%의 부러진 뼈는 아직 몸속에 있잖아. 그걸 어떻게 킨츠기 해?"
     },
     {
       "line": 7005,
       "event": "kintsugiworkshop",
       "english_sha256": "0983f9f6c3e40fddc0fc4466bb4976db24c7b6ecc280d8346727cedf5591297a",
-      "ko": "%HISHER% 피부를 벗겨 뼈를 드러내면 되지, 바보야! 자, 내 메스 빌려줄게."
+      "ko": "피부를 벗겨 뼈를 드러내면 되지, 바보야! 자, 내 메스 빌려줄게."
     },
     {
       "line": 7006,
@@ -30239,7 +30239,7 @@
       "line": 7013,
       "event": "kintsugiworkshop",
       "english_sha256": "ca56d0376f640cda0df3220590bad6b4f9846496a68b93976ee54f1190bac1bb",
-      "ko": "...그러고 %HESHE% %HISHER% 뼈를 금칠 옻으로 채웠어! 눈을 뗄 수가 없더라."
+      "ko": "...그러고 뼈를 금칠 옻으로 채웠어! 눈을 뗄 수가 없더라."
     },
     {
       "line": 7014,
@@ -31427,13 +31427,13 @@
       "line": 7293,
       "event": "kawaiipower",
       "english_sha256": "e5e4d1cb52af6198fce3b19a1a59fac2839771a64b10054ecaab0c13befd28ab",
-      "ko": "%HESHE% %VERB_IS_ARE%... 거머리 역할극을 하는 거야! 요즘 뜨는 유행인가 봐!"
+      "ko": "내 생각엔... 거머리 역할극을 하는 거야! 요즘 뜨는 유행인가 봐!"
     },
     {
       "line": 7294,
       "event": "kawaiipower",
       "english_sha256": "1a450f7a063c40701239fe6d47be610f4726c21c563e4b5b62e4bdd4e07cc357",
-      "ko": "아니, %HESHE% %VERB_IS_ARE% 내 몸의 과도한 카와이를 빨아내려는 것 같아... 독처럼 말이야."
+      "ko": "아니, 내 몸의 과도한 카와이를 빨아내려는 것 같아... 독처럼 말이야."
     },
     {
       "line": 7295,
@@ -31445,7 +31445,7 @@
       "line": 7296,
       "event": "kawaiipower",
       "english_sha256": "92f9acd3eacbc24258366b5018f23123958f9a077522cb8e559178f67c5a3086",
-      "ko": "그래도 %HESHE% 우리 관심을 카와이 과다복용에서 돌렸으니 나름 효과는 있었네."
+      "ko": "그래도 우리 관심을 카와이 과다복용에서 돌렸으니 나름 효과는 있었네."
     },
     {
       "line": 7297,
@@ -31463,13 +31463,13 @@
       "line": 7300,
       "event": "kawaiipower",
       "english_sha256": "f0d6c09e98c4d8afa66d1f2ec6df94650cd9d2806e007386716c7b005e4065ab",
-      "ko": "잠깐, 진짜 과도한 카와이가 빠지는 게 아니면 왜 %HIMHER%..."
+      "ko": "잠깐, 진짜 과도한 카와이가 빠지는 게 아니면 왜 계속 하게..."
     },
     {
       "line": 7301,
       "event": "kawaiipower",
       "english_sha256": "3b4661526baa367fff08c0937075bcdd1032bedde19414fabb356bdb234c41bb",
-      "ko": "%HESHE% %VERB_WAS_WERE% 즐거워하는 게 뻔하니까! 무슨 페티시 같은 거 아냐! 빵빵!"
+      "ko": "즐거워하는 게 뻔하니까! 무슨 페티시 같은 거 아냐! 빵빵!"
     },
     {
       "line": 7302,
@@ -32003,7 +32003,7 @@
       "line": 7433,
       "event": "tellafriend",
       "english_sha256": "3e7270201b96a4e690da1061bc188dc660cc3a877e4d0c3dead342116d57116e",
-      "ko": "안녕하세에요! 「엔드리스 러너 No. 79 [WORKING TITLE]」 해 보실래요? 재미가 한가득인 무료 게임이에요!"
+      "ko": "안녕하세에요! 「엔드리스 러너 No. 79 [가제]」 해 보실래요? 재미가 한가득인 무료 게임이에요!"
     },
     {
       "line": 7434,
@@ -32561,7 +32561,7 @@
       "line": 7560,
       "event": "concastaway",
       "english_sha256": "e87a577436e410e6e93d3b5beb62780606f3628421714052a0a15550ea842610",
-      "ko": "대체 뭐야? 저 광대가 저 %GUYGIRL% 피를 마시는 거야? 씨발 너무 무서워."
+      "ko": "대체 뭐야? 저 광대가 저 사람 피를 마시는 거야? 씨발 너무 무서워."
     },
     {
       "line": 7561,
@@ -33245,7 +33245,7 @@
       "line": 7719,
       "event": "conmeetingpoint",
       "english_sha256": "4ccf98b7312af913feab92906ad6d08d85a18dbdf144614b7027179fb4a96657",
-      "ko": "+2 BOLDNESS, -2 CREATIVITY."
+      "ko": "+2 BOLDNESS를 얻고 -2 CREATIVITY를 잃었어."
     },
     {
       "line": 7729,
@@ -33413,7 +33413,7 @@
       "line": 7760,
       "event": "barbrawl",
       "english_sha256": "4d6ea4ad9d6d11029a52ee5f13a792d70e7d298b7db9e99878e7e6ea81d132b7",
-      "ko": "%CURRENTPLAYERNAME% 선수의 전투 방식은 더 거칠고 종잡을 수 없지만, %HISHER% 취기 덕에 어째 %HISHER% 기술은 더 효과적이군요!"
+      "ko": "%CURRENTPLAYERNAME% 선수의 전투 방식은 더 거칠고 종잡을 수 없지만, 취기 덕에 어째 기술은 더 효과적이군요!"
     },
     {
       "line": 7761,
@@ -33461,7 +33461,7 @@
       "line": 7768,
       "event": "barbrawl",
       "english_sha256": "22ce8989bafacf6549eb0967f5bd226dd0e2576bd84971116ad85895b71a5cf9",
-      "ko": "다 %CURRENTPLAYERNAME% 덕분이지! 왜인진 모르겠는데, %HIMHER%에게 +2 FUN과 -2 CREATIVITY를 줘야 할 것 같아."
+      "ko": "다 %CURRENTPLAYERNAME% 덕분이지! 왜인진 모르겠는데, 보상으로 +2 FUN과 -2 CREATIVITY를 줘야 할 것 같아."
     },
     {
       "line": 7769,
@@ -33911,7 +33911,7 @@
       "line": 7870,
       "event": "creativeexercises",
       "english_sha256": "cf1fa1e8036361ba4bbdfb068341c35bbe88ae970d5f62160c894563ad733724",
-      "ko": "[UNTRANSCRIBABLE ELDRITCH NOISES]"
+      "ko": "[글로 옮길 수 없는 고대신의 소리]"
     },
     {
       "line": 7871,
@@ -34391,7 +34391,7 @@
       "line": 7983,
       "event": "disconnectnightplan",
       "english_sha256": "38c37b3ed1c4b8298f3389d1dd1d6d5fe614e46cd355fe5dd17cbb719ed28ffc",
-      "ko": "걱정 마요, 보틀 %MRMRS%! 전 의사예요! 살려 드릴게요!"
+      "ko": "걱정 마요, 보틀 씨! 전 의사예요! 살려 드릴게요!"
     },
     {
       "line": 7984,
@@ -34409,7 +34409,7 @@
       "line": 7986,
       "event": "disconnectnightplan",
       "english_sha256": "e7bdd758a123a34fdb9e3ad22474ced5d4ff10dd872bf47c99d625b90ff516e2",
-      "ko": "바텐더! 주방에서 제일 잘 드는 칼이랑 제일 독한 술 가져와요. 아, 벤한테도 한 잔 줘요. %HESHE%도 필요할 테니까."
+      "ko": "바텐더! 주방에서 제일 잘 드는 칼이랑 제일 독한 술 가져와요. 아, 벤한테도 한 잔 줘요. 필요할 테니까."
     },
     {
       "line": 7989,
@@ -35993,7 +35993,7 @@
       "line": 8346,
       "event": "coolaccessory",
       "english_sha256": "5f88b0fab28b70f1d77b67291599941f57ed9a3ba18061ad1c7bdf2353b14d98",
-      "ko": "몰라. 난 아이디어 담당 %MANWOMAN%이야. 실행까지 할 수 있다고 약속한 적은 없어."
+      "ko": "몰라. 난 아이디어 담당이야. 실행까지 할 수 있다고 약속한 적은 없어."
     },
     {
       "line": 8347,
@@ -37115,19 +37115,19 @@
       "line": 8612,
       "event": "datingsimtournament",
       "english_sha256": "840656374de369a1e400ffc555a359f21a866b5121fe5941a426bdbc8f88c127",
-      "ko": "\"치과 의사의 조언대로 매일 아침 당신을 먹진 못할 거예요. 하지만 달콤하고 맛있는 당신의 [CENSORED]를 죽을 때까지 소중히 간직할게요.\""
+      "ko": "\"치과 의사의 조언대로 매일 아침 당신을 먹진 못할 거예요. 하지만 달콤하고 맛있는 당신의 [검열됨]를 죽을 때까지 소중히 간직할게요.\""
     },
     {
       "line": 8613,
       "event": "datingsimtournament",
       "english_sha256": "bdeec2758ee775f9550cd10b28c95d4b7d83e6ceb1734b5e8dc8b69055bb8851",
-      "ko": "\"주말과 특별한 밤이면 섬세하고 뚝뚝 흐르는 당신의 [CENSORED]를 내 입과 내 [CENSORED]에 넣겠어요.\""
+      "ko": "\"주말과 특별한 밤이면 섬세하고 뚝뚝 흐르는 당신의 [검열됨]를 내 입과 내 [검열됨]에 넣겠어요.\""
     },
     {
       "line": 8614,
       "event": "datingsimtournament",
       "english_sha256": "0b5b401055c193510109480331d926d7303dd476a0fe8615f44139ba91f49a97",
-      "ko": "\"달아오를 때면 당신의 [CENSORED]를 [CENSORED]해서 내 [CENSORED] 온통 [CENSORED]하겠어요!\""
+      "ko": "\"달아오를 때면 당신의 [검열됨]를 [검열됨]해서 내 [검열됨] 온통 [검열됨]하겠어요!\""
     },
     {
       "line": 8616,
@@ -38279,7 +38279,7 @@
       "line": 8898,
       "event": "gachaponappealomen",
       "english_sha256": "29f68bcd26cb6a159f7b5f5a6e00538b748babe9b29bfa5eda6e2d1d4a934a0e",
-      "ko": "흠... %HIMHER% 쪽에서 %HISHER% 보잘것없는 저축을 탕진하는 즐거움만을 위해서라면 해 볼 수 있겠군."
+      "ko": "흠... 보잘것없는 저축을 탕진하는 꼴을 구경하는 즐거움만을 위해서라면 해 볼 수 있겠군."
     },
     {
       "line": 8899,
@@ -38423,7 +38423,7 @@
       "line": 8930,
       "event": "gachaponappealomen",
       "english_sha256": "ad58ab41c36caa6dc9555eac9356c1fcbe4256119f55621a02d57613ab4d7a4e",
-      "ko": "실망시키지 않겠습니다, 다케야마 부장님! 제 명예를 걸고요!"
+      "ko": "실망시키지 않겠습니다, 타케야마 부장님! 제 명예를 걸고요!"
     },
     {
       "line": 8931,
@@ -39083,7 +39083,7 @@
       "line": 9074,
       "event": "paneltakeover",
       "english_sha256": "31058221b61f882e737e6f5cbed5d364879b3bd25c53ed522c72662562f767f7",
-      "ko": "%CURRENTPLAYERNAME%은 잘 지내지 않아. %HIMHER% 쪽은 물탱크에서 천천히 익사 중이지."
+      "ko": "%CURRENTPLAYERNAME%은 잘 지내지 않아. 물탱크에서 천천히 익사 중이지."
     },
     {
       "line": 9075,
@@ -39095,7 +39095,7 @@
       "line": 9076,
       "event": "paneltakeover",
       "english_sha256": "ddfe083cc23a46c05ec5dce1ce4f453c58deac3b19b7af59dc7d644a2d8d96d2",
-      "ko": "아이고, 윌 피터슨이 열 명을 더 참조에 넣었네. %CURRENTPLAYERNAME%에게 남은 시간이 줄어들어. %HESHE% %VERB_GETS_GET% 쏟아지는 답글에 파묻히기 직전이야."
+      "ko": "아이고, 윌 피터슨이 열 명을 더 참조에 넣었네. %CURRENTPLAYERNAME%에게 남은 시간이 줄어들어. 쏟아지는 답글에 파묻히기 직전이야."
     },
     {
       "line": 9077,
@@ -39119,13 +39119,13 @@
       "line": 9080,
       "event": "paneltakeover",
       "english_sha256": "7761f3c456583083186938bb2fbed78dd847aa44e0518af271ec8273333e8a92",
-      "ko": "인정하지. 한 손을 %HISHER% 등 뒤로 묶은 채 %HESHE% 쪽에서 그걸 다 입력한 건 인상적이군."
+      "ko": "인정하지. 한 손을 등 뒤로 묶은 채 그걸 다 입력한 건 인상적이군."
     },
     {
       "line": 9082,
       "event": "paneltakeover",
       "english_sha256": "6da0f9d76c002cf2454c61748192653e30ee50d776a7b3a05ca463770e44d57b",
-      "ko": "%HESHE% %VERB_HAS_HAVE% 한 손으로만 하는 일에 경험이 많나 보네..."
+      "ko": "한 손으로만 하는 일에 경험이 많나 보네..."
     },
     {
       "line": 9083,
@@ -40661,7 +40661,7 @@
       "line": 9453,
       "event": "repairperson",
       "english_sha256": "a2f0e6338046c6911e97bff3faeb5bdf397741f21d6e6459b63281c978298b99",
-      "ko": "분명 그렇지... 그래도 먼저 %HIMHER% 쪽을 휘두르는 연습을 하는 게 어때?"
+      "ko": "분명 그렇지... 그래도 먼저 휘두르는 연습을 하는 게 어때?"
     },
     {
       "line": 9454,
@@ -40793,7 +40793,7 @@
       "line": 9491,
       "event": "sewersclownescape",
       "english_sha256": "3cdb0c08ca4ecd51638c7d03a0311deab7445038418a9b20f5e2d6bbbe7663fb",
-      "ko": "아무튼 만나서 다행이야. 넌 아이디어 담당 %MANWOMAN%이지? 큰 그림을 보는 사람? 적극적인 실행가?"
+      "ko": "아무튼 만나서 다행이야. 넌 아이디어 담당이지? 큰 그림을 보는 사람? 적극적인 실행가?"
     },
     {
       "line": 9492,
@@ -41231,19 +41231,19 @@
       "line": 9603,
       "event": "clownstream",
       "english_sha256": "c2fdbc904256bec66230e231ffbf53bd49b781536bd7d04e1f56cc0fd5ef3700",
-      "ko": "이미지를 다른 말로 부르는 거야. %CURRENTPLAYERNAME%은 다른 사람들이 %HIMHER% 쪽을 바라보는 방식을 바꾸도록 %HIMHER% 쪽을 도와 달라는 거지."
+      "ko": "이미지를 다른 말로 부르는 거야. %CURRENTPLAYERNAME%은 다른 사람들이 자길 바라보는 방식을 바꾸도록 도와 달라는 거지."
     },
     {
       "line": 9604,
       "event": "clownstream",
       "english_sha256": "4c5707403057cc6c5ab84cf7230040d99f1a175c6f10fff1dddea737d27265d9",
-      "ko": "아, 말이 되네. %HESHE% %VERB_DOES_DO% 세상에 비치는 %HIMHER% 자신의 모습이 끔찍하긴 해."
+      "ko": "아, 말이 되네. 세상에 비치는 자기 모습이 끔찍하긴 해."
     },
     {
       "line": 9605,
       "event": "clownstream",
       "english_sha256": "821462e5408488be37e894f2fe07178a745891259452b73f56a7c7c1d6fb7765",
-      "ko": "헬리콥터를 사, %CURRENTPLAYERNAME%! 헬리콥터 %GUYGIRL% 브랜드라면 엄청 멋질 거야."
+      "ko": "헬리콥터를 사, %CURRENTPLAYERNAME%! 헬리콥터 타는 사람이라는 브랜드라면 엄청 멋질 거야."
     },
     {
       "line": 9606,
@@ -41309,7 +41309,7 @@
       "line": 9624,
       "event": "clownstream",
       "english_sha256": "1b43d1adcc1aac44b72ce17669cdb01aaeca60861938422a6fb6e379b5ec3c5e",
-      "ko": "아, 오늘의 주인공 %MANWOMAN%이 왔군! 니코와 내가 네 이름으로 은행 대출 열한 개를 받았어."
+      "ko": "아, 오늘의 주인공이 왔군! 니코와 내가 네 이름으로 은행 대출 열한 개를 받았어."
     },
     {
       "line": 9625,
@@ -41645,7 +41645,7 @@
       "line": 9710,
       "event": "omenstream",
       "english_sha256": "4da5e6d97e78539d205ef24324cfeefad037a639943bbe918afdec5dcdc17d57",
-      "ko": "그리고 착한 %MANWOMAN%인 넌 이제 +2 CHARM과 -2 BOLDNESS를 가졌지. 스트리머를 친구로 두면 이런 혜택이 있어!"
+      "ko": "그리고 친구, 넌 이제 +2 CHARM과 -2 BOLDNESS를 가졌지. 스트리머를 친구로 두면 이런 혜택이 있어!"
     },
     {
       "line": 9713,
@@ -43673,7 +43673,7 @@
       "line": 10200,
       "event": "gameshowtierlist",
       "english_sha256": "d291890c17ef495da99294cba10cb81e0c7a52bc13b79b959a29928541ee1794",
-      "ko": "%HESHE% 쪽은 %HESHE% 쪽이 한꺼번에 전부 이긴다는 뜻은 아니었을... 됐다."
+      "ko": "한꺼번에 전부 이긴다는 뜻은 아니었을... 됐다."
     },
     {
       "line": 10201,
@@ -43685,7 +43685,7 @@
       "line": 10203,
       "event": "gameshowtierlist",
       "english_sha256": "45154cf4e4a159bed8b0977a33f90e3817301e6ec34d576862dfa862ffe67717",
-      "ko": "씨발 좋지. 새를 패 버릴 수 있는 %MANWOMAN%만큼 날 흥분시키는 건 없어."
+      "ko": "씨발 좋지. 새를 패 버릴 수 있는 사람만큼 날 흥분시키는 건 없어."
     },
     {
       "line": 10204,
@@ -47483,7 +47483,7 @@
       "line": 11099,
       "event": "sushiworkshop",
       "english_sha256": "3039321c2bfcca75d31848ed279f9ce4c5bf0ba15b2e808237933e512480493f",
-      "ko": "에이프릴! 왜 초밥용 칼로 %HIMHER% 찔렀어? 비위생적이잖아!"
+      "ko": "에이프릴! 왜 초밥용 칼로 찔렀어? 비위생적이잖아!"
     },
     {
       "line": 11100,
@@ -50375,7 +50375,7 @@
       "line": 11758,
       "event": "covetedgacha",
       "english_sha256": "76e973cb3b3dd95be321ad11c6c15578547c16755700f0c8cf2a584a49ed2802",
-      "ko": "에이, %HESHE% 그런 짓 할 리 없어! 그렇지, %CURRENTPLAYERNAME%?"
+      "ko": "에이, 그런 짓 할 리 없어! 그렇지, %CURRENTPLAYERNAME%?"
     },
     {
       "line": 11761,
@@ -51731,13 +51731,13 @@
       "line": 12081,
       "event": "journalistwhycon",
       "english_sha256": "73a5dbdc9d049a29284b469f8b528b1a48054dd0c1b455248d0fb9cfd333b3d3",
-      "ko": "흥미롭네요... %SIRMAAM%, 그쪽은요? 스푸키 콘에서 가장 좋아하는 걸 말씀해 주시겠어요?"
+      "ko": "흥미롭네요... 그쪽은요? 스푸키 콘에서 가장 좋아하는 걸 말씀해 주시겠어요?"
     },
     {
       "line": 12082,
       "event": "journalistwhycon",
       "english_sha256": "3580a8669443a9b6585ca2de11e609b99d796b72b0de49fdf21174b85c4a52f3",
-      "ko": "\"코스프레가 좋아요! 이 가면을 쓰면 아무도 저를 유타에서 그 사람들을 다 죽인 %GUYGIRL%로 안 보거든요. 상쾌하죠!\""
+      "ko": "\"코스프레가 좋아요! 이 가면을 쓰면 아무도 저를 유타에서 그 사람들을 다 죽인 범인으로 안 보거든요. 상쾌하죠!\""
     },
     {
       "line": 12083,
@@ -51761,7 +51761,7 @@
       "line": 12089,
       "event": "journalistwhycon",
       "english_sha256": "df95ae6be6cdc7092d7cdb8de3ddb0e5217f23e5f8197a4970030e6abb7c073c",
-      "ko": "베이글 주문 때문에 다투다 유타 주민 다섯 명을 살해한 신원 미상의 %MANWOMAN%이 본인이라고 하시는 건가요?"
+      "ko": "베이글 주문 때문에 다투다 유타 주민 다섯 명을 살해한 신원 미상의 범인이 본인이라고 하시는 건가요?"
     },
     {
       "line": 12091,
@@ -51815,7 +51815,7 @@
       "line": 12101,
       "event": "journalistwhycon",
       "english_sha256": "bea807659547cbb0f3e34d548ab0d22be67448b0ffbf63285be07d77b28a9b11",
-      "ko": "(%CURRENTPLAYERNAME%, 그냥 이상하게 구는 거야, 아니면 네가 그 사람들을 죽였고 엉뚱한 %MANWOMAN%이 잡혔다고 암시하는 거야?)"
+      "ko": "(%CURRENTPLAYERNAME%, 그냥 이상하게 구는 거야, 아니면 네가 그 사람들을 죽였고 엉뚱한 사람이 잡혔다고 암시하는 거야?)"
     },
     {
       "line": 12102,
@@ -51857,19 +51857,19 @@
       "line": 12112,
       "event": "journalistwhycon",
       "english_sha256": "03a89ad43138ce7c63a9da9ca730706b539fd348a18e67f2c41a38f28f734554",
-      "ko": "%CURRENTPLAYERNAME%의 투명 고릴라 스토커 얘기를 %HISHER%한테 못 들었다고?"
+      "ko": "%CURRENTPLAYERNAME%한테 투명 고릴라 스토커 얘기를 못 들었다고?"
     },
     {
       "line": 12113,
       "event": "journalistwhycon",
       "english_sha256": "dec32dabe3dc8f1ff5fef17569c44a4f1db42b5642eb5df981deccd34de9791d",
-      "ko": "하! %HESHE% %VERB_LIKES_LIKE% 우리 중 누굴 더 좋아하는지 알겠네!"
+      "ko": "하! 우리 중 누굴 더 좋아하는지 알겠네!"
     },
     {
       "line": 12114,
       "event": "journalistwhycon",
       "english_sha256": "168306df986700e5b5715acd5b8b90f523b9f33e6b4934ab1ead5a86de34edf6",
-      "ko": "난 %HISHER% 미친 망상에 맞장구 안 쳐 주는 %CURRENTPLAYERNAME%의 친구로 남는 게 훨씬 좋아."
+      "ko": "난 미친 망상에 맞장구 안 쳐 주는 %CURRENTPLAYERNAME%의 친구로 남는 게 훨씬 좋아."
     },
     {
       "line": 12115,
@@ -54977,7 +54977,7 @@
       "line": 12844,
       "event": "livettrpgbeef",
       "english_sha256": "7de559c20da9fa66278c9dd25fef176c3a6a88d88771d4d4fa9dbafdf2b27508",
-      "ko": "다행히 우리에겐 내부 요원 월터리가 있어! %HESHE% %VERB_REALIZES_REALIZE% 진짜 모험은 \"친구끼리 다툼\"이라는 드래곤을 잡는 거라는 걸 깨닫길 바라."
+      "ko": "다행히 우리에겐 내부 요원 월터리가 있어! 진짜 모험은 \"친구끼리 다툼\"이라는 드래곤을 잡는 거라는 걸 깨닫길 바라."
     },
     {
       "line": 12845,
@@ -56543,7 +56543,7 @@
       "line": 13195,
       "event": "covencosplay",
       "english_sha256": "b71a3c513129cf4058f57b4468a746088c7643788ffd58ba7710544bc6c30aaf",
-      "ko": "잠깐... 조이 존슨 조지마의 유명한 전 애인 중 하나가 너야? 왜 말 안 했어?!"
+      "ko": "잠깐... 조이 존슨-조지마의 유명한 전 애인 중 하나가 너야? 왜 말 안 했어?!"
     },
     {
       "line": 13196,
@@ -56789,7 +56789,7 @@
       "line": 13238,
       "event": "covencosplay",
       "english_sha256": "819f5dff37170838599036ba753b04b5c2dee6ee28ebf0718186b90f50072f0f",
-      "ko": "어... 그러니까, %HIMHER% 좀 봐... 멍청한 %CURRENTPLAYERNAME%... (멍청할 만큼 [i]섹시해[/i])..."
+      "ko": "어... 그러니까, 좀 봐... 멍청한 %CURRENTPLAYERNAME%... (멍청할 만큼 [i]섹시해[/i])..."
     },
     {
       "line": 13239,
@@ -56849,7 +56849,7 @@
       "line": 13248,
       "event": "covencosplay",
       "english_sha256": "93b99119c6616fb08156671b9bf19d38d92c27b5792e5751e7658f48d7811ba5",
-      "ko": "좋은 지적이야. %CURRENTPLAYERNAME% 상대로 다시 해 볼까? 이번엔 %HIMHER%에게 좀 더 조이처럼 키스해 봐!"
+      "ko": "좋은 지적이야. %CURRENTPLAYERNAME% 상대로 다시 해 볼까? 이번엔 좀 더 조이처럼 키스해 봐!"
     },
     {
       "line": 13249,
@@ -59321,7 +59321,7 @@
       "line": 13827,
       "event": "iproyaltysport",
       "english_sha256": "0c39f6d2daadea710adde8dc5c91114ba12b3ef3ac55789bad5dbaf2d8d186c6",
-      "ko": "%CURRENTPLAYERNAME% 만세! 스포츠 영웅 %HESHE% %VERB_IS_ARE% %HIMHER% 어깨에 태워 주자!"
+      "ko": "%CURRENTPLAYERNAME% 만세! 스포츠 영웅답게 어깨에 태워 주자!"
     },
     {
       "line": 13828,
@@ -59903,7 +59903,7 @@
       "line": 13964,
       "event": "autographkillerline",
       "english_sha256": "411d712e0c7aa849b321aef2035189de05c7a2287699c6a43902c1d16f56056a",
-      "ko": "좋다! 얘들아, 맨 뒤에서 기다리자. %CURRENTPLAYERNAME%한테 사인도 받고 %HIMHER%랑 단둘이 시간도 보내게."
+      "ko": "좋다! 얘들아, 맨 뒤에서 기다리자. %CURRENTPLAYERNAME%한테 사인도 받고 단둘이 시간도 보내게."
     },
     {
       "line": 13965,
@@ -61169,7 +61169,7 @@
       "line": 14262,
       "event": "softcombat",
       "english_sha256": "1834b0d1adfa1ca5fd95c0b10f1d81e785224a5502d7fded59ed38836d5959bf",
-      "ko": "오! 컨트리 아냐? 난 항상 %HESHE% %VERB_HAS_HAVE% 완전 컨트리 감성이라고 생각했어!"
+      "ko": "오! 컨트리 아냐? 난 항상 완전 컨트리 감성이라고 생각했어!"
     },
     {
       "line": 14264,
@@ -61511,7 +61511,7 @@
       "line": 14345,
       "event": "maidomurice",
       "english_sha256": "c99cf4034ebf33b47957053f31e7e4144edd41ee3c159de510a0a376cded1880",
-      "ko": "%CURRENTPLAYERNAME% 님이 주인님만을 위해 사랑을 담아 만든 오므라이스예요! 정말 %HISHER%의 사랑을 그렇게 거절하실 건가요?"
+      "ko": "%CURRENTPLAYERNAME% 님이 주인님만을 위해 사랑을 담아 만든 오므라이스예요! 정말 그 사랑을 그렇게 거절하실 건가요?"
     },
     {
       "line": 14346,
@@ -61613,7 +61613,7 @@
       "line": 14366,
       "event": "maidomurice",
       "english_sha256": "537756917da64bd68f417f2dc31025c41a3ea077bb2c8cd39d21db93ab143eee",
-      "ko": "아뇨, %HESHE% 맞게 적었어요. 그래서 더 소름 끼친다고요."
+      "ko": "아뇨, 맞게 적었어요. 그래서 더 소름 끼친다고요."
     },
     {
       "line": 14367,
@@ -62183,7 +62183,7 @@
       "line": 14501,
       "event": "weirdjobvolunteer",
       "english_sha256": "7c2f0332e68db3cc5e94c2c3f16d5f3291121895226730c860a805b8e9949994",
-      "ko": "분명 %HISHER% 결장은 못생겼을 거야."
+      "ko": "분명 결장은 못생겼을 거야."
     },
     {
       "line": 14502,
@@ -62237,7 +62237,7 @@
       "line": 14511,
       "event": "weirdjobvolunteer",
       "english_sha256": "b8767dd912099fcf7ad3923ad6c5afd2808387b8c5b801a5174457fe0a263baa",
-      "ko": "안 돼, %CURRENTPLAYERNAME%! %HESHE% %VERB_WAS_WERE% 그렇게 고통스럽게 사는 줄 몰랐어! 내가 나쁜 친구인가?"
+      "ko": "안 돼, %CURRENTPLAYERNAME%! 그렇게 고통스럽게 사는 줄 몰랐어! 내가 나쁜 친구인가?"
     },
     {
       "line": 14512,
@@ -62273,7 +62273,7 @@
       "line": 14517,
       "event": "weirdjobvolunteer",
       "english_sha256": "725aac244e74c3109fcd0bead55686d1a992c3936f11459fc9c3d7af06491711",
-      "ko": "진료비도 비싼데 위장을 걸고 이런 도박을 하는 건 꽤 무모하네... 거의 멋진 배드 %BOYGIRL% 같아."
+      "ko": "진료비도 비싼데 위장을 걸고 이런 도박을 하는 건 꽤 무모하네... 거의 멋진 반항아 같아."
     },
     {
       "line": 14518,
@@ -62285,7 +62285,7 @@
       "line": 14519,
       "event": "weirdjobvolunteer",
       "english_sha256": "302614cc4bdc1e0d624f08417d12688106425837ceb6c66dd6ae39fffe7ec8fe",
-      "ko": "됐어, 포기할게. 상식적으로는 걱정해야 하는데, 다들 이러니까 %HESHE% 정말 멋진 거라고 봐야 하나 싶네. 판단이 안 선다."
+      "ko": "됐어, 포기할게. 상식적으로는 걱정해야 하는데, 다들 이러니까 정말 멋진 거라고 봐야 하나 싶네. 판단이 안 선다."
     },
     {
       "line": 14520,
@@ -62399,7 +62399,7 @@
       "line": 14540,
       "event": "weirdjobvolunteer",
       "english_sha256": "cee2ad9288f7d85d1cee553a601f37a34da16cffa51367daafe2922865bb8797",
-      "ko": "좋아, 내내 천박한 얘기뿐이었지만 %HIMHER% 인정은 해 줘야겠네. 방금 건 웃겼어."
+      "ko": "좋아, 내내 천박한 얘기뿐이었지만 인정은 해 줘야겠네. 방금 건 웃겼어."
     },
     {
       "line": 14541,
@@ -63575,7 +63575,7 @@
       "line": 14819,
       "event": "sexeurodate",
       "english_sha256": "3dc975de141e212b931432764dd163a350e9282b75a346e88a411b0f28b77e5f",
-      "ko": "하! 재밌네. 근데 친밀도 수치가 너무 낮아. 고백 포인트가 3점 이상이어야 말해 줄 수 있거든."
+      "ko": "하! 재밌네. 근데 친밀도 수치가 너무 낮아. 네가 내게 말해 주려면 내가 고백 포인트를 3점 이상 모아야 하거든."
     },
     {
       "line": 14820,
@@ -64313,7 +64313,7 @@
       "line": 14989,
       "event": "omenintimate",
       "english_sha256": "3ee2b5cb386200acad0711af736c2ddb0d1228a07c03543a1f12a8f56debc560",
-      "ko": "\"그래, 안 될 게 있나.\" 세상에서 가장 낭만적인 말이다."
+      "ko": "\"그래, 뭐 어때.\" 세상에서 가장 낭만적인 세 단어다."
     },
     {
       "line": 14990,
@@ -65693,7 +65693,7 @@
       "line": 15320,
       "event": "fanswannakillyou",
       "english_sha256": "7292f201e8ce36fc12485dd2885f2648a67077df72f5701e663bf97823da7adc",
-      "ko": "네가 뭘 알아?! 네가 한부모 %FATHERMOTHER% 해 봤어?!"
+      "ko": "네가 뭘 알아?! 네가 혼자 애 키워 봤어?!"
     },
     {
       "line": 15321,
@@ -65963,7 +65963,7 @@
       "line": 15389,
       "event": "romanticwizard",
       "english_sha256": "c0ab0155ec88de45535d928823db87c447d5e3fcc032ea1594ec92eaa581ecbd",
-      "ko": "방을 비워라! 내 친구가 마법의 질병을 앓고 있다! 즉시 %HIMHER% 치료해야 해!"
+      "ko": "방을 비워라! 내 친구가 마법의 질병을 앓고 있다! 즉시 치료해야 해!"
     },
     {
       "line": 15390,
@@ -66941,7 +66941,7 @@
       "line": 15625,
       "event": "vipdinner",
       "english_sha256": "6696eddf7358d405dc09a189a57b43e2534ec5215290758881b92a00e17a6edb",
-      "ko": "뭐야... %VERB_IS_ARE% %HESHE% 말 더듬는 건가, 숨이 막히는 건가?"
+      "ko": "뭐야... 말 더듬는 건가, 숨이 막히는 건가?"
     },
     {
       "line": 15626,
@@ -67109,7 +67109,7 @@
       "line": 15659,
       "event": "vipdinner",
       "english_sha256": "e5b7e8f2f6bdd5ccb4c6baf3333385c653bc7fcc161284ef590ab30b72ee87d9",
-      "ko": "와, %CURRENTPLAYERNAME%. 구멍이 깊네... 난 원래 땅 파는 솜씨 좋은 %MANWOMAN% 좋아했어."
+      "ko": "와, %CURRENTPLAYERNAME%. 구멍이 깊네... 난 원래 땅 파는 솜씨 좋은 사람이 좋았어."
     },
     {
       "line": 15660,
@@ -68561,13 +68561,13 @@
       "line": 15994,
       "event": "phonenpc_event_vera",
       "english_sha256": "a4adfb159118a576c59d3aea21488de431c366ba42569c4f058e5f7ba35db647",
-      "ko": "네, 맞아요. %HESHE%가 협박했죠? 그렇죠, 온슬로 선생님? %HESHE%였잖아요."
+      "ko": "네, 맞아요. 저 사람이 협박했죠? 그렇죠, 온슬로 선생님?"
     },
     {
       "line": 15995,
       "event": "phonenpc_event_vera",
       "english_sha256": "b4063119f0004fb319c9d24123bfb606a96b9716984d4e2f980021c2b6b18078",
-      "ko": "응? 아...! 그래, 이제 생각나는군. %HESHE%가 \"늙은이, 계약서에 서명해. 안 그러면 죽도록 패 주겠어! 그리고... 엉덩이에 장어를 쑤셔 넣겠어!\"라고 했어."
+      "ko": "응? 아...! 그래, 이제 생각나는군. 저 사람이 \"늙은이, 계약서에 서명해. 안 그러면 죽도록 패 주겠어! 그리고... 엉덩이에 장어를 쑤셔 넣겠어!\"라고 했어."
     },
     {
       "line": 15996,
@@ -68591,7 +68591,7 @@
       "line": 15999,
       "event": "phonenpc_event_vera",
       "english_sha256": "fee8c88835c1d26320d9bc1abb00daf9ae3b758646331a5b12184f87c2340a5f",
-      "ko": "정말 %HIMHER%을 고용했어?"
+      "ko": "정말 고용했어?"
     },
     {
       "line": 16000,
@@ -69593,7 +69593,7 @@
       "line": 16219,
       "event": "phonenpc_event_kale",
       "english_sha256": "2d29b8412f126d700cc7951bf257f900ce12fcb7027151f85cd94b0826b5d4b6",
-      "ko": "%MANWOMAN% 혼자 오케스트라 공연을 해낼 수 있다는 가설을 시험할 때예요. 개가 일에 집중하지 못하게 할 수 있겠죠."
+      "ko": "혼자 오케스트라 공연을 해낼 수 있다는 가설을 시험할 때예요. 개가 일에 집중하지 못하게 할 수 있겠죠."
     },
     {
       "line": 16221,
@@ -69611,7 +69611,7 @@
       "line": 16224,
       "event": "phonenpc_event_kale",
       "english_sha256": "b934829a5bbc7dc995423e2fb2472a9d6111b25806fc7e84ae71ce1596c352e8",
-      "ko": "난 절대 아니야! 전부 %CURRENTPLAYERNAME% 거야! %HIMHER%을 체포해!"
+      "ko": "난 절대 아니야! 전부 %CURRENTPLAYERNAME% 거야! 체포해!"
     },
     {
       "line": 16225,
@@ -69671,13 +69671,13 @@
       "line": 16234,
       "event": "phonenpc_event_kale",
       "english_sha256": "701c650fa7443a8ad49ddec20b81120f67eccdc608b912fb1f175e2a4f362c17",
-      "ko": "이 자기 파괴의 굴레를 끊을 때가 된 것 같아. 이 %MANWOMAN%에게 %HISHER% 코카인을 갖고 있게 해 주자."
+      "ko": "이 자기 파괴의 굴레를 끊을 때가 된 것 같아. 이 사람에게 코카인을 갖고 있게 해 주자."
     },
     {
       "line": 16235,
       "event": "phonenpc_event_kale",
       "english_sha256": "17c6ee993f6ba78ea59faf7ef9f42450eb41435f01c20188662fed0ce5bc50f3",
-      "ko": "좋은 생각이야. 대신 %HIMHER%이 정직당하게 하자고!"
+      "ko": "좋은 생각이야. 대신 정직당하게 하자고!"
     },
     {
       "line": 16236,
@@ -69845,7 +69845,7 @@
       "line": 16280,
       "event": "phonenpc_event_gerard",
       "english_sha256": "eb19d55aaa754ebab71e2a0acf76af963ff46e06605d5b707297187146abfb38",
-      "ko": "알다시피 난 아직 마녀단 리더 조이와의 실패한 관계를 극복하는 중이야."
+      "ko": "알다시피 난 아직 마녀회 리더 조이와의 실패한 관계를 극복하는 중이야."
     },
     {
       "line": 16281,
@@ -69857,7 +69857,7 @@
       "line": 16282,
       "event": "phonenpc_event_gerard",
       "english_sha256": "5b37e2bc60da20250cef41eef2d40a92aedc49fe164062d03e375766083082a3",
-      "ko": "그럴 만하네요. 온종일 \"마녀단 팬\" 모임 포스터, \"마녀단 시즌 1~6\" 단체 감상회, 메인 무대에서 열리는 조이 사인회를 봤으니까요..."
+      "ko": "그럴 만하네요. 온종일 \"마녀회 팬\" 모임 포스터, \"더 코븐 시즌 1~6\" 단체 감상회, 메인 무대에서 열리는 조이 사인회를 봤으니까요..."
     },
     {
       "line": 16286,
@@ -69875,7 +69875,7 @@
       "line": 16288,
       "event": "phonenpc_event_gerard",
       "english_sha256": "9939dbb4543be7275730be97647eeda41bc44367e65cb4be9ad3baaf791759a0",
-      "ko": "귀엽네! 난 조이 존슨 조지마 코스프레 중이야. 마녀단 코스프레 대회에서 반드시 우승할 거야!"
+      "ko": "귀엽네! 난 조이 존슨-조지마 코스프레 중이야. 마녀회 코스프레 대회에서 반드시 우승할 거야!"
     },
     {
       "line": 16289,
@@ -69929,7 +69929,7 @@
       "line": 16297,
       "event": "phonenpc_event_gerard",
       "english_sha256": "7c41ca4bb09aa0382a25325656c10155423d12ea7f8333340776b201c7cd9843",
-      "ko": "몬스터 콘은 제라드가 불안을 건설적으로 발산하기 딱 좋은 곳이에요. \"마녀단 리더와 사귀면 안 되는 5가지 이유\"라는 패널 행사를 열게 한다."
+      "ko": "몬스터 콘은 제라드가 불안을 건설적으로 발산하기 딱 좋은 곳이에요. \"마녀회 리더와 사귀면 안 되는 5가지 이유\"라는 패널 행사를 열게 한다."
     },
     {
       "line": 16301,
@@ -70079,7 +70079,7 @@
       "line": 16330,
       "event": "phonenpc_event_gerard",
       "english_sha256": "938f582d0721974bb6e366f93ac3a5f70b4f89fa085c7bd0e80ffc93fde813aa",
-      "ko": "오늘은 조이 존슨 조지마라 불리는 혐오스럽고 속이 시커먼 요부와 사귀면 안 되는 5가지 이유를 말하겠습니다."
+      "ko": "오늘은 조이 존슨-조지마라 불리는 혐오스럽고 속이 시커먼 요부와 사귀면 안 되는 5가지 이유를 말하겠습니다."
     },
     {
       "line": 16331,
@@ -70529,7 +70529,7 @@
       "line": 16451,
       "event": "phonenpc_event_fanzine",
       "english_sha256": "718448d508892317ead668eb40f30ece7566b869e18bdbf5806b010cd220d315",
-      "ko": "다들 찾는 해결사 %MRMRS%가 아니라면 %CURRENTPLAYERNAME%이 아니죠! 인쇄소에 가 보니 양양 때문에 프린터 앞에 줄이 막혀 있네요."
+      "ko": "다들 찾는 해결사가 아니라면 %CURRENTPLAYERNAME%이 아니죠! 인쇄소에 가 보니 양양 때문에 프린터 앞에 줄이 막혀 있네요."
     },
     {
       "line": 16454,
@@ -71717,7 +71717,7 @@
       "line": 16712,
       "event": "phonenpc_event_tengu",
       "english_sha256": "5c912c546a8eea3f36894c1846215ae4d5c72be5fd913f23ba775237923b2cdf",
-      "ko": "고백해야겠네요. 원래 아이디어는 여기 있는 제 특별한 친구 %CURRENTPLAYERNAME%에게서 얻었어요. %HESHE% 쪽에서 영감의 출처를 말해 주면 좋겠네요!"
+      "ko": "고백해야겠네요. 원래 아이디어는 여기 있는 제 특별한 친구 %CURRENTPLAYERNAME%에게서 얻었어요. 영감의 출처를 말해 주면 좋겠네요!"
     },
     {
       "line": 16713,
@@ -73103,7 +73103,7 @@
       "line": 17049,
       "event": "grguestverawinteroutfit",
       "english_sha256": "4f4bc5ec86f66986a0446f471f499d06a30368966b574b97eb1ca057185d6248",
-      "ko": "정말 죄송합니다, %SIRMAAM%. 아직 잠옷을..."
+      "ko": "정말 죄송합니다, 손님. 아직 잠옷을..."
     },
     {
       "line": 17050,
@@ -73757,7 +73757,7 @@
       "line": 17197,
       "event": "grguestsusannetengu",
       "english_sha256": "464af8374df2a43bde5e68fd46dd4f76334ed119766fc49161e5055b27b3b57f",
-      "ko": "당연하지! 넌 멋져, 나나세. 그래도 정중히 말할게. 내 %MANWOMAN%에게서 떨어져!"
+      "ko": "당연하지! 넌 멋져, 나나세. 그래도 정중히 말할게. 내 애인에게서 떨어져!"
     },
     {
       "line": 17198,
@@ -74051,7 +74051,7 @@
       "line": 17263,
       "event": "grguestkalechillhill",
       "english_sha256": "ad7c10ef1d5f91e95d1f171309a49342c0c48c1624dd093c4279df7bc7cd47be",
-      "ko": "%CURRENTPLAYERNAME%에게 배웠지... %HESHE% %VERB_IS_ARE%, 현대의 현명한 수도승 같은 존재야."
+      "ko": "%CURRENTPLAYERNAME%에게 배웠지... 현대의 현명한 수도승 같은 존재야."
     },
     {
       "line": 17264,
@@ -74063,7 +74063,7 @@
       "line": 17265,
       "event": "grguestkalechillhill",
       "english_sha256": "11326bf8a1ec8774b316c2a09a2e2c14f1d1649b9ce2f55dbcdd384f95f6908c",
-      "ko": "물론이지. %HISHER% 조언 덕에 타코가 생겼잖아!"
+      "ko": "물론이지. 그 조언 덕에 타코가 생겼잖아!"
     },
     {
       "line": 17267,
@@ -74603,7 +74603,7 @@
       "line": 17394,
       "event": "grguestmamimiheartattack",
       "english_sha256": "5c822a1cd8dab229699feb3514dbdb6d4558f7909900dedf1967c06b86648dad",
-      "ko": "%CURRENTPLAYERNAME% 체포하지 마세요. %HESHE% 쪽에선 %HISHER% 넘치는 에너지를 쓰고 심장마비를 피하려고 그랬어요. %HESHE% 쪽은요."
+      "ko": "%CURRENTPLAYERNAME% 체포하지 마세요. 넘치는 에너지를 소모해서 심장마비를 피하려고 창을 던진 것뿐이에요."
     },
     {
       "line": 17395,
@@ -76625,7 +76625,7 @@
       "line": 17882,
       "event": "grguesttengususanne",
       "english_sha256": "dd80a595b6f5be56c1e867dd05d830166a13d5aeaf82b8e2627a094c9d231044",
-      "ko": "아, 그건 그렇고 이쪽은 제 데이트 상대 %CURRENTPLAYERNAME%예요. 친절하게 %HIMHER% 쪽에 막대사탕 하나 주실래요, 선생님?"
+      "ko": "아, 그건 그렇고 이쪽은 제 데이트 상대 %CURRENTPLAYERNAME%예요. 친절하게 막대사탕 하나 주실래요, 선생님?"
     },
     {
       "line": 17883,
@@ -76991,7 +76991,7 @@
       "line": 17959,
       "event": "grguestcosplayfixer",
       "english_sha256": "13136784e7f0ef1ad6387842208141d00b7425669e04f496ec7ee7465ef283a6",
-      "ko": "음, 니키, 들러 줘서 고맙지만 %CURRENTPLAYERNAME%의 %HISHER% 의상 치수를 마저 재야 해서..."
+      "ko": "음, 니키, 들러 줘서 고맙지만 %CURRENTPLAYERNAME%의... 의상 치수를 마저 재야 해서..."
     },
     {
       "line": 17960,
@@ -77465,7 +77465,7 @@
       "line": 18079,
       "event": "aprilegg1",
       "english_sha256": "befb44ced4049962466bb724af457fee9880e3b0fc53e4c5bb9f167ed1c4493d",
-      "ko": "게다가 %HISHER% 패션 감각은 극도로 광대스럽습니다. 맨 뒷줄에서도 눈이 아플 정도죠."
+      "ko": "게다가 패션 감각은 극도로 광대스럽습니다. 맨 뒷줄에서도 눈이 아플 정도죠."
     },
     {
       "line": 18080,
@@ -77477,13 +77477,13 @@
       "line": 18081,
       "event": "aprilegg1",
       "english_sha256": "2c1d92f2f1bb0c9f46a28b4aec9ad49c65176709646d18829945985d5c770612",
-      "ko": "괜찮아. %HIMHER% 쪽도 가끔 건설적인 비판을 견뎌야 건강해지지."
+      "ko": "괜찮아. 가끔 건설적인 비판을 견디는 것도 건강에 좋지."
     },
     {
       "line": 18082,
       "event": "aprilegg1",
       "english_sha256": "3455fa09b9b66ebc9387f00671044353da360989dc15e46ca7911eb3a2ee09b7",
-      "ko": "이 리암이라는 자의 잔혹한 언변은 믿음이 가는구나. %CURRENTPLAYERNAME%를 이렇게 칭찬한다면 %HESHE% %VERB_IS_ARE%... 내 기준에도 충분하겠지."
+      "ko": "이 리암이라는 자의 잔혹한 언변은 믿음이 가는구나. %CURRENTPLAYERNAME%를 이렇게 칭찬한다면... 내 기준에도 충분하겠지."
     },
     {
       "line": 18083,
@@ -77585,7 +77585,7 @@
       "line": 18116,
       "event": "aprilegg2",
       "english_sha256": "f03cff8bbc736b9bfcdfdb4336ea1a11a0514d1146232069a43d00e609a9125e",
-      "ko": "누구, %HIMHER%? 둘이 데이트한다는 말은 하지 마. 연애는 계약 위반이야!"
+      "ko": "누구, 저 사람? 둘이 데이트한다는 말은 하지 마. 연애는 계약 위반이야!"
     },
     {
       "line": 18117,
@@ -79151,7 +79151,7 @@
       "line": 18486,
       "event": "dougboomerang3",
       "english_sha256": "491d751a01b27d91e0a84c1915f6ddf8fa8d12ec780ff35289c9fc7d71358b67",
-      "ko": "그만해, 친구. 우리 부메랑의 엄청난 힘을 보면 %HESHE% 쪽도 우리만큼 멋져지고 싶어 안달일걸."
+      "ko": "그만해, 친구. 더그의 친구도 우리 부메랑의 엄청난 힘을 보면 우리만큼 멋져지고 싶어 안달일걸."
     },
     {
       "line": 18487,
@@ -79733,7 +79733,7 @@
       "line": 18616,
       "event": "liamttrpg1",
       "english_sha256": "f581d6154354a05a7bcec8706ff6998b3b9fe71601d7025ccc514b0b524e53ab",
-      "ko": "모두 반가워. 내 친구 %CURRENTPLAYERNAME%야. %HESHE% 쪽도 우리의 작은 모험에 함께할 거야."
+      "ko": "모두 반가워. 내 친구 %CURRENTPLAYERNAME%야. 우리의 작은 모험에 함께할 거야."
     },
     {
       "line": 18617,
@@ -80441,7 +80441,7 @@
       "line": 18757,
       "event": "liamttrpg2",
       "english_sha256": "617ce6334bb0b79ac98addc02ee5d62ffdb22fb032a0f72eba99998e66cffa9d",
-      "ko": "난 %CURRENTPLAYERNAME%가 이번 모임 내내 왜 %HISHER% 입에 그렇게 많은 벌을 품고 있나 궁금했는데!"
+      "ko": "난 %CURRENTPLAYERNAME%가 이번 모임 내내 왜 입에 그렇게 많은 벌을 품고 있나 궁금했는데!"
     },
     {
       "line": 18758,
@@ -80819,7 +80819,7 @@
       "line": 18834,
       "event": "liamttrpg3",
       "english_sha256": "cdefdd3dc0e7793f5ab2c083180ce999e52fa0b750e60f600c137a867f28dd44",
-      "ko": "아니, 아니, %HESHE% 쪽도 남아도 돼. 누구나 실수하잖아."
+      "ko": "아니, 아니, 남아도 돼. 누구나 실수하잖아."
     },
     {
       "line": 18835,
@@ -84521,7 +84521,7 @@
       "line": 19706,
       "event": "nicocosplay3_e",
       "english_sha256": "58db2482c51319afafedf678d14c509c05de2f79d0e0deafc5840eb530a16231",
-      "ko": "[LOW-PITCHED GROWLING]"
+      "ko": "[낮게 으르렁거리는 소리]"
     },
     {
       "line": 19707,
@@ -85355,7 +85355,7 @@
       "line": 19915,
       "event": "omenthwartedpower2",
       "english_sha256": "a1fa18b5a8dc4b9d95a274b51a8048ef50b0090cbf440b56d0035825410eba7f",
-      "ko": "그럼 너무 많은 걸 요구하네. 코븐이 널 마법 억제 갑옷에 가둔 데는 이유가 있어."
+      "ko": "그럼 너무 많은 걸 요구하네. 마녀회가 널 마법 억제 갑옷에 가둔 데는 이유가 있어."
     },
     {
       "line": 19916,
@@ -85697,7 +85697,7 @@
       "line": 19998,
       "event": "omenthwartedpower3",
       "english_sha256": "1a1b9125ea90535a4923ded2b32dc098435bf1ef2512a3430278f0eaeb2e137e",
-      "ko": "무슨 말인지 알지만 안 된다고 했어... 마음을 바꿔도 코븐이 동의할지 모르겠고."
+      "ko": "무슨 말인지 알지만 안 된다고 했어... 마음을 바꿔도 마녀회가 동의할지 모르겠고."
     },
     {
       "line": 19999,
@@ -86843,7 +86843,7 @@
       "line": 20274,
       "event": "zoeliamprom2",
       "english_sha256": "7bd4be7ad8b3bb32937adbd53e6c04ed07f8654a60bfa82077e880c01b1bce69",
-      "ko": "[AFFRONTED, ANNOYING LIAM NOISES]"
+      "ko": "[모욕당한 리암이 내는 짜증스러운 소리]"
     },
     {
       "line": 20275,
@@ -87287,7 +87287,7 @@
       "line": 20368,
       "event": "zoeliamprom3",
       "english_sha256": "988dd13d1dd50be28d98bfde61f2c606ad15edb2a73c78c6bc7d81cc41f683d2",
-      "ko": "그러니까 %HIMHER% 쪽에 정은 들었지만 [i]그렇게까지[/i]는 아니에요. %HISHER% 얼굴을 마음대로 써도 상관없어요!"
+      "ko": "그러니까 정은 들었지만 [i]그렇게까지[/i]는 아니에요. 얼굴을 마음대로 써도 상관없어요!"
     },
     {
       "line": 20369,
@@ -87419,7 +87419,7 @@
       "line": 20394,
       "event": "zoeliamprom3",
       "english_sha256": "0d304cb145abdf2d41cb25e040276db2c42b705f1ed7cf8f513fabbb57133a66",
-      "ko": "기억해 주다니 다정하네, 작은 스토커야. 인터넷에 쓰는 아무 말이나 다 들어 주는 %MANWOMAN%가 좋아."
+      "ko": "기억해 주다니 다정하네, 작은 스토커야. 인터넷에 쓰는 아무 말이나 다 들어 주는 사람이 좋아."
     },
     {
       "line": 20395,
@@ -89201,7 +89201,7 @@
       "line": 20833,
       "event": "dougmmorpg1",
       "english_sha256": "3724182793fabcced8f783b2ac05852e43ef73f9294a3e6de505758de0ecdbc5",
-      "ko": "인어왕국에는 개성이 설 자리가 없습니다. 저희는 폐하의 영원한 정복 기계에 속한 톱니일 뿐! 인어왕께 영광을!"
+      "ko": "인어 왕국에는 개성이 설 자리가 없습니다. 저희는 폐하의 영원한 정복 기계에 속한 톱니일 뿐! 인어왕께 영광을!"
     },
     {
       "line": 20835,
@@ -89561,7 +89561,7 @@
       "line": 20920,
       "event": "dougmmorpg2",
       "english_sha256": "89404adc7e0f31753354a1cd88d1eca5292734bea0c816b7487d1dac00d0c5fd",
-      "ko": "그럼 첫 단서는 열쇠가 %HISHER% 배 속에 있다는 거겠네!"
+      "ko": "그럼 첫 단서는 열쇠가 배 속에 있다는 거겠네!"
     },
     {
       "line": 20921,
@@ -89891,7 +89891,7 @@
       "line": 21000,
       "event": "dougmmorpg3",
       "english_sha256": "24e63265fc84050ef6ac6d4a4d602cb12a14459359b94de44546114d130927e9",
-      "ko": "컷신 도중에 %HIMHER% 공격할 기회야! 와이엇, 저스틴, 양옆에서 %HIMHER% 포위해. 가운데는 내가 맡을게!"
+      "ko": "컷신 도중에 공격할 기회야! 와이엇, 저스틴, 양옆에서 포위해. 가운데는 내가 맡을게!"
     },
     {
       "line": 21002,
@@ -89981,7 +89981,7 @@
       "line": 21022,
       "event": "dougmmorpg3",
       "english_sha256": "fc9b9b2b427917685cc624b4d2f96215683eaa1808df02d4b8477ab5adefe06b",
-      "ko": "The Funky Bunch의 응징 시간이다! 사선 확보됐어, 더그! %HIMHER% 미간을 쏴!"
+      "ko": "펑키 번치의 응징 시간이다! 사선 확보됐어, 더그! 미간을 쏴!"
     },
     {
       "line": 21024,
@@ -90437,7 +90437,7 @@
       "line": 21133,
       "event": "liamjojo1",
       "english_sha256": "db0d4586ab655902ebda91e032a12683ae4ffd21804d35fc6368ca5f5e55da32",
-      "ko": "물어본 건 %CURRENTPLAYERNAME% 때문이었어. 아마 모르니까 %HESHE% %VERB_IS_ARE% 이런 죠죠 패러디를 하나도 이해 못 할 거야."
+      "ko": "물어본 건 %CURRENTPLAYERNAME% 때문이었어. 아마 모르니까 이런 죠죠 패러디를 하나도 이해 못 할 거야."
     },
     {
       "line": 21134,
@@ -90545,7 +90545,7 @@
       "line": 21155,
       "event": "liamjojo1",
       "english_sha256": "427ff4213aa11a2bbd8a497b0971e4bbbe34a23648533cd869c776be4eaa05d3",
-      "ko": "그래... 근데 %HIMHER% 어떻게 깨우지? %HESHE% %VERB_SEEMS_SEEM%... 아예 가 버린 것 같은데."
+      "ko": "그래... 근데 어떻게 깨우지? ...아예 가 버린 것 같은데."
     },
     {
       "line": 21156,
@@ -90665,7 +90665,7 @@
       "line": 21178,
       "event": "liamjojo1",
       "english_sha256": "6c03ec24de02990e5cf4fb100254e09457a98a930287af40a904f4f58f7bc2cd",
-      "ko": "YES! YES! YES! YES!"
+      "ko": "좋아! 좋아! 좋아! 좋아!"
     },
     {
       "line": 21179,
@@ -90677,7 +90677,7 @@
       "line": 21180,
       "event": "liamjojo1",
       "english_sha256": "f19c71fa968dcef4f88095515761016795f788eb5434f63e1b6621924a6ed54a",
-      "ko": "당연히 %HESHE% %VERB_IS_ARE% 피 나지, 리암! 패러디의 일부잖아!"
+      "ko": "당연히 피 나지, 리암! 패러디의 일부잖아!"
     },
     {
       "line": 21181,
@@ -90737,7 +90737,7 @@
       "line": 21203,
       "event": "liamjojo2",
       "english_sha256": "98ac310f4f263e6b9adbb9adcbcb57bdcf5cd1f197e9e8dddcf267adc8e0cd70",
-      "ko": "맞아, 죠스타 가문. 뱀파이어와 죠죠의 이런 관계라면 네가 조이 존슨 죠지마와 사귄 이유도 설명되네. 이름만 따지면 걔도 죠죠니까."
+      "ko": "맞아, 죠스타 가문. 뱀파이어와 죠죠의 이런 관계라면 네가 조이 존슨-조지마와 사귄 이유도 설명되네. 이름만 따지면 걔도 죠죠니까."
     },
     {
       "line": 21204,
@@ -90893,7 +90893,7 @@
       "line": 21230,
       "event": "liamjojo2",
       "english_sha256": "319863d59c0524337c6fa86a39d832173ab88bf23f119497b0046b0690120d56",
-      "ko": "아니면 %HESHE% 진짜 토끼굴에 빠졌었나 봐!"
+      "ko": "아니면 진짜 토끼굴에 빠졌었나 봐!"
     },
     {
       "line": 21231,
@@ -91175,7 +91175,7 @@
       "line": 21294,
       "event": "liamjojo3",
       "english_sha256": "53351683c4f17c8a4de856b9b5b333e24448e4ed9b5a8f825a73bf29e976a6f8",
-      "ko": "[LOUD JOJO NOISES]"
+      "ko": "[요란한 죠죠 소리]"
     },
     {
       "line": 21295,
@@ -91607,19 +91607,19 @@
       "line": 21379,
       "event": "liamjojo3",
       "english_sha256": "d8429e1bd531f1dba7486e7494e691c65c2962e452ed9c77518d812b14d74bc0",
-      "ko": "왜? %HIMHER%한테 분명 경고했잖아."
+      "ko": "왜? 분명 경고했잖아."
     },
     {
       "line": 21380,
       "event": "liamjojo3",
       "english_sha256": "bf47592be2f7866e4648604c9e68961193180db6f803da106c460f8858db5168",
-      "ko": "하지만 %HESHE% %VERB_WASN'T_WEREN'T% 아무 잘못도 안 했잖아요!"
+      "ko": "하지만 아무 잘못도 안 했잖아요!"
     },
     {
       "line": 21381,
       "event": "liamjojo3",
       "english_sha256": "9e9ca994c82196b27af8da7c36e01b88290688db5eca6246c6c511192e0e38f8",
-      "ko": "뭘 %HESHE% %VERB_WASN'T_WEREN'T% 안 해. 본부, 여기는 75b1 상황이다. 아주 짜증 나는 사람이 우릴 가만두지 않는다."
+      "ko": "아무 잘못도 안 하긴 뭘 안 해. 본부, 여기는 75b1 상황이다. 아주 짜증 나는 사람이 우릴 가만두지 않는다."
     },
     {
       "line": 21382,
@@ -91631,7 +91631,7 @@
       "line": 21383,
       "event": "liamjojo3",
       "english_sha256": "9ac6944e7bde3a1ab10d548e49a96e832fe113e1de8fb99331662e82733da1df",
-      "ko": "그럼 %HESHE% %VERB_WAS_WERE% 무장했지. %HESHE% %VERB_WAS_WERE% 위험한 무기를 소지했다... 짜증 나게 굴기라는 무기를!"
+      "ko": "그럼, 무장했지. 위험한 무기를 소지했어... 짜증 나게 굴기라는 무기를!"
     },
     {
       "line": 21384,
@@ -92675,7 +92675,7 @@
       "line": 21751,
       "event": "nicoattorney3",
       "english_sha256": "590a2a2679a1f306d900a4fb06edbe52475ed50310933864ac7ffc75d9340ff3",
-      "ko": "집행관! 저 %MANWOMAN%이 내가 제일 좋아하는 변호사를 칼로 공격해요! 어떻게 좀 해요!"
+      "ko": "집행관! 저 사람이 내가 제일 좋아하는 변호사를 칼로 공격해요! 어떻게 좀 해요!"
     },
     {
       "line": 21752,
@@ -92705,7 +92705,7 @@
       "line": 21760,
       "event": "nicoattorney3",
       "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
-      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 %HISHER% 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
+      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
     },
     {
       "line": 21762,
@@ -92753,7 +92753,7 @@
       "line": 21775,
       "event": "nicoattorney3",
       "english_sha256": "22e22bd82a2a1653641622b7c0164b4bc206b4fdbafc0a6dd27c14bfb9e79a8f",
-      "ko": "오, %HESHE%%VERB_'S_'VE% 한 방 먹이셨네."
+      "ko": "오, 한 방 먹이셨네."
     },
     {
       "line": 21777,
@@ -92873,7 +92873,7 @@
       "line": 21813,
       "event": "nicoattorney3",
       "english_sha256": "6a831fc5dc75a1185083da6e6cb6c8a690ff87f375ea7887f526dba3a0d94d2e",
-      "ko": "집행관! %HIMHER% 잡아요!"
+      "ko": "집행관! 잡아요!"
     },
     {
       "line": 21814,
@@ -92903,7 +92903,7 @@
       "line": 21822,
       "event": "nicoattorney3",
       "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
-      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 %HISHER% 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
+      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
     },
     {
       "line": 21824,
@@ -93203,7 +93203,7 @@
       "line": 21928,
       "event": "nicoattorney3_parrot",
       "english_sha256": "590a2a2679a1f306d900a4fb06edbe52475ed50310933864ac7ffc75d9340ff3",
-      "ko": "집행관! 저 %MANWOMAN%이 내가 제일 좋아하는 변호사를 칼로 공격해요! 어떻게 좀 해요!"
+      "ko": "집행관! 저 사람이 내가 제일 좋아하는 변호사를 칼로 공격해요! 어떻게 좀 해요!"
     },
     {
       "line": 21929,
@@ -93233,7 +93233,7 @@
       "line": 21937,
       "event": "nicoattorney3_parrot",
       "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
-      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 %HISHER% 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
+      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
     },
     {
       "line": 21939,
@@ -93281,7 +93281,7 @@
       "line": 21952,
       "event": "nicoattorney3_parrot",
       "english_sha256": "22e22bd82a2a1653641622b7c0164b4bc206b4fdbafc0a6dd27c14bfb9e79a8f",
-      "ko": "오, %HESHE%%VERB_'S_'VE% 한 방 먹이셨네."
+      "ko": "오, 한 방 먹이셨네."
     },
     {
       "line": 21954,
@@ -93401,7 +93401,7 @@
       "line": 21990,
       "event": "nicoattorney3_parrot",
       "english_sha256": "6a831fc5dc75a1185083da6e6cb6c8a690ff87f375ea7887f526dba3a0d94d2e",
-      "ko": "집행관! %HIMHER% 잡아요!"
+      "ko": "집행관! 잡아요!"
     },
     {
       "line": 21991,
@@ -93431,7 +93431,7 @@
       "line": 21999,
       "event": "nicoattorney3_parrot",
       "english_sha256": "9665b908f50bf9525655c3291d7ceb331c8588ded946b9fa288aa7d670266d1a",
-      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 %HISHER% 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
+      "ko": "변호사가 범죄자인지 밝히려 했는데, %CURRENTPLAYERNAME%가 방금 범죄성을 확실히 보여 줬잖아요. 아주 명백한 사건이네요."
     },
     {
       "line": 22001,
@@ -93845,7 +93845,7 @@
       "line": 22134,
       "event": "omenredeemed1",
       "english_sha256": "ef0f8e19672d438c621be6c8ac3e555d246d623857430aa6c4726abe4084b860",
-      "ko": "오멘, 제발 얌전히 있어 줄래요? 여기 새 회원에게 나쁜 인상을 주고 있잖아요. 성함을 소개해 주시겠어요, %SIRMAAM%?"
+      "ko": "오멘, 제발 얌전히 있어 줄래요? 여기 새 회원에게 나쁜 인상을 주고 있잖아요. 성함을 소개해 주시겠어요?"
     },
     {
       "line": 22135,
@@ -95507,7 +95507,7 @@
       "line": 22506,
       "event": "zoeoldones1",
       "english_sha256": "b4a0a6658f6c526b2d2a2880b77461777af65245a607ff89a6574ad7c02bb669",
-      "ko": "조이, %HIMHER% 부추기지 마."
+      "ko": "조이, 부추기지 마."
     },
     {
       "line": 22507,
@@ -95963,7 +95963,7 @@
       "line": 22601,
       "event": "zoeoldones2",
       "english_sha256": "2ec397f44801071bb4a7563ee61e32ea47d0e882e099c7591e95372e4bfb4c36",
-      "ko": "놀랍게도 리암과 조이와 마녀회, 그리고... 인어왕국의 왕실 기사 아드리앙과 마주친다?!"
+      "ko": "놀랍게도 리암과 조이와 마녀회, 그리고... 인어 왕국의 왕실 기사 아드리앙과 마주친다?!"
     },
     {
       "line": 22603,
@@ -95981,7 +95981,7 @@
       "line": 22605,
       "event": "zoeoldones2",
       "english_sha256": "fb6724362e64dc964faec2b0a196a1a79c9a41b4572010925ba7019baa587095",
-      "ko": "반갑습니다. %HESHE%도 임무에 함께하시는 겁니까?"
+      "ko": "반갑습니다. 이분도 임무에 함께하시는 겁니까?"
     },
     {
       "line": 22606,
@@ -96011,7 +96011,7 @@
       "line": 22610,
       "event": "zoeoldones2",
       "english_sha256": "c342e9d19e2d50a91d4ef43ef832b0bd213f498e083acc7986cd6fb6349e1e23",
-      "ko": "그러니까 말하던 대로, 최근 인어왕국 안에서 세력을 키우는 파벌의 대표인 아드리앙과 접촉했어."
+      "ko": "그러니까 말하던 대로, 최근 인어 왕국 안에서 세력을 키우는 파벌의 대표인 아드리앙과 접촉했어."
     },
     {
       "line": 22611,
@@ -96023,7 +96023,7 @@
       "line": 22612,
       "event": "zoeoldones2",
       "english_sha256": "466b22259881f213d26275f50bfa9c62c577474d0b8540bbb0f0d07edae4076c",
-      "ko": "마녀회가 인어왕국 정치에 개입하는 건 역사적으로 어려웠어."
+      "ko": "마녀회가 인어 왕국 정치에 개입하는 건 역사적으로 어려웠어."
     },
     {
       "line": 22613,
@@ -96137,7 +96137,7 @@
       "line": 22634,
       "event": "zoeoldones2",
       "english_sha256": "99ba7ad79d6b46adbb815d66afca0b48e8b3bf477c5b2336b5065e41a87323a9",
-      "ko": "정리하자면, 마녀회가 인어왕국 반란을 몰래 지원해 왔다는 거야?"
+      "ko": "정리하자면, 마녀회가 인어 왕국 반란을 몰래 지원해 왔다는 거야?"
     },
     {
       "line": 22635,
@@ -96185,7 +96185,7 @@
       "line": 22642,
       "event": "zoeoldones2",
       "english_sha256": "d7467ea56ba3a89b5f9bc651d1cfe09bc7b7c8220ca89b845e4fb03fdda85637",
-      "ko": "그래서 인어왕국 왕실을 무너뜨리는 거지? 놓친 내용 있어?"
+      "ko": "그래서 인어 왕국 왕실을 무너뜨리는 거지? 놓친 내용 있어?"
     },
     {
       "line": 22643,
@@ -96209,7 +96209,7 @@
       "line": 22646,
       "event": "zoeoldones2",
       "english_sha256": "4915f76883090f858ab4fca99ea7cedd50f48eec308c2a9f67cc9df6ef710868",
-      "ko": "인어왕국 깊숙한 변방에 있는 공작령입니다. 제 고향에서도 그리 멀지 않죠."
+      "ko": "인어 왕국 깊숙한 변방에 있는 공작령입니다. 제 고향에서도 그리 멀지 않죠."
     },
     {
       "line": 22647,
@@ -96323,7 +96323,7 @@
       "line": 22669,
       "event": "zoeoldones2",
       "english_sha256": "99ba7ad79d6b46adbb815d66afca0b48e8b3bf477c5b2336b5065e41a87323a9",
-      "ko": "정리하자면, 마녀회가 인어왕국 반란을 몰래 지원해 왔다는 거야?"
+      "ko": "정리하자면, 마녀회가 인어 왕국 반란을 몰래 지원해 왔다는 거야?"
     },
     {
       "line": 22670,
@@ -96365,7 +96365,7 @@
       "line": 22676,
       "event": "zoeoldones2",
       "english_sha256": "d7467ea56ba3a89b5f9bc651d1cfe09bc7b7c8220ca89b845e4fb03fdda85637",
-      "ko": "그래서 인어왕국 왕실을 무너뜨리는 거지? 놓친 내용 있어?"
+      "ko": "그래서 인어 왕국 왕실을 무너뜨리는 거지? 놓친 내용 있어?"
     },
     {
       "line": 22677,
@@ -96389,7 +96389,7 @@
       "line": 22680,
       "event": "zoeoldones2",
       "english_sha256": "4915f76883090f858ab4fca99ea7cedd50f48eec308c2a9f67cc9df6ef710868",
-      "ko": "인어왕국 깊숙한 변방에 있는 공작령입니다. 제 고향에서도 그리 멀지 않죠."
+      "ko": "인어 왕국 깊숙한 변방에 있는 공작령입니다. 제 고향에서도 그리 멀지 않죠."
     },
     {
       "line": 22681,
@@ -96497,7 +96497,7 @@
       "line": 22712,
       "event": "zoeoldones3",
       "english_sha256": "cf4c1b79e36983decb3a6ad59c8af8272da8b7e6ed6a9e0c90c36a4b19a597dc",
-      "ko": "당신은 인어왕국 깊숙한 변방에 도착했다."
+      "ko": "당신은 인어 왕국 깊숙한 변방에 도착했다."
     },
     {
       "line": 22713,
@@ -96551,7 +96551,7 @@
       "line": 22722,
       "event": "zoeoldones3",
       "english_sha256": "e3a01d4e9af16f01509a686cec6e0307eb32a9070808d218079d6d7f98e31add",
-      "ko": "아! 인어왕국 변방을 방문하니 향수에 젖으시겠군요."
+      "ko": "아! 인어 왕국 변방을 방문하니 향수에 젖으시겠군요."
     },
     {
       "line": 22723,
@@ -97067,13 +97067,13 @@
       "line": 22842,
       "event": "zoeoldones3_stage2",
       "english_sha256": "9de50c8b8b8722e947e8076160bdafda294b103bff15eda7d87cbf970bf27504",
-      "ko": "세계로 통하는 문을 열어 주는 대가로 인어왕국의 지배권을 약속받았거든요."
+      "ko": "세계로 통하는 문을 열어 주는 대가로 인어 왕국의 지배권을 약속받았거든요."
     },
     {
       "line": 22843,
       "event": "zoeoldones3_stage2",
       "english_sha256": "8db04c04a5db3ea35547daa4476f624efdab4fd9c094421e85339afeaa30d86d",
-      "ko": "바보인가?! 옛 신을 소환하면 지배할 인어왕국도 남지 않아. 속는 거라고!"
+      "ko": "바보인가?! 옛 신을 소환하면 지배할 인어 왕국도 남지 않아. 속는 거라고!"
     },
     {
       "line": 22844,
@@ -97895,7 +97895,7 @@
       "line": 23025,
       "event": "zoeoldones3_stage3",
       "english_sha256": "73c7c8d887505ba511dd15e64ae940b079be795c97e8a30ad079e7ba63ddcc08",
-      "ko": "%HESHE% %VERB_IS_ARE% 옛 신을 때리는 것 같은데."
+      "ko": "옛 신을 때리는 것 같은데."
     },
     {
       "line": 23026,
@@ -97907,7 +97907,7 @@
       "line": 23027,
       "event": "zoeoldones3_stage3",
       "english_sha256": "cf8cb083749dabd0cdb9ab682c64782f3ad4f082df36f38c16b0d60e5b367fbd",
-      "ko": "아니, 리암, 봐. %HESHE% %VERB_HAS_HAVE% 제법 기술이 있어. 저 주먹 봐! 저건 아팠겠다!"
+      "ko": "아니, 리암, 봐. 제법 기술이 있어. 저 주먹 봐! 저건 아팠겠다!"
     },
     {
       "line": 23028,
@@ -97979,7 +97979,7 @@
       "line": 23042,
       "event": "zoeoldones3_stage3",
       "english_sha256": "73c7c8d887505ba511dd15e64ae940b079be795c97e8a30ad079e7ba63ddcc08",
-      "ko": "%HESHE% %VERB_IS_ARE% 옛 신을 때리는 것 같은데."
+      "ko": "옛 신을 때리는 것 같은데."
     },
     {
       "line": 23043,
@@ -98345,7 +98345,7 @@
       "line": 23147,
       "event": "furryadventure1",
       "english_sha256": "c48a7d0282e35d8c5ef6704c8381a82e78102ac347c18ee77554fe3fabc17569",
-      "ko": "봐, %HESHE% %VERB_IS_ARE% 맞는 말을 하네! 우리 닭들이여!"
+      "ko": "봐, 맞는 말을 하네! 우리 닭들이여!"
     },
     {
       "line": 23148,
@@ -98573,7 +98573,7 @@
       "line": 23201,
       "event": "furryadventure2",
       "english_sha256": "20251e79f6ddac09d9048977da8278c11132ce18ba89435a9daa9f91e2420b6f",
-      "ko": "네가 프란츠를 살려 준 %GUYGIRL%구나. 만나서 반가워."
+      "ko": "네가 프란츠를 살려 준 사람이구나. 만나서 반가워."
     },
     {
       "line": 23202,
@@ -98639,7 +98639,7 @@
       "line": 23212,
       "event": "furryadventure2",
       "english_sha256": "d2ca62caae0d1636d7aee3090c941e2b5c216a5d9771837df5b3ff2fe7fe2d17",
-      "ko": "%CURRENTPLAYERNAME%가 도와줄지도. %HESHE% 네 목숨을 구했으니 %HESHE% 천산갑도 구할 수 있겠지."
+      "ko": "%CURRENTPLAYERNAME%가 도와줄지도. 네 목숨을 구했으니 천산갑도 구할 수 있겠지."
     },
     {
       "line": 23213,
@@ -99341,7 +99341,7 @@
       "line": 23365,
       "event": "furryadventure3",
       "english_sha256": "306329edb0f5d45a48ee1e6781e689e9c5d9e1e0689a44ae52db2f190f330a01",
-      "ko": "당신은 주사위를 빼앗아 미친 %MANWOMAN%처럼 굴린다. 곧 결승점에 도착해 \"쥬만지!\"라고 외친다."
+      "ko": "당신은 주사위를 빼앗아 미친 듯이 굴린다. 곧 결승점에 도착해 \"쥬만지!\"라고 외친다."
     },
     {
       "line": 23366,
@@ -99629,7 +99629,7 @@
       "line": 23443,
       "event": "beachday1",
       "english_sha256": "375a851aaabd8fa18e686819c8d548a8f5580447eff7042b24fdfe4771fc4824",
-      "ko": "그래, [i]끊임없이.[/i] 점심 먹다 내 냅킨을 달라고 %HESHE% 부탁할 때도 그랬지."
+      "ko": "그래, [i]끊임없이.[/i] 점심 먹다 내 냅킨을 달라고 부탁할 때도 그랬지."
     },
     {
       "line": 23444,
@@ -100433,7 +100433,7 @@
       "line": 23644,
       "event": "beachday3",
       "english_sha256": "7965778cdfbd6569dfb5626773b773e79d3ea0cbaddcee78cfe7bf096fe54c61",
-      "ko": "...아직 %HESHE% %VERB_WAS_WERE% 무슨 말 할지도 모르잖아."
+      "ko": "...아직 무슨 말 할지도 모르잖아."
     },
     {
       "line": 23645,
@@ -101399,7 +101399,7 @@
       "line": 23878,
       "event": "carcinization1",
       "english_sha256": "fc10699b7bb64cd7b63a9b56dbfd05767973e6fcd111bc4deaaa5351efc26199",
-      "ko": "웨슬리의 피 나는 집게에서 빠져나오려 미친 %MANWOMAN%처럼 몸을 흔든다. 뒤로 넘어지며 수조를 박살 내 식당이 물바다가 된다."
+      "ko": "웨슬리의 피 묻은 집게에서 빠져나오려 미친 듯이 몸을 흔든다. 뒤로 넘어지며 수조를 박살 내 식당이 물바다가 된다."
     },
     {
       "line": 23879,
@@ -101429,7 +101429,7 @@
       "line": 23883,
       "event": "carcinization1",
       "english_sha256": "333f114b3f371b59d31cda8f57e00ad9aac973959e0b4b52b8417bafeede8abc",
-      "ko": "%CURRENTPLAYERNAME%의 행동이 점점 통제 불능이야. 황당한 선택이 세상과 소통하는 %HISHER% 유일한 방법이 됐어."
+      "ko": "%CURRENTPLAYERNAME%의 행동이 점점 통제 불능이야. 황당한 선택이 세상과 소통하는 유일한 방법이 됐어."
     },
     {
       "line": 23884,
@@ -101441,7 +101441,7 @@
       "line": 23885,
       "event": "carcinization1",
       "english_sha256": "2bc0de17074621ce367668e3030e7b8a2d068103ea94b7c20b06ec3351b6d959",
-      "ko": "어떻게든 %HIMHER% 도와줄 수 있을지도. 뭐, 예를 들면... 덜 자주 어울린다든가?"
+      "ko": "어떻게든 도와줄 수 있을지도. 뭐, 예를 들면... 덜 자주 어울린다든가?"
     },
     {
       "line": 23886,
@@ -101819,7 +101819,7 @@
       "line": 23973,
       "event": "carcinization2",
       "english_sha256": "ddf84b59ea69276a4ba4a91416bfc567b4bddf2b29449743ba14c3292207f8a6",
-      "ko": "음... %HESHE% 분명 %VERB_ISN'T_AREN'T% 농담이 아니야. 게는 손이 집게잖아."
+      "ko": "음... 딱 봐도 농담이 아니잖아. 게는 손이 집게니까."
     },
     {
       "line": 23974,
@@ -102857,7 +102857,7 @@
       "line": 24197,
       "event": "carcinization3_c",
       "english_sha256": "d2a4d6d3d673ba7c564ef766694db491983e565f82186f96fa32625ac8a03e4e",
-      "ko": "%HESHE% 이미 두어 번 시켰고 잘 안됐던 것 같은데."
+      "ko": "이미 두어 번 시켰고 잘 안됐던 것 같은데."
     },
     {
       "line": 24198,
@@ -102953,7 +102953,7 @@
       "line": 24216,
       "event": "carcinization3_c",
       "english_sha256": "6ecfd68faa6534c7dbf3b87c0f35d71e0cfa49a791c575dd7d6864503071c027",
-      "ko": "그러지 마, 리암! %HESHE% 우리 기운을 북돋아 주려던 거잖아. 마음이 중요한 거지?"
+      "ko": "그러지 마, 리암! 우리 기운을 북돋아 주려던 거잖아. 마음이 중요한 거지?"
     },
     {
       "line": 24217,
@@ -103025,13 +103025,13 @@
       "line": 24231,
       "event": "carcinization3_c",
       "english_sha256": "6868d04b9863a36c1922050803b5351499c876363f36b44afa473f05d9fbe66d",
-      "ko": "보통 게보다 똑똑한 건 인정하지. 하지만 이 %GUYGIRL%은... %HESHE% %VERB_ISN'T_AREN'T% 게도 아니잖아! 왜 %HIMHER%에게 종이 찢는 월급을 주는 거야?"
+      "ko": "보통 게보다 똑똑한 건 인정하지. 하지만 이 사람은... 게도 아니잖아! 왜 종이 찢으라고 월급을 주는 거야?"
     },
     {
       "line": 24232,
       "event": "carcinization3_c",
       "english_sha256": "c8909b3d175c9a51ff1f5379654bf8feb7672d9730e4bbed4e44db8f585be128",
-      "ko": "%HIMHER% 소외감을 느끼지 않게 해 주려고요."
+      "ko": "소외감을 느끼지 않게 해 주려고요."
     },
     {
       "line": 24233,
@@ -103145,7 +103145,7 @@
       "line": 24263,
       "event": "carcinization3_d",
       "english_sha256": "a7098cf40e65e28b914ed5bd9a22375c760eeb8420d6f6d07199f5a7a3a4b59d",
-      "ko": "\"다른 손님도 기다리세요, %SIRMAAM%. 정말 '친구'라면 값을 내시는 게 좋겠어요.\""
+      "ko": "\"다른 손님도 기다리세요, 손님. 정말 '친구'라면 값을 내시는 게 좋겠어요.\""
     },
     {
       "line": 24264,
@@ -103217,13 +103217,13 @@
       "line": 24276,
       "event": "carcinization3_d",
       "english_sha256": "8f2eade5915b24407b3bdee1b986261dbb758a5a562398546de18d0f65f50bf4",
-      "ko": "음... 모르지만 좋은 거겠지! 아니면 왜 %HESHE% 수조에 박치기하겠어?"
+      "ko": "음... 모르지만 좋은 거겠지! 아니면 왜 수조에 박치기하겠어?"
     },
     {
       "line": 24277,
       "event": "carcinization3_d",
       "english_sha256": "207a856f369b5f819997a1d6d17bd4dccafb22d68f3c0c249b4cdd5528840467",
-      "ko": "%HESHE% %HISHER% 손은 다른 데 쓰려고 아끼는 걸지도. 자위 같은 데."
+      "ko": "손은 다른 데 쓰려고 아끼는 걸지도. 자위 같은 데."
     },
     {
       "line": 24278,
@@ -103265,13 +103265,13 @@
       "line": 24284,
       "event": "carcinization3_d",
       "english_sha256": "b60e4d19241014895526462740a79d8f0e2bb8b2df9b091c6d7d3746950e4143",
-      "ko": "%HESHE% 그런 식으로 못 구한다고 한 적 없어. 그냥 %HISHER% 손을 쓰는 게 훨씬 영리하다고 했지."
+      "ko": "그런 식으로 못 구한다고 한 적 없어. 그냥 손을 쓰는 게 훨씬 영리하다고 했지."
     },
     {
       "line": 24285,
       "event": "carcinization3_d",
       "english_sha256": "a22c3e3b50c3c5eea04fd11d692578e2251853553fef180cd309246d8b3fa87f",
-      "ko": "뭐, 영리하든 아니든 %HESHE% 우릴 죽음에서 구했잖아. 다 같이 안아 주자!"
+      "ko": "뭐, 영리하든 아니든 우릴 죽음에서 구했잖아. 다 같이 안아 주자!"
     },
     {
       "line": 24286,
@@ -103307,7 +103307,7 @@
       "line": 24292,
       "event": "carcinization3_d",
       "english_sha256": "7f77e80a309038d94b9b11a88e8ffeb0d9e5bb22d1b5088c6eab9843d0392803",
-      "ko": "아, 그래, 정말 정말 섹시해... 자, %CURRENTPLAYERNAME% 옷을 벗기고 발정 난 게 셋의 실력을 %HIMHER%에게 보여 주자!"
+      "ko": "아, 그래, 정말 정말 섹시해... 자, %CURRENTPLAYERNAME% 옷을 벗기고 발정 난 게 셋의 실력을 보여 주자!"
     },
     {
       "line": 24295,
@@ -103331,7 +103331,7 @@
       "line": 24299,
       "event": "carcinization3_d",
       "english_sha256": "415f16a1368e7841fb13303414595a18d2087fdee854afa9c399a07fcf039ea8",
-      "ko": "\"아, %SIRMAAM%, 깨어나셨네요!\" 종업원이 말한다. \"식사 계산서와 저희가 부른 구급차 청구서입니다.\""
+      "ko": "\"아, 손님, 깨어나셨네요!\" 종업원이 말한다. \"식사 계산서와 저희가 부른 구급차 청구서입니다.\""
     },
     {
       "line": 24300,
