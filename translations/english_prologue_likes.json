@@ -1,0 +1,446 @@
+{
+  "source_sha256": "053d45cf7c7a9d5bffcef5b15e57181fb2393d23b160cbf173e773b39f31b7a7",
+  "entries": [
+    {
+      "line": 0,
+      "event": "like_01",
+      "english_sha256": "6d1c7141db074c851ee1cfc464ecc26edead1b49063c99913c97c66a7e97af89",
+      "ko": "카타나 수집",
+      "field_index": 2
+    },
+    {
+      "line": 1,
+      "event": "like_02",
+      "english_sha256": "1be3d40f791ee146b85219f75eb8c2e16b16e1a3e83a0b85cff4687b47249eb5",
+      "ko": "외로움을 달래 주는 다키마쿠라",
+      "field_index": 2
+    },
+    {
+      "line": 2,
+      "event": "like_03",
+      "english_sha256": "739bc2956fb05c40709829ab179d670c024f64647bd04c10ed596367f308738a",
+      "ko": "쓸데없이 구체적인 주제의 패널 토크",
+      "field_index": 2
+    },
+    {
+      "line": 3,
+      "event": "like_04",
+      "english_sha256": "4f7ea9a25819e35acf04a070fa1917728301b2d3ba0329a9f9ddd4f93226dd57",
+      "ko": "위험한 동물의 귀여운 봉제 인형",
+      "field_index": 2
+    },
+    {
+      "line": 4,
+      "event": "like_05",
+      "english_sha256": "21a35c6574fb9d327e175e81b6f7234e6da1c0f10447d68bf54395ce7f14ee41",
+      "ko": "초복잡 유로 보드게임",
+      "field_index": 2
+    },
+    {
+      "line": 5,
+      "event": "like_06",
+      "english_sha256": "d14d673e8772c062cb9a97a343db7cd59f1ddd3b0a55124b360ca813c3be9c4e",
+      "ko": "아재 개그 티셔츠",
+      "field_index": 2
+    },
+    {
+      "line": 6,
+      "event": "like_07",
+      "english_sha256": "f8ddbea24f59af0a080493259fdd1d85150c106b95e5e467753e09c0c7481185",
+      "ko": "겹겹이 꼬인 밈",
+      "field_index": 2
+    },
+    {
+      "line": 7,
+      "event": "like_08",
+      "english_sha256": "aa8ffc9bd3a1856c77656a1f9288f8e0b2f2220cae9ceca2123e7c79f061e1ba",
+      "ko": "세상 모든 것의 티어표",
+      "field_index": 2
+    },
+    {
+      "line": 8,
+      "event": "like_09",
+      "english_sha256": "ae50ca141933d9f75b5917943c46928f8668c1231ef452357bb3aa22b7d2f925",
+      "ko": "애니 오프닝 플레이리스트",
+      "field_index": 2
+    },
+    {
+      "line": 9,
+      "event": "like_10",
+      "english_sha256": "d29a100aadeb9fff66b97c9ff0b9e8e9329b4ad2bf7309fc49f1f139c563a663",
+      "ko": "술 취해서 노래방 가기",
+      "field_index": 2
+    },
+    {
+      "line": 10,
+      "event": "like_11",
+      "english_sha256": "ae3e2eb7710a28e16a64f671702826f4489ce8bc1da3422a2d943eb782ac8cee",
+      "ko": "주인공병",
+      "field_index": 2
+    },
+    {
+      "line": 11,
+      "event": "like_12",
+      "english_sha256": "13726f487790b9fd059e3803643f2b74c50740df1f4beff003dcd72aaf1162d1",
+      "ko": "반짝이는 주사위",
+      "field_index": 2
+    },
+    {
+      "line": 12,
+      "event": "like_13",
+      "english_sha256": "5c279e3a88c76ef2d68e2791c7d8098030553a5804d8b67ed1b31a6a07ba5ae6",
+      "ko": "애니 패션",
+      "field_index": 2
+    },
+    {
+      "line": 13,
+      "event": "like_14",
+      "english_sha256": "ee462c3ce5d31074e67b68d712daf3a25803969d726137c929364873c6e6c4ff",
+      "ko": "아이돌 안무",
+      "field_index": 2
+    },
+    {
+      "line": 14,
+      "event": "like_15",
+      "english_sha256": "75703e1cdef5fbb4c260cf5ca35cabbc48a2c09b23139282a5eec485ed6b7780",
+      "ko": "이상한 리얼리티 쇼",
+      "field_index": 2
+    },
+    {
+      "line": 15,
+      "event": "like_16",
+      "english_sha256": "da72bf5bbca4ca33b822955cfbbf9e5b84e4e0fa5e5e68cf9d30054109fac58b",
+      "ko": "드라마",
+      "field_index": 2
+    },
+    {
+      "line": 16,
+      "event": "like_17",
+      "english_sha256": "e48903f651814f57aedfd1c11d8abab26f29743d1870eda21274c10765ad4735",
+      "ko": "깜놀 장면이 나오는 다큐멘터리",
+      "field_index": 2
+    },
+    {
+      "line": 17,
+      "event": "like_18",
+      "english_sha256": "f3efd96a5936f7e82bf0c8a2df5052ede5882099e1987ce6f0aa336b4a301b17",
+      "ko": "뇌내 설정도 머리에 달린 대포도",
+      "field_index": 2
+    },
+    {
+      "line": 18,
+      "event": "like_19",
+      "english_sha256": "dfde861d78b42f8bc62db3a6b120d783c8cf77bc060c320f0fabbafcbfa4bcc2",
+      "ko": "친구들의 전투력 비교",
+      "field_index": 2
+    },
+    {
+      "line": 19,
+      "event": "like_20",
+      "english_sha256": "c53c9c25631a26c0186d7e5d8ca74df22420a39db16da329cd00731f9e9a8615",
+      "ko": "믿을 수 없을 만큼 입체적인 악당",
+      "field_index": 2
+    },
+    {
+      "line": 20,
+      "event": "like_21",
+      "english_sha256": "1b82aeea1f01f8d7b927ce110ba79c0bf03bd5b2a53e50bd0f3c9964bd5bfdd5",
+      "ko": "손이 도끼인 주인공",
+      "field_index": 2
+    },
+    {
+      "line": 21,
+      "event": "like_22",
+      "english_sha256": "ccf97a71b6a53ac6e316cd583846bf3146d532a4d84657c4c03ae9532e276ed0",
+      "ko": "훈훈한 밈",
+      "field_index": 2
+    },
+    {
+      "line": 22,
+      "event": "like_23",
+      "english_sha256": "2c489c2d48b3cb7f9314a3b04a96b37c0cfe8e4f105c19c5a6ef43cd00963795",
+      "ko": "진심으로 입는 하와이안 셔츠",
+      "field_index": 2
+    },
+    {
+      "line": 23,
+      "event": "like_24",
+      "english_sha256": "cab7f2365034f339ae481bc7ac7ac64f3d995268cf1330c75a7750fbf9ac8636",
+      "ko": "헤비메탈 아이돌",
+      "field_index": 2
+    },
+    {
+      "line": 24,
+      "event": "like_25",
+      "english_sha256": "82f110caa3e391fa5aa72f2b2d589430533a878e254a3b7a0af1b553e26863a0",
+      "ko": "암울한 반전이 있는 마법소녀물",
+      "field_index": 2
+    },
+    {
+      "line": 25,
+      "event": "like_26",
+      "english_sha256": "02d3ce4e68df709dfbd328357d75d2f7cf3dc14b335dc922e1ce060501d7a568",
+      "ko": "토너먼트 편",
+      "field_index": 2
+    },
+    {
+      "line": 26,
+      "event": "like_27",
+      "english_sha256": "fca496d6a894a38b0af3488286b5d5e47c97804bb966989a2db5e54350f95566",
+      "ko": "기분 좋아지는 팬픽",
+      "field_index": 2
+    },
+    {
+      "line": 27,
+      "event": "like_28",
+      "english_sha256": "807475f82ba6130528f1a955dbb4c3b8eb57284a9855f996631fe560369816cc",
+      "ko": "주인공이 항상 이기는 만화",
+      "field_index": 2
+    },
+    {
+      "line": 28,
+      "event": "like_29",
+      "english_sha256": "c954e4598ad7813b405ca8a43ae56fcbc2d4518c8a02170786ffe60d6b031ad2",
+      "ko": "마지막에 악당이 이긴다!",
+      "field_index": 2
+    },
+    {
+      "line": 29,
+      "event": "like_30",
+      "english_sha256": "3d8156128a709f94855e1e2d79da7b45197e882bc051aab0e8b7e488c8fd96b3",
+      "ko": "끝없이 쏟아지는 굿즈",
+      "field_index": 2
+    },
+    {
+      "line": 30,
+      "event": "like_31",
+      "english_sha256": "7b8c0b03383ff433c4e2519a32053b46522972205b41c4a905783178c25019af",
+      "ko": "레트로 게임",
+      "field_index": 2
+    },
+    {
+      "line": 31,
+      "event": "like_32",
+      "english_sha256": "ccd5977253333e68611616532c4c1285d96ff2f31331c157f0c8b2243019f148",
+      "ko": "응원의 야광봉",
+      "field_index": 2
+    },
+    {
+      "line": 32,
+      "event": "like_33",
+      "english_sha256": "00f55ff61b02ddabc8dd95aaac3ecfcff81c526f2b2cedadc90e4cdb9c06f0f1",
+      "ko": "코스프레로 시작하는 전희",
+      "field_index": 2
+    },
+    {
+      "line": 33,
+      "event": "like_34",
+      "english_sha256": "9a8e38ad16b2167abdccfefcdafb02fb214eaabff6ff6f107f699412d04a1912",
+      "ko": "침대 위 역할극",
+      "field_index": 2
+    },
+    {
+      "line": 34,
+      "event": "like_35",
+      "english_sha256": "786035c976e81901d9fdaeee77d7d2c13d9048da56adcf23546860be97f287c3",
+      "ko": "애니식 독백",
+      "field_index": 2
+    },
+    {
+      "line": 35,
+      "event": "like_36",
+      "english_sha256": "db4821751f4fb16d40fdb6c28f4f6869124e029a1e615efe80804d9070f7815c",
+      "ko": "한정판 랜덤 박스에 과소비하기",
+      "field_index": 2
+    },
+    {
+      "line": 36,
+      "event": "like_37",
+      "english_sha256": "bfc234e35e11fae303acdbe88b1ea053061736ba8531346342a2ca4ac848b94c",
+      "ko": "귀여운 시리얼 마스코트",
+      "field_index": 2
+    },
+    {
+      "line": 37,
+      "event": "like_38",
+      "english_sha256": "110f3ab30c60873d4400148e5d1496ae5701710c70011257e4a1745a895c4611",
+      "ko": "애니 눈망울",
+      "field_index": 2
+    },
+    {
+      "line": 38,
+      "event": "like_39",
+      "english_sha256": "628e0eea1c027995e033a4a0bea33156207feb74d191d2b368d764a080f7e0a0",
+      "ko": "DDR로 운동하기",
+      "field_index": 2
+    },
+    {
+      "line": 39,
+      "event": "like_40",
+      "english_sha256": "5565241d79576a972609faf6d116802dec29520f2d0f214beade4920734e83e5",
+      "ko": "인형 뽑기 공략과 비법",
+      "field_index": 2
+    },
+    {
+      "line": 40,
+      "event": "like_41",
+      "english_sha256": "984d21ef2c67daed2a1e325ffa5de75b9ca0de6029aacda0540d91499007558b",
+      "ko": "야오이",
+      "field_index": 2
+    },
+    {
+      "line": 41,
+      "event": "like_42",
+      "english_sha256": "4a427d6f0382b4b0e72804bad1c15c5bc307beab9518cbca1d5720f4c4bdabd0",
+      "ko": "약강 오보격 시",
+      "field_index": 2
+    },
+    {
+      "line": 42,
+      "event": "like_43",
+      "english_sha256": "f74c913cbbef2925058f319c467b9f6ddea81f968a4593825633f487a030b848",
+      "ko": "풍선 아트",
+      "field_index": 2
+    },
+    {
+      "line": 43,
+      "event": "like_44",
+      "english_sha256": "39875021f3297f49d6dd36cb3269348f8daec8747437c5d0299d79994eaa401a",
+      "ko": "가필드 × 나루토",
+      "field_index": 2
+    },
+    {
+      "line": 44,
+      "event": "like_45",
+      "english_sha256": "81e10fb4d8a41165106cf03a23c00201643b24336e331e0041761ef990cd391d",
+      "ko": "커플링 전쟁 참전",
+      "field_index": 2
+    },
+    {
+      "line": 45,
+      "event": "like_46",
+      "english_sha256": "d3d66ee8fe5b0ead8dcfba1f967366cad5caf9a05c1cc46c54756755305af14b",
+      "ko": "5차원 체스 두기",
+      "field_index": 2
+    },
+    {
+      "line": 46,
+      "event": "like_47",
+      "english_sha256": "d8a09a24de983c82950ec779382135f5fa5935799535af0938041dff7ccd9956",
+      "ko": "침대가 하나뿐이잖아",
+      "field_index": 2
+    },
+    {
+      "line": 47,
+      "event": "like_48",
+      "english_sha256": "5bfc4273f005b3c341ef09dae8c8482a0c14d70f8d05dacbc9dc5de2839b4db6",
+      "ko": "원수에서 연인으로",
+      "field_index": 2
+    },
+    {
+      "line": 48,
+      "event": "like_49",
+      "english_sha256": "8b3017794f2491fb713446d100fc84d8f5c7d2000835047207d41782d00f6a0c",
+      "ko": "커플 관계성 박사 학위",
+      "field_index": 2
+    },
+    {
+      "line": 49,
+      "event": "like_50",
+      "english_sha256": "b99933194b00aa9b3b1ef0789d35082044cad581b2827e101c00c9c562116c80",
+      "ko": "웃자고 사이비 종교 만들기",
+      "field_index": 2
+    },
+    {
+      "line": 50,
+      "event": "like_51",
+      "english_sha256": "bf60482ad722357c29fba7e890a27d28df8c9e84997f7813fd22a737cf79af46",
+      "ko": "칼로 찌르기",
+      "field_index": 2
+    },
+    {
+      "line": 51,
+      "event": "like_52",
+      "english_sha256": "80687576ecc29f1a7922fbdb3fff39045c1faa0e47dff83b01399e8f3cea8471",
+      "ko": "납득이 가는 갱생 서사",
+      "field_index": 2
+    },
+    {
+      "line": 52,
+      "event": "like_53",
+      "english_sha256": "aa11789a1c75ac93774e174fcbde667b7c41df721d573c5a99c14160ea8b6059",
+      "ko": "세계 정복",
+      "field_index": 2
+    },
+    {
+      "line": 53,
+      "event": "like_54",
+      "english_sha256": "9c6986ca0d464bef7320f675c963acc1a7959074a4425606bcf85d61c4a8de09",
+      "ko": "악당 소굴 인테리어",
+      "field_index": 2
+    },
+    {
+      "line": 54,
+      "event": "like_55",
+      "english_sha256": "d28f2e469f22be6cc00b6d278ab53ed2903412e6031cca8d8040d93355cb0e7d",
+      "ko": "\"날 밟아 줘\"",
+      "field_index": 2
+    },
+    {
+      "line": 55,
+      "event": "like_56",
+      "english_sha256": "4b9ad6d3842ab7dec7cab6ecc1313eab24f5744a5c7e9b39219a250ddba2e4de",
+      "ko": "내가 광대라는 걸 인정하기",
+      "field_index": 2
+    },
+    {
+      "line": 56,
+      "event": "like_57",
+      "english_sha256": "a27150fe55c8bffd2755650a1fe6a28e567531e47828c7218ece5dcbc1e0913c",
+      "ko": "마법소녀 변신",
+      "field_index": 2
+    },
+    {
+      "line": 57,
+      "event": "like_58",
+      "english_sha256": "fe1ddc30cd8ea34048c27d343735482b8652162872f4dafa21a5599b7249067d",
+      "ko": "금속 핥기",
+      "field_index": 2
+    },
+    {
+      "line": 58,
+      "event": "like_59",
+      "english_sha256": "12668877b23925d230890c74c570e8fc2e25ebd0c11b09b9b7a3545328210e89",
+      "ko": "다른 사람인 척하기",
+      "field_index": 2
+    },
+    {
+      "line": 59,
+      "event": "like_60",
+      "english_sha256": "a3db4ee5c2354d710599a63db626f6c7808a6aa0dbb157e1f14e15af056f8b65",
+      "ko": "남의 말 지적하기",
+      "field_index": 2
+    },
+    {
+      "line": 60,
+      "event": "like_61",
+      "english_sha256": "724e850994fee77c9e61b4438a70de5b0d99db3848d539a379cca42ed2448889",
+      "ko": "포옹",
+      "field_index": 2
+    },
+    {
+      "line": 61,
+      "event": "like_62",
+      "english_sha256": "c9c1bcd7ae7239a12710e8a4afd60716dcdce4efc8bc8a14af79d671b522ca98",
+      "ko": "던전의 저레벨 몬스터",
+      "field_index": 2
+    },
+    {
+      "line": 62,
+      "event": "like_63",
+      "english_sha256": "e44eb44e85efa65902706237e911e9f930450f7aee36efdfc94854a6cdbe3a88",
+      "ko": "RPG에서 전리품 찾기",
+      "field_index": 2
+    }
+  ]
+}

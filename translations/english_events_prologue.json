@@ -1,0 +1,203 @@
+{
+  "source_sha256": "4c1cb6558a05a91b0e0d3ed895d94253b3c7761af39bed323e58f39f2486c29c",
+  "entries": [
+    {
+      "line": 8,
+      "event": "tutorial_prologue",
+      "english_sha256": "e8c70715b49ebef869a6cc930c96de51f0430b705a64ed83d7396b3525ed1867",
+      "ko": "이제 좋아하는 것 세 가지를 골라야 해. 각 취향은 한 명 이상의 공략 상대와 연결돼 있어."
+    },
+    {
+      "line": 9,
+      "event": "tutorial_prologue",
+      "english_sha256": "a85510c60233efc2b6f7ab97e3eea901abcbe3714b92501270f40b96299a6206",
+      "ko": "네 취향에 따라 특정 공략 상대와 조금 더 자주 마주치게 될 거야."
+    },
+    {
+      "line": 10,
+      "event": "tutorial_prologue",
+      "english_sha256": "5ee458c3c4c6c0286e3ec281022dcccd5ba6ac99c0d5cecdd4abc6347049eaf7",
+      "ko": "나중에 나올 푸드 코트에서 다른 공략 상대를 만나면 이 느슨한 제한을 바꿀 수 있어."
+    },
+    {
+      "line": 11,
+      "event": "tutorial_prologue",
+      "english_sha256": "dd2639aa8de14db8e3f9fc35b7c63e427a686a32dd7c2b89cac7dcbfd32f2cab",
+      "ko": "취향을 고른 다음에는 한 주제에서 가장 좋아하는 것 3개를 골라야 해. 가장 좋아하는 것부터 두 번째, 세 번째 순서로 고르면 돼."
+    },
+    {
+      "line": 12,
+      "event": "tutorial_prologue",
+      "english_sha256": "9fe5e60d7363deda7d727b18c057e38d2c1910a19928f905f19c1424a6d69b71",
+      "ko": "이 선택에 따라 시작 능력치가 정해져."
+    },
+    {
+      "line": 20,
+      "event": "prologue_1",
+      "english_sha256": "4ed8efd4450b6e49df51d9936df28ae127497c319885b50d915e62573d1aaa72",
+      "ko": "아, 스푸키 콘... 누군가에겐 그저 덕후들의 행사였겠지만, 우리에게는?"
+    },
+    {
+      "line": 21,
+      "event": "prologue_1",
+      "english_sha256": "65d4aa68c61b71b6096ecfc41474b6737007e239ef4fc9656b1d8c395623105d",
+      "ko": "온갖 열정과 집착을 숨기지도, 눈치 보지도 않고 마음껏 불태우는 나흘이었지."
+    },
+    {
+      "line": 22,
+      "event": "prologue_1",
+      "english_sha256": "a1b3ebc63f077e64924b2397333e6b83cfacef3f1bb3087c860d6a83c9860752",
+      "ko": "우리만 그런 것도 아니었어. 뭘 좋아하든 나를 알아주고 이해해 주는 사람을 만날 수 있었거든."
+    },
+    {
+      "line": 23,
+      "event": "prologue_1",
+      "english_sha256": "7e63f7e9eb69816464f0edd2d6ef1bd64e5ce4719a2ebaf7a42d18407417ba7e",
+      "ko": "다른 곳에선 이상한 놈, 별난 놈 취급을 받았을지도 모르지만..."
+    },
+    {
+      "line": 24,
+      "event": "prologue_1",
+      "english_sha256": "a64ee6fcece4524a0772955cebdeedfb0a38dce364d871456284c6616195c096",
+      "ko": "...여기선 우리가 어떤 모습이든, 드디어 우리 자리를 찾았다고 느낄 수 있었어."
+    },
+    {
+      "line": 32,
+      "event": "prologue_2",
+      "english_sha256": "09a4ca70c43a07c1eda86a2110d331f200d50a7cdcd5ab1934266f5e0da02d03",
+      "ko": "하지만 꿈만 같은 스푸키 콘에도 나름의 압박은 있었지. 그중엔 지긋지긋할 만큼 익숙한 것도 있었고..."
+    },
+    {
+      "line": 33,
+      "event": "prologue_2",
+      "english_sha256": "d8d04432d98116c1d1c1c485a3413a56fb2cba6e80cfb92e3e84c949f301f912",
+      "ko": "나흘 뒤의 뒤풀이가 코앞에 닥치면서, 늘 똑같은 질문이 머릿속을 맴돌았어."
+    },
+    {
+      "line": 34,
+      "event": "prologue_2",
+      "english_sha256": "edce892998155fc990be0b99843cfeeeee96b73ab305a0813aad091b7ef91f2e",
+      "ko": "그날 밤, 함께 갈 데이트 상대를 구할 수 있을까?"
+    },
+    {
+      "line": 35,
+      "event": "prologue_2",
+      "english_sha256": "2e95572e0b4281115305fb024385165baad524415ef5953306e66132e323c865",
+      "ko": "불안으로 가슴을 졸이던 우리는 행사장에서 가장 핫한 덕후 여섯 명을 떠올리지 않을 수 없었어..."
+    },
+    {
+      "line": 43,
+      "event": "prologue_zoe",
+      "english_sha256": "db23d2e6f1cbf8ebbe5915b29d93c6f48e49b9ff99e92224f0ac5d0a7798d5f1",
+      "ko": "조이(???). 영원한 신이자 파멸의 전령에서, 유명 팬픽 \"리암 프롬\"의 작가로 거듭난 깜찍한 고대의 존재."
+    },
+    {
+      "line": 51,
+      "event": "prologue_liam",
+      "english_sha256": "70b23429a5d5ed63c19953070cb86a8602cb3a83954f6810d5d81244a4793879",
+      "ko": "리암 드 리옹쿠르(4XX). 쌀쌀맞은 태도 뒤에 사랑스러운 너드의 본모습을 숨긴 힙스터 뱀파이어."
+    },
+    {
+      "line": 59,
+      "event": "prologue_doug",
+      "english_sha256": "ddca90d96595cf2039708110ecb0956102300e4622e96646fd936ecc70dfcc5e",
+      "ko": "더그 캠벨(24). 좋아하는 온갖 덕질에 돈을 쏟아붓느라 지독하게 빈털터리가 된, 마음씨 고운 슬라임."
+    },
+    {
+      "line": 67,
+      "event": "prologue_omen",
+      "english_sha256": "98161a9ce591de02da85170cc11d624f0fe7be8f4344870731eb6420fdbd9d94",
+      "ko": "오멘(25?). 사람 찌르기라는 취미를 포기하는 조건으로 최근 감옥에서 풀려난 악의 지배자."
+    },
+    {
+      "line": 75,
+      "event": "prologue_nico",
+      "english_sha256": "1253467701dca7b6d12bf3cd850716c7ceaa89814f9bc1a68b7fa67101a6fe79",
+      "ko": "니코 샤프(22). 변신보다는 코스프레를 좋아하는 호들갑스러운 미믹. 캐릭터에 몰입하는 실력은 좀 부족하지만."
+    },
+    {
+      "line": 83,
+      "event": "prologue_april",
+      "english_sha256": "71873d61ec9f864da0ba2bb0c3210016273d96108c95299ed4e224384a05554f",
+      "ko": "그리고 에이프릴 퍼스트(24). 카메라 앞에 내보일 수 없는 감정은 전부 \"귀여운\" 마스코트 안에 가둬야 한다는 계약에 묶인 광대 아이돌."
+    },
+    {
+      "line": 91,
+      "event": "prologue_2_end",
+      "english_sha256": "6f107bb60f012a9a05c5e1a7292a62cc447a0d82702cb17bde0784f1fc7bb57b",
+      "ko": "이들 중 한 명이어야 했어. 그런데 누구지?"
+    },
+    {
+      "line": 92,
+      "event": "prologue_2_end",
+      "english_sha256": "fd1954c75fffcf80d1e1d53121363f68022c3fe678136c03a9f6c6a68134f244",
+      "ko": "용기를 모아서 대시할 시간은 나흘."
+    },
+    {
+      "line": 93,
+      "event": "prologue_2_end",
+      "english_sha256": "10974e07f42566b8f201019715596bfbdad482a4d7b9316b341ed928952d7d85",
+      "ko": "최악의 경우가 뭐겠어? 차이고 평생 혼자 사는 거? 하!"
+    },
+    {
+      "line": 94,
+      "event": "prologue_2_end",
+      "english_sha256": "f5b0fd399e10f2570f6827aeba715447e266c997b0bd1d1744f5a690b68d82ad",
+      "ko": "연애도 실연도 겪을 만큼 겪었잖아... 이런 게 처음도 아니고."
+    },
+    {
+      "line": 95,
+      "event": "prologue_2_end",
+      "english_sha256": "d7efa27716ff2286b39fc5d579b660e6218cb5eb7815c2660e747a127682d6ae",
+      "ko": "그리고 우리 자신을 더 잘 알게 될수록, 자신감도 커졌다는 걸 깨달았지."
+    },
+    {
+      "line": 103,
+      "event": "prologue_3",
+      "english_sha256": "db430951e38dbe65875d71909c027ff8ecde4784b55a95331131dc8ff8bd50e1",
+      "ko": "이제 이런 일엔 익숙했으니, 이번에는 사랑 찾기 말고도 다른 목표에 도전하기로 했어."
+    },
+    {
+      "line": 104,
+      "event": "prologue_3",
+      "english_sha256": "71ba6f676d38404d578e530476b0f6343511915070a434c515c7e0787a39bcd3",
+      "ko": "조이와 리암의 응원을 받아, 너무 오래 미뤄 왔던 프로젝트를 시작하기로 한 거야..."
+    },
+    {
+      "line": 112,
+      "event": "prologue_3b",
+      "english_sha256": "ac1370255ae9b0245f50ce905b4122946fc1d805219c928d1587ba3baf351e5f",
+      "ko": "바로 우리만의 만화 만들기!"
+    },
+    {
+      "line": 113,
+      "event": "prologue_3b",
+      "english_sha256": "07241070b30e4c33a754f98334409468535055d72ac2b507f297a9866a1fefff",
+      "ko": "아이디어는 넘쳐났지만, 우리는 늘 핑계를 대며 시작을 미뤘지."
+    },
+    {
+      "line": 114,
+      "event": "prologue_3b",
+      "english_sha256": "ccbbfc7a46006e4963cb0c3220bbf666da198b1d7f8bb72eec432632abe4eaf0",
+      "ko": "하지만 이 행사는 영감을 얻고 도전하기에 더없이 좋은 곳이었어."
+    },
+    {
+      "line": 122,
+      "event": "prologue_4",
+      "english_sha256": "1b1763c8012c8293eba85ed0d01cd09afa592e3b2300089511dadd029fbb8e79",
+      "ko": "실패가 두려워 너무 오래 멈춰 있었어. 하지만 우린 언제나 우리를 앞으로 나아가게 했던 한 가지를 떠올렸지."
+    },
+    {
+      "line": 123,
+      "event": "prologue_4",
+      "english_sha256": "34d7787adc0da713898a27aad0e9aded1dd40a702879bbed372a370fe146dec7",
+      "ko": "우린 젊고 두려움이 없다는 것..."
+    },
+    {
+      "line": 124,
+      "event": "prologue_4",
+      "english_sha256": "ee8ce0931cce6f0740b184442492dec45c968b235c220e2a87f1034034637f62",
+      "ko": "...그리고 이제 시작할 준비가 됐다는 것."
+    }
+  ]
+}

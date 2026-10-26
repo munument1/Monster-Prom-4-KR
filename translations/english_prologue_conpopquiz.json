@@ -1,0 +1,257 @@
+{
+  "source_sha256": "fbaa79cd25cb00a11c794ce45197519d5b04d298e558c3218f2e98a63af8a6db",
+  "entries": [
+    {
+      "line": 1,
+      "event": "popquiz1",
+      "english_sha256": "1a5421133432ee06e7e1ed69f11bbb79dc18f0aab5b133375343892d9d016660",
+      "ko": "가장 좋아하는 마법소녀 유형을 3개 골라 줘",
+      "field_index": 1
+    },
+    {
+      "line": 2,
+      "event": "popquiz1",
+      "english_sha256": "ae1839d894b92144cb522ee7521bb6fd6361b3375c047242eff454712487ec60",
+      "ko": "광기 충만",
+      "field_index": 2
+    },
+    {
+      "line": 3,
+      "event": "popquiz1",
+      "english_sha256": "3f53871b0838bdf343a3a0cdbcfcbc28ef7e30a4fc8e032c3376431de4d2f7db",
+      "ko": "리더",
+      "field_index": 2
+    },
+    {
+      "line": 4,
+      "event": "popquiz1",
+      "english_sha256": "6c73486cd208248c48c489327fe2904c765ba0572f6518dc0ef21669700d1350",
+      "ko": "안경 소녀",
+      "field_index": 2
+    },
+    {
+      "line": 5,
+      "event": "popquiz1",
+      "english_sha256": "f76285a926f488ee330d072c3a987ce35a65e54d9c7e7a87a61bbe880f2a029c",
+      "ko": "엽기 표정",
+      "field_index": 2
+    },
+    {
+      "line": 6,
+      "event": "popquiz1",
+      "english_sha256": "c48ed54febd3744ba4eac9ff2c0329edab986576015e692dd7d6eb6e1f18dd76",
+      "ko": "팝 아이돌",
+      "field_index": 2
+    },
+    {
+      "line": 9,
+      "event": "popquiz2",
+      "english_sha256": "855aa4f6832752416023c2bb8e9d36915ce3430c962a85beccb11d6965d2fbff",
+      "ko": "가장 좋아하는 악당 유형을 3개 골라 줘",
+      "field_index": 1
+    },
+    {
+      "line": 10,
+      "event": "popquiz2",
+      "english_sha256": "b43f43c16310f63010524b0112eae57b1b2eeb6363528a857345221b3c332d09",
+      "ko": "세계 파괴자",
+      "field_index": 2
+    },
+    {
+      "line": 11,
+      "event": "popquiz2",
+      "english_sha256": "c4c5a117a1b09327d3614f8b8ca3e110987a44765f2abaf24172712c173b6a0c",
+      "ko": "비극적인 사랑꾼",
+      "field_index": 2
+    },
+    {
+      "line": 12,
+      "event": "popquiz2",
+      "english_sha256": "675685ae3db2ad5d3cfb9fe45700b6fe23b979aa747e0fa5afb9e721d1e8db07",
+      "ko": "흑막",
+      "field_index": 2
+    },
+    {
+      "line": 13,
+      "event": "popquiz2",
+      "english_sha256": "dd9786dd3a9a2efd4dfd5b938d6e2737eefa4609e286cf047e365a70c75df863",
+      "ko": "사악한 광대",
+      "field_index": 2
+    },
+    {
+      "line": 14,
+      "event": "popquiz2",
+      "english_sha256": "abb5af39031240a945281ea4f29cb7f4d8a2da7e10c58221a44d235304af8448",
+      "ko": "살인 예술가",
+      "field_index": 2
+    },
+    {
+      "line": 17,
+      "event": "popquiz3",
+      "english_sha256": "f62d00f8d255537bd2ee518a9932c8913622b3b506121d121f54ae7594cf3b3d",
+      "ko": "가장 좋아하는 격투 게임 캐릭터 유형을 3개 골라 줘",
+      "field_index": 1
+    },
+    {
+      "line": 18,
+      "event": "popquiz3",
+      "english_sha256": "ad46f4de753f1cd82de779662dd23ed48fcb5d7ba17720355170f88414058f05",
+      "ko": "견제형",
+      "field_index": 2
+    },
+    {
+      "line": 19,
+      "event": "popquiz3",
+      "english_sha256": "093e21d75655c9adb25c89275fbae532f8778fc9111ab9876b7e92ffe77da239",
+      "ko": "주먹잡이",
+      "field_index": 2
+    },
+    {
+      "line": 20,
+      "event": "popquiz3",
+      "english_sha256": "e9900abf4f6bac3ebd7719ef3c33f9f68e8eb1fbc6ef9c69e239606044629465",
+      "ko": "괴짜",
+      "field_index": 2
+    },
+    {
+      "line": 21,
+      "event": "popquiz3",
+      "english_sha256": "86b70cc623aaaa08c345724cc8934f9eaad10814c8055fdc34e3ac3688cfc4f7",
+      "ko": "과도한 섹스 어필",
+      "field_index": 2
+    },
+    {
+      "line": 22,
+      "event": "popquiz3",
+      "english_sha256": "b53fc8c68dd5624cfe4b7795c848ac97d5e55f5cbe8654df343d3de7c75ea19d",
+      "ko": "잡기형",
+      "field_index": 2
+    },
+    {
+      "line": 25,
+      "event": "popquiz4",
+      "english_sha256": "900123c8ac3457bf932e8e71bdfdd7e0ef397f7ed5e443ab7d1385f7ca89dea0",
+      "ko": "가장 좋아하는 포케만을 3개 골라 줘",
+      "field_index": 1
+    },
+    {
+      "line": 26,
+      "event": "popquiz4",
+      "english_sha256": "d346c372ce5d2eb259defb72eaf252fb85c098df7c53f662516b46af11edaab6",
+      "ko": "회계사",
+      "field_index": 2
+    },
+    {
+      "line": 27,
+      "event": "popquiz4",
+      "english_sha256": "a3825c761d698c821fc463ab12ef2e1129fa8ed2230119c69eb4dcec8b90b581",
+      "ko": "총든놈",
+      "field_index": 2
+    },
+    {
+      "line": 28,
+      "event": "popquiz4",
+      "english_sha256": "48e274ffe8666f4c9e248ea79dde4a42f813e2908fc899e282cbc8aa00c37172",
+      "ko": "복화술사",
+      "field_index": 2
+    },
+    {
+      "line": 29,
+      "event": "popquiz4",
+      "english_sha256": "efb710b1ce72ca29e62f637bf5696cdaafe83952dfd43a0f6dd6c7af7f2af251",
+      "ko": "40손",
+      "field_index": 2
+    },
+    {
+      "line": 30,
+      "event": "popquiz4",
+      "english_sha256": "415f320ba1470a01928c4e58c1ae564f192be3c10b9253e2cb7044d0504d2a60",
+      "ko": "해리헤어",
+      "field_index": 2
+    },
+    {
+      "line": 33,
+      "event": "popquiz5",
+      "english_sha256": "0cc2af52465584d26ed099ed723b12219c37de1b5669be0d2cf8e095f74a2d55",
+      "ko": "가장 좋아하는 이상한 숲속 생물을 3개 골라 줘",
+      "field_index": 1
+    },
+    {
+      "line": 34,
+      "event": "popquiz5",
+      "english_sha256": "80999618c8e0eed4d82327f7ce35e551becd92265134c67ef7e5be9f3a722739",
+      "ko": "목도리 여우",
+      "field_index": 2
+    },
+    {
+      "line": 35,
+      "event": "popquiz5",
+      "english_sha256": "9968746eaf72685b6282e460a0fc7cf087369e0c4f49d28ae95953df86fea28f",
+      "ko": "가시 머리",
+      "field_index": 2
+    },
+    {
+      "line": 36,
+      "event": "popquiz5",
+      "english_sha256": "cf181dba603122387af2ddf0dea63913bc67c96250472531e4371af21b4e369a",
+      "ko": "나방 얼굴",
+      "field_index": 2
+    },
+    {
+      "line": 37,
+      "event": "popquiz5",
+      "english_sha256": "c73b8dea0417a182f3b04469543be528bb87a60280990a4773281e5450611823",
+      "ko": "버섯",
+      "field_index": 2
+    },
+    {
+      "line": 38,
+      "event": "popquiz5",
+      "english_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "ko": "꽃",
+      "field_index": 2
+    },
+    {
+      "line": 41,
+      "event": "popquiz6",
+      "english_sha256": "e2a472565afd6eef4cacc4d3b4ab33bda909890424b4a16972d945e8b8dfd4e8",
+      "ko": "가장 좋아하는 동물을 3개 골라 줘",
+      "field_index": 1
+    },
+    {
+      "line": 42,
+      "event": "popquiz6",
+      "english_sha256": "72992b75e60c8806d6e7271012d4bb2b66e878a13ee2ab373e972b4306357699",
+      "ko": "부엉이",
+      "field_index": 2
+    },
+    {
+      "line": 43,
+      "event": "popquiz6",
+      "english_sha256": "ea858afbf837aae714617e89a36524aced28f7de921f7798e72810fd8839a462",
+      "ko": "늑대",
+      "field_index": 2
+    },
+    {
+      "line": 44,
+      "event": "popquiz6",
+      "english_sha256": "a7c7b3a28a6194e51867b614cce6ee4ba3b21e25a26ba2200d0231604c854cf6",
+      "ko": "문어",
+      "field_index": 2
+    },
+    {
+      "line": 45,
+      "event": "popquiz6",
+      "english_sha256": "1af9db1e735afd79163c4411ff4d30f256b135cd51f6940a61bd3262a03809ee",
+      "ko": "돌고래",
+      "field_index": 2
+    },
+    {
+      "line": 46,
+      "event": "popquiz6",
+      "english_sha256": "edc5134033662b11f124eb353016838b04709f972e27355d7ed1c5686671e47f",
+      "ko": "말",
+      "field_index": 2
+    }
+  ]
+}

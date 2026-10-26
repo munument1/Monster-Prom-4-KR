@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>MonsterConKoreanBridge</AssemblyName>
+    <RootNamespace>MonsterConKoreanBridge</RootNamespace>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <BepInExDir Condition="'$(BepInExDir)' == ''">$(MSBuildThisFileDirectory)..\..\work\tools\BepInEx_win_x86_5.4.23.2\BepInEx\core</BepInExDir>
+    <GameManagedDir Condition="'$(GameManagedDir)' == ''">C:\Games\Steam\steamapps\common\Monster Prom 4 - Monster Con\MonsterCon_Data\Managed</GameManagedDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx">
+      <HintPath>$(BepInExDir)\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>$(BepInExDir)\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(GameManagedDir)\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(GameManagedDir)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>$(GameManagedDir)\UnityEngine.AssetBundleModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>$(GameManagedDir)\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(GameManagedDir)\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>$(GameManagedDir)\UnityEngine.UIModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="ValidateLocalReferences" BeforeTargets="ResolveReferences">
+    <Error Condition="!Exists('$(BepInExDir)\BepInEx.dll')" Text="BepInEx.dll was not found. Set BepInExDir to the BepInEx 5 Mono x86 core directory." />
+    <Error Condition="!Exists('$(BepInExDir)\0Harmony.dll')" Text="0Harmony.dll was not found. Set BepInExDir to the BepInEx 5 Mono x86 core directory." />
+    <Error Condition="!Exists('$(GameManagedDir)\UnityEngine.CoreModule.dll')" Text="UnityEngine.CoreModule.dll was not found. Set GameManagedDir to Monster Roadtrip's MonsterCon_Data\Managed directory." />
+    <Error Condition="!Exists('$(GameManagedDir)\UnityEngine.AssetBundleModule.dll')" Text="UnityEngine.AssetBundleModule.dll was not found in GameManagedDir." />
+    <Error Condition="!Exists('$(GameManagedDir)\UnityEngine.TextRenderingModule.dll')" Text="UnityEngine.TextRenderingModule.dll was not found in GameManagedDir." />
+    <Error Condition="!Exists('$(GameManagedDir)\UnityEngine.UI.dll')" Text="UnityEngine.UI.dll was not found in GameManagedDir." />
+  </Target>
+</Project>
