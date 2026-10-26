@@ -1,5 +1,5 @@
 {
-  "bridge": "0.1.4",
+  "bridge": "0.1.5",
   "issue": "StatWidget.AwakeMe uses StatType.ToString directly instead of metatexts.",
   "fix": "Translate display string before UILabel.set_text and auxiliary-label cloning in both AwakeMe overloads.",
   "labels": {
@@ -15,9 +15,13 @@
     "build_errors": 0,
     "game_IL_layout_overloads": 2,
     "standalone_probe": "pass six stat names, preserve non-stat values, insertion/branch/stack, fail closed on missing setter",
-    "python_tests_passed": 12
+    "python_tests_passed": 12,
+    "dialogue_game_IL_layout": "pass: stat change construction precedes unique name-format slot",
+    "dialogue_standalone_probe": "pass: generated IL executed for all six names, positive/negative amounts, colors/reset tags, custom/fake stat names preserved"
   },
-  "dll_sha256": "0525a101c53eedc949f7a1b1bfbd0de2a2a120b6d3f46ada1f624c96afcf9030",
+  "dll_sha256": "f2571a8072797d85a513cba17e59ac2fb95a6e264784965176e7fc3b5408ad95",
   "game_execution_test": "pending user",
-  "game_modified": false
+  "game_modified": false,
+  "dialogue_issue": "ProcessStatPatterns formats its parsed English stat name into a colored display string.",
+  "dialogue_fix": "Translate only object-array slot 4 immediately before display String.Format, after StatChange construction."
 }

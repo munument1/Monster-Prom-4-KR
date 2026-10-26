@@ -46,7 +46,50 @@ public static class StatNameLocalizationProbe
         var label = new UILabel();
         assign(label);
         if (label.text != "지능") throw new Exception("Generated assignment did not localize");
+        VerifyDialogueFormatting(names, translated);
         Console.WriteLine("PASS six stat names; numeric/custom labels unchanged; pre-setter IL insertion/branch/stack checked.");
         return 0;
+    }
+
+    private static void VerifyDialogueFormatting(string[] names, string[] translated)
+    {
+        var display = new DynamicMethod("display", typeof(string), new[] { typeof(string), typeof(string), typeof(string), typeof(uint) }, typeof(StatNameLocalizationProbe).Module, true);
+        ILGenerator il = display.GetILGenerator();
+        LocalBuilder localName = il.DeclareLocal(typeof(string));
+        var source = new List<CodeInstruction> {
+            new CodeInstruction(OpCodes.Ldarg_0), new CodeInstruction(OpCodes.Stloc, localName),
+            new CodeInstruction(OpCodes.Ldstr, "{0}{1}{2}{3}{4}[-]"),
+            new CodeInstruction(OpCodes.Ldc_I4_5), new CodeInstruction(OpCodes.Newarr, typeof(object)),
+            new CodeInstruction(OpCodes.Dup), new CodeInstruction(OpCodes.Ldc_I4_0), new CodeInstruction(OpCodes.Ldarg_1), new CodeInstruction(OpCodes.Stelem_Ref),
+            new CodeInstruction(OpCodes.Dup), new CodeInstruction(OpCodes.Ldc_I4_1), new CodeInstruction(OpCodes.Ldarg_2), new CodeInstruction(OpCodes.Stelem_Ref),
+            new CodeInstruction(OpCodes.Dup), new CodeInstruction(OpCodes.Ldc_I4_2), new CodeInstruction(OpCodes.Ldarg_3), new CodeInstruction(OpCodes.Box, typeof(uint)), new CodeInstruction(OpCodes.Stelem_Ref),
+            new CodeInstruction(OpCodes.Dup), new CodeInstruction(OpCodes.Ldc_I4_3), new CodeInstruction(OpCodes.Ldstr, " "), new CodeInstruction(OpCodes.Stelem_Ref),
+            new CodeInstruction(OpCodes.Dup), new CodeInstruction(OpCodes.Ldc_I4_4), new CodeInstruction(OpCodes.Ldloc, localName), new CodeInstruction(OpCodes.Stelem_Ref),
+            new CodeInstruction(OpCodes.Call, typeof(string).GetMethod("Format", new[] { typeof(string), typeof(object[]) })), new CodeInstruction(OpCodes.Ret)
+        };
+        var patched = StatNameLocalization.TranspileDialogueStats(source).ToList();
+        if (patched.Count != source.Count + 1) throw new Exception("Dialogue patch must insert exactly one call");
+        foreach (CodeInstruction instruction in patched)
+        {
+            if (instruction.operand == null) il.Emit(instruction.opcode);
+            else if (instruction.operand is string) il.Emit(instruction.opcode, (string)instruction.operand);
+            else if (instruction.operand is Type) il.Emit(instruction.opcode, (Type)instruction.operand);
+            else if (instruction.operand is MethodInfo) il.Emit(instruction.opcode, (MethodInfo)instruction.operand);
+            else if (instruction.operand is LocalBuilder) il.Emit(instruction.opcode, (LocalBuilder)instruction.operand);
+            else throw new Exception("Unexpected fixture operand");
+        }
+        var format = (Func<string, string, string, uint, string>)display.CreateDelegate(typeof(Func<string, string, string, uint, string>));
+        for (int i = 0; i < names.Length; i++)
+        {
+            if (format(names[i], "[00FFFF]", "+", 2) != "[00FFFF]+2 " + translated[i] + "[-]") throw new Exception("Positive dialogue stat changed amount/color");
+            if (format(names[i], "[FF0000]", "-", 13) != "[FF0000]-13 " + translated[i] + "[-]") throw new Exception("Negative dialogue stat changed amount/color");
+        }
+        if (format("금덩이", "[00FFFF]", "+", 99) != "[00FFFF]+99 금덩이[-]" ||
+            format("FAKE_STAT", "[00FFFF]", "+", 3) != "[00FFFF]+3 FAKE_STAT[-]") throw new Exception("Custom stat name changed");
+        bool failed = false;
+        try { StatNameLocalization.TranspileDialogueStats(new[] { new CodeInstruction(OpCodes.Ret) }); }
+        catch (InvalidOperationException) { failed = true; }
+        if (!failed) throw new Exception("Missing dialogue display slot was silently accepted");
+        Console.WriteLine("PASS dialogue stats: six names, positive/negative amounts, color/reset tags and custom names preserved; generated IL executed without Unity.");
     }
 }

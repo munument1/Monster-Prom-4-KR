@@ -20,7 +20,7 @@ namespace MonsterConKoreanBridge
     {
         public const string PluginGuid = "munument1.monstercon.koreanfontbridge";
         public const string PluginName = "Monster Con Korean Font/UI Bridge";
-        public const string PluginVersion = "0.1.4";
+        public const string PluginVersion = "0.1.5";
 
         private static readonly string PluginDirectory = ResolvePluginDirectory();
         private static readonly string DefaultMonsterConBundlePath = Path.Combine(PluginDirectory, "monstercon_korean_fonts.bundle");
@@ -183,6 +183,7 @@ namespace MonsterConKoreanBridge
                 PatchMethod("BeautifulGlitch.CoreTextManager", "LoadMetatextsFile", new[] { typeof(string).MakeByRefType() }, "LoadMetatextsPostfix");
                 PatchMethod("BeautifulGlitch.CoreTextManager", "LoadLanguageData", new[] { AccessTools.TypeByName("BeautifulGlitch.LanguageType") }, "LanguageLoadedPostfix");
                 PatchStatNames();
+                PatchDialogueStatNames();
             }
 
             if (_enableMetatextOverride.Value || _enableFontBridge.Value)
@@ -216,6 +217,27 @@ namespace MonsterConKoreanBridge
             {
                 text.SetValue(target, "불러오는 중...", null);
                 Logger.LogInfo("Localized loading label: " + scene + "/" + objectName);
+            }
+        }
+
+        private void PatchDialogueStatNames()
+        {
+            Type manager = AccessTools.TypeByName("Game.MainGameEventManager");
+            MethodInfo target = manager == null ? null : AccessTools.Method(manager, "ProcessStatPatterns");
+            if (target == null)
+            {
+                Logger.LogError("Dialogue stat parser was not found; dialogue stat-name localization skipped.");
+                return;
+            }
+            try
+            {
+                _harmony.Patch(target, transpiler: new HarmonyMethod(
+                    AccessTools.Method(typeof(StatNameLocalization), "TranspileDialogueStats")));
+                Logger.LogInfo("Patched Korean dialogue stat names after numeric stat parsing.");
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError("Could not patch dialogue stat names: " + ex);
             }
         }
 

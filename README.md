@@ -13,7 +13,7 @@
 [검사 결과와 통합 테스트 패키지 사용법](docs/PLAYTEST_QA.md)
 
 3편과 같은 **게임 폴더에 복사·덮어쓰기 방식**도 제공합니다. 별도 설치 프로그램이나 Python 없이
-`build/releases/Monster-Con-KR-test-QA2-Windows-DragDrop.zip`의 내용물을 `MonsterCon.exe` 옆에
+`build/releases/Monster-Con-KR-test-QA3-Windows-DragDrop.zip`의 내용물을 `MonsterCon.exe` 옆에
 복사하면 됩니다. [덮어쓰기 적용 안내](docs/DRAGDROP_INSTALL_KO.txt). ZIP은 로컬 산출물입니다.
 
 - Steam Windows build 26157563, Unity 2022.3.62f1 / Mono x86.
@@ -39,10 +39,11 @@
   테스트 대역으로 2만 번 반복 호출 시 최초 1회만 폰트 설정·재빌드함을 검사했습니다.
   사용자 실행에서 한글 표시 및 렉 해소를 확인했습니다. 전체 분기 회귀 검증은 별도입니다.
 
-## 능력치 이름 표시 수정 (0.1.4)
+## 능력치 이름 표시 수정 (0.1.5)
 
 능력치 창은 `StatWidget.AwakeMe`에서 내부 enum 이름을 바로 표시해 번역 데이터가 적용되지 않았습니다.
 초기화 시 표시 문자열을 지능·대담함·창의력·매력·재미·돈으로 바꾼 뒤 보조 라벨을 만들도록 수정했습니다.
+대화 속 증감 표시도 실제 수치 처리 뒤에 한글 이름으로 바꿉니다. 부호·수치·색상은 보존합니다.
 게임 실행 검증은 사용자 진행이며 기존 패치용 작은 [수정 패치 안내](docs/STAT_LABEL_HOTFIX_KO.txt)도 제공합니다.
 
 ## 3편에서 가져온 부분

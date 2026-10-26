@@ -49,5 +49,42 @@ namespace MonsterConKoreanBridge
                 throw new InvalidOperationException("Expected exactly one stat-name label assignment in StatWidget.AwakeMe; found " + replaced + ".");
             return result;
         }
+
+        internal static IEnumerable<CodeInstruction> TranspileDialogueStats(IEnumerable<CodeInstruction> instructions)
+        {
+            var result = new List<CodeInstruction>(instructions);
+            MethodInfo translate = typeof(StatNameLocalization).GetMethod("Translate", BindingFlags.Static | BindingFlags.NonPublic);
+            bool inDisplayFormat = false;
+            int replaced = 0;
+            for (int index = 0; index < result.Count; index++)
+            {
+                CodeInstruction instruction = result[index];
+                if (instruction.opcode == OpCodes.Ldstr && (string)instruction.operand == "{0}{1}{2}{3}{4}[-]")
+                    inDisplayFormat = true;
+                if (!inDisplayFormat) continue;
+                MethodInfo method = instruction.operand as MethodInfo;
+                if (method != null && method.DeclaringType == typeof(string) && method.Name == "Format")
+                {
+                    inDisplayFormat = false;
+                    continue;
+                }
+                // Slot 4 is only the display name, after the stat has already
+                // been parsed and its numeric StatChange added to the result.
+                if (instruction.opcode == OpCodes.Ldc_I4_4 && index + 2 < result.Count &&
+                    result[index + 1].IsLdloc() && result[index + 2].opcode == OpCodes.Stelem_Ref)
+                {
+                    CodeInstruction store = result[index + 2];
+                    var call = new CodeInstruction(OpCodes.Call, translate);
+                    call.labels.AddRange(store.labels);
+                    store.labels.Clear();
+                    result.Insert(index + 2, call);
+                    index += 3;
+                    replaced++;
+                }
+            }
+            if (replaced != 1)
+                throw new InvalidOperationException("Expected exactly one dialogue stat display-name slot; found " + replaced + ".");
+            return result;
+        }
     }
 }
