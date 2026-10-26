@@ -20,7 +20,7 @@ namespace MonsterConKoreanBridge
     {
         public const string PluginGuid = "munument1.monstercon.koreanfontbridge";
         public const string PluginName = "Monster Con Korean Font/UI Bridge";
-        public const string PluginVersion = "0.1.6";
+        public const string PluginVersion = "0.1.7";
 
         private static readonly string PluginDirectory = ResolvePluginDirectory();
         private static readonly string DefaultMonsterConBundlePath = Path.Combine(PluginDirectory, "monstercon_korean_fonts.bundle");
@@ -178,6 +178,7 @@ namespace MonsterConKoreanBridge
 
         private void PatchConfiguredMethods()
         {
+            PatchSaveNameEncoding();
             if (_enableMetatextOverride.Value)
             {
                 PatchMethod("BeautifulGlitch.CoreTextManager", "LoadMetatextsFile", new[] { typeof(string).MakeByRefType() }, "LoadMetatextsPostfix");
@@ -219,6 +220,27 @@ namespace MonsterConKoreanBridge
             {
                 text.SetValue(target, "불러오는 중...", null);
                 Logger.LogInfo("Localized loading label: " + scene + "/" + objectName);
+            }
+        }
+
+        private void PatchSaveNameEncoding()
+        {
+            Type serializer = AccessTools.TypeByName("BeautifulGlitch.CoreCheckpointXmlSerializer");
+            MethodInfo target = serializer == null ? null : AccessTools.Method(serializer, "SerializeCorePlayerData");
+            if (target == null)
+            {
+                Logger.LogError("Checkpoint player serializer was not found; Unicode name protection is unavailable.");
+                return;
+            }
+            try
+            {
+                _harmony.Patch(target, transpiler: new HarmonyMethod(
+                    AccessTools.Method(typeof(SaveNameSerializationPatch), "Transpile")));
+                Logger.LogInfo("Patched checkpoint names to preserve Unicode through ASCII XML serialization.");
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError("Could not protect saved Unicode names: " + ex);
             }
         }
 

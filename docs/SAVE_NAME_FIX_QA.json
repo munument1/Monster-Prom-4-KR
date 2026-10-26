@@ -1,0 +1,23 @@
+{
+  "bridge": "0.1.7",
+  "cause": "ASCII XML writer loses non-ASCII player Name before checkpoint encryption; same structure as Monster Roadtrip.",
+  "fix": "Port Roadtrip SaveNameEncoding; delegate non-Name fields unchanged.",
+  "checks": {
+    "build_warnings": 0,
+    "build_errors": 0,
+    "original_ASCII_loss_reproduced": true,
+    "XML_name_round_trips": 9,
+    "original_game_crypto_and_XML_reader_round_trips": 4,
+    "writer_IL_probe": "pass",
+    "game_string_writer_calls": 18,
+    "live_name_before": "question marks only",
+    "live_name_after": "confirmed original restored",
+    "non_name_decrypted_XML_unchanged": true
+  },
+  "local_backup": "work/backups/player_name_20261026_222602/",
+  "installed_bridge": "0.1.7",
+  "installed_DLL_sha256": "a248d2e4c8a2fb6e3b39a75d61dd3dc44d818d337048150c09990dd29cd714e8",
+  "game_launched": false,
+  "game_save_load_screen_test": "pending user",
+  "save_modified": "one confirmed player Name only; backed up first"
+}

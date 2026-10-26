@@ -17,8 +17,8 @@ def digest(path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--package', type=Path, default=ROOT / 'build/releases/MonsterCon-KR-test-20261026-QA4')
-    parser.add_argument('--output', type=Path, default=ROOT / 'build/releases/Monster-Con-KR-test-QA4-Windows-DragDrop')
+    parser.add_argument('--package', type=Path, default=ROOT / 'build/releases/MonsterCon-KR-test-20261026-QA5')
+    parser.add_argument('--output', type=Path, default=ROOT / 'build/releases/Monster-Con-KR-test-QA5-Windows-DragDrop')
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument('--bridge-only', action='store_true', help='Package only the updated bridge for an existing Korean installation')
     mode.add_argument('--narrator-hotfix', action='store_true', help='Include bridge and event files changed by the narrator voice review')
