@@ -62,5 +62,10 @@
   "initial_catalog_candidates": 23986,
   "added_comic_answer_fields": 288,
   "comic_choice_variants_translated": 612,
-  "comic_choices_hotfix": "build/releases/Monster-Con-KR-QA6-Comic-Choices-Hotfix.zip"
+  "comic_choices_hotfix": "build/releases/Monster-Con-KR-QA6-Comic-Choices-Hotfix.zip",
+  "release_version": "v0.1.0",
+  "release_archive": "build/releases/Monster-Con-KR-v0.1.0-Windows-DragDrop.zip",
+  "release_archive_sha256": "a26949670b2806ed3a8b061d7a8e95dc4cde715140537dccd12e20a7860b0916",
+  "user_ingame_playtest": "confirmed by user before release",
+  "full_extraction_audit": "deferred until after release per user; single-agent audit"
 }

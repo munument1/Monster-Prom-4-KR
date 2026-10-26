@@ -1,5 +1,10 @@
 # 몬스터 프롬 4: 몬스터 콘 한국어 번역
 
+**[v0.1.0 릴리즈 다운로드](https://github.com/munument1/Monster-Prom-4-KR/releases/tag/v0.1.0)**
+
+`Monster-Con-KR-v0.1.0-Windows-DragDrop.zip`을 받아 게임 폴더에 덮어쓰세요.
+[설치 안내](docs/RELEASE_v0.1.0.md). 사용자의 인게임 플레이 확인을 거쳤으며 추가 추출 누락 감사는 이어서 진행합니다.
+
 ## 몬스터콘 이미지 UI 번역
 
 이미지에 들어 있는 UI 17종과 게임 설명서 31쪽·표지의 한국어 최종 PNG를
