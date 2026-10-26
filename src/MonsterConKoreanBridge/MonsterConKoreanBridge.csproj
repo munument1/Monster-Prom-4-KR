@@ -18,6 +18,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(GameManagedDir)\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
     <Reference Include="BepInEx">
       <HintPath>$(BepInExDir)\BepInEx.dll</HintPath>
       <Private>false</Private>

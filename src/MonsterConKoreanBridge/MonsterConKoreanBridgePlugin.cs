@@ -5,6 +5,7 @@ using System.Linq;
 using System.Reflection;
 using System.Reflection.Emit;
 using System.Runtime.InteropServices;
+using System.Runtime.CompilerServices;
 using BepInEx;
 using BepInEx.Configuration;
 using HarmonyLib;
@@ -19,7 +20,7 @@ namespace MonsterConKoreanBridge
     {
         public const string PluginGuid = "munument1.monstercon.koreanfontbridge";
         public const string PluginName = "Monster Con Korean Font/UI Bridge";
-        public const string PluginVersion = "0.1.2";
+        public const string PluginVersion = "0.1.3";
 
         private static readonly string PluginDirectory = ResolvePluginDirectory();
         private static readonly string DefaultMonsterConBundlePath = Path.Combine(PluginDirectory, "monstercon_korean_fonts.bundle");
@@ -69,6 +70,12 @@ namespace MonsterConKoreanBridge
         private ConfigEntry<string> _bodyFontName;
         private ConfigEntry<int> _headerSizeThreshold;
 
+        private sealed class BoundFont
+        {
+            public Font Font;
+            public BoundFont() { }
+        }
+        private readonly ConditionalWeakTable<UILabel, BoundFont> _labelBindings = new ConditionalWeakTable<UILabel, BoundFont>();
         private Harmony _harmony;
         private bool _applicationQuitting;
         private readonly List<AssetBundle> _fontBundles = new List<AssetBundle>();
@@ -131,21 +138,6 @@ namespace MonsterConKoreanBridge
 
             Logger.LogInfo("Initialized Korean UI/font bridge " + PluginVersion + ".");
             Logger.LogInfo("MonoMod method generator: " + (Environment.GetEnvironmentVariable("MONOMOD_DMD_TYPE") ?? "auto"));
-        }
-
-        private float _nextFontRepair;
-        private bool _started;
-        private void Start()
-        {
-            _started = true;
-            Logger.LogInfo("Korean bridge Start reached; persistent UI repair enabled.");
-        }
-
-        private void Update()
-        {
-            if (!_started || _applicationQuitting || !_enableFontBridge.Value || Time.unscaledTime < _nextFontRepair) return;
-            _nextFontRepair = Time.unscaledTime + 1f;
-            ApplyFontsToExistingComponents();
         }
 
         private void OnApplicationQuit()
@@ -796,6 +788,13 @@ namespace MonsterConKoreanBridge
             }
         }
 
+        private static bool ContainsKorean(string value)
+        {
+            if (string.IsNullOrEmpty(value)) return false;
+            for (int i = 0; i < value.Length; i++) if (IsKoreanCharacter(value[i])) return true;
+            return false;
+        }
+
         private static bool IsKoreanCharacter(char character)
         {
             return (character >= '\uAC00' && character <= '\uD7A3') ||
@@ -851,6 +850,16 @@ namespace MonsterConKoreanBridge
                 return;
             }
 
+            if (localizedComponent is BeautifulGlitch.LocalizedFontHelper nguiHelper)
+            {
+                ApplyFontToTarget(nguiHelper.label, true);
+                return;
+            }
+            if (localizedComponent is BeautifulGlitch.LocalizedTextFontHelper textHelper)
+            {
+                ApplyFontToTarget(textHelper.label, true);
+                return;
+            }
             FieldInfo labelField = AccessTools.Field(localizedComponent.GetType(), "label");
             if (labelField == null)
             {
@@ -874,9 +883,15 @@ namespace MonsterConKoreanBridge
                 return;
             }
 
-            PropertyInfo textProperty = AccessTools.Property(target.GetType(), "text");
-            string visibleText = textProperty?.GetValue(target, null) as string;
-            if (!string.IsNullOrEmpty(visibleText) && visibleText.Any(IsKoreanCharacter)) force = true;
+            UILabel nguiLabel = target as UILabel;
+            Text legacyText = target as Text;
+            // Skip already-bound labels before reading text, looking up helpers,
+            // choosing font roles or rebuilding geometry. Typewriters call set_text
+            // repeatedly, including with identical strings.
+            if (nguiLabel != null && _labelBindings.TryGetValue(nguiLabel, out BoundFont bound) &&
+                nguiLabel.trueTypeFont == bound.Font && nguiLabel.font == null) return;
+            string visibleText = nguiLabel != null ? nguiLabel.text : legacyText?.text;
+            if (!force && ContainsKorean(visibleText)) force = true;
 
             Font selectedFont = IsHeader(component) ? _headerFont : _bodyFont;
             if (selectedFont == null)
@@ -906,32 +921,12 @@ namespace MonsterConKoreanBridge
                     return;
                 }
 
-                if (string.Equals(target.GetType().Name, "UILabel", StringComparison.Ordinal))
+                if (nguiLabel != null)
                 {
-                    PropertyInfo trueTypeFont = AccessTools.Property(target.GetType(), "trueTypeFont");
-                    Font currentFont = trueTypeFont == null ? null : trueTypeFont.GetValue(target, null) as Font;
-                    bool hasLocalizer = HasComponent(component, "BeautifulGlitch.LocalizedFontHelper");
-                    if (!force && currentFont == null && !hasLocalizer)
-                    {
-                        // Preserve bitmap-only labels, which may be used for icons or symbols.
-                        return;
-                    }
-
-                    PropertyInfo bitmapFont = AccessTools.Property(target.GetType(), "bitmapFont");
-                    bool hasBitmap = bitmapFont != null && bitmapFont.GetValue(target, null) != null;
-                    if (currentFont != selectedFont || hasBitmap)
-                    {
-                        // Monster Con's SetTrueTypeFont clears mFont as well as selecting
-                        // the dynamic font. A surviving bitmap font otherwise wins in NGUI.
-                        MethodInfo setter = AccessTools.Method(target.GetType(), "SetTrueTypeFont", new[] { typeof(Font) });
-                        if (setter != null) setter.Invoke(target, new object[] { selectedFont });
-                        else if (trueTypeFont != null && trueTypeFont.CanWrite) trueTypeFont.SetValue(target, selectedFont, null);
-                        PropertyInfo processed = AccessTools.Property(target.GetType(), "shouldBeProcessed");
-                        if (processed != null && processed.CanWrite) processed.SetValue(target, true, null);
-                        AccessTools.Method(target.GetType(), "MarkAsChanged", Type.EmptyTypes)?.Invoke(target, null);
-                        if (_loggedApplyErrors.Add("AppliedFont:" + component.gameObject.name))
-                            Logger.LogDebug("Applied dynamic Korean font to " + component.gameObject.name + "; clearedBitmap=" + hasBitmap);
-                    }
+                    if (!force && nguiLabel.trueTypeFont == null &&
+                        nguiLabel.GetComponent<BeautifulGlitch.LocalizedFontHelper>() == null) return;
+                    NguiFontBinding.Apply(nguiLabel, selectedFont);
+                    _labelBindings.GetOrCreateValue(nguiLabel).Font = selectedFont;
                 }
             }
             catch (Exception ex)
@@ -957,22 +952,8 @@ namespace MonsterConKoreanBridge
                 }
             }
 
-            PropertyInfo sizeProperty = AccessTools.Property(component.GetType(), "fontSize");
-            if (sizeProperty != null)
-            {
-                try
-                {
-                    object value = sizeProperty.GetValue(component, null);
-                    if (value != null && Convert.ToInt32(value) >= _headerSizeThreshold.Value)
-                    {
-                        return true;
-                    }
-                }
-                catch
-                {
-                    // Fall back to the body font when the component's size cannot be read.
-                }
-            }
+            if (component is UILabel label) return label.fontSize >= _headerSizeThreshold.Value;
+            if (component is Text text) return text.fontSize >= _headerSizeThreshold.Value;
 
             return false;
         }
@@ -1029,7 +1010,7 @@ namespace MonsterConKoreanBridge
             {
                 MonsterConKoreanBridgePlugin plugin = Instance;
                 if (plugin == null || plugin._applicationQuitting || !plugin._enableFontBridge.Value || string.IsNullOrEmpty(__0)) return;
-                if (__0.Any(IsKoreanCharacter)) plugin.ApplyFontToTarget(__instance, true);
+                if (ContainsKorean(__0)) plugin.ApplyFontToTarget(__instance, true);
             }
 
             private static void LanguageLoadedPostfix(object __instance)
