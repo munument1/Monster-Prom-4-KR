@@ -2,6 +2,13 @@
 
 추출 누락 재감사 결과: [원문·카탈로그 독립 검증](docs/EXTRACTION_COVERAGE_AUDIT.md)
 
+## 최신 릴리스: v0.2.0 (2026-10-29)
+
+**[v0.2.0 다운로드](https://github.com/munument1/Monster-Prom-4-KR/releases/tag/v0.2.0)** — Steam build **26248979** 대응.
+이전 v0.1.0의 구버전 Unity 에셋으로 인한 타이틀 로딩 충돌을 수정했고, 이미지 한글화 49종과 텍스트 번역을 유지합니다.
+기존 0.1.0 설치자는 Steam 무결성 검사로 원본 에셋을 복구한 후 새 ZIP을 덮어쓰세요.
+[자세한 설치·검증 기록](docs/RELEASE_v0.2.0.md). 모든 게임 분기를 검증한 것은 아닙니다.
+
 **[v0.1.0 릴리즈 다운로드](https://github.com/munument1/Monster-Prom-4-KR/releases/tag/v0.1.0)**
 
 `Monster-Con-KR-v0.1.0-Windows-DragDrop.zip`을 받아 게임 폴더에 덮어쓰세요.
